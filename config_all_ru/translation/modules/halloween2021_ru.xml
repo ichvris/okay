@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="hw21ScarecrowName">Strach na wróble</message>
+        <message key="hw21ScareCrowsDescription">Witaj, przyjacielu! Nie wiem jak ty, ale ja nie znoszę wron! A propos, jeśli dasz mi kilka złotych monet, mogę w ciągu :time: przegonić wszystkie wrony, które niszczą ci plony.</message>
+        <message key="hw21ScarecrowActiveTitle">Wrony odleciały</message>
+        <message key="hw21ScarecrowNoActiveTitle">Przegoń wrony</message>
+        <message key="hw21ScarecrowTimerHint">Pozostało do powrotu wron</message>
+        <message key="hw21PlantSeedDialogTitle">Zasadź roślinę!</message>
+        <message key="hw21AwardDialogDescription">Gratulacje! Z tym tytułem otrzymasz przedmioty ze sklepiku z horrorami jeszcze taniej!</message>
+        <message key="hw21WitchFlowerSeedTitle">Magiczne nasionko</message>
+        <message key="hw21GetAfterTime">Plon urośnie za :time:</message>
+        <message key="hw21ConjureMenuTitle">czaruj</message>
+        <message key="hw21RemoveEnchantmentsMenuTitle">zdejmij czar</message>
+        <message key="hw21ConjureDialogTitle">Czary!</message>
+        <message key="hw21ConjureDialogDescription">A więc nadszedł czas na czary. Użyj eliksiru, aby zmieniać wygląd awatarów nie do poznania.</message>
+        <message key="hw21UsePotionButton">wybierz</message>
+        <message key="hw21MakePotionButton">do pracowni</message>
+        <message key="hw21ConjureNotificationTitle">Halloween</message>
+        <message key="hw21RevengeTitle">zemścij się</message>
+        <message key="hlwn21PumpkinMeatLabel">Miąższ dyni</message>
+        <message key="hlwn21SwirlsLabel">Wąsy</message>
+        <message key="hlwn21PumpkinJuiceLabel">Sok z dyni</message>
+        <message key="hlwn21PetalsLabel">Płatki</message>
+        <message key="hlwn21PumpkinLootDescription">można otrzymać ze strasznej dyni na farmie strachu</message>
+        <message key="hlwn21PumpkinName">Straszna dynia</message>
+        <message key="hlwn21PumpkinPlantDescription">Najważniejsza roślina podczas Halloween, jej owoce to dynie</message>
+        <message key="hlwn21InsectsLabel">Łapki owadów</message>
+        <message key="hlwn21LiquidLabel">Klejący płyn</message>
+        <message key="hlwn21RootLabel">Korzeń</message>
+        <message key="hlwn21StingLabel">Żądło</message>
+        <message key="hlwn21TriffidLootDescription">można otrzymać z tryfidów na farmie strachu</message>
+        <message key="hlwn21TriffidName">Tryfid</message>
+        <message key="hlwn21TriffidPlantDescription">Straszna roślina drapieżna, która lubi zjadać owady</message>
+        <message key="hlwn21PhosphorusLabel">Fosfor</message>
+        <message key="hlwn21LeafLabel">Listek</message>
+        <message key="hlwn21BudLabel">Pąk</message>
+        <message key="hlwn21PollenLabel">Magiczny pyłek</message>
+        <message key="hlwn21WitchFlowerDescription">można otrzymać z wiedźmiego kwiatu na farmie strachu</message>
+        <message key="hlwn21WitchFlowerName">Wiedźmi kwiat</message>
+        <message key="hlwn21WitchFlowerPlantDescription">Kwiat, który jest często używany przez wiedźmy podczas czarów. Zawiera fosfor, więc może świecić</message>
+        <message key="hlwn21SpiritPotionLabel">Eliksir ducha</message>
+        <message key="hlwn21WitchPotionLabel">Eliksir wiedźmy</message>
+        <message key="hlwn21ShamanPotionLabel">Eliksir szamana</message>
+        <message key="hlwn21GrowsWithin">Rośnie w :time: minut</message>
+        <message key="hlwn21GivesFollowingIngredients">Daje następujące składniki</message>
+        <message key="hw21ParticipationDialogDescription">Odwiedź farmę strachu i znajdź tam wiedźmę. Można od niej kupić nasiona roślin i wyhodować niezwykłe plony na specjalnych grządkach. Zebrane plony będą potrzebne do przygotowania eliksirów, dzięki którym otrzymasz cukierki. Cukierki można wymieniać na straszne nagrody w sklepiku z horrorami!</message>
+        <message key="hw21InfoDialogTitle">Farma strachu!</message>
+        <message key="hw21InfoDescription1">Przejdź na farmę strachu, znajdź tam wiedźmę sprzedającą nasiona roślin. Obsiej grządki nasionami i czekaj na plony</message>
+        <message key="hw21InfoDescription2">Tylko uważaj, wrony mogą przeszkadzać. Przegoń je, aby nie stracić plonów.</message>
+        <message key="hw21InfoDescription3">Zdobywaj cukierki, czarując inne awatary przy użyciu eliksirów, i wymieniaj je na unikatowe przedmioty ze sklepiku z horrorami</message>
+        <message key="hw21InfoDescription4">Zbierz 3999 cukierków, aby otrzymać tytuł „Alchemik”, dający 20% zniżki w sklepiku z horrorami</message>
+        <message key="hw21LocationButtonTitle">na farmę</message>
+        <message key="hw21GotoFarmButtonHintMessage">Farma strachu</message>
+        <message key="hw21BuySeedDescription">Witaj, wędrowcze! Nie chcesz kupić trochę nasion? Dzięki nim wyhodujesz plony. Ale pamiętaj, dojrzała roślina szybko zwiędnie, więc nie zapomnij o zebraniu plonów! He-he-he!</message>
+        <gender key="hw21ConjureNotificationMessage">
+            <form>:userName: zaczarował cię! Chcesz się zemścić?</form>
+            <form>:userName: zaczarowała cię! Chcesz się zemścić?</form>
+        </gender>
+    </locale>
+</dictionary>

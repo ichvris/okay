@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+		<message key="sv2014WelcomeDialogTitle">Dzień zakochanych!</message>
+		<message key="sv2014WelcomeDialogMessage1">Szukaj w grze odłamków rozbitych serc podczas trwania promocji: u sąsiadów i podczas bitew na poduszki. Im więcej znajomych i walk — tym więcej odłamków zdobędziesz!</message>
+		<message key="sv2014WelcomeDialogMessage2">Łącz odłamki razem z innymi graczami, aby otrzymać purpurowe serce. Można to zrobić w parku, specjalnie przez nas ozdobionym z okazji święta ;)</message>
+		<message key="sv2014WelcomeDialogMessage3">Zdobywaj prezenty, składając purpurowe serca z odłamków. Kiedy już zbierzesz kolekcję unikalnych prezentów, zbieraj serca dalej, aby zdobyć więcej nagród!</message>
+		
+		<message key="sv2014HeartsInfoDialogTitle">Łącz serca!</message>
+		<message key="sv2014HeartsInfoDialogMessage">Zdobywaj prezenty, wspólnie z innymi graczami składając z odłamków purpurowe serca w parku. Kiedy już zbierzesz kolekcję unikalnych prezentów, zbieraj serca dalej, aby zdobyć więcej nagród!</message>
+		
+		<message key="sv2014NotEnoughHeartpiecesDialogMessage">Potrzebny ci odłamek, aby złożyć purpurowe serce. Odłamki można otrzymać od znajomych. Nadal masz za mało odłamków?</message>
+		
+		<message key="sv14CantCollectHeartpiecesLabel">Można będzie zebrać za :time:</message>
+		<message key="sv14CollectHeartpiecesDialogTitle">Zbierz odłamki</message>
+		<message key="sv14CollectHeartpiecesDialogDescription">Im więcej masz aktywnych sąsiadów, tym więcej odłamków otrzymasz każdego dnia. Odłamki można także zdobyć podczas bitew na poduszki.</message>
+		
+		<message key="sv14CollectHeartpiecesRequestNotAllowedLabel">Twój znajomy od dawna nie grał.</message>
+		
+		<message key="youHaveHeartsLabel">masz</message>
+		<message key="buyHeartpieces">Kup :pieces: za :golds:</message>
+		<message key="sv2014ConcatMessageLabel">połącz</message>
+		
+		<message key="sv2014ProgressDialogTitle">Purpurowe serca</message>
+		<message key="sv2014ProgressDialogMessage">Zdobywaj prezenty, zbierając z innymi graczami purpurowe serca w parku. Kiedy już zbierzesz kolekcję unikalnych prezentów, zbieraj serca dalej, aby zdobyć więcej nagród!</message>
+		<message key="sv2014OverloadProgressDialogMessage">Udało ci się zdobyć najważniejsze nagrody, ale nie spoczywaj na laurach!
+Kontynuuj zbieranie purpurowych serc, a twoja aktywność będzie szczodrze nagrodzona ;)</message>
+		
+		<message key="sv2014WallMessage1">Spójrz, jaki wspaniały prezent udało mi się zdobyć w grze! Chcesz taki? Pospiesz się, dopóki promocja trwa ;) :link:</message>
+		<message key="sv2014WallMessage2">Przyjaciele! Brakuje mi naprawdę niewiele, aby zdobyć nagrodę. Proszę o pomoc. Po prostu wejdźcie do gry – będę dozgonnie wdzięczny! :link:</message>
+		
+		<message key="sv2014AwardDialogTitle">Gratulacje!</message>
+		<message key="sv2014AwardDialogMessage">Świetnie ci idzie łączenie odłamków. Otrzymujesz za to wspaniały prezent! Zbierz więcej purpurowych serc i pochwal się sukcesem wśród znajomych ;)</message>
+		
+		<message key="stVal14ParticipantRequestSendedTitle">Połącz odłamki</message>
+		<message key="stVal14ParticipantRequestSendedMessage">Twoje zaproszenie zostało wysłane. Teraz musisz poczekać, aż gracz je przyjmie.</message>
+		<message key="stVal14ParticipantReceivedMessage">:name: proponuje połączyć odłamki, aby zdobyć purpurowe serce. Chcesz się zgodzić?</message>
+		<message key="stVal14ParticipantRequestApprovedTitle">Zaproszenie przyjęte</message>
+		<message key="stVal14ParticipantRequestApprovedMessage">Hura! :name: przyjął twoje zaproszenie!</message>
+		<message key="stVal14ParticipantRequestDeclinedTitle">Odmowa</message>
+		<message key="stVal14ParticipantRequestDeclinedMessage">:name: odrzucił twoje zaproszenie.</message>
+		
+		<message key="sv2014AskHeartpiecesDialogTitle">Potrzebuję pomocy!</message>
+		<message key="sv2014AskHeartpiecesDialogMessage">Masz za mało odłamków? Zaproś znajomych do gry, aby zebrać jeszcze więcej odłamków, a następnie purpurowych serc.</message>
+    </locale>
+</dictionary>

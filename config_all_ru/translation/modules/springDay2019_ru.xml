@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="sd19ParticipationDialogTitle">Urodziny Awatarii!</message>
+        <message key="sd19ParticipationDialogDescription">Awataria ma 8 lat! Czas spełniać marzenia! Weź udział w wydarzeniu i zdobądź prezenty oraz kostium Żabci!</message>
+        <message key="sd19ParticipationOkButtonTitle">Rozpocznij</message>
+
+        <message key="sd19StickerDialogMessage">Dajemy ci kostium Żabci! Nadal zbieraj monety i realizuj kolejne marzenia!</message>
+        <message key="sd19WallGetStickerMessage">Awataria ma 8 lat! Mam kostium Żabci! Wchodź do Awatarii po prezenty i nagrody! :link:</message>
+
+        <message key="sd19ProgressDialogTitle">Pomyśl życzenie!</message>
+        <message key="sd19ProgressDialogWishesTitle">Wybierz przedmioty</message>
+        <message key="sd19ProgressDialogWishesDescription">Wrzucaj monety do fontanny. Zdobywaj je, sprzątając u sąsiadów oraz jako dozorca i dając VIP za złoto (nagroda – 150, 225 i 375 monet).</message>
+        <message key="sd19ProgressDialogTrophyDescription">Zbieraj monety i zdobądź kostium Żabci!</message>
+        <message key="sd19ProgressDialogStartButtonTitle">Rozpocznij</message>
+        <message key="sd19ProgressDialogCloseButtonMessage">Na pewno chcesz zamknąć to okno?</message>
+
+        <message key="sd19SelectWishDialogTitle">Wybierz przedmiot</message>
+
+        <message key="sd19ConvertCoinsMessage">Gratulacje! Teraz możesz wydać :coinsCount: monet, aby spełnić swoje życzenia</message>
+        <message key="sd19WishCompleteMessage">Gratulacje! Twoje życzenie się spełniło!</message>
+
+        <message key="sd19FountainHintMessage">Wrzuć monety do fontanny, aby twoje marzenia się spełniły</message>
+        <message key="sd19FriendHelpMessage">Tutaj możesz zdobyć monety szczęścia</message>
+
+        <message key="sd19TotalTitle">Ogółem :value:</message>
+
+        <message key="sd19NpcMessage1">Cześć! Stęskniliście się?</message>
+        <message key="sd19NpcMessage2">Jak tam nowe marzenia? Wybraliście?</message>
+        <message key="sd19NpcMessage3">Zbierajcie na kostium! Zrobimy sobie selfie w jednakowych strojach!</message>
+        <message key="sd19NpcMessage4">Awatario, wszystkiego najlepszego!</message>
+        <message key="sd19NpcMessage5">Chcę stworzyć klub. Kto wstąpi do klubu Żabci?</message>
+        <message key="sd19NpcMessage6">Pozdrowienia od Innocentego!</message>
+        <message key="sd19NpcMessage7">Kto chce selfie?</message>
+        <message key="sd19NpcMessage8">Wrzucaj monety do fontanny! Czekają cię nowe, wspaniałe prezenty!</message>
+        <message key="sd19NpcMessage9">Już świętujesz urodziny Awatarii?</message>
+        <message key="sd19NpcMessage10">Pasowałaby ci fryzura Żabci. Polecam zajrzeć do salonu piękności!</message>
+
+        <message key="sd19BuyPhotoDescription">Chcesz zrobić fajniutką fotkę z Żabcią?</message>
+        <message key="sd19MakePhotoDialogDescription">Oto twoje zdjęcie z Żabcią! Niezłe, co? Opublikuj je na swojej stronie lub zapisz na komputerze.</message>
+        <message key="sd19PublishPhotoDescription">#awataria #selfie #żabcia#:nick: Szybko, zrób unikatowe zdjęcie z Żabcią! Czeka na ciebie przy Fontannie Marzeń! :link:</message>
+
+        <message key="sd19NpcName">Żabcia</message>
+    </locale>
+</dictionary>

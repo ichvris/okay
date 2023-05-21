@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dictionary>
+
+	<locale name="pl">
+	
+		<message key="rootFurnitureCategory">Meble</message>
+		<message key="avatarClothesCategory">Odzież</message>
+		<message key="rootGameCategory">Gry</message>
+		<message key="activeCategory">Rzeczy</message>
+		
+		<!-- Clothing categories -->
+		
+		<message key="avatarCollectionsCategoryLabel">Kolekcje</message>
+        <message key="vipClothesLabel">VIP</message>
+        <message key="newClothesLabel">Nowe</message>
+        <message key="saleCollection1Label">Wyprzedaż</message>
+		<message key="avatarSuitsCategoryLabel">Garnitury</message>
+        <message key="costumesCollections">Stroje</message>
+        <message key="costumesLabel">Stroje</message>
+        <message key="designerCollections">Ubrania designerskie</message>
+        <message key="halloweenLabel">Halloween</message>
+		<message key="clothesCategoryTops">Góra</message>
+        <message key="clothesCategoryShirts">Koszule</message>
+        <message key="clothesCategoryJackets">Kurtki</message>
+		<message key="clothesCategoryBottoms">Dół</message>	
+        <message key="clothesCategoryPants">Spodnie</message>
+        <message key="clothesCategoryShorts">Szorty</message>
+        <message key="clothesCategorySkirts">Spódnice</message>
+        <message key="clothesCategoryStockings">Rajstopy</message>
+		<message key="clothesCategoryDresses">Sukienki</message>
+		<message key="clothesCategorySleepwear">Bielizna nocna</message>
+		<message key="sleepwearLabel">Piżamy</message>
+        <message key="clothesCategoryNightgowns">Ubrania na noc</message>
+        <message key="clothesCategoryPajamas">Piżamy</message>
+		<message key="clothesCategoryShoes">Obuwie</message>	
+		<message key="clothesCategoryAcs">Akcesoria</message>
+        <message key="clothesCategoryGlasses">Okulary</message>
+        <message key="clothesCategoryHats">Kapelusze</message>
+        <message key="clothesCategoryGloves">Rękawiczki</message>
+        <message key="clothesCategoryOther">Inne</message>
+		<message key="clothesCategorySwimsuits">Stroje kąpielowe</message>	
+		<message key="clothesCategoryBoySwimsuits">Kąpielówki</message>
+		<message key="clothesCategoryUndergarments">Bielizna</message>
+        <message key="clothesCategoryUndergarmentsBasics">Bielizna</message>
+        <message key="clothesCategoryUndergarmentsLingerie">Bielizna damska</message>
+		<message key="clothesCategorySuits">Kombinezony</message>
+
+		<message key="livingRoomCategory">Pokój dzienny</message>
+		<message key="bedroomCategory">Sypialnia</message>
+		
+		<message key="chairCategory">Krzesła</message>
+		<message key="sofaCategory">Kanapy</message>
+		<message key="armchairCategory">Fotele</message>
+		<message key="decorCategory">Dekoracje</message>
+		<message key="bedCategory">Łóżka</message>
+		<message key="bathroomCategory">Łazienka</message>
+		<message key="bathCategory">Wanny</message>
+		<message key="jacuzziCategory">Jacuzzi</message>
+		<message key="bathroomFurnitureCategory">Meble</message>
+		<message key="bathroomDecorCategory">Dekoracje</message>
+		<message key="bowlCategory">Umywalki</message>
+		<message key="toiletCategory">Toalety</message>
+		<message key="wallCategory">Ściany</message>
+		<message key="doorCategory">Drzwi</message>
+		<message key="floorCategory">Podłogi</message>
+		<message key="windowCategory">Okna</message>
+		<message key="tableCategory">Stoły</message>
+		<message key="awardTablesCategory">Stoły na nagrody</message>
+		<message key="wardrobeCategory">Szafy</message>
+		<message key="comodoCategory">Komody</message>
+		<message key="interiorCategory">Wnętrze</message>
+		<message key="furnitureCategory">Meble</message>
+		<message key="carpetCategory">Dywany</message>
+		<message key="pictureCategory">Obrazy</message>
+		<message key="vaseCategory">Wazony, kwiaty</message>
+		<message key="lampsCategory">Lampy</message>
+		<message key="otherCategory">Inne</message>
+		<message key="waterfallCategory">Wodospady</message>
+		<message key="furnitureWallCategory">Meblościanki</message>
+		<message key="amusimentCategory">Zabawa</message>
+        <message key="horseAmusementCategory">Huśtawka</message>
+        <message key="aquariumAmusiment">Akwaria</message>
+        <message key="intFloorCategory">Parkiet</message>
+        <message key="snowballCategoryTitle">Śnieżna kula</message>
+        <message key="carAmusiment">Maszyny</message>
+        <message key="bikeAmusiment">Motocykle</message>
+		
+		<message key="refrigeratorsCategory">Lodówki</message>
+		<message key="kitchenCategory">Kuchnia</message>
+		<message key="kitchenDecorCategory">Dekoracje</message>
+		<message key="kitchenUnitsCategoryLabel">Elementy</message>
+		<message key="kitchenTablesCategoryLabel">Stoły</message>
+		<message key="kitchenFurnitureCategory">Meble</message>
+		<message key="kitchenChairCategory">Krzesła</message>
+		
+		<message key="fireplaceCategory">Kominki</message>
+		<message key="techCategory">Sprzęt</message>
+		<message key="tvApplianceCategory">Telewizory</message>
+		<message key="musicCenterApplianceCategory">Sprzęt Hi-Fi</message>
+		<message key="acousticsCategory">Akustyka</message>
+		<message key="miscApplianceCategory">Inne</message>
+		<message key="computerApplianceCategory">Komputery</message>
+		
+		<message key="modifierCategory">Modyfikatory</message>
+		<message key="influenceCategory">Wywierające wpływ</message>
+		<message key="artifactCategory">Artefakty</message>
+		<message key="toolCategory">Instrumenty</message>
+		<message key="ringsCategory">Obrączki</message>
+		<message key="giftsCategory">Prezenty</message>
+		<message key="newYearFirToysCategoryLabel">Noworoczne</message>
+		<message key="newYearFirGiftsCategoryLabel">Prezenty</message>
+		<message key="newYearCategoryLabel">Nowy rok</message>
+		<message key="jokeShopLabel">Psikusy</message>
+		<message key="miscShopLabel">Różne</message>
+		<message key="graffitiCategoryLabel">Graffiti</message>
+		
+		<message key="craftedActiveCategory">Napoje</message>
+        <message key="giftsCategoryLabel">Prezenty</message>
+
+        <!-- Garage collections -->
+        <message key="garageRetroCollection">Garaż retro</message>
+        <message key="garageTechnoCollection">Garaż techno</message>
+
+        <message key="jntrRlwCtg">Tory kolejowe</message>
+        <message key="clothesCategoryBijouterie">Biżuteria</message>
+
+		<message key="seasonEventCategoryLabel">Złota jesień</message>
+
+		<message key="fireworkCategoryTitle">Fajerwerk</message>
+
+	</locale>
+	
+</dictionary>

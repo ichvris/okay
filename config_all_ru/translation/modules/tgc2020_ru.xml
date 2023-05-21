@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="tGC20InfoDialogTitle">Witaj w Tortuga Game Club</message>
+        <message key="tGC20InfoDialogDescription">Miło nam powitać cię w naszym centrum gier! W podziękowaniu chcemy ci wręczyć:</message>
+        <message key="tGC20InfoDialogHintMessage">Tortuga Game Club</message>
+        <message key="tGC20TrophyAwardTitle">Rzadki tytuł „TGC”</message>
+        <message key="tGC20TrophyAwardDescription">Tytuł podwaja punkty. Podwyższona aktywność działa przez :count: dni. Sam tytuł pozostanie w dokumencie na zawsze. Można zdobyć za wykonanie zadań w oficjalnej grupie.</message>
+        <message key="tGC20CostumeAwardTitle">Wyjątkowy strój „TGC”</message>
+        <message key="tGC20CostumeAwardDescription">Dokonaj płatności w TGC na kwotę od :price: i zdobądź wyjątkowy strój „TGC” w prezencie</message>
+        <message key="tGC20ChatBalloonAwardTitle">Niesamowity wygląd twojego czatu</message>
+        <message key="tGC20ChatBalloonAwardDescription">Dodaj nowych kolorów do rozmów ze znajomymi! Wygląd jest nagrodą za instalację „TGC”</message>
+        <message key="tGC20GiftAwardTitle">Nowe kody promocyjne</message>
+        <message key="tGC20GiftAwardDescription">Teraz na oficjalnych streamach gry pojawią się specjalne kody promocyjne TGC. Słyszeliśmy, że zawsze można tam znaleźć coś ciekawego!</message>
+        <message key="tGC20AwardDialogTitle">Prezent od Tortuga Game Club</message>
+        <message key="tGC20AwardDialogDescription">Dziękujemy za wsparcie Tortuga Game Club. Przyjmij ten prezent na znak wdzięczności!</message>
+        <message key="tGC20ChatDecorAwardDialogDescription">Dziękujemy za instalację Tortuga Game Club. Przyjmij ten prezent na znak wdzięczności!</message>
+        <message key="tGC2AwardReceivedDescription">Nagroda zdobyta!</message>
+        <message key="tGC20AwardReceivedDescription">Nagroda zdobyta!</message>
+        <message key="tGC20InstallAwardTitle">Nagroda za instalację „TGC”</message>
+        <message key="tGC20InstallAwardMessage">Dziękujemy za instalację Tortuga Game Club. Przyjmij ten prezent na znak wdzięczności!</message>
+
+    </locale>
+</dictionary>

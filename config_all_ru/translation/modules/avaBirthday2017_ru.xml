@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="avaBirthday2017ProgressDialogTitle">Skompletuj mapę</message>
+        <message key="avaBirthday2017ProgressDialogDescription">Odwiedź park, skwer lub plażę, użyj kompasu i kop w zaznaczonych miejscach, aby znaleźć fragmenty mapy skarbów lub cenne zasoby!</message>
+        <message key="avaBirthday2017ProgressDialogCompleteDescription">Mapa zebrana! Daj ją piratowi i zdobądź zasłużoną nagrodę!</message>
+        <message key="avaBirthday2017ReturnToPirateLabel">daj mapę</message>
+        <message key="avaBirthday2017InfoDialogDialogTitle">Witaj!</message>
+        <message key="avaBirthday2017InfoDialogTopMessage">Zajrzyj na plażę. Do Awatarii przybyli piraci, którzy potrzebują twojej pomocy!</message>
+        <message key="avaBirthday2017InfoDialogMiddleMessage">Użyj kompasu, aby znaleźć fragmenty mapy skarbów w oznaczonych miejscach.</message>
+        <message key="avaBirthday2017InfoDialogBottomMessage">Daj mapę piratowi i zdobądź jedną z nagród!</message>
+        <message key="avaBirthday2017GoToPirateHint">Idź do pirata</message>
+        <message key="avaBirthday2017CooldownHint">Kompas czasowo nieaktywny</message>
+        <message key="avaBirthday2017NotCompleteSessionHint">Użyj wszystkich podpowiedzi</message>
+        <message key="avaBirthday2017CreateExcavationHint">Użyj kompasu</message>
+        <message key="avaBirthday2017NoExcavationsHint">Tu niczego nie ma</message>
+        <message key="avaBirthday2017HelpHint"><![CDATA[<p><font size="13">Kliknij, aby rozpocząć poszukiwania</font></p>]]></message>
+        <message key="avaBirthday2017PirateTargetMessage1">Hej, ty, szczurze lądowy, podejdź tu. Mam dla ciebie ważne zadanie!</message>
+        <message key="avaBirthday2017PirateMessage1">Któż by mi pomógł w pewnej sprawie...</message>
+        <message key="avaBirthday2017PirateMessage3">Potrzeba tylko łopata i trochę szczęścia, łapiesz?</message>
+        <message key="avaBirthday2017PirateTargetMessage2">Ej, mam już dość telepania kośćmi. Gdzie mapa?</message>
+        <message key="avaBirthday2017PirateTargetMessage3">Wkrótce wrócę do Tropikanii i będę bogaczem! A wszystko dzięki tobie!</message>
+        <message key="avaBirthday2017PirateMessage5">Jak myślisz? Dokonałeś właściwego wyboru? Zresztą... U tak już niczego nie zmienię.</message>
+        <message key="avaBirthday2017PirateCommonMessage1">Dobrze, że tylko ja mam łódź!</message>
+        <message key="avaBirthday2017PirateCommonMessage2">A wysepka, która mogła być kurortem, obiektem diabelskich sztuczek stanie się!</message>
+        <message key="avaBirthday2017PirateCommonMessage3">Wszystko się zacznie od starej mapy...</message>
+        <message key="avaBirthday2017PirateCommonMessage4">Grom i błyskawica!</message>
+        <message key="avaBirthday2017ParticipationDialogTitle">Kompas</message>
+        <message key="avaBirthday2017ParticipationDialogButtonLabel">na poszukiwania!</message>
+        <message key="avaBirthday2017ParticipationDialogDescription">Mam informacje, że w Awatarii ukryte są fragmenty mapy, która może doprowadzić do skarbu na wyspie Tropikania. Pomóż mi skompletować tę mapę. Weź kompas. On ci wskaże, gdzie kopać.
+        </message>
+        <message key="avaBirthday2017SelectAwardLabel">Wybierz nagrodę:</message>
+        <message key="avaBirthday2017AwardDialogDescription">Przyznajemy ci tytuł „Fana” za wieloletnie oddanie projektowi! Tylko tak dalej! Podziel się tą nowością ze znajomymi!</message>
+        <message key="avaBirthday2017WallGetTrophyMessage">Hura, udało mi się zdobyć tytuł „Fana”! Czekam na ciebie w grze! :link:</message>
+        <message key="avaBirthday2017WallGetTrophyTitle">Urodziny Awatarii</message>
+        <message key="avaBirthday2017FullMapNotificationButtonLabel">daj</message>
+        <message key="avaBirthday2017FullMapNotificationTitle">Mapa zebrana!</message>
+        <message key="avaBirthday2017FullMapNotificationDescription">Daj ją piratowi i zdobądź zasłużoną nagrodę!</message>
+        <gender key="avaBirthday2017PirateHint">
+            <form>John Hook</form>
+            <form>Mary Reed</form>
+        </gender>
+        <gender key="avaBirthday2017PirateMessage2">
+            <form>Na tysiąc garbatych skorupiaków! Jeszcze nie znalazłeś mapy? Ale ja jej bardzo potrzebuję...</form>
+            <form>Na tysiąc garbatych skorupiaków! Jeszcze nie znalazłaś mapy? Ale ja jej bardzo potrzebuję...</form>
+        </gender>
+        <gender key="avaBirthday2017PirateMessage4">
+            <form>W końcu! Znalazłeś mapę! Dawaj ją tu!</form>
+            <form>W końcu! Znalazłaś mapę! Dawaj ją tu!</form>
+        </gender>
+        <gender key="avaBirthday2017SelectAwardDialogDescription">
+            <form>Pomogłeś mi w poszukiwaniach mapy! Za to możesz sobie wybrać dowolną nagrodę! Pamiętaj! Jeśli już wybierzesz, nie możesz zmienić zdania.</form>
+            <form>Pomogłaś mi w poszukiwaniach mapy! Za to możesz sobie wybrać dowolną nagrodę! Pamiętaj! Jeśli już wybierzesz, nie możesz zmienić zdania.</form>
+        </gender>
+        <gender key="avaBirthday2017AwardNotificationDescription">
+            <form>Otrzymałeś nagrodę za wykonanie zadania!</form>
+            <form>Otrzymałaś nagrodę za wykonanie zadania!</form>
+        </gender>
+    </locale>
+</dictionary>

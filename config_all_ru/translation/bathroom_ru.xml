@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dictionary>
+
+	<locale name="pl">
+	
+		<!-- BATH -->
+		
+		<message key="bath1Title">Wanna emaliowana</message>
+		<message key="bath2Title">Wanna z kotarą</message>
+		<message key="bath3Title">Wanna błękitna</message>
+		<message key="bath4Title">Wanna marmurowa</message>
+		<message key="bath6Title">Wanna elegancka</message>
+		<message key="bath7Title">Wanna różowa</message>
+		<message key="bath8Title">Kabina prysznicowa</message>
+		
+		<message key="jacuzzi1Title">Jacuzzi</message>
+		<message key="jacuzzi2Title">Jacuzzi z telewizorem</message>
+		<message key="jacuzzi3Title">Minijacuzzi</message>
+		<message key="jacuzzi4Title">Marmurowe jacuzzi</message>
+		<message key="jacuzzi5Title">Duże jacuzzi</message>
+		<message key="bathMayaLabel">Jacuzzi „Majowie”</message>
+		
+		<!-- FURNITURE -->
+		
+		<message key="bathroomCase1Title">Szafka na ręczniki</message>
+		<message key="bathroomCase2Title">Szafka na ręczniki</message>
+		<message key="bathroomChair1Title">Krzesło do łazienki</message>
+		<message key="bowl1Title">Marmurowa umywalka</message>
+		<message key="bowl2Title">Jasna marmurowa umywalka</message>
+		<message key="bowl3Title">Różowa umywalka</message>
+		<message key="bowl4Title">Biała umywalka</message>
+		<message key="mirror1Title">Lustro z półką</message>
+		<message key="mirror2Title">Lustro z marmuru</message>
+		<message key="bathroomChair2Title">Stołek do łazienki</message>
+		<message key="toilet1Title">Marmurowa muszla toaletowa</message>
+		<message key="toilet2Title">Muszla toaletowa</message>
+		<message key="toilet3Title">Różowa muszla toaletowa</message>
+		<message key="toilet4Title">Muszla toaletowa</message>
+		<message key="toilet5Title">Muszla toaletowa</message>
+		<message key="toiletMayaLabel">Muszla „Majowie”</message>
+		<message key="mirrorMayaLabel">Lustro „Majowie”</message>
+		
+		<!-- DECOR -->
+		
+		<message key="bathroomDecor1Title">Zestaw akcesoriów</message>
+		<message key="bathroomDecor2Title">Zestaw ekskluzywnych akcesoriów</message>
+		<message key="bathroomDecor3Title">Dozownik ze złota</message>
+		<message key="bathroomDecor4Title">Szampon</message>
+		<message key="bathroomDecor5Title">Wieszak na ręczniki</message>
+		<message key="bathroomDecor6Title">Kosz na śmieci</message>
+		<message key="bathroomDecor7Title">Kubek z akcesoriami</message>
+		<message key="bathroomDecor8Title">Flakonik z kremem</message>
+
+		<message key="jacuzziDescription">Bąbelki i ciepła woda... Kup jacuzzi i urządzaj imprezy w kostiumach kąpielowych!</message>
+
+		<message key="chrTltFA20Label">Toaleta „Na zapas”</message>
+
+		<message key="bath20CollectionLabel">Łazienka „Postmodern”</message>
+		<message key="tltBath20Label">Muszla „Postmodern”</message>
+		<message key="shwrBath20Label">Kabina prysznicowa „Postmodern”</message>
+		<message key="jczzBath20Label">Jakuzzi „Postmodern”</message>
+		<message key="bowlBath20Label">Zlewozmywak „Postmodern”</message>
+		<message key="crptBath20Label">Dywanik łazienkowy „Postmodern”</message>
+		<message key="twl1Bath20Label">Ręcznik „Postmodern”</message>
+		<message key="twl2Bath20Label">Wieszak na ręczniki „Postmodern”</message>
+		<message key="tmbBath20Label">Szafka „Postmodern”</message>
+		<message key="vaseBath20Label">Wazon „Postmodern”</message>
+		<message key="brshBath20Label">Szczotka „Postmodern”</message>
+
+		<message key="showerDescription">Kup wyjątkową kabinę prysznicową i zrelaksuj się na całego! Prysznic i sauna w jednej butelce!</message>
+
+		<message key="wtrpl21WaterpoolLabel">Basen „Relax”</message>
+		<message key="waterpoolDescription">Basen to doskonałe miejsce do wypoczynku. Pozwól sobie na odrobinę luksusu w miłych okolicznościach.</message>
+	</locale>
+	
+</dictionary>

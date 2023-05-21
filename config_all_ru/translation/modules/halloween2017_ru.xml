@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="hw17ParticipationDialogTitle">Bał mrocznych sił!</message>
+        <message key="hw17ParticipationDialogButtonLabel">weź udział</message>
+        <message key="hw17ArrowLabel">Strzała ze srebrnym grotem</message>
+        <message key="hw17ArrowDescription">Przyda się do walki z wilkołakami</message>
+        <message key="nw17ToothNecklaceLabel">Naszyjnik z kłów wilkołaka</message>
+        <message key="nw17ToothNecklaceDescription">Wejściówka na bal mrocznych sił</message>
+        <message key="hw17SilverDustLabel">Srebrny pył</message>
+        <message key="hw17SilverDustDescription">Można zdobyć, wygrywając minigry</message>
+        <message key="hw17ToothLabel">Kieł wilkołaka</message>
+        <message key="hw17ToothDescription">Można zdobyć, pokonując wilkołaka</message>
+        <message key="hw17MaleNPCTitle">Hrabia Deymon</message>
+        <message key="hw17FemaleNPCTitle">Hrabina Elisabeth</message>
+        <message key="halloween2017SelectAwardLabel">Wybierz nagrodę:</message>
+        <message key="hw17ToothExchangeDialogTitle">Wymiana na prezenty!</message>
+        <message key="hw17ToothExchangeDialogDescription">Zbieraj kły do końca akcji i wymieniaj je u hrabiego na prezenty, które mogą zawierać unikatowe przedmioty!</message>
+        <message key="hw17InfoDialogDialogTitle">Witaj na balu!</message>
+        <message key="hw17InfoDialogTopMessage">Do walki z wilkołakami przyda ci się kusza i specjalne srebrne strzały. Przygotuj się do walki!</message>
+        <message key="hw17InfoDialogMiddleMessage">Jako wejściówki na bal mrocznych sił przyda ci się specjalny naszyjnik z kłów wilkołaków.</message>
+        <message key="hw17InfoDialogBottomMessage">Zbieraj kły wilkołaków i wymieniaj je na prezenty.</message>
+        <gender key="hw17ParticipationDialogDescription">
+            <form>O pomoc poprosiła cię hrabina Elisabeth! Ona i jej mąż, hrabia Deymon, lubią organizować wystawne przyjęcia i bale dla mrocznych istot, ale strasznie przeszkadzają im wilkołaki. Pomożesz im?</form>
+            <form>O pomoc poprosił cię hrabia Deymon! On i jego żona, hrabina Elisabeth, lubią organizować wystawne przyjęcia i bale dla mrocznych istot, ale strasznie przeszkadzają im wilkołaki. Pomożesz im?</form>
+        </gender>
+        <gender key="halloween2017SelectAwardDialogDescription">
+            <form>Pomogłeś mi z tymi okropnymi wilkołakami! Zapraszamy na nasz bal! Możesz także wybrać nagrodę! Pamiętaj! Jeśli już wybierzesz, nie możesz zmienić zdania.</form>
+            <form>Pomogłaś mi z tymi okropnymi wilkołakami! Zapraszamy na nasz bal! Możesz także wybrać nagrodę! Pamiętaj! Jeśli już wybierzesz, nie możesz zmienić zdania.</form>
+        </gender>
+        <gender key="hw17MainNpcName">
+            <form>Hrabia Deymon</form>
+            <form>Hrabina Elisabeth</form>
+        </gender>
+        <message key="hw17InfoDialogTopMessage2">Jako wejściówki na bal mrocznych sił przyda ci się specjalny naszyjnik z kłów wilkołaków.</message>
+        <message key="hw17InfoDialogTopMessage3">Zrobione! Otrzymujesz zaproszenie na bal. Czeka tam na ciebie zasłużona nagroda!</message>
+
+        <message key="hw17Werewolf">Wilkołak</message>
+        <message key="hw17WerewolfMessage1">Aaargh!</message>
+        <message key="hw17WerewolfMessage2">R-r-rozerwę!</message>
+        <message key="hw17WerewolfMessage3">Uuuuuu!</message>
+        <message key="hw17NoArrow">Nie ma czym strzelać. Zrób strzały.</message>
+
+        <message key="hw17CraftCrossbowStageMessage1">Musisz się pospieszyć, moi goście nie będą czekać!</message>
+        <message key="hw17CraftCrossbowStageMessage2">Ja i moja najdroższa druga połówka urządzamy najwspanialsze bale w całym królestwie ciemności!</message>
+        <message key="hw17CraftCrossbowStageMessage3">Poza tym któż na świecie mógłby być piękniejszy ode mnie? Szkoda, że lustro nie potrafi pokazać odbicia...</message>
+        <message key="hw17CraftCrossbowStageMessage4">Czemu tu tak słonecznie? Gdzie mój krem...</message>
+        <message key="hw17CraftCrossbowStageMessage5">Złoto cenniejsze od srebra, prawda?</message>
+
+        <message key="hw17CraftNecklaceStageMessage1">Wilkołaki są takie odrażające, nieprawdaż? Ileż może kosztować ich zaniedbane futro?</message>
+        <message key="hw17CraftNecklaceStageMessage2">Hmmm... Jeśli mi pomożesz, niech będzie – dla takiego gościa też znajdzie się miejsce na balu.</message>
+        <message key="hw17CraftNecklaceStageMessage3">Raz-kieł, dwa-kieł, trzy-kieł... Trochę mało!</message>
+        <message key="hw17CraftNecklaceStageMessage4">Ciekawe, pan Szkielet nauczył się mojego ulubionego dzieła...</message>
+        <message key="hw17CraftNecklaceStageMessage5">Wilkołaki straszą nie tylko moich gości, ale i waszych mieszkańców, więc umowa jest korzystna dla wszystkich.</message>
+
+        <message key="hw17BallroomMessageGirl1">Normalność zawsze jest iluzją.</message>
+        <message key="hw17BallroomMessageGirl2">Mój mąż jest wspaniały, prawda?</message>
+        <message key="hw17BallroomMessageGirl3">Czuj się jak... hm, jak na balu!</message>
+        <message key="hw17BallroomMessageGirl4">To ciekawe, o naszym balu napiszą w dzienniku...</message>
+        <message key="hw17BallroomMessageGirl5">Tworzymy z hrabią wspaniałą parę. Widzisz, jak nam zazdroszczą wszyscy goście!</message>
+
+        <message key="hw17BallroomMessageBoy1">Gdzie są najlepsze bale? Oczywiście, że u hrabiego Deymona!</message>
+        <message key="hw17BallroomMessageBoy2">Oddaję, ale niczego nie tracę.</message>
+        <message key="hw17BallroomMessageBoy3">Nie podobam się sobie. Lubię siebie.</message>
+        <message key="hw17BallroomMessageBoy4">Tańczcie, tańczcie, tańczcie!</message>
+        <message key="hw17BallroomMessageBoy5">Nie jest trudno zostać wampirem. Nasze szeregi łatwo jest uzupełnić. Za to Strażnicy są gatunkiem, który zapisał się w „Czerwonej Księdze”.</message>
+
+        <message key="hw17NecklaceCraftedHomeMessage">I po sprawie. Pora się zabawić. Szybko, ruszaj na bal!</message>
+        <gender key="hw17AwardDialogDescription">
+            <form>Otrzymałeś nagrodę za wykonanie zadania!</form>
+            <form>Otrzymałaś nagrodę za wykonanie zadania!</form>
+        </gender>
+        <message key="hw17WallGetAwardMessage">Za pomoc w zorganizowaniu balu udało mi się zdobyć wspaniały prezent. Też taki chcesz? Czekam na ciebie w grze! :link:</message>
+
+        <message key="hw17ProfessionHintMessage">Wilkołaki reagują na ruch. Zacznij pracować, aby je zwabić!</message>
+
+        <message key="hw17GoToBallButtonNoNeckHintMessage">Wymagany naszyjnik</message>
+        <message key="hw17GoToBallButtonHintMessage">Ruszaj na bal</message>
+        <message key="hw17NoCrossbowMessage">Do walki z wilkołakami musisz mieć kuszę!</message>
+    </locale>
+</dictionary>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="pl">
+        <message key="dzo2019WelcomeDialogTitle">Wszystkiego najlepszego z okazji Dnia Mężczyzn!</message>
+        <message key="dzo2019WelcomeDialogStarsMessage">Zdobywaj gwiazdy i epolety, wykonując różne działania w grze. Im więcej grasz, tym więcej gwiazd i epoletów możesz zdobyć każdego dnia!</message>
+        <message key="dzo2019WelcomeDialogEpaulettesMessage">Chowaj epolety w mieszkaniach swoich sąsiadów i zbieraj rozrzucone przez nich w swoim domu, aby zdobyć jeszcze więcej gwiazd.</message>
+        <message key="dzo2019WelcomeDialogAwardMessage">Zbierając gwiazdy, będziesz zdobywać nagrody. Tytuł, huśtawka „Samolot” i kostium „Adiutant” można zdobyć tylko podczas akcji!</message>
+        <message key="dzo2019NotEnoughEpaulettesDialogMessage">Potrzebujesz epoletów, aby podrzucić je sąsiadom. Otrzymasz je w pracy, w bitwach na poduszki i w wyścigach surfingowych. I tak masz za mało epoletów?</message>
+        <message key="dzo2019youHaveEpaulettesLabel">masz</message>
+        <message key="dzo2019buyEpaulettes">Kup :count: za :golds:</message>
+        <message key="dzo2019ProgressDialogTitle">Zbieraj gwiazdy – zdobywaj nagrody</message>
+        <message key="dzo2019ProgressDialogMessage">Gwiazdy możesz zdobyć, pracując na dworze i w ogrodzie, sprzątając mieszkania sąsiadów, wygrywając w wyścigach surfingowych i bitwach na poduszki.</message>
+        <message key="dzo2019WallMessage1">Oto, jaki prezent otrzymałem w akcji z okazji Dnia Mężczyzn. Wejdź do gry, a zdobędziesz taki sam albo i lepszy!</message>
+        <message key="dzo2019WallMessage2">Przyjaciele! Potrzebna jest wasza pomoc, aby zdobyć tę cudną nagrodę! Czekam na was w Awatarii. Z góry dziękuję!</message>
+        <message key="dzo2019AwardDialogTitle">Nagroda jest twoja!</message>
+        <message key="dzo2019AwardDialogMessage">Udało ci się zebrać dość gwiazd, by otrzymać nagrodę! Twoi przyjaciele także zdążą taką zdobyć, jeśli opowiesz im o swoich osiągnięciach!</message>
+        <message key="dzo2019ThrowEpaulettesNotificationTitle">Epolety z gwiazdami</message>
+        <message key="dzo2019ThrowEpaulettesSuccessNotificationMessage">Chytrze się uśmiechając, chowasz epolet w mieszkaniu przyjaciela :)</message>
+        <message key="dzo2019ThrowEpaulettesHasEpauletteNotificationMessage">Och! Twój przyjaciel już ma epolet. Zaprośmy go do gry, aby mógł zebrać jeszcze więcej gwiazd i pomóc ci.</message>
+        <message key="dzo2019ThrowEpaulettesFullHouseNotificationMessage">Ojej! Jeśli twój przyjaciel nie zbierze wszystkich epoletów, ty nie będziesz w stanie schować kolejnych. Szybko, zaproś go do gry!</message>
+        <message key="dzo2019CollectEpaulettesSuccessNotificationMessage">Znajdujesz epolet, który :throwGender: :name:.</message>
+        <message key="dzo2019AskHelpDialogTitle">Potrzebuję pomocy!</message>
+        <message key="dzo2019AskHelpDialogMessage">Potrzebne gwiazdy? Dużo gwiazd? Bez przyjaciół raczej sobie nie poradzisz.</message>
+        <message key="dzo2019throwEpaulettesButtonHint">Schowaj epolety u sąsiada</message>
+        <message key="dzo2019throwEpaulettesLockButtonHint">Za dużo epoletów</message>
+        <message key="dzo2019useMagnetButtonHint">Zbierz wszystkie epolety</message>
+        <message key="dzo2019inviteTimeoutDescription">Niedawno zapraszałeś już przyjaciela!</message>
+        <message key="dzo2019noEpaulettesWarning">W twoim mieszkaniu nie ma epoletów. Odwiedź sąsiadów, aby schować u nich epolety jako pierwszy!</message>
+        <message key="dzo2019magnet">Magnes do szukania epoletów</message>
+        <gender key="dzo2019ThrowGender">
+            <form>schowałeś</form>
+            <form>schowałaś</form>
+        </gender>
+    </locale>
+</dictionary>

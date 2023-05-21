@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="dzo18StarsLabel">Gwiazda</message>
+        <message key="dzo18StarsDescription">Można zdobyć, pracując we wszystkich zawodach</message>
+        <message key="dzo18Quest1Title">Wyróżnij się!</message>
+        <message key="dzo18Quest1Description">Najbardziej wypasione awatary ozdabiają swoje fury malunkami. Ty też to zrób! Zdobądź w prezencie rzadkie akcesorium, które wyróżni cię spośród innych awatarów i będzie przypominać o święcie!</message>
+        <message key="dzo18Quest3Title">Ozdoba mieszkania</message>
+        <message key="dzo18Quest3Description">Przemebluj mieszkanie na święto i nie zapomnij go odświeżyć unikatowym plakatem!</message>
+        <message key="dzo18Quest3Task1Description"><![CDATA[<span class="bold">Zdobądź plakat "AVA-23"</span>]]></message>
+        <message key="dzo18Quest3Task2Description"><![CDATA[<span class="bold">Kup wyposażenie wnętrza z kategorii „Ozdoby”</span>]]></message>
+        <message key="dzo18Quest3Task3Description"><![CDATA[<span class="bold">Kup wyposażenie wnętrza w sklepie „Sprzęt”</span>]]></message>
+        <message key="dzo18Quest3Task4Description"><![CDATA[<span class="bold">Kup przedmioty z działu „Dowcipy” w sklepie „Prezenty i dowcipy”</span>]]></message>
+        <message key="dzo18Quest4Title">Świętujemy Dzień Mężczyzn!</message>
+        <message key="dzo18Quest4Description">Najwyższy czas zacząć świętowanie! A co może być lepszego od bitew na poduszki i wyścigi różnymi pojazdami?</message>
+        <message key="dzo18Quest4Task1Description"><![CDATA[<span class="bold">Zdobądź samolot "AVA-23"</span>]]></message>
+    </locale>
+</dictionary>

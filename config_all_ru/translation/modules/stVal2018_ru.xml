@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+		<message key="sv18InfoDialogTitle">Kto jest najbardziej atrakcyjny?</message>
+		<message key="sv18HeartLabel">Sympatia</message>
+		<message key="sv18HeartDescription">Można otrzymać co godzinę, będąc w grze.</message>
+		<message key="sv18LikeMenuTitle">wyraź&#13;sympatię</message>
+		<message key="sv18BuyHeartsDialogTitle">Kupno sympatii</message>
+		<message key="sv18LikeReceivedNotificationMessage">:userName: :genderLike:</message>
+		<message key="sv18LikeReceivedNotificationReplyMessage">Chcesz się odwdzięczyć tym samym?</message>
+		<gender key="sv18GenderLike">
+			<form>wyraził sympatię do ciebie!</form>
+			<form>wyraziła sympatię do ciebie!</form>
+		</gender>
+		<message key="sv18InfoDialogDescription">Czujesz w powietrzu tę romantyczną atmosferę? Wyraź sympatię do innych graczy i otrzymaj dobro, aby wymienić je później na prezenty! Raz na godzinę otrzymasz w grze 10 bezpłatnych sympatii. Wykonuj zadania codzienne, aby zdobyć dodatkowo 50 bezpłatnych sympatii. Właściciele pięciu najbardziej atrakcyjnych awatarów otrzymają nagrodę – taśmę i koronę!</message>
+		<message key="sv18ProgressDialogTitle">Nagroda za okazaną sympatię</message>
+		<message key="sv18ProgressDialogDescription">Okazuj sympatię innym graczom, aby zdobyć dobro i wymienić je na rzadkie nagrody!</message>
+		<message key="sv18BuyHeartsDialogDescription">Masz za mało sympatii? Najwyższy czas uzupełnić zapasy. Nie przegap wyjątkowych okazji!</message>
+		<message key="sv18RoseHint">Róża</message>
+		<message key="sv18DoubleArmchairHint">Fotel „Dwie połówki”</message>
+		<message key="sv18BoyClothesSetHint">Kostium „Romance”</message>
+		<message key="sv18GirlClothesSetHint">Kostium „Romance”</message>
+		<message key="sv18TrophyHint">Tytuł „Walentynka”</message>
+		<message key="sv18AwardDialogMessage">Dajemy ci ten wspaniały prezent w nagrodę za udział w akcji! Tylko tak dalej! Podziel się tą nowością ze znajomymi!</message>
+		<message key="sv18AwardReceivedMessage">Udało mi się zdobyć wspaniały prezent za udział w akcji! Ty też chcesz? Czekam na ciebie w grze! :link:</message>
+		<message key="sv18HeartsBonusCountLabel">+ :count:</message>
+		<message key="sv18HeartsBonusLabel">bonus</message>
+		<message key="sv18HistoryLikeDialogTitle">Otrzymane sympatie</message>
+		<message key="sv18HistoryLikeDialogDescription">Tutaj wyświetlane są ostatnie otrzymane wyrazy sympatii. Jeśli chcesz, możesz na nie odpowiedzieć.</message>
+		<message key="sv18RatingDialogTitle">Ranking atrakcyjności</message>
+		<message key="sv18RatingDialogDescription">Otrzymuj wyrazy sympatii od innych graczy, aby móc walczyć o tytuł najbardziej atrakcyjnego awatara! Pięcioro graczy, którzy zajmą w rankingu najwyższe miejsca, otrzyma w nagrodę rzadkie akcesoria – koronę i taśmę.</message>
+		<message key="sv18ExchangeDialogTitle">Wymiana na zasoby</message>
+		<message key="sv18ExchangeDialogDescription">Zbieraj dobro i wymieniaj je na przydatne zasoby!</message>
+		<message key="sv18QuestTitle">Potrzebujesz sympatii?</message>
+		<message key="sv18QuestDescription">Dobro zasługuje na nagrodę! Wykonuj to zadanie codziennie i zdobywaj sympatię bezpłatnie!</message>
+		<message key="sv18HintLabel">Bezpłatna sympatia za :time:</message>
+    </locale>
+</dictionary>

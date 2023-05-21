@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="firstApril2016MenuItemLabel">Uratuj</message>
+        <message key="firstApril2016ProgressDialogTitle">Uratuj maleństwa!</message>
+        <message key="firstApril2016BabySaveText">Ratuj maleństwa i zdobywaj za to nagrody!</message>
+        <message key="firstApril2016InfoTitleText">Gorączka maleństw!</message>
+        <message key="firstApril2016InfoMessageText">Dzisiaj wszyscy zmieniają się w maleństwa. Ty także. Ratuj mieszkańców przed tym nieszczęściem, a oni uratują ciebie!</message>
+        <message key="firstApril2016AcceptText">Chcesz wziąć udział?</message>
+        <message key="firstApril2016SaveNotificationTitle">Uratowano cię!</message>
+        <gender key="firstApril2016SaveNotificationMessage">
+            <form>:userName: uratował cię przed gorączką maleństw</form>
+            <form>:userName: uratowała cię przed gorączką maleństw</form>
+        </gender>
+    </locale>
+</dictionary>

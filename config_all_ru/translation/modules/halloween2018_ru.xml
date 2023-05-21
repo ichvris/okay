@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="hw18MainNpcName">Jack</message>
+        <message key="hw18ParticipationDialogTitle">Halloween w Awatarii!</message>
+        <message key="hw18ParticipationDialogDescription">Weź udział w akcji i zdobądź straszne kostiumy! Aby zdobyć kostiumy i inne nagrody, przestrzegaj prostych zasad: uprawiaj dynie w doniczkach, zarabiaj w zawodach lub sprzątając u sąsiadów. Użyj dyni w nowej grze memory w parku i wygrywaj cukierki. Wymieniaj cukierki na mrożące krew w żyłach nagrody!</message>
+        <message key="hw18ExchangeDialogTitle">Wymiana dyń na prezenty!</message>
+        <message key="hw18ExchangeDialogDescription">Nie chcesz tracić czasu na zbieranie dyń w zawodach i u sąsiadów? Kup donicę z dyniami od razu i otrzymuj :pumpkins: co :hours:!</message>
+        <message key="hw18GetAfterTime">Dynia urośnie za :time:</message>
+        <message key="hw18DoubleAwardButtonTitle">podwój za :count:</message>
+        <message key="hw18DoubleAwardPanelDescription">Mogę podwoić twoją nagrodę, ale za dodatkową opłatą!</message>
+        <message key="hw18BuyCandiesDialogTitle">Kupno cukierków</message>
+        <message key="hw18BuyCandiesDialogDescription">Masz za mało cukierków? Najwyższy czas uzupełnić zapasy. Nie przegap wyjątkowych okazji!</message>
+        <message key="hw18CandyExchangeDialogTitle">Wymiana słodyczy na prezenty!</message>
+        <message key="hw18CandyExchangeDialogDescription">Co tydzień wymieniaj słodycze na rzadkie nagrody!</message>
+        <message key="hw18StageAwardsTitle">Otworzy się za :date:</message>
+        <message key="hw18HasItemHint">Masz już ten przedmiot</message>
+        <message key="hw18CanBuyLaterHint">Będzie dostępny później</message>
+        <message key="hw18InfernalRabbitHint">Piekielny królik</message>
+        <message key="hw18EvilFlowerHint">Diabelski kwiat</message>
+        <message key="hw18WitchFireplaceHint">Piec wiedźmy</message>
+        <message key="hw18WindowMoonViewHint">Okno „Pełnia księżyca”</message>
+        <message key="hw18BoyCostumeHalloweenSawHint">Billy</message>
+        <message key="hw18BoyCostumeHalloweenPyramidHint">Piramidogłowy</message>
+        <message key="hw18BoyCostumeHalloweenPennyHint">To</message>
+        <message key="hw18BoyCostumeHalloweenJackHint">Jack</message>
+        <message key="hw18GirlCostumeHalloweenSawHint">Samantha</message>
+        <message key="hw18GirlCostumeHalloweenCallHint">Samara</message>
+        <message key="hw18GirlCostumeHalloweenPennyHint">To</message>
+        <message key="hw18GirlCostumeHalloweenJillHint">Jen</message>
+        <message key="hw18TrophyHint">Tytuł „Halloween”</message>
+        <message key="hw18JackStickerPackHint">Naklejki „Jack”</message>
+        <message key="hw18BatChatDecorHint">Myszka</message>
+        <message key="hw18GhostMobileDecorHint">Zjawa</message>
+        <message key="hw18NpcMessage1">Czeka na ciebie wiele ciekawych rzeczy! Nie trać czasu, bo znajomi cię wyprzedzą.</message>
+        <message key="hw18NpcMessage2">Chcesz wziąć udział w akcji? Dowiedz się ode mnie, jak to zrobić!</message>
+        <message key="hw18NpcMessage3">Ile dyń zdołasz zebrać – oto jest pytanie...</message>
+        <message key="hw18NpcMessage4">Z takim zapasem dyń nawet stracić głowę nie jest strasznie! </message>
+        <message key="hw18NpcMessage5">Każda kolejna głowa to dla mnie nowe życie. Chcesz też dorobić?</message>
+        <message key="hw18NpcMessage6">Co bardziej lubisz – dynie czy cukierki?</message>
+        <message key="hw18NpcMessage7">Radzę ci zająć się uprawą dyń. To bardzo ciekawe hobby.</message>
+        <message key="hw18NpcMessage8">Boisz się zagrać ze mną?</message>
+        <message key="hw18NpcMessage9">Nie patrz na moją głowę. Tak naprawdę jestem cholernie dobry i niesamowicie skromny.</message>
+        <message key="hw18NpcMessage10">Im dłużej na ciebie patrzę, tym większe mam wątpliwości, kto z nas ma dynię zamiast głowy.</message>
+        <message key="hw18NpcMessage11">Ech! Aż szkoda ci oddawać takie prezenty...</message>
+        <message key="hw18NpcMessage12">Można przegrać, ale najważniejsze, żeby się nie poddawać!</message>
+        <message key="hw18NpcMessage13">Hm, może i ja przymierzę nowy kostium? W końcu mamy święto.</message>
+        <message key="hw18NpcMessage14">Jack – król dyń. Proszę zwracać się do mnie tylko tak!</message>
+        <message key="hw18NpcMessage15">Pospiesz się, czas mija. Wkrótce twoje dynie zmienią się w... Hmm...</message>
+        <message key="hw18NpcMessage16">Musisz się pospieszyć – za długo czekać nie będę! </message>
+        <message key="hw18NpcMessage17">Nie zapomnij o wymienianiu zbiorów na prezenty, bo inaczej zostaniesz z niczym.</message>
+        <plural key="hw18Pumpkins">
+            <form>dynię</form>
+            <form>dyni</form>
+            <form>dyń</form>
+        </plural>
+    </locale>
+</dictionary>

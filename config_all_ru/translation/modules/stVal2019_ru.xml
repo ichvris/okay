@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+		<message key="halfheartLootLabel">Odłamek serca</message>
+		<message key="halfheartLootDescrioption">można zdobyć, kiedy dajesz komuś prezent wygrany w kanionie, podejmujesz w kawiarni lub w klubie, używasz kliszy fotograficznej i podczas sprzątania mieszkań sąsiadów</message>
+		<message key="sv2019WelcomeDialogTitle">Święto zakochanych!</message>
+		<message key="sv2019WelcomeDialogMessage1">Zdobywaj odłamki serc w klubie i kawiarni, pracując jako fotograf, sprzątając u sąsiadów i dając prezenty w grze „Głodna surykatka”.</message>
+		<message key="sv2019WelcomeDialogMessage2">Łącz odłamki z graczami lub użyj ich w pracowni, aby otrzymać nowe prezenty! Serca można łączyć w parku.</message>
+		<message key="sv2019WelcomeDialogMessage3">Wymieniaj całe serca na nagrody: romantyczne kostiumy, kabriolet, tytuł i skrzydła anioła!</message>
+		<message key="sv2019NotEnoughHeartpiecesDialogMessage">Skończyły ci się odłamki! Może kupić odłamki za złoto.</message>
+		<message key="sv2019ConcatMessageLabel">połącz</message>
+		<message key="sv2019ProgressDialogTitle">Nagrody za łączenie serc!</message>
+		<message key="sv2019ProgressDialogMessage">Łącz połówki serc z innymi graczami! Zdobędziesz całe serca! Wymieniaj je na prezenty w ramach akcji! </message>
+		<message key="sv2019OverloadProgressDialogMessage">Udało ci się zdobyć główne nagrody, ale to jeszcze nie powód, aby się zatrzymywać! Kontynuuj zbieranie serc, a twoja aktywność zostanie szczodrze wynagrodzona ;)</message>
+		<message key="sv2019WallMessage1">Patrz, jaki wspaniały prezent otrzymałem w grze! Ty też chcesz? Pospiesz się, dopóki akcja trwa ;)</message>
+		<message key="sv2019AwardDialogTitle">Gratulacje!</message>
+		<message key="sv2019AwardDialogMessage">Świetnie wychodzi ci łączenie odłamków. Otrzymujesz za to rzadki prezent! Zbierz więcej czerwonych serc i opowiedz znajomym o swoich sukcesach ;)</message>
+		<message key="sv2019AwardNotificationText">Zdobywasz &quot;:award:&quot;</message>
+		<message key="stVal19ParticipantRequestSendedTitle">Połącz odłamki</message>
+		<message key="stVal19ParticipantRequestSendedMessage">Twoja wiadomość została wysłana. Pozostało tylko czekać, aż gracz ją odbierze.</message>
+		<message key="stVal19ParticipantReceivedMessage">:name: proponuje połączyć odłamki i zdobyć całe serce. Zgadzasz się?</message>
+		<message key="stVal19ParticipantRequestApprovedTitle">Wniosek przyjęty</message>
+		<message key="stVal19ParticipantRequestApprovedMessage">Hura! :name: przyjmuje twoją propozycję!</message>
+		<message key="stVal19ParticipantRequestDeclinedTitle">Odmowa</message>
+		<message key="stVal19ParticipantRequestDeclinedMessage">:name: odmawia przyjęcia twojej propozycji.</message>
+    </locale>
+</dictionary>

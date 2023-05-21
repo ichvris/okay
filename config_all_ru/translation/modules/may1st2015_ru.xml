@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+
+        <message key="m1st15GoWorkDescription">Wstążki można otrzymać, podlewając kwiaty w ogrodzie lub sprzątając na ulicy.</message>
+        <message key="m1st15HangRibbonTitle">Powieś wstążkę</message>
+        <message key="m1st15SocialDescription">Napracowałeś się? Wezwij znajomych, niech się nie lenią!</message>
+        <message key="m1st15SocialWallTitle">Święto Pracy</message>
+        <message key="m1st15SocialWallMessage">Moja świąteczna wstążka ozdabia teraz drzewo na ulicy Awatarii. Też taką chcesz? :link:</message>
+
+        <message key="m1st15GoStreetDescription">Wstążki można zawiesić na drzewie przy ulicy i otrzymać w zamian rzadkie i cenne materiały.</message>
+    </locale>
+</dictionary>

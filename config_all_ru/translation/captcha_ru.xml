@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+
+    <locale name="pl">
+
+        <message key="captchaTitle">Potwierdź, że jesteś człowiekiem</message>
+        <message key="captchaQuestion1">Czy liczba 68 jest większa niż 32?</message>
+        <message key="captchaQuestion2">Czy liczba 24 jest mniejsza niż 10?</message>
+        <message key="captchaQuestion3">Czy liczba 5 jest większa niż 2?</message>
+        <message key="captchaQuestion4">Czy liczba 146 jest mniejsza niż 250?</message>
+        <message key="captchaQuestion5">Czy liczba 32 jest większa niż 41?</message>
+        <message key="captchaQuestion6">Czy liczba 93 jest mniejsza niż 87?</message>
+        <message key="captchaQuestion7">Czy liczba 38 jest większa niż 24?</message>
+        <message key="captchaQuestion8">Czy liczba 121 jest mniejsza niż 231?</message>
+        <message key="captchaQuestion9">Czy liczba 76 jest większa niż 99?</message>
+        <message key="captchaQuestion10">Czy liczba 53 jest mniejsza niż 42?</message>
+        <message key="captchaQuestion11">3+2 = 5?</message>
+        <message key="captchaQuestion12">21 - 2 = 15?</message>
+        <message key="captchaQuestion13">57 + 10 = 60?</message>
+        <message key="captchaQuestion14">14 - 2 = 12?</message>
+        <message key="captchaQuestion15">40 + 10 = 50?</message>
+        <message key="captchaQuestion16">96 - 35 = 60?</message>
+        <message key="captchaQuestion17">2 * 2 = 6?</message>
+        <message key="captchaQuestion18">8 / 4 = 2?</message>
+        <message key="captchaQuestion19">5 * 5 = 25?</message>
+        <message key="captchaQuestion20">54 / 3 = 15?</message>
+
+    </locale>
+
+</dictionary>

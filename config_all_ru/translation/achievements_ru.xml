@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+
+    <locale name="pl">
+
+        <!-- ACHIEVEMENTS -->
+
+        <message key="achievementsCategory">Osiągnięcia</message>
+
+        <message key="goodFriendTitle">Dobry przyjaciel</message>
+        <message key="magnateTitle">Magnat</message>
+        <message key="pilowChampTitle">Mistrz poduszkowy</message>
+        <message key="generousTitle">Szczodre serce</message>
+        <message key="shopaholicTitle">Zakupoholik</message>
+        <message key="workaholicTitle">Pracoholik</message>
+        <message key="vipTitle">VIP</message>
+        <message key="crafterTitle">Majsterkowicz</message>
+        <message key="schoolMasterTitle">Uczony kot</message>
+
+        <message key="beachRaceChampTitle">Mistrz surfingu</message>
+
+        <message key="goodFriendHint1">5 awatarów zostało przyjaciółmi</message>
+        <message key="goodFriendHint2">20 awatarów zostało przyjaciółmi</message>
+        <message key="goodFriendHint3">100 awatarów zostało przyjaciółmi</message>
+        <message key="magnateHint1">W sklepach wydano ponad 20 sztuk złota</message>
+        <message key="magnateHint2">W sklepach wydano ponad 100 sztuk złota</message>
+        <message key="magnateHint3">W sklepach wydano ponad 500 sztuk złota</message>
+        <message key="pilowChampHint1">25 zwycięstw w walkach na poduszki</message>
+        <message key="pilowChampHint2">100 zwycięstw w walkach na poduszki</message>
+        <message key="pilowChampHint3">250 zwycięstw w walkach na poduszki</message>
+        <message key="generousHint1">25 razy zaoferowano poczęstunek w barze lub klubie</message>
+        <message key="generousHint2">100 razy zaoferowano poczęstunek w barze lub klubie</message>
+        <message key="generousHint3">250 razy zaoferowano poczęstunek w barze lub klubie</message>
+        <message key="shopaholicHint1">W sklepach wydano ponad 5 000 sztuk srebra</message>
+        <message key="shopaholicHint2">W sklepach wydano ponad 20 000 sztuk srebra</message>
+        <message key="shopaholicHint3">W sklepach wydano ponad 100 000 sztuk srebra</message>
+        <message key="workaholicHint1">Zarobiono 2 500 sztuk srebra w ogrodzie i na podwórku</message>
+        <message key="workaholicHint2">Zarobiono 10 000 sztuk srebra w ogrodzie i na podwórku</message>
+        <message key="workaholicHint3">Zarobiono 50 000 sztuk srebra w ogrodzie i na podwórku</message>
+        <message key="vipHint1">2 razy uzyskano status VIP</message>
+        <message key="vipHint2">7 razy uzyskano status VIP</message>
+        <message key="vipHint3">20 razy uzyskano status VIP</message>
+        <message key="crafterHint1">W warsztacie zrobiono 3 przedmioty</message>
+        <message key="crafterHint2">W warsztacie zrobiono 10 przedmiotów</message>
+        <message key="crafterHint3">W warsztacie zrobiono 25 przedmiotów</message>
+        <message key="schoolMasterHint1">Zdobądź główną nagrodę w szkole Awatarii, uzyskując 275 punktów</message>
+        <message key="schoolMasterHint2">Trzeba zdobyć nagrodę z brązu, a następnie jeszcze raz odebrać główną nagrodę w szkole Awatarii</message>
+        <message key="schoolMasterHint3">Trzeba zdobyć nagrodę ze srebra, a następnie jeszcze raz odebrać główną nagrodę w szkole Awatarii</message>
+        <message key="beachRaceChampHint1">Zwycięż 25 razy w wyścigach surfingowych</message>
+        <message key="beachRaceChampHint2">Zwycięż 100 razy w wyścigach surfingowych</message>
+        <message key="beachRaceChampHint3">Zwycięż 250 razy w wyścigach surfingowych</message>
+        <message key="beachRaceChampTitle1">Początkujący surfer</message>
+        <message key="beachRaceChampTitle2">Sunący po falach</message>
+        <message key="beachRaceChampTitle3">Legenda surfingu</message>
+
+        <message key="goodFriendTitle1">Dobry przyjaciel</message>
+        <message key="goodFriendTitle2">W kręgu przyjaciół</message>
+        <message key="goodFriendTitle3">Oddany przyjaciel</message>
+        <message key="magnateTitle1">Ważny</message>
+        <message key="magnateTitle2">Magnat</message>
+        <message key="magnateTitle3">Oligarcha</message>
+        <message key="pilowChampTitle1">Zawadiaka</message>
+        <message key="pilowChampTitle2">Poduszkoznawca</message>
+        <message key="pilowChampTitle3">W proch!</message>
+        <message key="generousTitle1">Gospodarz</message>
+        <message key="generousTitle2">Dobroczyńca</message>
+        <message key="generousTitle3">Szczodre serce</message>
+        <message key="shopaholicTitle1">Amator zakupów</message>
+        <message key="shopaholicTitle2">Początkujący zakupoholik</message>
+        <message key="shopaholicTitle3">Zawzięty zakupoholik</message>
+        <message key="workaholicTitle1">Pracuś</message>
+        <message key="workaholicTitle2">Tytan pracy</message>
+        <message key="workaholicTitle3">Pracoholik</message>
+        <message key="vipTitle1">Początkujący VIP</message>
+        <message key="vipTitle2">VIP</message>
+        <message key="vipTitle3">VIP bywalec</message>
+        <message key="crafterTitle1">Czeladnik</message>
+        <message key="crafterTitle2">Doświadczony mistrz</message>
+        <message key="crafterTitle3">Znakomity mistrz</message>
+        <message key="schoolMasterTitle1">Absolwent</message>
+        <message key="schoolMasterTitle2">Prymus</message>
+        <message key="schoolMasterTitle3">Naukowiec</message>
+
+        <message key="goodFriendDescription1">5 awatarów zostało przyjaciółmi</message>
+        <message key="goodFriendDescription2">20 awatarów zostało przyjaciółmi</message>
+        <message key="goodFriendDescription3">100 awatarów zostało przyjaciółmi</message>
+        <message key="magnateDescription1">W sklepach wydano ponad 20 sztuk złota</message>
+        <message key="magnateDescription2">W sklepach wydano ponad 100 sztuk złota</message>
+        <message key="magnateDescription3">W sklepach wydano ponad 500 sztuk złota</message>
+        <message key="pilowChampDescription1">25 zwycięstw w walkach na poduszki</message>
+        <message key="pilowChampDescription2">100 zwycięstw w walkach na poduszki</message>
+        <message key="pilowChampDescription3">250 zwycięstw w walkach na poduszki</message>
+        <message key="generousDescription1">25 razy zaoferowano poczęstunek w barze lub klubie</message>
+        <message key="generousDescription2">100 razy zaoferowano poczęstunek w barze lub klubie</message>
+        <message key="generousDescription3">250 razy zaoferowano poczęstunek w barze lub klubie</message>
+        <message key="shopaholicDescription1">W sklepach wydano ponad 5 000 sztuk srebra</message>
+        <message key="shopaholicDescription2">W sklepach wydano ponad 20 000 sztuk srebra</message>
+        <message key="shopaholicDescription3">W sklepach wydano ponad 100 000 sztuk srebra</message>
+        <message key="workaholicDescription1">Zarobiono 2 500 sztuk srebra w ogrodzie i na podwórku</message>
+        <message key="workaholicDescription2">Zarobiono 10 000 sztuk srebra w ogrodzie i na podwórku</message>
+        <message key="workaholicDescription3">Zarobiono 50 000 sztuk srebra w ogrodzie i na podwórku</message>
+        <message key="vipDescription1">2 razy uzyskano status VIP</message>
+        <message key="vipDescription2">7 razy uzyskano status VIP</message>
+        <message key="vipDescription3">20 razy uzyskano status VIP</message>
+        <message key="crafterDescription1">W warsztacie zrobiono 3 przedmioty</message>
+        <message key="crafterDescription2">W warsztacie zrobiono 10 przedmiotów</message>
+        <message key="crafterDescription3">W warsztacie zrobiono 25 przedmiotów</message>
+        <message key="schoolMasterDescription1">Zdobyto 50 złotych monet w szkole Awatarii</message>
+        <message key="schoolMasterDescription2">Zdobyto 100 złotych monet w szkole Awatarii</message>
+        <message key="schoolMasterDescription3">Zdobyto 150 złotych monet w szkole Awatarii</message>
+        <message key="beachRaceChampDescription1">25 zwycięstw w wyścigach surfingowych</message>
+        <message key="beachRaceChampDescription2">100 zwycięstw w wyścigach surfingowych</message>
+        <message key="beachRaceChampDescription3">250 zwycięstw w wyścigach surfingowych</message>
+
+        <message key="achievementAwardTypeLevel1">brąz</message>
+        <message key="achievementAwardTypeLevel2">srebro</message>
+        <message key="achievementAwardTypeLevel3">złoto</message>
+
+        <message key="goodFriendDoNext">zyskaj :count: przyjaciół</message>
+        <message key="magnateDoNext">wydaj w sklepach :count: złotych monet</message>
+        <message key="pilowChampDoNext">wygraj :count: razy w walkach na poduszki</message>
+        <message key="generousDoNext">zaoferuj poczęstunek w barze lub klubie :count: razy</message>
+        <message key="shopaholicDoNext">wydaj w sklepach :count: srebrnych monet</message>
+        <message key="workaholicDoNext">otrzymaj :count: szt. srebra w pracy</message>
+        <message key="vipDoNext">uzyskaj status VIP :count: razy</message>
+        <message key="crafterDoNext">wykonaj :count: przedmiotów w warsztacie</message>
+        <message key="schoolMasterDoNext">zdobądź główną nagrodę w szkole Awatarii</message>
+        <message key="beachRaceChampDoNext">osiągnij :count: zwycięstw w wyścigach surfingowych</message>
+
+        <message key="carRaceChampTitle">Rajdowiec</message>
+        <message key="carRaceChampTitle1">Początkujący rajdowiec</message>
+        <message key="carRaceChampTitle2">Szybszy niż wiatr</message>
+        <message key="carRaceChampTitle3">Mistrz rajdów</message>
+        <message key="carRaceChampDescription1">50 zwycięstw w rajdach</message>
+        <message key="carRaceChampDescription2">250 zwycięstw w rajdach</message>
+        <message key="carRaceChampDescription3">500 zwycięstw w rajdach</message>
+        <message key="carRaceChampHint1">Wygraj w 50 rajdach</message>
+        <message key="carRaceChampHint2">Wygraj w 250 rajdach</message>
+        <message key="carRaceChampHint3">Wygraj w 500 rajdach</message>
+        <message key="carRaceChampDoNext">odnieś :count: zwycięstw w rajdach</message>
+
+        <message key="activityWinnerTitle">Najaktywniejszy</message>
+        <message key="activityWinnerDoNext">traf :count: razy do top 10 najaktywniejszych graczy</message>
+        <message key="activityWinnerTitle1">Popularny awatar</message>
+        <message key="activityWinnerTitle2">Słynny awatar</message>
+        <message key="activityWinnerTitle3">Legendarny awatar</message>
+        <message key="activityWinnerDescription1">3-krotne znalezienie się w top 10 najaktywniejszych graczy</message>
+        <message key="activityWinnerDescription2">5-krotne znalezienie się w top 10 najaktywniejszych graczy</message>
+        <message key="activityWinnerDescription3">15-krotne znalezienie się w top 10 najaktywniejszych graczy</message>
+        <message key="activityWinnerHint1">Traf 3 razy do top 10 najaktywniejszych graczy</message>
+        <message key="activityWinnerHint2">Traf 5 razy do top 10 najaktywniejszych graczy</message>
+        <message key="activityWinnerHint3">Traf 15 razy do top 10 najaktywniejszych graczy</message>
+
+        <message key="meerkatBearTitle">Łowca niedźwiedzi</message>
+        <message key="meerkatBearHint1">Wygraj 10 niedźwiedzi w grze Surykatki</message>
+        <message key="meerkatBearHint2">Wygraj 25 niedźwiedzi w grze Surykatki</message>
+        <message key="meerkatBearHint3">Wygraj 50 niedźwiedzi w grze Surykatki</message>
+        <message key="meerkatBearTitle1">Niedźwiedzia rodzina</message>
+        <message key="meerkatBearTitle2">Niedźwiedzia kolekcja</message>
+        <message key="meerkatBearTitle3">Niedźwiedzi legion</message>
+        <message key="meerkatBearDescription1">Wygrano ponad 10 niedźwiedzi w grze Surykatki</message>
+        <message key="meerkatBearDescription2">Wygrano ponad 25 niedźwiedzi w grze Surykatki</message>
+        <message key="meerkatBearDescription3">Wygrano ponad 50 niedźwiedzi w grze Surykatki</message>
+        <message key="meerkatBearDoNext">wygraj :count: niedźwiedzi w grze Surykatki</message>
+
+        <message key="snowboarderTitle">Snowboardzista</message>
+        <message key="snowboarderDoNext">wykonaj:count: zjazdów w wyścigach snowboardowych</message>
+        <message key="snowboarderTitle1">Dzielny snowboardzista</message>
+        <message key="snowboarderTitle2">Honorowy snowboardzista</message>
+        <message key="snowboarderTitle3">Zasłużony snowboardzista</message>
+        <message key="snowboarderDescription1">Wykonano 2500 zjazdów na snowboardzie</message>
+        <message key="snowboarderDescription2">Wykonano 5000 zjazdów na snowboardzie</message>
+        <message key="snowboarderDescription3">Wykonano 10 000 zjazdów na snowboardzie</message>
+        <message key="snowboarderHint1">Wykonaj 2500 zjazdów w wyścigach snowboardowych</message>
+        <message key="snowboarderHint2">Wykonaj 5000 zjazdów w wyścigach snowboardowych</message>
+        <message key="snowboarderHint3">Wykonaj 10 000 zjazdów w wyścigach snowboardowych</message>
+
+        <message key="vipSubscriptionsDescription1">Kupiono status VIP na 7 dni</message>
+        <message key="vipSubscriptionsDescription2">Kupiono status VIP na 30 dni</message>
+        <message key="vipSubscriptionsDescription3">Kupiono status VIP na 90 dni</message>
+        <message key="vipSubscriptionsHint1">Kup status VIP na 7 dni</message>
+        <message key="vipSubscriptionsHint2">Kup status VIP na 30 dni</message>
+        <message key="vipSubscriptionsHint3">Kup status VIP na 90 dni</message>
+        <message key="subscriptionDoNext">Kup status VIP na :count: dni</message>
+
+        <message key="goodnessDescription1">Pomoc członkom klubu 500 razy</message>
+        <message key="goodnessDescription2">Pomoc członkom klubu 1000 razy</message>
+        <message key="goodnessDescription3">Pomoc członkom klubu 1500 razy</message>
+        <message key="goodnessHint1">Trzeba pomóc członkom klubu 500 razy</message>
+        <message key="goodnessHint2">Trzeba pomóc członkom klubu 1000 razy</message>
+        <message key="goodnessHint3">Trzeba pomóc członkom klubu 1500 razy</message>
+        <message key="goodnessDoNext">pomóc członkom klubu :count: razy</message>
+        <message key="goodnessTitle">Pomocnik</message>
+        <message key="goodnessTitle1">Początkujący pomocnik</message>
+        <message key="goodnessTitle2">Pewne wsparcie</message>
+        <message key="goodnessTitle3">Guru pomocy</message>
+    </locale>
+
+</dictionary>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="sd18ParticipationDialogTitle">Święto wiosny!</message>
+        <message key="sd18ParticipationDialogDescription">Wierzysz, że twoje życzenia mogą się spełnić, jeśli bardzo tego chcesz? Teraz możesz sprawdzić tę teorię!</message>
+        <message key="sd18ParticipationOkButtonTitle">sprawdź</message>
+        <message key="sd18TrophyDialogMessage">W nagrodę za szczególne osiągnięcia w wiosennej akcji wręczamy ci odznakę „Wiosna 2018”. Gratulujemy pracowitości!</message>
+        <message key="sd18WallGetTrophyMessage">Hura, udało mi się zdobyć odznakę „Wiosna 2018”! Czekam na ciebie w grze! :link:</message>
+        <message key="sd18ProgressDialogTitle">Pomyśl życzenie!</message>
+        <message key="sd18ProgressDialogWishesTitle">Wybierz przedmioty</message>
+        <message key="sd18ProgressDialogWishesDescription">Wybierz przedmioty, o których marzysz od dawna. Zbieraj monety i wybierz sobie prezenty.</message>
+        <message key="sd18ProgressDialogTrophyDescription">Zbieraj monety i zdobądź wyjątkową odznakę pod koniec akcji</message>
+        <message key="sd18ProgressDialogStartButtonTitle">Rozpocznij</message>
+        <message key="sd18ProgressDialogCloseButtonMessage">Na pewno chcesz zamknąć to okno?</message>
+        <message key="sd18SelectWishDialogTitle">Wybierz przedmiot</message>
+        <message key="sd18ConvertCoinsMessage">Gratulacje! Teraz możesz wydać :coinsCount: monet, aby spełnić swoje życzenia</message>
+        <message key="sd18WishCompleteMessage">Gratulacje! Twoje życzenie się spełniło!</message>
+        <message key="sd18FountainHintMessage">Wrzuć monety do fontanny, aby twoje marzenia się spełniły</message>
+        <message key="sd18FriendHelpMessage">Tutaj możesz zdobyć monety szczęścia</message>
+        <message key="sd18TotalTitle">Łącznie&#13;:value:</message>
+        <message key="sd18CoinTitle">Moneta x50</message>
+        <message key="sd18CoinDescription">Można zdobyć za pracę, zwycięstwo w minigrach, albo zrobić samemu</message>
+    </locale>
+</dictionary>

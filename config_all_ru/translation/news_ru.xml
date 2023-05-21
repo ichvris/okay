@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<dictionary>
+    <locale name="pl">
+        <message key="1stMayNewsContent">Świętujmy początek maja wraz z przyjaciółmi - popracuj w ogrodzie lub na podwórku, zbierz piękne kolorowe wstążki, zawieś je na Drzewie Pokoju, a otrzymasz cenne przedmioty do pracowni! </message>
+        <message key="9thMayNewsTitle">Wróżki wśród nas</message>
+        <message key="9thMayNewsContent">W Awatarii pojawiły się magiczne istoty - wróżki. Dały one wszystkim dziewczynkom możliwość przymierzenia cudownych skrzydeł i zostania prawdziwymi czarodziejkami. Idź do sklepu!</message>
+        <message key="couturierNewsTitle">Projektant</message>
+        <message key="couturierNewsContent">Przedstawiamy nową lokację - Projektant. Masz teraz możliwość samodzielnie wybrać kolor niektórych rzeczy i dzięki temu wyróżnić się z tłumu!</message>
+        <message key="ballroomNewsTitle">Sala balowa</message>
+        <message key="ballroomNewsContent">Zaproś swoją drugą połówkę na tańce do nowej lokacji - sali balowej. Można tu zakładać eleganckie kostiumy i nauczyć się tańczyć!</message>
+        <message key="springSaleNewsTitle">Wyprzedaż wiosennej kolekcji</message>
+        <message key="springSaleNewsContent">Masz wolne miejsce w garderobie? Najwyższy czas odświeżyć szafę! Skorzystaj z atrakcyjnych zniżek na wyprzedaży wiosennej kolekcji.</message>
+        <message key="conanNewsTitle">Conan Barbarzyńca</message>
+        <message key="conanNewsContent">Razem poznajmy niebezpieczny i tajemniczy świat przygód Conana Barbarzyńcy. Przygotowaliśmy dla ciebie ubrania i elementy wystroju w tym stylu!</message>
+        <message key="carSaleNewsTitle">Wyprzedaż awataromobili!</message>
+        <message key="carSaleNewsContent">Twój garaż świeci pustkami? Tylko w ciągu najbliższego tygodnia możesz kupić awataromibil w niższej cenie. Pośpiesz się!</message>
+        <message key="birthdayNewsTitle">Wszystkiego najlepszego, Awatario!</message>
+        <message key="birthdayNewsContent">Życzymy Awatarii wszystkiego najlepszego z okazji jubileuszu! Tylko dziś, z okazji tego wspaniałego dnia, dajemy naszym ulubionym graczom prezenty i złote monety. Czekamy na Was w grze!</message>
+        <message key="conanStudioNewsTitle">Wyjątkowe tło studia fotograficznego</message>
+        <message key="conanStudioNewsContent">Znudziły cię przygody? Fantastyczny świat Conana Barbarzyńcy czeka na ciebie w studiu fotograficznym! Zwróć uwagę, że tło dostępne jest tylko dla graczy VIP.</message>
+        <message key="newMotoNewsTitle">Nowe motocykle</message>
+        <message key="newMotoNewsContent">Chciałbyś pojeździć na nowych motocyklach? Mechanicy przywieźli do salonu Awatarii nowe motocykle, które możesz kupić już teraz!</message>
+        <message key="quests50NewsTitle">Nowe zadania - nowe poziomy!</message>
+        <message key="quests50NewsContent">W grze dostępne są nowe zadania dla graczy z 42 i wyższym poziomem. Wyprzedź swoich znajomych i jako pierwszy osiągnij maksymalny poziom!</message>
+        <message key="amusimentSaleNewsTitle">Wyjątkowa wyprzedaż</message>
+        <message key="amusimentSaleNewsContent">Wspaniałe wieści dla tych, którzy chcą ulepszyć swój komfort - rozpoczynamy wyprzedaż huśtawek: smoki i konie!</message>
+        <message key="hearStylesNewsTitle">Modne fryzury</message>
+        <message key="hearStylesNewsContent">Masz już dość swojego starego stylu? W salonie dodano po dwie nowe fryzury dla kobiet i mężczyzn. Wejdź i zmień swój wygląd!</message>
+        <message key="steampunkSaleNewsTitle">Wyprzedaż steampunk</message>
+        <message key="steampunkSaleNewsContent">Wyprzedaż! W ciągu tygodnia zestawy odzieży i elementy wyposażenia z kolekcji steampunk są dostępne w niższych cenach.</message>
+        <message key="quests55NewsTitle">Nowe zadania - nowe poziomy!</message>
+        <message key="quests55NewsContent">W grze dostępne są nowe zadania dla graczy z 50 i wyższym poziomem. Wyprzedź swoich znajomych i jako pierwszy osiągnij maksymalny poziom!</message>
+        <message key="motoSaleNewsTitle">Wyprzedaż motocykli!</message>
+        <message key="motoSaleNewsContent">W ciągu niedzieli cały szereg motocykli będzie dostępny w niższych cenach! Zbierz całą kolekcję!</message>
+
+        <message key="superHero1NewsTitle">Superbohaterowie w Awatarii</message>
+        <message key="superHero1NewsContent">Nowe wyjątkowe stroje superbohaterów pojawiły się już we wszystkich sklepach Awatarii. Poczuj się jak prawdziwa wojowniczka - obrończyni niewinnych lub zmień się w brutalnego macho, broniącego pokoju i obywateli. Wejdź i dokonaj wyboru!</message>
+        <message key="professions1NewsTitle">Zawody: ogrodnik i dozorca</message>
+        <message key="professions1NewsContent">Rozpocznij swoją działalność zawodową od czystej karty wraz z zawodami dozorcy i ogrodnika! Rozwijaj umiejętności i podnoś poziom zawodu. Im jest on wyższy, tym cenniejsza nagroda.</message>
+        <message key="quests60NewsTitle">Nowe zadania - nowe poziomy!</message>
+        <message key="quests60NewsContent">W grze są dostępne nowe zadania dla ponad 55 poziomów. Zmierz się ze znajomymi i zdobądź najwyższy poziom jako pierwszy!</message>
+        <message key="japanSaleNewsTitle">Japońskie motywy</message>
+        <message key="japanSaleNewsContent">Ruszamy z wyprzedażą przedmiotów z zestawu „Japonia”. W ciągu tygodnia masz możliwość kupić tę kolekcję w okazyjnej cenie! Spokojne linie i prostota pomogą ci zmienić pokój w swój własny skrawek Japonii.</message>
+        <message key="quests65NewsTitle">Nowe zadania - nowe poziomy!</message>
+        <message key="quests65NewsContent">W grze są dostępne nowe zadania dla ponad 60 poziomów. Zmierz się ze znajomymi i zdobądź najwyższy poziom jako pierwszy!</message>
+        <message key="alientSaleNewsTitle">Kosmiczna wyprzedaż</message>
+        <message key="alientSaleNewsContent">Zestaw mebli „Kosmici” dostępny jest w niższej cenie. Nie przegap okazji do zmiany wystroju mieszkania. Przedmioty z tej kolekcji wyglądają tak żywo i ciekawie - każdy ziemianin będzie ci jej zazdrościć. Zobacz już dziś!</message>
+        <message key="superHero2NewsTitle">Superbohaterowie</message>
+        <message key="superHero2NewsContent">Na półkach najmodniejszych sklepów w Awatarii pojawiły się nowe stroje superbohaterów. Poszerz swoją kolekcję! Przymierz nowe kostiumy, a twoi znajomi na pewno będą w szoku!</message>
+
+        <message key="maintainsCompensationTitle">Prezent</message>
+        <message key="maintainsCompensationDescription">Przepraszamy za długą przerwę w działaniu aplikacji. Przyjmijcie te pieniądze w ramach rekompensaty.</message>
+
+        <message key="iceRinkTitle">Lodowisko</message>
+        <message key="iceRingMessage">W grze pojawiło się lodowisko! Wkładaj łyżwy i poślizgaj się po lodzie ze znajomymi!</message>
+        <message key="wedding2016_1Title">Odzież ślubna</message>
+        <message key="wedding2016_1Message">W sklepach z odzieżą ślubną i akcesoriami pojawiło się wiele nowości. Niech twoje wesele będzie pełne szyku!</message>
+        <message key="professions2Title">Nowe zawody!</message>
+        <message key="profession2Message">Czas przejść na kolejny poziom i zdobyć kwalifikacje w nowych zawodach fotografa oraz wizażysty!</message>
+
+    </locale>
+</dictionary>

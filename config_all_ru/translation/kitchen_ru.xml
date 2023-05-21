@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dictionary>
+
+	<locale name="pl">
+	
+		<!-- DECOR -->
+		
+		<message key="kitchenDecor1Title">Talerz z jabłkami</message>
+		<message key="kitchenDecor2Title">Świecznik</message>
+		<message key="kitchenDecor3Title">Salaterka</message>
+		<message key="kitchenDecor4Title">Salaterka</message>
+		<message key="kitchenDecor5Title">Zastawa stołowa</message>
+		<message key="kitchenDecor6Title">Zastawa stołowa</message>
+		<message key="kitchenDecor7Title">Cytryny</message>
+		<message key="kitchenDecor8Title">Serwetnik</message>
+		
+		<message key="halloweenKitchenDecor1Title">Kielich z krwią Halloween</message>
+		
+		<!-- NY DECOR -->
+		
+		<message key="wineglassGoldNYTitle">Kieliszek do szampana</message>
+		<message key="wineglassBlueNYTitle">Kieliszek do szampana</message>
+		<message key="turkeyVegetableNYTitle">Pieczony indyk</message>
+		<message key="shishkebabNYTitle">Szaszłyk</message>
+		<message key="potatoGreenNYTitle">Ziemniaki z ziołami</message>
+		<message key="lollipopNYTitle">Lizak na patyku</message>
+		<message key="cakeStrawberryNYTitle">Świąteczny tort</message>
+		<message key="cakePieceNYTitle">Kawałek tortu</message>
+		<message key="plateBlueNYTitle">Zastawa stołowa</message>
+		<message key="beconEggNYTitle">Jajecznica na boczku</message>
+		
+		<!-- BACHELOR DECOR -->
+		
+		<message key="wineglassRedBachelorTitle">Kieliszek wina</message>
+		<message key="orangeJuiceBachelorTitle">Sok pomarańczowy</message>
+		<message key="cocktaileJuiceRedBachelorTitle">Koktajl „Kawaler”</message>
+		<message key="candleMiniBachelorTitle">Świeca „Kawaler”</message>
+		<message key="plateGrayBachelorTitle">Zastawa stołowa „Kawaler”</message>
+		
+		<!-- REFRIGERATOR -->
+		
+		<message key="refrigerator1Title">Srebrzysta dwudrzwiowa lodówka</message>
+		<message key="refrigerator2Title">Dwudrzwiowa lodówka z zamrażalnikiem</message>
+		<message key="refrigerator3Title">Lodówka z komorą mrożącą</message>
+		
+		<!-- CHAIR -->
+		
+		<message key="kitchenChair1Title">Krzesło kuchenne</message>
+		<message key="kitchenChair2Title">Krzesło glamour</message>
+		<message key="kitchenChair3Title">Krzesło w paski</message>
+		<message key="kitchenChair4Title">Krzesło kuchenne</message>
+		
+		<!-- TABLE -->
+		
+		<message key="kitchenTable1Title">Stół kuchenny</message>
+		<message key="kitchenTable2Title">Stół kuchenny glamour</message>
+		<message key="kitchenTable3Title">Stół kuchenny</message>
+		<message key="kitchenTable4Title">Stół kuchenny</message>
+		
+		<!-- KITCHEN UNITS -->
+
+		<!-- BASE UNIT -->
+
+		<message key="kitchenUnitBase1Title">Szafka</message>
+		<message key="kitchenUnitBase2Title">Szafka</message>
+		<message key="kitchenUnitBase3Title">Szafka narożna</message>
+		<message key="kitchenUnitBase4Title">Zlew</message>
+		<message key="kitchenUnitBase5Title">Zlew</message>
+		<message key="kitchenUnitBase6Title">Płyta gazowa</message>
+		<message key="kitchenUnitBase7Title">Półki wiszące</message>
+		<message key="kitchenUnitBase8Title">Półki wiszące</message>
+		<message key="kitchenUnitBase9Title">Półki wiszące</message>
+		<message key="kitchenUnitBase10Title">Półki wiszące</message>
+		<message key="kitchenUnitBase11Title">Półki wiszące</message>
+		
+		<!-- BLACK UNIT -->
+
+		<message key="kitchenUnitBlack1Title">Szafka</message>
+		<message key="kitchenUnitBlack2Title">Szafka</message>
+		<message key="kitchenUnitBlack3Title">Szafka narożna</message>
+		<message key="kitchenUnitBlack4Title">Szafka</message>
+		<message key="kitchenUnitBlack5Title">Zlew</message>
+		<message key="kitchenUnitBlack6Title">Zlew</message>
+		<message key="kitchenUnitBlack7Title">Płyta gazowa</message>
+		<message key="kitchenUnitBlack8Title">Półki wiszące</message>
+		<message key="kitchenUnitBlack9Title">Półki wiszące</message>
+		<message key="kitchenUnitBlack10Title">Półki wiszące</message>
+		<message key="kitchenUnitBlack11Title">Półki wiszące</message>
+		<message key="kitchenUnitBlack12Title">Półki wiszące</message>
+		
+		<!-- MARBLE UNIT -->
+
+		<message key="kitchenUnitMarble1Title">Szafka</message>
+		<message key="kitchenUnitMarble2Title">Szafka</message>
+		<message key="kitchenUnitMarble3Title">Szafka narożna</message>
+		<message key="kitchenUnitMarble4Title">Szafka</message>
+		<message key="kitchenUnitMarble5Title">Zlew</message>
+		<message key="kitchenUnitMarble6Title">Zlew</message>
+		<message key="kitchenUnitMarble7Title">Płyta gazowa</message>
+		<message key="kitchenUnitMarble8Title">Półki wiszące</message>
+		<message key="kitchenUnitMarble9Title">Półki wiszące</message>
+		<message key="kitchenUnitMarble10Title">Półki wiszące</message>
+		<message key="kitchenUnitMarble11Title">Półki wiszące</message>
+		<message key="kitchenUnitMarble12Title">Półki wiszące</message>
+		
+		<!-- GIRL UNIT -->
+
+		<message key="kitchenUnitGirl1Title">Szafka</message>
+		<message key="kitchenUnitGirl2Title">Szafka</message>
+		<message key="kitchenUnitGirl3Title">Szafka narożna</message>
+		<message key="kitchenUnitGirl4Title">Szafka</message>
+		<message key="kitchenUnitGirl5Title">Płyta gazowa</message>
+		<message key="kitchenUnitGirl6Title">Półki wiszące</message>
+		<message key="kitchenUnitGirl7Title">Półki wiszące</message>
+		<message key="kitchenUnitGirl8Title">Półki wiszące</message>
+		
+		<!-- WEDDING-PETTING -->
+		
+		<message key="weddingCakeTitle">Tort weselny</message>
+		<message key="weddingCakeOrangeTitle">Tort weselny</message>
+		<message key="weddingFlatTitle">Zastawa dla gości</message>
+		<message key="weddingFlatOrangeTitle">Zastawa dla gości</message>
+		<message key="weddingGlassBrideTitle">Kielich dla panny młodej</message>
+		<message key="weddingGlassBridegroomTitle">Kielich dla pana młodego</message>
+		<message key="weddingTeaserviceTitle">Serwis do herbaty na prezent</message>
+
+		<!-- SEA KITCHEN -->
+		
+		<message key="seaKitchenCollection">Morska bryza</message>
+		<message key="chairBlueSeaLabel">Krzesło kuchenne</message>
+		<message key="chairWhiteSeaLabel">Krzesło kuchenne</message>
+		<message key="armchairSeaLabel">Fotel „Morska bryza”</message>
+		<message key="tableSeaLabel">Stół kuchenny</message>
+		<message key="unitBoardSeaLabel">Szafka „Morska bryza”</message>
+		<message key="unitBoxSeaLabel">Szafka „Morska bryza”</message>
+		<message key="unitCupboardSeaLabel">Szafka „Morska bryza”</message>
+		<message key="unitSinkSeaLabel">Zlew „Morska bryza”</message>
+		<message key="unitStoveSeaLabel">Płyta gazowa</message>
+		<message key="unitCupboardTopSeaLabel">Półki wiszące</message>
+		<message key="unitExtractorFanSeaLabel">Okap wyciągowy</message>
+		<message key="unitMicrovaweTopSeaLabel">Mikrofala piekarnik</message>
+
+        <message key="jntFrdg">Lodówka „Sprzątacz”</message>
+        <message key="jntrSmvr">Samowar „Sprzątacz”</message>
+        <message key="jntrSdMchn">Automat z wodą „Sprzątacz”</message>
+
+		<message key="refrigeratorDescription">Po pracy w ogrodzie lub na skwerze trzeba odzyskać siły. Pomoże ci w tym lodówka!</message>
+	</locale>
+	
+</dictionary>

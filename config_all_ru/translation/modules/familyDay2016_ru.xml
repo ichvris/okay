@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="fd16ModuleName">Dzień Rodziny i Wierności</message>
+        <message key="fd16GiveTrophyMessage">Tytuł wysłano twojej połówce</message>
+        <message key="fd16GiveTrophyMenuTitle">Podaruj tytuł</message>
+        <message key="fd16TrophyExist">Twoja połówka już ma ten tytuł</message>
+        <message key="fd16FindInfoMessage">Poproś swoją połówkę o podarowanie ci tytułu &quot;:trophy:&quot;, a będziesz otrzymywać 50% więcej punktów aktywności</message>
+        <message key="fd16ShopInfoNotMarriedMessage">Niesamowita obniżka cen pierścionków w sklepie! Najwyższy czas na ślub!</message>
+        <message key="fd16ShopInfoMarriedMessage">W Dzień Rodziny oferujemy wam świetne obniżki na pierścionki zaręczynowe!</message>
+        <gender key="fd16NotificationMessage">
+            <form>:name: podarował ci tytuł &quot;:trophy:&quot;</form>
+            <form>:name: podarowała ci tytuł &quot;:trophy:&quot;</form>
+        </gender>
+    </locale>
+</dictionary>

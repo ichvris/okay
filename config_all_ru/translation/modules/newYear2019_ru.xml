@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="pl">
+        <message key="ny20FirButtonCraftGarlandHint">Zrób łańcuch</message>
+        <message key="ny20FirButtonAddGarlandHint">Powieś łańcuch na choince</message>
+        <message key="ny20FirButtonLeftTimeHint">Pozostało :time:</message>
+        <message key="ny20Stage1Title">1. etap</message>
+        <message key="ny20Stage2Title">2. etap</message>
+        <message key="ny20Stage3Title">3. etap</message>
+        <message key="ny20Stage4Title">4. etap</message>
+        <message key="ny20ProgressDialogTitle">Noworoczna bitwa</message>
+        <message key="ny20Stage1Description">Zrób łańcuch i powieś go na choince</message>
+        <message key="ny20Stage2Description">Zdobądź superzdolność do walki ze złoczyńcami</message>
+        <message key="ny20Stage3Description">Wybij z bałwanów śnieżynki</message>
+        <message key="ny20Stage4Description">Wybij ze złoczyńcy śnieżynki. Zrób tarczę do ochrony przed mrozem.</message>
+        <message key="ny20Stage5Description">Graj w noworocznej lokacji</message>
+        <message key="ny20StageCompleteDescription">Gratulacje, etap zaliczony! Śnieżynki możesz wymienić na zimowe prezenty, póki jest czas.</message>
+        <message key="ny20TrophyDescription">Zbieraj śnieżynki i zdobądź wyjątkowy tytuł pod koniec akcji</message>
+        <message key="ny20WelcomeDialogTitle">Skradzione Boże Narodzenie</message>
+        <message key="ny20WelcomeDialogMessageTop1">Pokonaj siły zła, które chcą skraść nasze święto</message>
+        <message key="ny20WelcomeDialogMessageTop2">Bierz udział w minigrach, aby zebrać więcej iskier</message>
+        <message key="ny20WelcomeDialogMessageTop3">Walcz wraz z innymi graczami przeciwko bałwanom</message>
+        <message key="ny20WelcomeDialogMessageTop4">Pokonaj głównego złoczyńcę</message>
+        <message key="ny20WelcomeDialogMessageMiddle1">Zbierz więcej lampek i zrób z nich łańcuch, aby ozdobić choinkę</message>
+        <message key="ny20WelcomeDialogMessageMiddle2">Zdobądź superzdolność, aby pokonać złoczyńców</message>
+        <message key="ny20WelcomeDialogMessageMiddle3">Wymieniaj śnieżynki na prezenty</message>
+        <message key="ny20WelcomeDialogMessageMiddle4">Zrób tarczę do obrony przed złoczyńcą</message>
+        <message key="ny20WelcomeDialogMessageBottom1">Ozdób choinkę łańcuchem. Podczas całej akcji będzie ci dawać śnieżynki</message>
+        <message key="ny20WelcomeDialogMessageBottom4">Zdobądź ostatnią nagrodę i ukończ akcję</message>
+        <message key="ny20ThroughLabel">w ciągu :time:</message>
+        <message key="ny20PutInTitle">włóż</message>
+        <message key="ny20NeedLabel">wymagane</message>
+        <message key="ny20CurrentLabel">masz</message>
+        <message key="ny20CollectSnowflakesButtonLabel">zbierz śnieżynki</message>
+        <message key="ny20ParticipationDialogTitle">Ocal święta przed złoczyńcą</message>
+        <message key="ny20ParticipationDialogMessage">Choinka to najważniejsza ozdoba nowego roku. Została zamrożona przez złego bałwana i jego pomocników. Walcz ze złoczyńcą i uwolnij choinkę!</message>
+        <message key="ny20MittensDialogTitle">Potrzebujesz rękawiczek? Zaproś znajomych!</message>
+        <message key="ny20MittensDialogMessage">Im więcej twoich znajomych gra w Awatarię, tym więcej rękawiczek będziesz codziennie otrzymywać. Wejdź do gry i pamiętaj o zbieraniu rękawiczek! Załóż je i wyjdź na dwór, by porzucać śnieżkami i otrzymać więcej śnieżynek.</message>
+        <message key="ny20ThrowSnowballMenuTitle">Śnieżka</message>
+        <message key="ny20ThrowSnowballNotificationTitle">Uwaga, śnieżka!</message>
+        <message key="ny20ThrowSnowballNotificationMessage">:userName: :genderDrop: w ciebie śnieżkę.</message>
+        <message key="ny20UseMittensWearDialogMessage">Aby nie zmarzły ci ręce, włóż rękawiczki. Możesz w nich rzucać śnieżkami, póki nie przemokną.</message>
+        <message key="ny20NotEnoughMittensWearDialogMessage">Zrób rękawiczki z pracowni i rzucaj się dzięki nim śnieżkami. Rzucaj śnieżki i zdobywaj za to lampki, które są potrzebne do wykonania łańcucha na choinkę.</message>
+        <message key="ny20ExchangeSnowflakesDialogTitle">Wymiana na prezenty!</message>
+        <message key="ny20ExchangeSnowflakesDialogMessage">Wymieniaj pozostałe śnieżynki na noworoczne prezenty!</message>
+        <message key="ny20RightPanelButtonCreateEventHintMessage">Pokonaj złego bałwana i uwolnij choinkę</message>
+        <message key="ny20EventFilterLabel">noworoczne</message>
+        <message key="ny20LocationName">Zimowa bitwa</message>
+        <message key="ny20SnowBattleWelcomeDialogTitle">Zimowa bitwa</message>
+        <message key="ny20SnowBattleWelcomeDialogText">Użyj superzdolności i walcz ze złem</message>
+        <message key="ny20SnowBattleAlreadyStart">Gra już się zaczęła. Znajdź inne wydarzenie.</message>
+        <message key="ny20SnowBattleWelcomeDialogTextDescription">Walcz z pomocnikami złoczyńcy i zdobądź odłamki za wygraną z nimi.</message>
+        <message key="ny20SnowBattleWelcomeDialogAllies">Zbieramy drużynę, aby uratować nasze święta</message>
+        <message key="ny20SnowBattleWelcomeDialogAlliesMessage">Oczekiwanie na graczy...</message>
+        <message key="ny20SnowBattleNoGun">Nie masz superzdolności, nie możesz wziąć udziału w bitwie</message>
+        <message key="ny20GiftExchange">Wymiana śnieżynek na prezenty</message>
+        <message key="ny20GiftGun">Superzdolność</message>
+        <message key="ny20GiftSkill">Doświadczenie i umiejętność bitewna</message>
+        <message key="ny20GunLabel">Superzdolność</message>
+        <message key="ny20ShieldLabel">Tarcza od mrozu</message>
+        <message key="ny20Lamp1Label">czerwona lampka</message>
+        <message key="ny20Lamp2Label">zielona lampka</message>
+        <message key="ny20Lamp3Label">niebieska lampka</message>
+        <message key="ny20LampDescription">można zdobyć, grając w śnieżki na zewnątrz</message>
+        <message key="ny20SparkLabel">iskra</message>
+        <message key="ny20SparkDescription">można zdobyć, przegrywając minigry</message>
+        <message key="ny20LeftTime">do :stage: etapu :time:</message>
+        <message key="ny20InterfaceCraftShieldHint">Zorganizuj obronę</message>
+        <message key="ny20InterfaceHasShieldHint">Masz obronę</message>
+        <message key="ny20MiniGameVictoryDialogTitle">Hurra! Zwycięstwo!</message>
+        <message key="ny20MiniGameVictoryDialogDescription">Walcz z bałwanami i zdobywaj lodowe odłamki</message>
+        <message key="ny20WallStageGiftMessage">Udało mi się zdobyć wspaniałą nagrodę za zaliczony etap. Też taki chcesz? Czekam na ciebie w grze! :link:</message>
+        <message key="ny20WallMiniGameVictoryMessage">Hurra, pokonałem wszystkie bałwany w noworocznej minigrze! :link:</message>
+        <message key="ny20WallGetTrophyMessage">Hurra, otrzymałem noworoczny tytuł! Czekam na ciebie w grze! :link:</message>
+        <plural key="ny20Snowflakes">
+            <form>śnieżynka</form>
+            <form>śnieżynki</form>
+            <form>śnieżynek</form>
+        </plural>
+        <plural key="ny20Mittens">
+            <form>rękawiczka</form>
+            <form>rękawiczki</form>
+            <form>rękawiczek</form>
+        </plural>
+        <plural key="ny20Friends">
+            <form>przyjaciel</form>
+            <form>przyjaciół</form>
+            <form>przyjaciół</form>
+        </plural>
+        <message key="ny20SnowballCountHint">Zostało rzutów: :count:</message>
+        <message key="ny20BuyFirPanelTitle">Kupno choinki</message>
+        <message key="ny20BuyCrTrPanelDescription1">Kupuj dodatkowe choinki i stawiaj je w swoim mieszkaniu</message>
+        <message key="ny20BuyCrTrPanelDescription2">Każda choinka daje 3 śnieżynki co 3 godziny</message>
+        <message key="ny20CreateGarlandPanelTitle">Łańcuch na choinkę</message>
+        <message key="ny20CreateGarlandPanelDescription1">Rzucaj na zewnątrz śnieżkami i zbieraj lampki, z których w pracowni można zrobić łańcuch</message>
+        <message key="ny20CreateGarlandPanelDescription2">Ozdób łańcuchem choinkę, a będzie ci dawać o :garlandBonus: śnieżynek więcej</message>
+        <message key="ny20CreateStarPanelTitle">Gwiazda na choinkę</message>
+        <message key="ny20CreateStarPanelDescription1">Weź udział w wydarzeniu „Noworoczna bitwa”, w którym można walczyć z bałwanami i wybijać z nich lodowe odłamki do stworzenia gwiazdy</message>
+        <message key="ny20CreateStarPanelDescription2">Ozdób gwiazdą choinkę, a będzie ci dawać o :starBonus: śnieżynek więcej</message>
+        <message key="ny20TrophyProgressPanelTitle">Uratowanie głównej choinki w Awatarii</message>
+        <message key="ny20TrophyProgressPanelDescription1">Wraz z innymi graczami walcz przeciwko złemu bałwanowi i uwolnij choinkę z prezentami</message>
+        <message key="ny20TrophyProgressPanelDescription2">Przed walką przygotuj w pracowni tarczę, abo wróg cię nie zamroził</message>
+        <message key="ny20TrophyProgressPanelDescription3">Zbierz ze złego bałwana :trophyProgress: gałązek i zdobądź unikatowy tytuł „Bohater 2020 roku”</message>
+        <message key="ny20MainSnowflakesDescription">Zbieraj śnieżynki i kupuj za nie nową odzież i meble w sklepie świątecznym</message>
+        <message key="ny20IceShardLabel">odłamek lodu</message>
+        <message key="ny20IceShardDescription">można zdobyć, walcząc z bałwanami</message>
+        <message key="ny20MittensLabel">Rękawiczki</message>
+        <message key="ny20MittensDescription">Ogrzeją ci ręce podczas zabawy śnieżkami</message>
+        <message key="ny20BranchLabel">Gałązka</message>
+        <message key="ny20BranchDescription">Można zdobyć od złego bałwana</message>
+        <message key="ny20ShopPanelLabel">Sklep świąteczny</message>
+        <message key="ny2020InfoDialogTitle">Krótko o akcji</message>
+        <message key="ny2020InfoDialogMessageTop1">Kupuj i ustawiaj choinki w swoim domu i zdobywaj dzięki każdej z nim 3 śnieżynki co 3 godziny</message>
+        <message key="ny2020InfoDialogMessageTop2">Zdobędziesz także 3 choinki bezpłatnie: na początku akcji, 30 grudnia i 6 stycznia</message>
+        <message key="ny2020InfoDialogMessageMiddle1">Śnieżynki są potrzebne do zakupu różnych przedmiotów w sklepie świątecznym</message>
+        <message key="ny2020InfoDialogMessageMiddle2">Ozdabiaj choinki łańcuchami i gwiazdami, aby zdobyć od nich jeszcze więcej śnieżynek</message>
+        <message key="ny2020InfoDialogMessageBottom1">Wraz z innymi graczami walcz w akcji noworocznej przeciwko złemu bałwanowi</message>
+        <message key="ny2020InfoDialogMessageBottom2">Zdąż uwolnić najważniejszą choinkę w Awatarii do 13 stycznia i zdobądź prezenty!</message>
+        <message key="ny20bossDefeatDescription">Zdołaliście pokonać największego złoczyńcę i uwolnić choinkę, pod którą czekają prezenty!</message>
+        <message key="ny20SnowflakesExchangeDialogTitle">Śnieżny sklep</message>
+        <message key="ny20BuySnowflakeDialogDescription">Masz za mało śnieżynek? Skorzystaj z tych ofert i zdobądź zapasy!</message>
+        <message key="ny20BuySnowflakeDialogTitle">Zakup śnieżynek</message>
+        <message key="ny20BuySnowflakeNotificationDescription">Zdobywasz :count: :currency:</message>
+        <message key="ny20ClothesSetsLabel">Kostiumy</message>
+        <message key="ny20ClothesUpLabel">Góra</message>
+        <message key="ny20ClothesDownLabel">Dół</message>
+        <message key="ny20ClothesShoesLabel">Obuwie</message>
+        <message key="ny20ClothesAccessoriesLabel">Dodatki</message>
+        <message key="ny20ClothesColorLabel">Kolorowa odzież</message>
+        <message key="ny20Furniture2014Label">Lodowy pałac</message>
+        <message key="ny20Furniture2015Label">Śnieżna opowieść</message>
+        <message key="ny20Furniture2020Label">Błękitny płomyk</message>
+        <message key="ny20FiReceivingNotification">Zdobywasz świąteczną choinkę. Ozdób ją i zbierz śnieżynki</message>
+        <message key="ny20BossCooldownLabel">Niedawno brałeś udział w bitwie z bossem. Spróbuj później</message>
+    </locale>
+</dictionary>

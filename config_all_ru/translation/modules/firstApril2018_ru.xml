@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="fa18MaskLabel">Śmieszna maska</message>
+        <message key="fa18PlateLabel">Wesoła tabliczka w ręce</message>
+        <message key="fa18InfoDialogTitle">Święto śmiechu!</message>
+        <message key="fa18InfoDialogDescription">Czas na zabawę, przyjacielu! Rób śmieszne tabliczki i maski, rób psikusy innym awatarom i zbierz do kolekcji unikatowe prezenty. Masz na to wszystko dokładnie dwa tygodnie, więc się pospiesz!</message>
+        <message key="fa18TrophyHint">Tytuł „Żartowniś”</message>
+        <message key="fa18SelectTrickDialogTitle">Zrób kawał znajomemu!</message>
+        <message key="fa18SelectTrickDialogDescription">Włożysz znajomemu śmieszną maskę czy dasz mu do ręki tabliczkę ze śmiesznym napisem? Wybór należy do ciebie!</message>
+        <message key="fa18ProgressDialogDescription">Rób tabliczki i maski, żartuj ze znajomych, zbieraj uśmiechy i wymieniaj je na rzadkie prezenty.</message>
+        <message key="fa18SetHint">Kostium „Smile”</message>
+        <message key="f18AwardDialogDescription">Odbierz ten wspaniały prezent za udział w akcji! Nie zapomnij podzielić się tą nowinką ze znajomymi!</message>
+        <message key="fa18WallGetAwardMessage">Udało mi się zdobyć wspaniały prezent za udział w akcji! Ty też chcesz? Czekam na ciebie w grze! :link:</message>
+        <message key="fa18NpcName">Innocenty</message>
+        <message key="fa18NpcMessage1">Hej, chcesz sobie zrobić ekstra fotkę ze wspaniałym Innocentym?</message>
+        <message key="fa18NpcMessage2">Ale łajno!</message>
+        <message key="fa18NpcMessage3">A ty co, wciąż szukasz sobie dziewczyny? Zapytaj Innocentego, jak to się robi!</message>
+        <message key="fa18NpcMessage4">Szybko, róbmy fotkę, bo spieszę się do barbershopu!</message>
+        <message key="fa18NpcMessage5">Dlaczego wcześniej nikt mnie nie zauważał?</message>
+        <message key="fa18NpcMessage6">Hej, chcesz sobie zrobić ekstra fotkę ze wspaniałym Innocentym?</message>
+        <message key="fa18NpcMessage7">Podejdź, nie bój się. Nie gryzę... Chociaż to się jeszcze okażę ;)</message>
+        <message key="fa18NpcMessage8">Nie masz jeszcze zdjęcia ze mną? Co za pech...</message>
+        <message key="fa18BuyPhotoDescription">Chcesz mieć ekstra fotkę z Innocentym?</message>
+        <message key="fa18BuyPhotoButtonTitle">zrób fotkę za :count:</message>
+        <message key="fa18MakePhotoDialogDescription">Oto twoje zdjęcie ze wspaniałym Innocentym! Niezłe, co? Opublikuj je na swojej stronie lub zapisz na komputerze.</message>
+        <message key="fa18PublishPhotoDescription">#awataria #selfie #Innocenty #:nick: Pospiesz się, taką fotkę z Innocentym można sobie zrobić tylko do 4 kwietnia! :link:</message>
+        <message key="fa18ExchangeDialogTitle">Wymiana na zasoby</message>
+        <message key="fa18ExchangeDialogDescription">Zbieraj uśmiechy i wymieniaj je na przydatne zasoby!</message>
+        <gender key="fa18NotificationDescription">
+            <form>:userName: zażartował z ciebie. Możesz mu się odwdzięczyć!</form>
+            <form>:userName: zażartowała z ciebie. Możesz jej się odwdzięczyć!</form>
+        </gender>
+    </locale>
+</dictionary>

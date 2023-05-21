@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="pl">
+        <message key="ny19InfoDialogTitle">Igrzyska chłodu!</message>
+        <message key="ny19InfoDialogTangerineDescription">Zbieraj mandarynki w całej Awatarii, aby wymieniać je na prezenty z rzadkimi nagrodami!</message>
+        <message key="ny19InfoDialogSnowflakeDescription">Bierz udział w konkursach piękności, wygrywaj śnieżynki i wymieniaj je na nowe przedmioty upiększające!</message>
+        <message key="ny19InfoDialogCrownDescription">Zdobywaj śnieżne korony za każdy zakup złota i otrzymuj jeszcze więcej śnieżynek w konkursach piękności!</message>
+        <message key="ny19AwardDialogMessage">Odbierz ten prezent w nagrodę za zwycięstwo w konkursach piękności. Nie zapomnij podzielić się tą nowinką ze znajomymi!</message>
+        <message key="ny19AwardReceivedMessage">Otrzymałem ten wspaniały prezent w nagrodę za zwycięstwo w konkursach piękności! Ty też chcesz? Czekam na ciebie w grze!</message>
+        <message key="ny19GetAfterTime">Zbierz :tangerine: w ciągu :time:</message>
+        <message key="ny19ExchangeDialogTitle">Wymiana mandarynek na prezenty!</message>
+        <message key="ny19ExchangeDialogDescription">Drzewo: Nie chcesz tracić czasu na zbieranie mandarynek? Kup mandarynkowe drzewo już dziś i zdobądź :tangerine: co :hours:!</message>
+        <message key="ny19BuySnowflakeDialogTitle">Zakup śnieżynek</message>
+        <message key="ny19BuySnowflakeDialogDescription">Masz za mało śnieżynek? Skorzystaj z tych ofert i zdobądź zapasy!</message>
+        <message key="ny19SnowflakeExchangeDialogTitle">Wymiana śnieżynek na prezenty!</message>
+        <message key="ny19SnowflakeExchangeDialogDescription">Wygrywaj śnieżynki w konkursach piękności i wymieniaj je na nową unikatową odzież co tydzień!</message>
+        <message key="ny19StageAwardsTitle">Otworzy się za :date:</message>
+        <message key="ny19NoItemHint">Nie wybrano przedmiotu</message>
+        <message key="ny19HasItemHint">Masz już ten przedmiot</message>
+        <message key="ny19CanBuyLaterHint">Będzie dostępny później</message>
+        <message key="ny19TangerineInfoDialogTitle">Jak zdobyć mandarynki?</message>
+        <message key="ny19TangerineInfoDialogDescription">Poznaj wszystkie sposoby zdobywania mandarynek! Wymieniaj mandarynki na noworoczne prezenty, aby zebrać wszystkie unikatowe przedmioty ozdobne.</message>
+        <message key="ny19TangerineInfoDialogPurchasesDescription">Zdobądź :tangerineShop: za zakup odzieży w sklepach i :tangerineCouturier: za zakupy w pracowni projektanta</message>
+        <message key="ny19TangerineInfoDialogVisagistDescription">Zdobądź :tangerine: za używanie pędzelków w zawodzie wizażysty</message>
+        <message key="ny19TangerineInfoDialogPhotographerDescription">Zdobądź :tangerine: za używanie klisz w zawodzie fotografa</message>
+        <message key="ny19TangerineInfoDialogGardenerDescription">Zdobądź :tangerine: za każdą czynność podczas pracy jako ogrodnik</message>
+        <message key="ny19TangerineInfoDialogJanitorDescription">Zdobądź :tangerine: za każdą czynność podczas pracy jako dozorca</message>
+        <message key="ny19TangerineInfoDialogSnowboardDescription">Zdobądź :tangerineRace: za udział w wyścigach i :tangerineCraft: za kupno lub wyrób łyżew lub snowboardu</message>
+        <message key="ny19TangerineInfoDialogBroomDescription">Zdobądź :tangerine: za wyrzucanie śmieci sąsiadów</message>
+        <message key="ny19BillingCrownHintTitle">Śnieżna korona</message>
+        <message key="ny19BillingCrownHintDescription">daje bonus +:snowflake:</message>
+        <message key="ny19ProgressPanelWinsLabel">masz :value: zwycięstw</message>
+        <message key="ny19CrownHintDescription">daje bonus +1 śnieżynkę</message>
+        <plural key="ny19Tangerine">
+            <form>mandarynkę</form>
+            <form>mandarynki</form>
+            <form>mandarynek</form>
+        </plural>
+        <plural key="ny19Snowflake">
+            <form>śnieżynkę</form>
+            <form>śnieżynki</form>
+            <form>śnieżynek</form>
+        </plural>
+    </locale>
+</dictionary>

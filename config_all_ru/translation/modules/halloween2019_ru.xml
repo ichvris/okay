@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="hw19CandyExchangeDialogTitle">Sklepik z horrorami</message>
+        <message key="hw19ClothesCategory">Odzież</message>
+        <message key="hw19BuyItem">Twój zakup:</message>
+    </locale>
+</dictionary>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="seQuest1Title">Złota jesień</message>
+        <message key="seQuest1Description">Wykonaj zadanie dnia, aby zdobyć klucz</message>
+        <message key="seasonEventKeyDescription">Klucz do akcji „Złota jesień”</message>
+        <message key="seCalendarDialogTitle">Złota jesień</message>
+        <message key="seCalendarDialogDescription">Wykonaj wszystkie codzienne zadania i zdobądź wyjątkową nagrodę!</message>
+        <message key="seCalendarDaysDescription">Zadanie na dziś</message>
+        <message key="seCalendarDayDescription">dzień</message>
+        <message key="seCalendarKeysDescription">Dokup klucze za niewykonane zadania!</message>
+        <message key="seCalendarBuyKeysLabel">kup za </message>
+        <message key="seCalendarAllKeysDescription">Masz wszystkie dostępne klucze!</message>
+        <message key="seCParticipationDialogDescription">Weź udział w jesiennej akcji. Można za nią otrzymać wyjątkową nagrodę!</message>
+        <message key="seInfoDialogTitle">Podpowiedź</message>
+        <message key="seInfoDialogDescription">Złota jesień to trwająca miesiąc akcja, podczas której można zdobyć wyjątkową nagrodę! Codziennie otrzymujesz zadanie. Jeśli je wykonasz, otrzymasz klucz. Jeśli w ciągu dnia zadanie nie zostanie wykonane, kolejnego dnia będzie niedostępne</message>
+        <message key="seInfoDialogInnerTitle">Zasady akcji</message>
+        <message key="seInfoDialogKeyDescription">Za wykonanie codziennych zadań wręczane są klucze, które będą wypełniać pasek postępów</message>
+        <message key="seInfoDialogTimerDescription">Na każde zadanie są 24 godziny</message>
+        <message key="seInfoDialogRestrictDescription">Nie można wrócić do pominiętego zadania</message>
+        <message key="seInfoDialogShopDescription">Klucze za pominięte zadania można kupić w specjalnym sklepie</message>
+        <message key="seInfoDialogCalendarDescription">Akcja trwa przez :days: dni</message>
+        <message key="seInfoDialogGoldDescription">Po wypełnieniu paska postępów wszystkie kolejne klucze wymieniane są na złoto: 1 klucz = :gold: szt. złota</message>
+        <message key="seFanViewHint">Wentylator „Złota jesień”</message>
+        <message key="seTitleViewHint">Tytuł „Złota jesień”</message>
+        <message key="seCostumeViewHint">Kostium „Starlight”</message>
+
+    </locale>
+</dictionary>

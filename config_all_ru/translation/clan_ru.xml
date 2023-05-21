@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="pl">
+        <message key="clanCreateDialogTitle">Stwórz własny klub</message>
+        <message key="clanCreateClanHintMessage">Aby stworzyć klub, trzeba osiągnąć :level: poziom</message>
+        <message key="clanDialogTitle">Kluby</message>
+        <message key="clanRequestDialogTitle">Wstąpienie do klubu</message>
+        <message key="clanRequestSentMessage">:name: dowie się o prośbie przyjęcia do klubu za chwilkę.</message>
+        <message key="clanRequestReceivedMessage">:name: zaprasza do klubu. Chcesz wstąpić?</message>
+        <message key="clanRequestApprovedMessage">:name: chce wstąpić do twojego klubu.</message>
+        <message key="clanFailMessage">Wniosek o przyjęcie do klubu został odrzucony.</message>
+        <message key="clanEmptyInfoMessage">Gracz nie jest w klubie</message>
+        <message key="clanNewsTabTitle">Wiadomości</message>
+        <message key="clanMembersTabTitle">Uczestnicy</message>
+        <message key="clanRequestsTabTitle">Wnioski</message>
+        <message key="clanApproveDialogMessage">Chcesz przyjąć gracza do klubu?</message>
+        <message key="clanApprovedMessage">Przyjęto cię do klubu :clanTitle:</message>
+        <message key="clanJoinErrorMessage">Najpierw opuść klub ':clanTitle:', a potem dołącz do innego</message>
+        <message key="clanAutoClanNewLevelNewsMessage">Hura! Nasz klub osiągnął :level: poziom</message>
+        <message key="clanCreateNewsDialogTitle">Tworzenie wiadomości</message>
+        <message key="clanCreateNewsDialogMessage">Treść wiadomości:</message>
+        <message key="clanCreateNewsDialogPinned">Przypięta wiadomość</message>
+        <message key="clanNewsMessageEmptyText">Wpisz treść wiadomości</message>
+        <message key="clanDonateButtonHint">Wpłać składkę</message>
+        <message key="clanDonateDialogTitle">Składka klubowa</message>
+        <message key="clanDonateMessage">Wpłać złoto</message>
+        <message key="clanDonateThanks">Dziękujemy za twój wkład!</message>
+        <message key="clanUpgradeDialogTitle">Podniesienie poziomu klubu</message>
+        <message key="clanUpgradeTitle">Nowy poziom</message>
+        <message key="clanUpgradeButtonHint">Przejdź na nowy poziom</message>
+        <message key="clanUpgradeGetClanCoinMessage">Aby przejść na nowy poziom, klubowi brakuje :clanCoin:. Chcesz wpłacić swoje złoto?</message>
+        <message key="clanUpgradeCurrentState">Bieżący stan klubu: Aktywność :activity:, członkowie:members:, miedziaki:clanCoin:</message>
+        <message key="clanUpgradeNextConditions">Wymogi do awansu: Aktywność :activity:, członkowie:members:, miedziaki:clanCoin:</message>
+        <message key="clanUpgradeNextAward">Na kolejnym poziomie: nowych członków +:members:, nowych pomocników +:masters:, nowy kolor logo</message>
+        <message key="clanRatingDialogTitle">Ranking klubów</message>
+        <message key="clanError101">Gracz należy do innego klubu</message>
+        <message key="clanError102">Nie możesz wyrzucić założyciela</message>
+        <message key="clanError103">Nie możesz wyrzucić pomocnika</message>
+        <message key="clanError104">Nie możesz wyrzucić członka</message>
+        <message key="clanError105">Maksymalna liczba pomocników</message>
+        <message key="clanError107">Nieprawidłowo wypełnione jedno lub więcej pól.</message>
+        <message key="clanError108">Należysz już do klubu</message>
+        <message key="clanError109">Masz za niski poziom</message>
+        <message key="clanError110">Klub o takiej nazwie już istnieje</message>
+        <message key="clanError300">Podczas zmiany roli członka klubu nastąpił błąd</message>
+        <message key="clanNotificationNewNews"><![CDATA[<p>W klubie <span class="bold"> :clanName:</span> opublikowano nową wiadomość</p>]]></message>
+        <message key="clanNotificationRequestAccepted"><![CDATA[<p>Przyjęto cię do klubu <span class="bold"> :clanName:</span></p>]]></message>
+        <message key="clanNotificationRequestReject"><![CDATA[<p>Twój wniosek o przyjęcie do klubu <span class="bold"> :clanName:</span> został odrzucony</p>]]></message>
+        <message key="clanNotificationKickedFromClan"><![CDATA[<p>Usunięto cię z klubu <span class="bold"> :clanName:</span></p>]]></message>
+        <message key="clanNotificationClanDismiss"><![CDATA[<p>Klub <span class="bold"> :clanName:</span> rozwiązano</p>]]></message>
+        <message key="clanNotificationTitleNewNews">Nowa wiadomość</message>
+        <message key="clanNotificationTitleNewRequest">Wniosek złożony</message>
+        <message key="clanNotificationTitleRequestAccepted">Wniosek przyjęty</message>
+        <message key="clanNotificationTitleRequestReject">Wniosek odrzucony</message>
+        <message key="clanNotificationTitleKickedFromClan">Wyrzucono cię</message>
+        <message key="clanNotificationTitleClanDismiss">Klub rozwiązano</message>
+        <message key="clanNotificationTitleInvite">Zaproszenie do klubu</message>
+        <message key="clanNotificationTitleInviteAccepted">Zaproszenie przyjęto</message>
+        <message key="clanNotificationTitleInviteRejected">Zaproszenie odrzucono</message>
+        <message key="newMembersAwardDescription">Dodatkowe miejsca w klubie</message>
+        <message key="clanEventAwardDescription">Możliwość organizowania wydarzeń dla członków klubu</message>
+        <message key="clanLocationAwardDescription">Lokalizacja klubu</message>
+        <message key="clothesShopAwardDescription">Sklep odzieżowy w klubie</message>
+        <message key="furnitureShopAwardDescription">Sklep meblowy w klubie</message>
+        <message key="makeupShopAwardDescription">Klubowy wizażysta</message>
+        <message key="newClothesAwardDescription">Nowa odzież w klubowym sklepie</message>
+        <message key="newFurnitureAwardDescription">Nowe meble w klubowym sklepie</message>
+        <message key="newMakeupAwardDescription">Nowy makijaż u klubowego wizażysty</message>
+        <message key="newOfficersAwardDescription">Dodatkowe miejsca dla pomocników</message>
+        <message key="newPetsAwardDescription">Nowe zwierzaki</message>
+        <message key="newRoomAwardDescription">Nowy pokój</message>
+        <message key="petShopAwardDescription">Sklep ze zwierzakami w klubie</message>
+        <message key="clanLevelLabel">poziom :level:</message>
+        <message key="clanIconLabel">Emblemat klubu</message>
+        <message key="forNewClanLabel">Aby utworzyć klub, potrzeba:</message>
+        <message key="nextClanLevelAwardLabel">Dostępne na :level: poziomie:</message>
+        <message key="clanTitleLabel">Nazwa:</message>
+        <message key="noTitleAlertMessage">Uzupełnij nazwę klubu</message>
+        <message key="upgradeClanConditionsDescription">Aby podnieść poziom klubu, potrzeba:</message>
+        <message key="maxClanLevelLabel">Maksymalny poziom klubu</message>
+        <message key="clanInviteNotificationMessage"><![CDATA[<p>Zaproszono cię do klubu <span class="bold"> :clanName:</span></p>]]></message>
+        <message key="clanJoinTitle">Dołącz</message>
+        <message key="clanCreateTabLabel">Stwórz</message>
+        <message key="clanInvitationsTabLabel">Zaproszenia</message>
+        <message key="clanInfoTabLabel">Mój klub</message>
+        <message key="clanNewsTabLabel">Wiadomości klubowe</message>
+        <message key="clanActivityTabLabel">Aktywność</message>
+        <message key="clanTitle">Klub</message>
+        <message key="clanListTabLabel">Kluby</message>
+        <message key="clanJoinTabLabel">Wnioski</message>
+        <message key="clanJoinLabel">Wniosek</message>
+        <message key="clanContestTabLabel">Rywalizacja</message>
+        <message key="clanMembersTabLabel">Uczestnicy</message>
+        <message key="clanItemsTabLabel">Przedmioty</message>
+        <message key="clanLeaderShopTabLabel">Sklep przywódcy klubu</message>
+        <message key="clanShopTabLabel">Sklep klubu</message>
+        <message key="searchPanelInputText">Wpisz zamówienie</message>
+        <message key="otherClubsButtonLabel">inne kluby</message>
+        <message key="allowedToJoinLabel">wolne kluby</message>
+        <message key="joinRequestButtonTitle">złóż wniosek</message>
+        <message key="requestSentDescription">wniosek wysłany</message>
+        <message key="clubFullDescription">klub pełen</message>
+        <message key="inviteReceivedDescription">zaproszono cię</message>
+        <message key="createClanRequestLevelMessage">Wymagany :level: poziom</message>
+        <message key="minSearchLengthHintText">Wniosek powinien zawierać co najmniej :clanTitleMinLength: znaków</message>
+        <message key="noResultsReceivedText">Brak wyników</message>
+        <message key="clanNoJoinRequestsText">Brak wniosków o przyjęcie do klubu.</message>
+        <message key="memberNoJoinRequestsText">Nie masz wniosków o przyjęcie do klubu.</message>
+        <message key="clanNoInvitesText">Nie masz zaproszeń do klubu.</message>
+        <message key="clanDialogNameLabel">Nazwa</message>
+        <message key="clanNameInputTitle">nazwa klubu</message>
+        <message key="clanDialogTagLabel">Tag</message>
+        <message key="clanTagInputTitle">tag</message>
+        <message key="clanLogoDialogTitle">Logo klubu</message>
+        <message key="clanDialogLogoLabel">Logo</message>
+        <message key="clanDialogLocationLabel">Lokalizacja</message>
+        <message key="pinCodeDialogTitle">PIN</message>
+        <message key="clanNameErrorDuplicateHintText">Nazwa klubu jest już zajęta.</message>
+        <message key="clanNameErrorFormatHintText">Nazwa klubu powinna się składać z :clanTitleMinLength:-:clanTitleMaxLength: znaków.</message>
+        <message key="clanNameErrorHintText">Niedopuszczalna nazwa klubu.</message>
+        <message key="clanTagErrorFormatHintText">Tag powinien się składać z :clanTagMinLength:-:clanTagMaxLength: znaków.</message>
+        <message key="clanTagErrorHintText">Niedopuszczalna treść tagu.</message>
+        <message key="clanTagHintText">Skrót klubu: :clanTagMinLength:-:clanTagMaxLength: znaków. Jest podawany przed nazwą członka klubu.</message>
+        <message key="pinCodeDialogDescription">Aby zapobiec przejęciu klubu, stwórz PIN, składający się z :pinLength: cyfr. Zapisz go.</message>
+        <message key="clanPinCodeErrorDescription">Wpisano nieprawidłowy PIN</message>
+        <message key="clanLocationSelectTitle">Lokalizacja klubu</message>
+        <message key="scifiClanTitle">Stacja kosmiczna</message>
+        <message key="scifiClanDescription">Niesamowity widok na gwiazdy, rośliny z innych planet i zadziwiające kosmiczne wyposażenie – idealne miejsce dla twojego klubu!</message>
+        <message key="glamourClanTitle">Pokój księżniczki</message>
+        <message key="glamourClanDescription">Marzysz o mieszkaniu jak księżniczka i jeżdżeniu na jednorożcu? Ta lokalizacja pozwoli twojemu klubowi zanurzyć się w fantastycznym świecie blichtru, zabawy i magii.</message>
+        <message key="magicClanTitle">Średniowieczny zamek</message>
+        <message key="magicClanDescription">W murach zamku zawsze jest jasno i przestronnie. Zadowoli to duży klub, który chce rządzić i decydować o losach świata.</message>
+        <message key="apocalypseClanTitle">Postapokalipsa</message>
+        <message key="apocalypseClanDescription">Chcesz poznać postapokaliptyczną przyszłość? W takim razie to lokalizacja dla ciebie! Uważaj tylko na radioaktywne szczury i pająki. Mają więcej odnóży, niż mogłoby się wydawać.</message>
+        <message key="clanSuccessCreateDescription">Twój klub został utworzony. Nie zapomnij o nim opowiedzieć.</message>
+        <message key="clanDonateButtonTitle">wpłać</message>
+        <message key="clanDonateTip"><![CDATA[<p><span class="bold">Podpowiedź:</span> zdecyduj, ile złota chcesz wpłacić do skarbonki klubu</p>]]></message>
+        <message key="orderByClanListDescriptionTitle">sortuj wg:</message>
+        <message key="orderByPositionButtonTitle">rangi</message>
+        <message key="orderByLevelButtonTitle">poziomu</message>
+        <message key="orderByActivityButtonTitle">aktywności w :activityPeriod:</message>
+        <message key="orderByActivityButtonText">aktywności w </message>
+        <message key="onlineCheckBoxTitle">statusu online</message>
+        <message key="clanRoleLabelText">Ranga</message>
+        <message key="clanRoleNovice">nowicjusz</message>
+        <message key="clanRoleMember">członek</message>
+        <message key="clanRoleMaster">pomocnik</message>
+        <message key="clanRoleCreator">przywódca</message>
+        <message key="clanDismissPinCodeTitle">Aby rozwiązać klub, podaj PIN.</message>
+        <message key="dismissClanButtonTitle">rozwiąż klub</message>
+        <message key="leaveClanButtonTitle">opuść klub</message>
+        <message key="clanVerifyPinCodeTitle">Aby zmienić PIN, trzeba wpisać poprzedni PIN.</message>
+        <message key="changePinCodeButtonTitle">zmień PIN</message>
+        <message key="clanChangePinCodeTitle">Wpisz nowy PIN. Nie zapomnij go zapisać.</message>
+        <message key="clanChangeCreatorPinCodeTitle">Aby przekazać przywództwo innemu członkowi klubu, podaj PIN.</message>
+        <message key="clanLeaderCreatePinCodeText">Mianowano cię nowym przywódcą klubu! Aby zapobiec przejęciu klubu, stwórz PIN, składający się z :pinLength: cyfr.</message>
+        <message key="clanPinCodeErrorHintText">PIN powinien się składać z :pinCodeLength: cyfr.</message>
+        <message key="enterPinCodeButtonTitle">wpisz</message>
+        <message key="declinePinCodeButtonTitle">anuluj</message>
+        <message key="clanSuccessCreatePublishTitle">:clubName:</message>
+        <message key="inviteClanWaitButtonTitle">oczekiwanie...</message>
+        <message key="inviteClanValidateHintText">Będzie dostępne od :level: poziomu</message>
+        <message key="memberUpPositionLabel">Gracz :memberName: został awansowany</message>
+        <message key="memberDownPositionLabel">Gracz :memberName: został zdegradowany</message>
+        <message key="memberDonateLabel">Gracz :memberName: uzupełnił konto klubu o :clanCoins:.</message>
+        <message key="clanUpgrade">Poziom klubu został podniesiony.</message>
+        <message key="clanRatingPlaceLabel">Klub zajął :place: miejsce w rankingu.</message>
+        <message key="addMemberLabel">Gracz :memberName: wstąpił do klubu.</message>
+        <message key="removeMemberLabel">Gracz :memberName: opuścił klub.</message>
+        <message key="clanCompetitionPlaceLabel">Klub zajął :place: miejsce w zawodach.</message>
+        <message key="clanMemberActivityAwardLabel">Nagroda za aktywność w klubie.</message>
+        <message key="clanActivityAwardLabel">Nagroda za punkty aktywności</message>
+        <message key="clanDayActivityLabel">Dzienna aktywność</message>
+        <message key="clanDayActivityAwardLabel">Nagrodę otrzymują gracze, którzy zdobyli co najmniej :points: aktywności.</message>
+        <message key="clanActivityDescription">Wykonując różne czynności w grze, zdobywasz punkty aktywności, które są wymagane do awansowania w rankingu i do zdobywania lepszych nagród w skrzyniach klubu.</message>
+        <message key="clanBuyItemActivityLabel">Za zakup przedmiotów</message>
+        <message key="clanGoldActivityLabel">Każda wydana złota moneta dodaje :points: aktywności/</message>
+        <message key="clanBuyVipActivityLabel">Za zakup statusu VIP</message>
+        <message key="clanDayCountActivityLabel">Za :days: - :points:.</message>
+        <message key="clanBuyGoldActivityLabel">Za zakup złotych monet</message>
+        <message key="clanBuyGoldCountActivityLabel">Za każdą kupioną złotą monetę dodaje :points: aktywności.</message>
+        <message key="clanInteractionCountActivityLabel">Współpracując z innymi awatarami, dodajesz :points: aktywności.</message>
+        <message key="clanFriendsCountActivityLabel">Sprzątając mieszkanie przyjaciół, dodajesz ___ pkt. aktywności.</message>
+        <message key="clanWorkActivityLabel">Za sprzątanie na ulicy i w ogrodzie</message>
+        <message key="clanWorkCountActivityLabel">Sprzątanie ulicy i praca w ogrodzie dają po :points: aktywności.</message>
+        <message key="clanEnterGameActivityLabel">Za codzienne logowanie w grze</message>
+        <message key="clanEnterGameCountActivityLabel">Graj codziennie, aby zdobyć :points: aktywności.</message>
+        <message key="clanCompetitionActivityLabel">Za udział w zawodach</message>
+        <message key="clanCompetitionCountActivityLabel">Bierz udział w minigrach i zdobywaj za zwycięstwo :activityWinCount:, a za przegraną lub remis po :points: aktywności.</message>
+        <message key="noClanTitle">Nie jest w klubie</message>
+        <message key="playerSendRequestLabel">Gracz złożył wniosek do klubu</message>
+        <message key="declineRequestMessage">Twój wniosek o przyjęcie do klubu :clubName: został odrzucony.</message>
+        <message key="dismissClanMessage">Klub :clubName: został rozwiązany.</message>
+        <message key="kickClanMemberMessage">Wyrzucono cię z klubu :clubName:.</message>
+        <message key="clanLocationNotAllowed">Nie możesz iść za znajomych do lokacji klubowej</message>
+        <gender key="clanConfirmLeaveClanMessage">
+            <form>Na pewno chcesz opuścić klub?</form>
+            <form>Na pewno chcesz opuścić klub?</form>
+        </gender>
+        <gender key="clanConfirmDismissClanMessage">
+            <form>Na pewno chcesz rozwiązać klub?</form>
+            <form>Na pewno chcesz rozwiązać klub?</form>
+        </gender>
+        <gender key="clanConfirmKickMemberMessage">
+            <form>Na pewno chcesz usunąć gracza :name: z klubu?</form>
+            <form>Na pewno chcesz usunąć gracza :name: z klubu?</form>
+        </gender>
+        <gender key="clanAutoJoinUserNewsMessage">
+            <form>:name: wstąpił do naszego klubu</form>
+            <form>:name: wstąpiła do naszego klubu</form>
+        </gender>
+        <gender key="clanAutoLeaveUserNewsMessage">
+            <form>:name: opuścił nasz klub</form>
+            <form>:name: opuściła nasz klub</form>
+        </gender>
+        <gender key="clanAutoDonateUserNewsMessage">
+            <form>:name: wpłacił do klubu :clanCoin:</form>
+            <form>:name: wpłaciła do klubu :clanCoin:</form>
+        </gender>
+        <gender key="clanAutoMakeMasterNewsMessage">
+            <form>:name: mianowano pomocnikiem</form>
+            <form>:name: mianowano pomocniczką</form>
+        </gender>
+        <gender key="clanAutoRemoveMasterNewsMessage">
+            <form>:name: zdegradowano z rangi pomocnika</form>
+            <form>:name: zdegradowano z rangi pomocniczki</form>
+        </gender>
+        <gender key="clanDailyGiftMessage">
+            <form>Zdobywasz klubowy prezent</form>
+            <form>Zdobywasz klubowy prezent</form>
+        </gender>
+        <gender key="clanCreateEventNotification">
+            <form><![CDATA[<p><span class="bold">:name:</span> utworzył nowe wydarzenie klubowe :event: i czeka na ciebie.</p>]]></form>
+            <form><![CDATA[<p><span class="bold">:name:</span> utworzyła nowe wydarzenie klubowe :event: i czeka na ciebie.</p>]]></form>
+        </gender>
+        <gender key="clanError100">
+            <form>Złożyłeś już wniosek do tego klubu</form>
+            <form>Złożyłaś już wniosek do tego klubu</form>
+        </gender>
+        <gender key="clanNotificationNewRequest">
+            <form><![CDATA[<p>:avatarName: złożył wniosek o przyjęcie do klubu <span class="bold"> :clanName:</span></p>]]></form>
+            <form><![CDATA[<p>:avatarName: złożyła wniosek o przyjęcie do klubu <span class="bold"> :clanName:</span></p>]]></form>
+        </gender>
+        <gender key="clanSuccessAddMemberDescription">
+            <form>Wstąpiłeś do klubu. Nie zapomnij o nim opowiedzieć.</form>
+            <form>Wstąpiłaś do klubu. Nie zapomnij o nim opowiedzieć.</form>
+        </gender>
+        <gender key="leaveClanDescription">
+            <form>Na pewno chcesz opuścić klub?</form>
+            <form>Na pewno chcesz opuścić klub?</form>
+        </gender>
+        <gender key="clanSuccessCreatePublishDescription">
+            <form>Właśnie utworzyłem własny klub! Dołącz do mnie! :link:</form>
+            <form>Właśnie utworzyłam własny klub! Dołącz do mnie! :link:</form>
+        </gender>
+        <plural key="memberCoin">
+            <form>:value: rubin</form>
+            <form>:value: rubiny</form>
+            <form>:value: rubinów</form>
+        </plural>
+        <plural key="clan">
+            <form>:value: klub</form>
+            <form>:value: kluby</form>
+            <form>:value: klubów</form>
+        </plural>
+        <message key="clanBackButtonTitle">z powrotem</message>
+
+        <message key="newsTabPanel">Wiadomości klubowe</message>
+        <message key="clanRoleNoviceGenitive">nowicjusza</message>
+        <message key="clanRoleMemberGenitive">uczestnika</message>
+        <message key="clanRoleMasterGenitive">pomocnika</message>
+        <message key="clanRoleCreatorGenitive">przywódcy</message>
+        <message key="openRequestsForClanLabel">otwórz klub</message>
+        <message key="closeRequestsForClanLabel">zamknij klub</message>
+        <message key="clubIsRestrictedToJoin">Klub zamknięty</message>
+        <message key="advertisementTextLabel">Ogłoszenie</message>
+        <message key="editAdvertisementTextLabel">edytuj</message>
+        <message key="noClanNewsTextLabel">Teraz w klubie nie ma wiadomości</message>
+        <message key="getClanActivityPointsLabel">Zdobywaj punkty aktywności</message>
+        <message key="notInClanHintLabel">Nie należysz do klubu</message>
+        <gender key="clanSuccessJoinPublishDescription">
+            <form>Właśnie wstąpiłem do klubu! Dołącz do mnie! :link:</form>
+            <form>Właśnie wstąpiłam do klubu! Dołącz do mnie! :link:</form>
+        </gender>
+
+        <message key="buyRecipeNewsDescription">Dostępne są nowe przedmioty klanowe:  :itemName:. </message>
+        <message key="approveRecipeDialogTitle">Potwierdzenie</message>
+        <message key="viewRecipeDialogTitle">Podgląd</message>
+        <message key="approveRecipeDialogDescription">Odblokujesz:</message>
+        <message key="memberRecipeDialogDescription">Przedmiot może odblokować tylko przywódca klubu.</message>
+        <message key="notEnoughClubCoinTitle">Za mało klubowych monet</message>
+        <message key="notEnoughClubCoinDescription">W klubie jest za mało klubowych monet. Chcesz wpłacić złoto i uzupełnić licznik klubowych monet?</message>
+        <message key="leaderShopPurchaseAlert">Zakupu może dokonać tylko przywódca klubu!</message>
+        <message key="closeClubLocationLabel">Zamknij klub na :time:</message>
+        <message key="closedClubLocationLabel">Klub zamknięty. Zostało</message>
+        <message key="openClanLocationLabel">otwórz klub</message>
+        <message key="clanLocationInfoLeaderLabel"><![CDATA[
+            <p><span class="bold"> Przywódca: </span>:name:</p>]]></message>
+        <message key="clanLocationRoomCountLabel"><![CDATA[
+            <p><span class="bold"> Klub: </span>:rooms:</p>]]></message>
+        <message key="clanTotalVisitorsLabel">ogółem w klubie (:count:)</message>
+        <message key="clanCurrentRoomVisitorsLabel">ogółem w tym pokoju (:count:)</message>
+        <message key="clanKickedMessage">Członkowie klubu nie chcą cię widzieć przez jakiś czas.</message>
+
+        <message key="defaultAdvertisementText">Na razie brak ogłoszeń</message>
+        <message key="buyCategoryRecipeNewsDescription">Dostępne są nowe elementy klubowego wyglądu: :itemName:</message>
+        <message key="approveFurnitureDialogDescription">Twój zakup:</message>
+        <message key="memberFurnitureDialogDescription">Meble może kupować tylko przywódca klubu.</message>
+        <message key="rubyPacksDialogLabel">Potrzebujesz więcej rubinów?</message>
+        <message key="unlockForLeaderDescription">Nie odblokowano przez lidera</message>
+        <message key="emptyShoppingCartText">koszyk jest pusty</message>
+        <message key="ClnMgcGlssLabel">Monokl i okulary „Wizard”</message>
+        <message key="ClnMgcJctLabel">Peleryna „Wizard”</message>
+        <message key="ClnMgcTShrtLabel">Jumper „Wizard”</message>
+        <message key="ClnMgcPntsLabel">Spódnica i spodnie „Wizard”</message>
+        <message key="ClnMgcScksLabel">Pończochy i skarpetki „Wizard”</message>
+        <message key="ClnMgcBtsLabel">Pantofle „Wizard”</message>
+        <message key="ClnMgcAcsLabel">Różdżki „Wizard”</message>
+        <message key="ClnMgcScrfLabel">Szal „Wizard”</message>
+        <message key="SCiFITShirtsLabel">Pancerz „Sci-fi”</message>
+        <message key="SCiFIJcktLabel">Peleryna „Sci-fi”</message>
+        <message key="SCiFIPntsLabel">Spodnie „Sci-fi”</message>
+        <message key="SCiFIBtsLabel">Buty „Sci-fi”</message>
+        <message key="SCiFIGlssLabel">Mikrofon „Sci-fi”</message>
+        <message key="SCiFIAcsLabel">Blaster „Sci-fi”</message>
+        <message key="ClnGlmrTShirtsLabel">Gorset „Glamour” i koszula „Esquire”</message>
+        <message key="ClnGlmrJcktLabel">Peleryna „Glamour” i marynarka „Esquire”</message>
+        <message key="ClnGlmrPntsLabel">Spódnica „Glamour” i spodnie „Esquire”</message>
+        <message key="ClnGlmrBtsLabel">Pantofle „Glamour” i buty „Esquire”</message>
+        <message key="ClnGlmrDcrLabel">Kolczyk „Glamour” i kolczyk „Esquire”</message>
+        <message key="ClnGlmrGErBGlssLabel">Uszy „Glamour” i okulary „Esquire”</message>
+        <message key="ClnGlmrGlvsLabel">Rękawiczki „Glamour” i rękawiczki „Esquire”</message>
+        <message key="ClnPstpcTShrtLabel">Top i koalicyjka „Raiders”</message>
+        <message key="ClnPstpcPntsLabel">Spodenki i dżinsy „Raiders”</message>
+        <message key="ClnPstpcBtsLabel">Buty „Raiders”</message>
+        <message key="ClnPstpcGtssLabel">Okulary „Raiders”</message>
+        <message key="ClnPstpcBatLabel">Pałka „Raiders”</message>
+        <message key="ClnPstpcMskLabel">Maska „Raiders”</message>
+        <message key="ClnPstpcScfLabel">Szalik „Raiders”</message>
+
+        <message key="tshrt2PstpclpsLabel">Koszulka „Cyborg”</message>
+        <message key="pnts2PstpclpsLabel">Spodnie „Cyborg”</message>
+        <message key="shsPstpclpsLabel">Buty „Cyborg”</message>
+        <message key="glvsPstpclpsLabel">Rękawice „Cyborg”</message>
+        <message key="acsPstpclpsLabel">Oko „Cyborg”</message>
+        <message key="gnPstpclpsLabel">Pistolet „Cyborg”</message>
+        <message key="jcktPstpclpsLabel">Kamizelka „Cyborg”</message>
+        <message key="ClnSciFi2JcktLabel">Kurtka „Cyberpunk”</message>
+        <message key="ClnSciFi2TShrtLabel">Koszulka „Cyberpunk”</message>
+        <message key="ClnSciFi2PntsLabel">Spodnie „Cyberpunk”</message>
+        <message key="ClnSciFi2BtsLabel">Buty „Cyberpunk”</message>
+        <message key="ClnSciFi2GlvsLabel">Rękawice „Cyberpunk”</message>
+        <message key="ClnSciFi2GlssLabel">Okulary „Cyberpunk”</message>
+        <message key="acsClnGlmLabel">Torba i portfel „Rich”</message>
+        <message key="shsScksClnGlmLabel">Buty i pantofle „Rich”</message>
+        <message key="pntsClnGlmLabel">Szorty i spodnie „Rich”</message>
+        <message key="ncklcRngClnGlmLabel">Wisiorek i kolczyk „Rich”</message>
+        <message key="pllvrClnGlmLabel">Bluzka i pulower „Rich”</message>
+        <message key="jcktClnGlmLabel">Kapelusz i marynarka „Rich”</message>
+        <message key="clanContestCraftLabel">Zawody</message>
+        <message key="clanPicturesLabel">Obrazy</message>
+        <message key="clanCocktailLabel">Koktajl</message>
+        <message key="clanCameraLabel">Aparat fotograficzny</message>
+        <message key="clanPaperFigureLabel">Figurka z papieru</message>
+        <message key="clanCoffeeLabel">Kawa</message>
+        <message key="clanLotteryTicketLabel">Bilet na loterię</message>
+        <message key="clanFlowersLabel">Kwiaty</message>
+        <message key="clanShovelLabel">Łopata</message>
+        <message key="clanPetardLabel">Petarda</message>
+        <message key="clanBookLabel">Książka</message>
+        <message key="clanCostumeLabel">Strój</message>
+        <message key="clanBirdhouseLabel">Budka dla ptaków</message>
+        <message key="clanPicturesCraftDescription">Umieść w galerii swoje najlepsze obrazy</message>
+        <message key="clanCocktailCraftDescription">Przygotuj najwięcej napojów chłodzących</message>
+        <message key="clanCameraCraftDescription">Zrób zdjęcia dla magazynu „Moja Planeta”</message>
+        <message key="clanPaperFigureCraftDescription">Przygotuj papierowe figurki na konkurs origami</message>
+        <message key="clanCoffeeCraftDescription">Zademonstruj mistrzostwo w parzeniu kawy</message>
+        <message key="clanLotteryTicketCraftDescription">Weź udział w loterii bez przegranych</message>
+        <message key="clanFlowersCraftDescription">Zbierz bukiet na Festiwal Kwiatów</message>
+        <message key="clanShovelCraftDescription">Zasadź drzewa w ramach czynu społecznego</message>
+        <message key="clanPetardCraftDescription">Zorganizuj fajerwerki na wieczorny show</message>
+        <message key="clanBookCraftDescription">Oddaj stare książki do biblioteki</message>
+        <message key="clanCostumeCraftDescription">Uszyj tematyczny kostium na konkurs piękności</message>
+        <message key="clanBirdhouseCraftDescription">Zbij budkę dla ptaków</message>
+        <message key="ClnMgc2TShrtLabel">Koszula „Zaczarowanie”</message>
+        <message key="ClnMgc2PntsLabel">Spódnica i spodnie „Zaczarowanie”</message>
+        <message key="ClnMgc2BtsLabel">Pantofle i buty „Zaczarowanie”</message>
+        <message key="ClnMgc2HatLabel">Kapelusz „Zaczarowanie”</message>
+        <message key="ClnMgc2SksLabel">Rajstopy i skarpetki „Zaczarowanie”</message>
+        <message key="ClnMgc2AcsLabel">Kociołek „Zaczarowanie”</message>
+        <message key="ClanContestLabel">Zawody klubowe</message>
+        <message key="ClanContestReadyStatusDescription">Klub czeka na udział w zawodach</message>
+        <message key="ClanContestNotReadyStatusDescription">Zgłoszenie do udziału w zawodach nie zostało złożone</message>
+        <message key="clanContestStepDescription1"><![CDATA[<p align="center" ><font size="13">W zawodach biorą udział <span class="bold">wszyscy członkowie</span> klubu</font></p>]]></message>
+        <message key="clanContestStepDescription2"><![CDATA[<p align="center"><font size="13">Twórz przedmioty w <span class="bold">warsztacie</span> i używaj ich do wykonywania <span class="bold">zadań</span></font></p>]]></message>
+        <message key="clanContestStepDescription3"><![CDATA[<p align="center"><font size="13">Każde wykonane zadania zwiększa liczbę <span class="bold">punktów chwały</span> klubu</font></p>]]></message>
+        <message key="clanContestStepDescription4"><![CDATA[<p align="center"><font size="13">Po zakończeniu zawodów klub otrzymuje <span class="bold">nagrodę</span></font></p>]]></message>
+        <message key="award">Nagroda</message>
+        <message key="clanActiveContestTitle">Bieżące zawody:</message>
+        <message key="vitalityPanelHintTitle">Skala mocy</message>
+        <message key="vitalityPanelHintText">1 jednostka mocy zostanie przywrócona za :restoreMinutes: min</message>
+        <message key="nextCompetitionHint">Zawody zaczną się za</message>
+        <message key="clanLevelIncreasedNewLabel">Poziom klubu został podniesiony do :level:</message>
+        <message key="clanContestFinishedNewsLabel">Klub brał udział w zawodach i zajął :place: miejsce</message>
+        <message key="clanContestFinishingLabel">Zawody dobiegły końca. Trwa obliczanie wyników</message>
+        <message key="clanContestFinishingHint">Do zakończenia zawodów zostało</message>
+        <message key="clanContestStartingSoonLabel">Zawody wkrótce się zaczną</message>
+
+        <message key="clanContestNoviceHint">Nowi uczestnicy nie mogą brać udziału w bieżącej rywalizacji</message>
+
+        <message key="clanActivityRatingTabLabel">Top klubów</message>
+        <message key="clanCompetitionPlaceNews">Klub zajął :place: miejsce w rankingu</message>
+        <message key="clanActivityRatingAwardNewsTitle">Zajęliście :place: miejsce!</message>
+        <message key="clanActivityRatingAwardNewsDescription">Klub zdobywa puchar i ramkę</message>
+
+        <message key="clanContestDisableLabel">Klub nie może brać udziału w rywalizacji</message>
+
+        <message key="clanCreateDisabledDescription">Z przyczyn technicznych tworzenie klubu jest obecnie niedostępne. Spróbuj stworzyć klub później.</message>
+        <gender key="kickMemberLabel">
+            <form>Gracz :kickerName: wyrzucił gracza :memberName: z klubu.</form>
+            <form>Gracz :kickerName: wyrzuciła gracza :memberName: z klubu.</form>
+        </gender>
+
+        <message key="itemIsNotAvailableForBeginDescription">Zakup przedmioty jest niedostępny dla nowicjuszy</message>
+
+        <message key="jcktClnHellLabel">Peleryna „Evil”</message>
+        <message key="tshrtClnHellLabel">Top „Evil”</message>
+        <message key="tshrtClnHell2Label">Top i koszula „Hell”</message>
+        <message key="pntsClnHellLabel">Spodnie „Evil”</message>
+        <message key="pntsClnHell2Label">Spodnie „Hell”</message>
+        <message key="btsClnHellLabel">Buty „Evil”</message>
+        <message key="btsClnHell2Label">Buty „Hell”</message>
+        <message key="ClnHellHrnLabel">Rogi „Evil”</message>
+        <message key="ClnHellNeckLabel">Naszyjnik „Evil”</message>
+        <message key="ClnHellRingLabel">Pierścionek „Evil”</message>
+        <message key="ClnHellGlvsLabel">Rękawy „Evil”</message>
+        <message key="ClnHellAcsLabel">Miecz „Evil”</message>
+        <message key="ClnHellTailLabel">Ogon „Evil”</message>
+        <message key="ClnHell2FlmLabel">Płomień „Hell”</message>
+        <message key="ClnHell2HrnLabel">Rogi „Hell”</message>
+        <message key="ClnHell2MskLabel">Maska „Hell”</message>
+        <message key="ClnHell2WingsLabel">Skrzydła „Hell”</message>
+
+        <message key="paradiseClanTitle">Raj</message>
+        <message key="paradiseClanDescription">Jaki jest idealny świat? Odblokuj tę lokację i poznaj odpowiedź na to pytanie!</message>
+        <message key="hellClanTitle">Podziemia</message>
+        <message key="hellClanDescription">Lokacja ta pozwoli twojemu klubowi zwiedzić najmroczniejsze i najgorętsze miejsce na świecie.</message>
+        <message key="tshrtClnPrdsLabel">Koszula „Paradise”</message>
+        <message key="jcktClnPrdsLabel">Płaszcz „Paradise”</message>
+        <message key="tshrtClnPrds2Label">Zbroja „Angel”</message>
+        <message key="pntsClnPrdsLabel">Spodnie „Paradise”</message>
+        <message key="pntsClnPrds2Label">Spodnie „Angel”</message>
+        <message key="clnPrdsBtsLabel">Buty „Paradise”</message>
+        <message key="clnPrds2BtsLabel">Buty „Angel”</message>
+        <message key="clnPrdsAcsLabel">Kostur „Paradise”</message>
+        <message key="clnPrdsAcs2Label">Miecz „Angel”</message>
+        <message key="clnPrdsDcrLabel">Diadem „Paradise”</message>
+        <message key="clnPrds2DcrLabel">Tiara „Angel”</message>
+        <message key="clnPrds2WngsLabel">Skrzydła „Angel”</message>
+
+        <message key="clanNotificationTitleClanEditSuccess">Edycja</message>
+        <message key="changeClanTitleAlert">Chcesz zmienić nazwę klubu?</message>
+        <message key="changeClanTagAlert">Chcesz zmienić tag klubu?</message>
+        <message key="changeClanLogoAlert">Chcesz zmienić logo klubu?</message>
+        <message key="changeClanParamsSuccess"><![CDATA[<p>Zmiany zostały zapisane</p>]]></message>
+        <message key="changeClanParams">Zmień :name:</message>
+
+        <message key="clanNotificationTitleClanAddVitalityRequest">Zapytanie wysłane</message>
+        <message key="clanEditLogoPinCodeTitle">Aby zmienić logo klubu, podaj PIN.</message>
+        <message key="clanEditNamePinCodeTitle">Aby zmienić nazwę klubu, podaj PIN.</message>
+        <message key="clanEditTagPinCodeTitle">Aby zmienić tag klubu, podaj PIN.</message>
+        <message key="clanChangeTitleNewsLabel">Nazwa klubu zmieniona</message>
+        <message key="clanChangeTagNewsLabel">Tag klubu zmieniony</message>
+        <message key="clanChangeLogoNewsLabel">Logo klubu zmienione</message>
+        <message key="requiredActivityLevelToObtain">Wymagany poziom aktywności do zdobycia</message>
+        <message key="addVitalityRequestNotification"><![CDATA[<p> Twoje zapytanie zostało wysłane na czacie klubowym</p>]]></message>
+        <message key="addVitalityRequestConfirmDescription">Wysłać zapytanie na czacie klubowym?</message>
+        <message key="addVitalityRequestAlert">Kolejne zapytanie będzie można wysłać za :time:</message>
+        <message key="acceptVitalityRequestConfirm">Wziąć :vitality:? Nadwyżka mocy zniknie</message>
+        <plural key="vitality">
+            <form>:value: jedn. mocy</form>
+            <form>:value: jedn. mocy</form>
+            <form>:value: jedn. mocy</form>
+        </plural>
+
+        <message key="clanBlackListTabLabel">Czarna lista</message>
+        <message key="bannedClanDescription">Klub dodał cię do czarnej listy</message>
+        <message key="bannedClanDescriptionInline">Klub dodał cię do czarnej listy.</message>
+        <message key="bannedClanUserDescription">Użytkownik widnieje na czarnej liście</message>
+        <message key="bannedClanUserNoteDescription">Informacja o zablokowanym członku klubu</message>
+        <message key="bannedClanUserNoteTitle">Notatki</message>
+        <message key="bannedClanNews">Gracz :name: został dodany do czarnej listy klubu.</message>
+        <message key="bannedClanUserAlert">Klub dodał cię do czarnej listy. Informacja o klubie niedostępna.</message>
+        <message key="banClanConfirm">Na pewno chcesz dodać użytkownika :name: do czarnej listy?</message>
+        <message key="unbanClanButton">Usunięto ban</message>
+        <message key="banClanButtonHint">Zbanować użytkownika</message>
+        <message key="clanNoBannedUsersText">Teraz nie ma zbanowanych użytkowników.</message>
+        <message key="clanBagGlamour3Label">Torba „Czar”</message>
+        <message key="clanTopGlamour3Label">Suknia i marynarka „Czar”</message>
+        <message key="clanGlassClockGlamour3Label">Okulary i zegarek „Czar”</message>
+        <message key="clanNeckErrGlamour3Label">Naszyjnik i kolczyk „Czar”</message>
+        <message key="clanShoesGlamour3Label">Buty i pantofle „Czar”</message>
+        <message key="clanBottomGlamour3Label">Rajstopy i spodnie „Czar”</message>
+        <message key="clanTopMagic3Label">Płaszcz „Czary”</message>
+        <message key="clanDecorMagic3label">Kolczyki i rękawiczki „Czary”</message>
+        <message key="clanAksMagic3Label">Kapelusz i włócznia „Czary”</message>
+        <message key="clanShirtMagic3Label">Body i koszula „Czary”</message>
+        <message key="clanShoesMagic3Label">Pantofle i buty „Czary”</message>
+        <message key="clanBottomMagic3Label">Rajstopy i spodnie „Czary”</message>
+    </locale>
+</dictionary>

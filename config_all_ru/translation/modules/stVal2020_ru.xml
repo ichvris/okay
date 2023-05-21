@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="sv2020EventTitle">Święto zakochanych!</message>
+        <message key="sv2020ParticipateDescription">W Awatarii trwa święto zakochanych! Wchodź w interakcję z innymi awatarami i zbieraj serca, które można wymienić w sklepie walentynkowym na nową odzież i meble!</message>
+        <message key="sv2020InviteText"> W Awatarii ruszyła akcja pn. „Święto zakochanych”! Nowa odzież, meble, a nawet tańce czekają na ciebie w grze!</message>
+        <message key="sv2020BuyHeartsDialogTitle">Kupno serc!</message>
+        <message key="sv2020BuyHeartsDialogDescription">Masz za mało serc? Najwyższy czas uzupełnić zapasy. Nie przegap wyjątkowych okazji!</message>
+        <message key="sv2020ShopDialogTitle">Sklep walentynkowy</message>
+        <message key="sv20CollectDialogTitle">Zbierz serca</message>
+        <message key="sv20FriendPanelDescription">Codziennie odbieraj serca od aktywnych sąsiadów i za zapraszanie tych, którzy od dawna nie grali!</message>
+        <message key="sv20ProgressPanelDescription">Zbierz podczas akcji :heartsCount: serc i zdobądź rzadki tytuł!</message>
+        <message key="sv20CollectPanelTitle">Jak jeszcze zdobyć serca?</message>
+        <message key="sv20NoFriendsPanelDescription">Zaproś znajomych do Awatarii!</message>
+        <message key="sv20FirstTipLabel">Za wchodzenie w interakcję z awatarami</message>
+        <message key="sv20FirstTipDescription">Za całusy i objęcia z pewnym prawdopodobieństwem można zdobyć serca</message>
+        <message key="sv20SecondTipLabel">Za sprzątanie u sąsiadów</message>
+        <message key="sv20SecondTipDescription">Pomagaj sąsiadom sprzątać mieszkania i zdobywaj serca w nagrodę</message>
+        <message key="sv20ThirdTipLabel">Za częstowanie w kawiarni i klubie</message>
+        <message key="sv20ThirdTipDescription">Za każdy poczęstunek otrzymasz serca. Im droższy poczęstunek, tym więcej serc</message>
+        <message key="sv20FourthTipLabel">Zakup w sklepie</message>
+        <message key="sv20FourthTipDescription">W sklepie walentynkowym można kupić potrzebną liczbę serc</message>
+        <message key="sv20TrophyDescription">Gratulacje z okazji zdobycia tytułu!</message>
+        <message key="sv20ReceiveTrophyMessage">W Awatarii trwa święto zakochanych! Udało mi się zdobyć rzadki tytuł! Wchodź do Awatarii po prezenty i nagrody! :link:</message>
+
+        <message key="sv21InfoDialogTitle">Jak zdobyć serca?</message>
+
+        <message key="sv21MiniGameTipLabel">Za wygrywanie mini-gier</message>
+        <message key="sv21MiniGameTipDescription">Wygrywaj bitwy na poduszki, surfuj, jeżdżąc na snowboardzie i ścigaj się, aby zdobyć serca</message>
+        <message key="sv21TrophyTipLabel">Unikalny tytuł</message>
+        <message key="sv21TrophyTipDescription">Gratulacje z okazji zdobycia tytułu!</message>
+    </locale>
+</dictionary>

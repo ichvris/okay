@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="firstApril2017InfoDialogTitle">Zrób znajomemu kawał!</message>
+        <message key="firstApril2017InfoDialogDescription">Nastał czas zabawy! Za różne swawole w grze możesz zdobyć uśmiechy i wymienić je na rzadkie kostiumy oraz prezenty. Oto lista działań, za które otrzymasz uśmiechy:</message>
+        <message key="firstApril2017InfoDialogBombPlacedTitle">Drobny kawał</message>
+        <message key="firstApril2017InfoDialogBombPlacedDescription">Podłóż u swoich znajomych i przyjaciół bombkę ze sklepu ze śmiesznymi rzeczami.</message>
+        <message key="firstApril2017InfoDialogWormsTitle">Mętna woda</message>
+        <message key="firstApril2017InfoDialogWormsDescription">Wrzuć robaki do jacuzzi.</message>
+        <message key="firstApril2017InfoDialogGraffitiTitle">Młody artysta</message>
+        <message key="firstApril2017InfoDialogGraffitiDescription">Namaluj graffiti na ścianie.</message>
+        <message key="firstApril2017InfoDialogBombTriggeredTitle">Mam cię!</message>
+        <message key="firstApril2017InfoDialogBombTriggeredDescription">Popatrz, jak ktoś wyleci w powietrze przez twoją bombkę.</message>
+        <message key="firstApril2017InfoDialogKnockTitle">Trzyma się!</message>
+        <message key="firstApril2017InfoDialogKnockDescription">Kopnij innego awatara.</message>
+        <message key="firstApril2017InfoDialogBrokeTitle">Niechcący...</message>
+        <message key="firstApril2017InfoDialogBrokeDescription">Zepsuj dowolny sprzęt w obcym domu.</message>
+        <message key="firstApril2017InfoDialogThrowCakeTitle">Słodka zemsta</message>
+        <message key="firstApril2017InfoDialogThrowCakeDescription">Rzuć tortem w innego awatara.</message>
+        <message key="firstApril2017MainDialogTitle">Święto śmiechu!</message>
+        <message key="firstApril2017MainDialogDescription">Zdobyte uśmiechy możesz wymienić na rzadkie kostiumy i wesołe prezenty</message>
+        <message key="firstApril2017MainDialogPurchaseSmilesButtonTitle">dokup za :count:</message>
+        <message key="firstApril2017AwardDialogDescription">Kawały się udały! Oto twój prezent za wesoło spędzony czas.</message>
+        <message key="firstApril2017WallGetAwardMessage">Udało mi się zdobyć wspaniały prezent za udział w święcie śmiechu. Też taki chcesz? Czekam na ciebie w grze! :link:</message>
+    </locale>
+</dictionary>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="avaBirthday2020ProgressDialogTitle">Skompletuj mapę</message>
+        <message key="avaBirthday2020ProgressDialogDescription">Odwiedź park, skwer lub plażę, użyj kompasu i kop w zaznaczonych miejscach, aby znaleźć fragmenty mapy skarbów lub cenne zasoby!</message>
+        <message key="avaBirthday2020ProgressDialogCompleteDescription">Mapa zebrana! Daj ją piratowi i zdobądź zasłużoną nagrodę!</message>
+        <message key="avaBirthday2020ReturnToPirateLabel">daj mapę</message>
+        <message key="avaBirthday2020InfoDialogDialogTitle">Witaj!</message>
+        <message key="avaBirthday2020InfoDialogTopMessage">Zajrzyj na plażę. Do Awatarii przybyli piraci, którzy potrzebują twojej pomocy!</message>
+        <message key="avaBirthday2020InfoDialogMiddleMessage">Użyj kompasu, aby znaleźć fragmenty mapy skarbów w oznaczonych miejscach.</message>
+        <message key="avaBirthday2020InfoDialogBottomMessage">Daj mapę piratowi i zdobądź jedną z nagród!</message>
+        <message key="avaBirthday2020GoToPirateHint">Idź do pirata</message>
+        <message key="avaBirthday2020CooldownHint">Kompas czasowo nieaktywny</message>
+        <message key="avaBirthday2020NotCompleteSessionHint">Użyj wszystkich podpowiedzi</message>
+        <message key="avaBirthday2020CreateExcavationHint">Użyj kompasu</message>
+        <message key="avaBirthday2020NoExcavationsHint">Tu niczego nie ma</message>
+        <message key="avaBirthday2020HelpHint"><![CDATA[<p><font size="13">Kliknij, aby rozpocząć poszukiwania</font></p>]]></message>
+        <message key="avaBirthday2020PirateTargetMessage1">Hej, ty, szczurze lądowy, podejdź tu. Mam dla ciebie ważne zadanie!</message>
+        <message key="avaBirthday2020PirateMessage1">Któż by mi pomógł w pewnej sprawie...</message>
+        <message key="avaBirthday2020PirateMessage3">Potrzeba tylko łopata i trochę szczęścia, łapiesz?</message>
+        <message key="avaBirthday2020PirateTargetMessage2">Ej, mam już dość telepania kośćmi. Gdzie mapa?</message>
+        <message key="avaBirthday2020PirateTargetMessage3">Wkrótce wrócę do Tropikanii i będę bogaczem! A wszystko dzięki tobie!</message>
+        <message key="avaBirthday2020PirateMessage5">Jak myślisz? Dokonałeś właściwego wyboru? Zresztą... U tak już niczego nie zmienię.</message>
+        <message key="avaBirthday2020PirateCommonMessage1">Dobrze, że tylko ja mam łódź!</message>
+        <message key="avaBirthday2020PirateCommonMessage2">A wysepka, która mogła być kurortem, obiektem diabelskich sztuczek stanie się!</message>
+        <message key="avaBirthday2020PirateCommonMessage3">Wszystko się zacznie od starej mapy...</message>
+        <message key="avaBirthday2020PirateCommonMessage4">Grom i błyskawica!</message>
+        <message key="avaBirthday2020ParticipationDialogTitle">Kompas</message>
+        <message key="avaBirthday2020ParticipationDialogButtonLabel">na poszukiwania!</message>
+        <message key="avaBirthday2020ParticipationDialogDescription">Mam informacje, że w Awatarii ukryte są fragmenty mapy, która może doprowadzić do skarbu na wyspie Tropikania. Pomóż mi skompletować tę mapę. Weź kompas. On ci wskaże, gdzie kopać.</message>
+        <message key="avaBirthday2020SelectAwardLabel">Wybierz nagrodę:</message>
+        <message key="avaBirthday2020WallGetAwardMessage">Udało mi się zdobyć wspaniały prezent za udział w akcji. Też taki chcesz? Czekam na ciebie w grze! :link:</message>
+        <message key="avaBirthday2020AwardDialogDescription">Wręczamy ci ten wspaniały prezent za wieloletnie oddanie projektowi! Tylko tak dalej! Podziel się tą nowością ze znajomymi!</message>
+        <message key="avaBirthday2020WallGetAwardTitle">Urodziny Awatarii</message>
+        <message key="avaBirthday2020FullMapNotificationButtonLabel">daj</message>
+        <message key="avaBirthday2020FullMapNotificationTitle">Mapa zebrana!</message>
+        <message key="avaBirthday2020FullMapNotificationDescription">Daj ją piratowi i zdobądź zasłużoną nagrodę!</message>
+        <message key="avaBirthday2020ShopDialogTitle">Sklep piracki</message>
+        <message key="avaBirthday2020BuyPiastresDialogTitle">Zakup piastrów</message>
+        <message key="avaBirthday2020BuyPiastresDialogDescription">Tutaj możesz kupić piastry w bardzo korzystnych cenach. Nie przegap wyjątkowych okazji!</message>
+        <message key="avaBirthday2020InfoPuzzleDescription">Przygotuj podwodny sprzęt, aby znaleźć części łamigłówki. Otrzymasz za to od piratów porządną nagrodę!</message>
+        <message key="avaBirthday2020InfoShopDescription">Do poszukiwania piastrów użyj kompasu. Można za nie kupić rzadkie przedmioty w naszym sklepie akcji.</message>
+        <message key="avaBirthday2020InfoTrophyDescription">Zbierz odpowiednią ilość piastrów i zdobądź za to rzadki tytuł</message>
+        <gender key="avaBirthday2020PirateHint">
+            <form>John Hook</form>
+            <form>Mary Reed</form>
+        </gender>
+        <gender key="avaBirthday2020PirateMessage2">
+            <form>Na tysiąc garbatych skorupiaków! Jeszcze nie znalazłeś mapy? Ale ja jej bardzo potrzebuję...</form>
+            <form>Na tysiąc garbatych skorupiaków! Jeszcze nie znalazłaś mapy? Ale ja jej bardzo potrzebuję...</form>
+        </gender>
+        <gender key="avaBirthday2020PirateMessage4">
+            <form>W końcu! Znalazłeś mapę! Dawaj ją tu!</form>
+            <form>W końcu! Znalazłaś mapę! Dawaj ją tu!</form>
+        </gender>
+        <gender key="avaBirthday2020SelectAwardDialogDescription">
+            <form>Pomogłeś mi w poszukiwaniach mapy! Za to możesz sobie wybrać dowolną nagrodę! Pamiętaj! Jeśli już wybierzesz, nie możesz zmienić zdania.</form>
+            <form>Pomogłaś mi w poszukiwaniach mapy! Za to możesz sobie wybrać dowolną nagrodę! Pamiętaj! Jeśli już wybierzesz, nie możesz zmienić zdania.</form>
+        </gender>
+        <gender key="avaBirthday2020AwardNotificationDescription">
+            <form>Otrzymałeś nagrodę za wykonanie zadania!</form>
+            <form>Otrzymałaś nagrodę za wykonanie zadania!</form>
+        </gender>
+
+        <message key="avaBirthday2020PirateCommonMessage5">Wkrótce zbadam nowe miejsca poszukiwań szkicu!</message>
+        <message key="avaBirthday2020NextDivingSession">Mogę zbadać kolejne miejsca za :time:</message>
+        <message key="avaBirthday2020StartDivingDialogTitle">Zanurzenie</message>
+        <message key="avaBirthday2020DiveButtonTitle">zanurz się</message>
+        <message key="avaBirthday2020StartDivingCount">Pozostało zanurzeń: :count:</message>
+        <message key="avaBirthday2020StartDivingDialogDescription">Piraci uważają, że w tym miejscu możesz znaleźć fragmenty szkicu statku. Łap za wyposażenie i ruszaj na poszukiwania!</message>
+        <message key="avaBirthday2020CraftComponentDescription">Można znaleźć przy poszukiwaniu z pomocą kompasu</message>
+        <message key="ab20GlassLabel">Szkło</message>
+        <message key="ab20FrameLabel">Oprawka</message>
+        <message key="ab20TubeLabel">Rura</message>
+        <message key="ab20StrapLabel">Pasek</message>
+        <message key="avaBirthday2020Alas">Niestety...</message>
+        <gender key="avaBirthday2020PirateCommonMessage6">
+            <form>Zbadałem dla ciebie nowe miejsca! Idź tam i przynieś mnie ten cholerny szkic! </form>
+            <form>Zbadałam dla ciebie nowe miejsca! Idź tam i przynieś mnie ten cholerny szkic! </form>
+        </gender>
+        <gender key="avaBirthday2020DivingSessionCreated">
+            <form>Zbadałem nowe miejsca i zaznaczyłem je na morskiej mapie</form>
+            <form>Zbadałam nowe miejsca i zaznaczyłam je na morskiej mapie</form>
+        </gender>
+        <gender key="avaBirthday2020DiveAwardYouHasFound">
+            <form>Znalazłeś:</form>
+            <form>Znalazłaś:</form>
+        </gender>
+        <gender key="avaBirthday2020DiveAwardNothingWasFound">
+            <form>Niczego nie znalazłeś</form>
+            <form>Niczego nie znalazłaś</form>
+        </gender>
+        <gender key="avaBirthday2020ProgressDialogAwardedDescription">
+            <form>Pomogłeś piratom zdobyć szkic statku – zdobywasz od nich nagrodę. Kontynuuj poszukiwania piastr, aby kupić unikatowe przedmioty w sklepie pirackim.</form>
+            <form>Pomogłaś piratom zdobyć szkic statku – zdobywasz od nich nagrodę. Kontynuuj poszukiwania piastr, aby kupić unikatowe przedmioty w sklepie pirackim.</form>
+        </gender>
+    </locale>
+</dictionary>

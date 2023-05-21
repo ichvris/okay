@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dictionary>
+
+	<locale name="pl">
+
+		<!-- MODIFIERS -->
+
+        <message key="cakeTitle">Tort</message>
+		<message key="coffeeTitle">Filiżanka kawy</message>
+		<message key="pizzaTitle">Pizza</message>
+
+        <!-- Main coctails -->
+		<message key="mochitoTitle">Mojito</message>
+        <message key="blackRussianTitle">Czarny Rosjanin</message>
+        <message key="b52Title">B52</message>
+
+        <!-- Haloween version-->
+		<!--<message key="mochitoTitle">Ukąszenie wampira</message>-->
+		<!--<message key="blackRussianTitle">Pocałunek wiedźmy</message>-->
+		<!--<message key="b52Title">Piekielny wywar</message>-->
+
+		<message key="smallStrawberryCakeTitle">Mały tort truskawkowy</message>
+		<message key="mediumBlackberryCakeTitle">Tort jeżynowy</message>
+		<message key="bigOrangeCakeTitle">Duży tort czekoladowy</message>
+
+		<!-- JOKES SHOP -->
+
+        <message key="applianceBatTitle">Pałka</message>
+		<message key="applianceBatDescription">Wykorzystywana jest do niszczenia sprzętu.</message>
+
+		<message key="jacuzziWormsTitle">Robaki</message>
+		<message key="jacuzziWormsDescription">Potrzebne, żeby zanieczyścić wodę w jacuzzi.</message>
+
+		<message key="chairBombTitle">Bomba</message>
+		<message key="chairBombDescription">Można podłożyć ją na kanapie, fotelu lub krześle.</message>
+
+		<message key="screwdriverTitle">Złoty śrubokręt</message>
+		<message key="screwdriverDescription">Można nim skręcić zadziwiającą huśtawkę.</message>
+
+		<!-- GRAFFITI -->
+
+        <message key="graffiti1Title">Graffiti „Miłość”</message>
+		<message key="graffiti2Title">Graffiti „Zjawy”</message>
+		<message key="graffiti3Title">Graffiti „Abstrakcja”</message>
+		<message key="graffiti4Title">Graffiti „Szalony królik”</message>
+		<message key="graffiti5Title">Graffiti „Dzień zwycięstwa”</message>
+        <message key="graffiti6Title">Graffiti „Dzień św. Patryka”</message>
+
+        <message key="carGraffitiCategoryLabel">Aerografia</message>
+        <message key="carGraffiti1Title">Aerografia „Samolot”</message>
+        <message key="carGraffiti2Title">Aerografia „Dzień Zwycięstwa”</message>
+
+		<!-- ARTIFACTS -->
+
+        <message key="bugTitle">Żuk</message>
+		<message key="butterflyTitle">Motyl</message>
+
+		<message key="radarTitle">Radar</message>
+		<message key="radarDescription">Radar do wyszukiwania pułapek</message>
+		<message key="energyTitle">Napój energetyzujący</message>
+		<message key="energyDescription">Ładunek energii!</message>
+		<message key="trapTitle">Sidła</message>
+		<message key="trapDescription">Sidła do polowania „Bóbr-5” Cechy funkcjonalne</message>
+		<message key="mineTitle">Mina</message>
+		<message key="mineDescription">Mina przeciwpiechotna „Wyrwinoga”</message>
+		<message key="kickTitle">Kop</message>
+		<message key="kickDescription">Zwykły kop</message>
+		<message key="dimaniteTitle">Dynamit</message>
+		<message key="dimaniteDescription">To bardzo niebezpieczne. Używać ostrożnie!</message>
+		<message key="exploreToolTitle">Zbadać</message>
+		<message key="exploreToolDescription">Narzędzia do badania okolicy</message>
+		<message key="searchToolTitle">Szukać</message>
+		<message key="searchToolDescription">Narzędzie do wyszukiwania pułapek</message>
+
+		<!-- CRAFT -->
+
+        <message key="loot">Wytwarzanie</message>
+		<message key="craftLoot">Składniki</message>
+		<message key="crafSocial">Prezenty</message>
+
+		<message key="craftedCoffee">Kawa (+75 punktów energii)</message>
+		<message key="craftedEnergyDrink">Napój orzeźwiający (+200 punktów energii)</message>
+
+		<!-- components -->
+
+        <message key="waterLootLabel">woda</message>
+		<message key="phialLootLabel">słoik</message>
+		<message key="bigPhialLootLabel">duży słoik</message>
+		<message key="clayLootLabel">glina</message>
+		<message key="likeCoinLootLabel">pieniążek na szczęście</message>
+		<message key="featherLootLabel">pióro</message>
+		<message key="bowLootLabel">kokarda</message>
+		<message key="flowerBudLootLabel">pąk</message>
+		<message key="wrappingPaperLootLabel">papier do pakowania</message>
+		<message key="peaceOfWoodLootLabel">drewienko</message>
+		<message key="photographLootLabel">zdjęcie</message>
+		<message key="peaceOfIronLootLabel">kawałek żelaza</message>
+		<message key="swordHiltLootLabel">rękojeść szabli</message>
+		<message key="wickLootLabel">knot</message>
+		<message key="bitOfGlassLootLabel">szkiełko</message>
+		<message key="cloverLootLabel">listek koniczyny</message>
+
+		<message key="generosityLootLabel">hojność</message>
+		<message key="loveLootLabel">miłość</message>
+		<message key="hatredLootLabel">nienawiść</message>
+		<message key="happinessLootLabel">szczęście</message>
+		<message key="threadLootLabel">nitka</message>
+		<message key="shellLootLabel">muszla</message>
+		<message key="pearlLootLabel">perła</message>
+
+		<message key="coffeBeanSocialLabel">ziarenko kawy</message>
+		<message key="mintLeafSocialLabel">listek mięty</message>
+		<message key="jarOfPaintSocialLabel">puszka z farbą</message>
+		<message key="clothSocialLabel">kawałek materiału</message>
+		<message key="glassSocialLabel">szkło</message>
+		<message key="grindstoneSocialLabel">kamień szlifierski</message>
+		<message key="peaceOfWaxSocialLabel">kawałek wosku</message>
+		<message key="pollenSocialLabel">pyłek</message>
+		<message key="fastenSocialLabel">wiązanie</message>
+		<message key="eggIconLabel">kurze jajo</message>
+
+		<message key="linenFabricLabel">tkanina lniana</message>
+		<message key="cottonFabricLabel">tkanina bawełniana</message>
+		<message key="redWoodLabel">czerwone drzewo</message>
+		<message key="totemLabel">totem aborygenów</message>
+
+		<message key="snowIconLabel">sztuczny śnieg</message>
+        <message key="confettiIconLabel">konfetti</message>
+        <message key="gingerFormIconLabel">foremka do pieczenia</message>
+        <message key="glazeLabel">polewa</message>
+        <message key="bucketLabel">wiadro</message>
+        <message key="valCardLabel">kartka na dzień walentyna</message>
+
+		<message key="waterLootDescrioption">wypada przy podlewaniu kwiatów w ogrodzie</message>
+		<message key="phialLootDescrioption">wypada przy sprzątaniu śmieci na podwórku</message>
+		<message key="bigPhialLootDescrioption">wypada przy sprzątaniu śmieci na podwórku</message>
+		<message key="clayLootDescrioption">wypada przy wykonywaniu dowolnych prac w ogrodzie</message>
+		<message key="likeCoinLootDescrioption">wypada przy sprzątaniu w mieszkaniach sąsiadów</message>
+		<message key="featherLootDescrioption">wypada przy zwycięstwie w walce na poduszki</message>
+		<message key="bowLootDescrioption">wypada przy sprzątaniu śmieci na podwórku</message>
+		<message key="flowerBudLootDescrioption">wypada przy podlewaniu lub opryskiwaniu w ogrodzie</message>
+		<message key="wrappingPaperLootDescrioption">wypada przy sprzątaniu śmieci na podwórku</message>
+		<message key="peaceOfWoodLootDescrioption">wypada przy wykonywaniu dowolnych prac w ogrodzie</message>
+		<message key="photographLootDescrioption">wypada przy sprzątaniu w mieszkaniach sąsiadów</message>
+		<message key="bitOfGlassLootDescrioption">wypada przy sprzątaniu w mieszkaniach sąsiadów</message>
+		<message key="peaceOfIronLootDescrioption">wypada przy sprzątaniu śmieci na podwórku</message>
+		<message key="swordHiltLootDescrioption">wypada przy sprzątaniu w mieszkaniach sąsiadów</message>
+		<message key="wickLootDescrioption">wypada przy zwycięstwie w walce na poduszki</message>
+		<message key="threadLootDescrioption">wypada przy zwycięstwie w walce na poduszki</message>
+		<message key="cloverLootDescrioption">można zdobyć przy poczęstunku w kawiarni lub klubie</message>
+		<!-- <message key="cloverLootDescrioption">wyskakuje tylko podczas promocji. W grze nie można tego zdobyć. Można tylko kupić za złote monety</message>-->
+
+		<message key="surfLootDescription">można otrzymać uczestnicząc w wyścigach surfingowych</message>
+
+		<message key="generosityLootDescrioption">można otrzymać, kiedy daje się komuś prezent lub częstuje się go w kawiarni albo klubie</message>
+		<message key="loveLootDescrioption">można otrzymać, kiedy wykonuje się różne przyjacielskie działania, takie jak „obejmij”, „pocałuj”</message>
+		<message key="hatredLootDescrioption">można otrzymać, wykonując „kopniak” i „policzek” przy rzucaniu tortem w barze, psuciu sprzętu</message>
+		<message key="happinessLootDescrioption">można otrzymać, tańcząc</message>
+
+		<message key="socialComponentDescription">można poprosić o to przyjaciół</message>
+        <message key="eggComponentDescription">można o nie poprosić znajomych tylko w okresie promocji; podczas gry nie można go zdobyć; można je kupić za złote monety</message>
+
+		<message key="fromTropicaniaWorkshop">podczas gry nie można go zdobyć; można je kupić za złote monety</message>
+        <message key="fromTropicaniaAborigenes">podczas gry nie można go zdobyć; można je kupić za złote monety</message>
+        <message key="fromTropicaniaKitchen">podczas gry nie można go zdobyć; można je kupić za złote monety</message>
+
+		<!-- RINGS -->
+
+        <message key="marriedRing1Label">Proste obrączki</message>
+		<message key="marriedRing2Label">Obrączki z szafirem</message>
+		<message key="marriedRing3Label">Obrączki z brylantami</message>
+
+		<!-- FIR TOYS -->
+
+        <message key="newYearFirToy1Label">Błękitna kokarda</message>
+		<message key="newYearFirToy2Label">Złota kokarda</message>
+		<message key="newYearFirToy3Label">Czerwona kokarda</message>
+		<message key="newYearFirToy4Label">Bombka na choinkę</message>
+		<message key="newYearFirToy5Label">Ozdoba choinkowa</message>
+		<message key="newYearFirToy6Label">Bombka na choinkę</message>
+		<message key="newYearFirToy7Label">Jaskrawa bombka na choinkę</message>
+		<message key="newYearFirToy8Label">Ozdoba choinkowa</message>
+		<message key="newYearFirToy9Label">Gwiazdka</message>
+		<message key="newYearFirToy10Label">Ozdoba choinkowa „Bałwanek”</message>
+		<message key="newYearFirToy11Label">Ozdoba choinkowa „Święty Mikołaj”</message>
+		<message key="newYearFirToy12Label">Dzwoneczek z kokardą</message>
+		<message key="newYearFirToy13Label">Śnieżynka</message>
+		<message key="newYearFirToy14Label">Ozdoba choinkowa „Skrzat”</message>
+		<message key="newYearFirToy15Label">Ozdoba choinkowa „Jeleń”</message>
+		<message key="newYearFirToy16Label">Cukierek</message>
+		<message key="newYearFirToy17Label">Cukierek</message>
+		<message key="newYearFirToy18Label">Świeca</message>
+		<message key="newYearFirToy19Label">Fioletowa kokarda</message>
+		<message key="newYearFirToy20Label">Czerwona kokarda w paski</message>
+		<message key="newYearFirToy21Label">Złota gwiazda</message>
+		<message key="newYearFirToy22Label">Lodowa gwiazda</message>
+		<message key="newYearFirToy23Label">Czubek na choinkę</message>
+		<message key="newYearFirToy24Label">Czubek na choinkę „Kokarda”</message>
+		<message key="newYearFirToy25Label">Czubek na choinkę „Kokarda”</message>
+		<message key="newYearFirToy26Label">Czubek na choinkę „Anioł”</message>
+
+		<!-- AQUARIUM -->
+
+        <message key="aquariumCategory">Akwarium</message>
+        <message key="aquariumFishesCategoryLabel">Akwarium</message>
+        <message key="aquariumFish1Label">Rybka-anioł</message>
+		<message key="aquariumFish2Label">Złota rybka</message>
+		<message key="aquariumFish3Label">Rybka-klaun</message>
+		<message key="aquariumFish4Label">Gupik</message>
+
+		<!-- NEW YEAR GIFTS -->
+
+        <message key="newYearGift1Label">Skromny prezent</message>
+        <message key="newYearGift2Label">Duży prezent</message>
+        <message key="newYearGift3Label">Prezent VIP</message>
+
+        <!-- PHOTO SALON -->
+
+        <message key="film">Klisza</message>
+        <message key="filmDescription">Klisza pozwala na robienie zdjęć w salonie fotograficznym</message>
+
+        <!-- BEACH RACE -->
+
+		<message key="shellNecklaceTitle">Naszyjnik z muszli</message>
+		<message key="pearlNecklaceTitle">Naszyjnik z pereł</message>
+		<message key="itemsForSaleCategory">Na sprzedaż</message>
+
+		<!--<message key="fromTropicaniaWorkshop">można zrobić w pracowni Tropikanii</message>
+		<message key="fromTropicaniaAborigenes">można wymienić u tubylców w Tropikanii </message>
+		<message key="fromTropicaniaKitchen">można zrobić w kuchni Tropikanii</message>-->
+
+        <!--  FIREWORK -->
+        <message key="fireworkTitle">Fajerwerki</message>
+		<message key="fireworkDescription">Fajerwerki można puszczać tylko na zewnątrz.</message> 
+
+        <!-- RACE -->
+        <message key="screwLootLabel">śrubka</message>
+        <message key="wrenchLootLabel">klucz płaski</message>
+        <message key="carRaceLootDescription">można zdobyć w kanionie po zwycięstwie w rajdach</message>
+
+        <message key="phtghrFilm12">Klisza 12 kadrów</message>
+        <message key="phtghrFilm24">Klisza 24 kadry</message>
+        <message key="phtghrFilm36">Klisza 36 kadrów</message>
+        <message key="vsgstBrush">Pędzel do makijażu</message>
+        <message key="vsgstSmallSet">Mały zestaw do makijażu</message>
+        <message key="vsgstMediumSet">Średni zestaw do makijażu</message>
+        <message key="vsgstLargeSet">Duży zestaw do makijażu</message>
+
+        <message key="diligenceLabel">pilność </message>
+        <message key="skillLabel">mistrzostwo</message>
+        <message key="industryLabel">pracowitość</message>
+        <message key="luckLabel">powodzenie</message>
+        <message key="professionComponentDescription">można zdobyć, pracując w zawodzie</message>
+
+        <message key="iceRinkSkate1Label">Łyżwy</message>
+        <gender key="iceRinkSkate2Label">
+            <form>Łyżwy niebieskie</form>
+            <form>Łyżwy błękitne</form>
+        </gender>
+        <gender key="iceRinkSkate3Label">
+            <form>Łyżwy czarno-złote</form>
+            <form>Łyżwy biało-złote</form>
+        </gender>
+
+        <message key="beautyLabel">uroda</message>
+        <message key="glamorLabel">szyk</message>
+        <message key="ideaLabel">pomysł</message>
+        <message key="museLabel">muza</message>
+        <message key="weddingBeachGift1Label">Mały prezent ślubny</message>
+        <message key="weddingBeachGift2Label">Średni prezent ślubny</message>
+        <message key="weddingBeachGift3Label">Duży prezent ślubny</message>
+        <message key="newYear16Gift1Label">Mały prezent</message>
+        <message key="newYear16Gift2Label">Średni prezent</message>
+        <message key="newYear16Gift3Label">Duży prezent</message>
+
+		<message key="halloweenGift1Label">Mały prezent</message>
+        <message key="halloweenGift2Label">Średni prezent</message>
+        <message key="halloweenGift3Label">Duży prezent</message>
+
+        <message key="iceRinkSkates1Description">na :time:</message>
+        <message key="iceRinkSkates2Description">+"jaskółka" na :time:</message>
+        <message key="iceRinkSkates3Description">+"tyłem naprzód" i "jaskółka" na :time:</message>
+
+        <message key="fifeTitle">Piszczałka</message>
+        <message key="fifeDescription">Świąteczna fajka z okazji urodzin „Awatarii”</message>
+
+		<message key="blackMobileSkinTitle">Czarny</message>
+		<message key="blueMobileSkinTitle">Niebieski</message>
+		<message key="greenMobileSkinTitle">Zielony</message>
+		<message key="pinkMobileSkinTitle">Różowy</message>
+		<message key="purpleMobileSkinTitle">Fioletowy</message>
+		<message key="whiteMobileSkinTitle">Biały</message>
+		<message key="yellowMobileSkinTitle">Żółty</message>
+		<message key="angelMobileAccessoryTitle">Aniołek</message>
+		<message key="bowMobileAccessoryTitle">Kokarda</message>
+		<message key="devilMobileAccessoryTitle">Diabełek</message>
+		<message key="catEarsMobileAccessoryTitle">Kocie uszka</message>
+		<message key="mouseEarsMobileAccessoryTitle">Mysie uszka</message>
+		<message key="starMobileAccessoryTitle">Gwiazda</message>
+
+		<message key="ny17GarlandLabel">Świąteczna girlanda</message>
+
+		<message key="craftedPancake">Naleśnik (+10 jedn. energii)</message>
+
+		<message key="graffitiRusDayTitle">Graffiti "Matrioszka"</message>
+		<message key="mobileRingtone1Title">Spring</message>
+		<message key="mobileRingtone2Title">Suddenly</message>
+		<message key="mobileRingtone3Title">Sharp</message>
+		<message key="mobileRingtone4Title">Horror</message>
+		<message key="mobileRingtone5Title">Clownery</message>
+		<message key="mobileRingtone6Title">Laugh</message>
+		<message key="mobileRingtone7Title">Fall</message>
+		<message key="mobileRingtone8Title">Magic</message>
+		<message key="mobileRingtone9Title">Drums</message>
+		<message key="mobileRingtone10Title">Trumpet</message>
+		<message key="mobileRingtone11Title">Passion</message>
+		<message key="mobileRingtone12Title">Ranch</message>
+		<message key="mobileRingtone13Title">Siempre</message>
+		<message key="mobileRingtone14Title">Loop</message>
+		<message key="mobileRingtone15Title">Mess</message>
+		<message key="mobileRingtone16Title">Cha-cha-cha</message>
+		<message key="mobileRingtone17Title">Lucky</message>
+		<message key="mobileRingtone18Title">Latino</message>
+		<message key="mobileRingtone19Title">Cuban</message>
+		<message key="mobileRingtone20Title">Nice</message>
+
+		<message key="skiResortGift1Label">Mały prezent</message>
+		<message key="skiResortGift2Label">Średni prezent</message>
+		<message key="skiResortGift3Label">Duży prezent</message>
+		<message key="snowboardRaceSnowboard1Label">Snowboard</message>
+		<message key="snowboardRaceSnowboard2Label">Snowboard VIP</message>
+		<message key="snowboardRaceSnowboard1Description">na :time:</message>
+		<message key="snowboardRaceSnowboard2Description">+„Sztuczka” na :time:</message>
+
+		<message key="tentaclesMobileAccessoryTitle">Cthulhu</message>
+		<message key="steampunkMobileAccessoryTitle">Tryby</message>
+		<message key="stopSignMobileAccessoryTitle">Auto</message>
+		<message key="totemMobileAccessoryTitle">Plemię</message>
+
+		<message key="birthdayGift1Label">Mały prezent na urodziny</message>
+		<message key="birthdayGift2Label">Średni prezent na urodziny</message>
+		<message key="birthdayGift3Label">Duży prezent na urodziny</message>
+		<message key="chatDecorDescription">na :time:</message>
+
+		<message key="ghostMobileAccessoryTitle">Zjawa</message>
+
+		<message key="smallVKGiftLabel">Mały prezent od VK Pay</message>
+		<message key="mediumVKGiftLabel">Średni prezent od VK Pay</message>
+		<message key="bigVKGiftLabel">Duży prezent od VK Pay</message>
+
+		<message key="vipTicketsLabel">Kupony VIP</message>
+		<message key="vipTicket5Title">Kupon VIP na 5 dni</message>
+		<message key="vipTicket10Title">Kupon VIP na 10 dni</message>
+		<message key="vipTicket20Title">Kupon VIP na 20 dni</message>
+
+		<message key="smallPersonalGiftLabel">Mała skrzynia z prezentem</message>
+		<message key="mediumPersonalGiftLabel">Średnia skrzynia z prezentem</message>
+		<message key="bigPersonalGiftLabel">Duża skrzynia z prezentem</message>
+
+		<message key="seasonEventKeyLabel">Klucz do akcji „Złota jesień”</message>
+
+		<message key="newYearVk20Gift1Label">Mały noworoczny prezent 2020</message>
+		<message key="newYearVk20Gift2Label">Średni noworoczny prezent 2020</message>
+		<message key="newYearVk20Gift3Label">Duży noworoczny prezent 2020</message>
+
+		<message key="tokensLabel">Żetony</message>
+		<message key="fortune3DescriptionTitle">Do gry w Koło Fortuny jest potrzebny :token:</message>
+		<message key="fortune3TipsTitle">Żetony można zdobyć:</message>
+		<message key="fortune3FirstTipText">biorąc udział w konkursach</message>
+		<message key="fortune3SecondTipText">wykonując zadania w grupie gry</message>
+		<message key="fortune3ThirdTipText">za codzienne logowanie w grze</message>
+		<message key="fortuneTokenLabel">Żeton</message>
+		<message key="tokenConvertDescription">W związku z uruchomieniem nowego Koła Fortuny twoje kupony wymieniono na żetony</message>
+		<message key="fortune3DiceLabel">Kostka do gry</message>
+		<message key="fortune3CloverLabel">Złota koniczyna</message>
+		<message key="fortune3CardLabel">Karta do gry</message>
+		<message key="fortune3ReagentDescription">Można zdobyć, wygrywając w Kole Fortuny</message>
+		<message key="labelForCollect">Zdobądź składniki</message>
+		<message key="hiddenUserDescription">Pozycja ukryta</message>
+		<message key="locationFindButtonHint">Brak w lokacji</message>
+
+		<message key="fortune3NotEnoughTitle">Za mało żetonów</message>
+
+		<message key="nyFirToyAvaLabel">Ozdoba choinkowa „Awataria”</message>
+		<message key="nyFirToyDoveLabel">Ozdoba choinkowa „Wienia”</message>
+		<message key="nyFirToyGirlLabel">Ozdoba choinkowa „Ennie”</message>
+		<message key="nyFirToyMittinLabel">Ozdoba choinkowa „Rękawica”</message>
+
+		<message key="jackpotNotificationButtonText">spróbuj szczęścia</message>
+		<message key="jackpotWinnerTitle">Zwycięzca</message>
+		<gender key="jackpotReceivedMessage">
+			<form><![CDATA[<p><span class="bold">:name:</span> zdobył jackpot, spróbuj szczęścia i ty!</p>]]></form>
+			<form><![CDATA[<p><span class="bold">:name:</span> zdobyła jackpot, spróbuj szczęścia i ty!</p>]]></form>
+		</gender>
+
+		<message key="marriedRing4Label">Pierścionki zaręczynowe „Endless love”</message>
+		<message key="marriedRing5Label">Pierścionki zaręczynowe „Infinity”</message>
+		<message key="marriedRing6Label">Pierścionki zaręczynowe z sercem</message>
+
+		<message key="webMobileAccessoryTitle">Pajęczyna</message>
+		<message key="pumpkinsMobileAccessoryTitle">Dynia</message>
+		<message key="wllGrfHalloween2021Title">Graffiti „Hello”</message>
+	</locale>
+
+</dictionary>

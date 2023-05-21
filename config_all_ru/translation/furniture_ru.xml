@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dictionary>
+
+	<locale name="pl">
+
+		<!-- TABLE -->
+
+		<message key="table1Title">Szklany stolik</message>
+		<message key="table2Title">Drewniany stolik</message>
+		<message key="table3Title">Drewniany stół</message>
+		<message key="table4Title">Okrągły szklany stolik</message>
+		<message key="table5Title">Podstawka ze szkła</message>
+		<message key="table6Title">Szafka z drewna</message>
+		<message key="table7Title">Szafka pod telewizor</message>
+		<message key="table8Title">Stolik nocny</message>
+		<message key="table9Title">Stolik na biżuterię</message>
+		<message key="table10Title">Ława</message>
+		<message key="table11Title">Stolik „Kawaler”</message>
+		<message key="table12Title">Stół „Kawaler”</message>
+		<message key="table13Title">Ława „Kawaler”</message>
+		<message key="table14Title">Biurko</message>
+		<message key="table15Title">Rzeźbione biurko</message>
+		<message key="table16Title">Biurko</message>
+
+		<message key="computerTable1Title">Stół pod komputer</message>
+		<message key="computerTable2Title">Stolik na laptopa</message>
+		<message key="computerTable3Title">Stół pod komputer</message>
+		<message key="shelfDVDGray1Title">Stolik pod DVD</message>
+
+		<message key="tableArtdecoSmallTitle">Niski stolik art déco</message>
+		<message key="tableArtdeco1Title">Stół art déco</message>
+
+		<message key="halloweenTable1Title">Stół Halloween</message>
+
+		<message key="weddingTable1Title">Duży stół dla gości</message>
+		<message key="weddingTable2Title">Stół państwa młodych</message>
+		<message key="weddingTable3Title">Stół państwa młodych</message>
+		<message key="weddingTable4Title">Stół na tort weselny</message>
+		<message key="weddingTable5Title">Stół na tort weselny</message>
+		<message key="weddingTable6Title">Elegancki stół dla gości</message>
+
+		<message key="manTable1Title">Szklany stolik</message>
+		<message key="manTable2Title">Niski szklany stolik</message>
+		<message key="violensTable1Title">Stolik z wisiorkami</message>
+
+		<message key="awardTable1Title">Stolik na nagrody</message>
+		<message key="awardTable2Title">Marmurowy stolik na nagrody</message>
+		<message key="awardTable3Title">Szeroki stolik na nagrody</message>
+		<message key="awardTable4Title">Stolik VIP na nagrody</message>
+
+		<message key="vipTable1Title">Biurko</message>
+		<message key="schoolTableTitle">Biurko nauczyciela</message>
+
+		<!-- BED -->
+
+		<message key="bed1Title">Łóżko pojedyncze</message>
+		<message key="bed2Title">Łóżko podwójne</message>
+		<message key="bed3Title">Drewniane łóżko</message>
+		<message key="bed4Title">Drewniane łóżko</message>
+		<message key="bed5Title">Rzeźbione łóżko</message>
+		<message key="bed6Title">Podwójne łóżko</message>
+		<message key="bed7Title">Łóżko „Kawaler”</message>
+
+		<message key="bedArtdeko1Title">Łóżko art déco</message>
+
+		<message key="bedVip1Title">Łóżko „L.O.V.E.”</message>
+		<message key="bedVip2Title">Łóżko „Królewskie łoże”</message>
+		<message key="bedVip3Title">Łóżko „Delikatny fiołek”</message>
+
+		<!-- CHAIR -->
+
+		<message key="chair1Title">Drewniane krzesło</message>
+		<message key="chair2Title">Drewniane krzesło</message>
+		<message key="chair3Title">Drewniane krzesło</message>
+		<message key="chair4Title">Drewniane krzesło</message>
+		<message key="chair5Title">Krzesło „Kawaler”</message>
+		<message key="chair6Title">Krzesło</message>
+		<message key="chair7Title">Krzesło barowe „Kawaler”</message>
+		<message key="chair8Title">Krzesło z pufem „Kawaler”</message>
+		<message key="chair9Title">Krzesło barowe</message>
+		<message key="chair10Title">Krzesło „Delikatny fiołek”</message>
+		<message key="chair11Title">Puf „Królewskie łoże”</message>
+		<message key="chair12Title">Puf „Delikatny fiołek”</message>
+		<message key="chair13Title">Fotel do gabinetu</message>
+		<message key="chair14Title">Fotel skórzany</message>
+		<message key="chair15Title">Fotel rzeźbiony</message>
+		<message key="chair16Title">Fotel skórzany</message>
+		<message key="chair17Title">Fotel rzeźbiony</message>
+
+		<message key="computerChair1Title">Stolik pod komputer</message>
+		<message key="computerChair2Title">Fotel do komputera</message>
+		<message key="computerChair3Title">Wygodny fotel do komputera</message>
+
+		<message key="artDecoChair1Title">Krzesło art déco</message>
+		<message key="paddedStool1Title">Puf art déco</message>
+
+		<message key="halloweenChair1Title">Krzesło Halloween</message>
+		<message key="halloweenChair2Title">Krzesło Halloween</message>
+		<message key="halloweenChair3Title">Krzesło Halloween</message>
+		<message key="halloweenChair4Title">Krzesło Halloween</message>
+
+		<message key="weddingChairTitle">Krzesło na ślub</message>
+
+		<message key="schoolChair1Title">Krzesło nauczyciela</message>
+		<message key="schoolChair2Title">Szkolna ławka</message>
+
+		<!-- ARMCHAIR -->
+
+		<message key="armchair1Title">Fotel rzeźbiony</message>
+		<message key="armchair2Title">Fotel skórzany</message>
+		<message key="armchair3Title">Fotel w stylu hi-tech</message>
+		<message key="armchair4Title">Czerwony fotel</message>
+		<message key="armchair5Title">Różowy fotel</message>
+		<message key="armchair6Title">Niebieski fotel</message>
+		<message key="armchair7Title">Fotel skórzany</message>
+		<!-- NEW -->
+		<message key="armchair8Title">Czerwony fotel</message>
+		<message key="armchair9Title">Pomarańczowy fotel</message>
+		<message key="armchair10Title">Fotel skórzany</message>
+		<message key="armchair11Title">Fotel skórzany</message>
+		<message key="armchair12Title">Fotel skórzany</message>
+		<message key="armchair13Title">Fotel</message>
+		<message key="armchair14Title">Fotel</message>
+		<message key="armchairArtdeco1Title">Fotel art déco</message>
+		<!-- VIP -->
+		<message key="armchairVip1Title">Fotel muszelka</message>
+		<message key="armchairVip2Title">Fotel serce</message>
+		<message key="armchairVip3Title">Fotel „Królewskie łoże”</message>
+
+		<!-- SOFA -->
+
+		<message key="sofa1Title">Biała kanapa</message>
+		<message key="sofa2Title">Niebieska kanapa</message>
+		<message key="sofa3Title">Kanapa w paski</message>
+		<message key="sofa4Title">Pomarańczowa kanapa</message>
+		<message key="sofa5Title">Kanapa w stylu hi-tech</message>
+		<message key="sofa6Title">Czerwona kanapa</message>
+		<message key="sofa7Title">Niebieska gobelinowa kanapa</message>
+		<message key="sofa8Title">Złocista kanapa</message>
+		<message key="sofa9Title">Skórzana kanapa</message>
+		<message key="sofa10Title">Różowa kanapa</message>
+		<message key="sofa11Title">Skórzana kanapa</message>
+		<message key="sofa12Title">Czerwona kanapa</message>
+		<message key="sofa13Title">Pomarańczowa kanapa</message>
+		<message key="sofa14Title">Skórzana kanapa</message>
+		<message key="sofa15Title">Skórzana kanapa</message>
+		<message key="sofa16Title">Skórzana kanapa</message>
+		<message key="sofa17Title">Kanapa</message>
+		<message key="sofa18Title">Kanapa</message>
+		<message key="sofa19Title">Puf „Kawaler”</message>
+		<message key="sofa20Title">Puf „Kawaler”</message>
+
+		<message key="sofaArtdeco1Title">Kanapa art déco</message>
+
+		<message key="sofaHalloween1Title">Sofa Halloween</message>
+		<message key="sofaHalloween2Title">Sofa Halloween</message>
+		<message key="sofaHalloween3Title">Sofa Dynia</message>
+
+		<message key="sofaVip1Title">Sofa, Anglia, XVIII wiek</message>
+		<message key="sofaVip2Title">Sofa „Highway”</message>
+		<message key="sofaVip3Title">Sofa „Delikatny fiołek”</message>
+		<message key="sofaVip4Title">Sofa „Boże Narodzenie”</message>
+
+		<!-- WARDROBE -->
+
+		<message key="furnitureMisc2Title">Szafa na ubrania</message>
+		<message key="wardrobeForgetTitle">Pozłacana szafa na ubrania</message>
+		<message key="wardrobeNarrowTitle">Wąska szafa na ubrania</message>
+		<message key="wardrobeWindowTitle">Przestronna szafa</message>
+
+		<!-- COMODO -->
+
+		<message key="caseRoseLongTitle">Rzeźbiona drewniana szafa</message>
+		<message key="caseForgetLowTitle">Pozłacana komoda</message>
+		<message key="caseForgetMirrorTitle">Pozłacana toaletka</message>
+		<message key="caseRoseLowTitle">Rzeźbiona drewniana komoda</message>
+		<message key="caseRoseMirrorTitle">Rzeźbiona drewniana toaletka</message>
+		<message key="caseArtdecoLongTitle">Witryna art déco</message>
+		<message key="caseArtdecoNarrowTitle">Wąska witryna art déco</message>
+		<message key="caseArtdecoMiddleTitle">Wąska komoda art déco</message>
+		<message key="caseArtdecoLowTitle">Komoda art déco</message>
+		<message key="caseBachelorWoodTitle">Witryna art déco</message>
+		<message key="caseBachelorTitle">Szafka „Kawaler”</message>
+		<message key="caseViolent1Title">Komoda</message>
+
+		<message key="caseHalloween1Title">Szafa Halloween</message>
+		<message key="caseHalloween2Title">Szafa Halloween</message>
+
+		<!-- BAR -->
+
+		<message key="furnitureMisc1Title">Barek</message>
+		<message key="bar1Title">Barek „Kawaler”</message>
+
+		<!-- WATERFALL -->
+
+		<message key="waterfall1Title">Fontanna „Laguna”</message>
+		<message key="waterfall2Title">Fontanna z wodospadem</message>
+		<message key="waterfall3Title">Fontanna „Zamek w powietrzu”</message>
+		<message key="waterfall4Title">Fontanna „Pełna czara”</message>
+		<message key="waterfall5Title">Fontanna „Smok”</message>
+
+		<!-- WALL -->
+
+		<message key="furnitureWall1Title">Szafa na dokumenty</message>
+		<message key="furnitureWall2Title">Duża biblioteka</message>
+		<message key="furnitureWall3Title">Meblościanka</message>
+		<message key="furnitureWall4Title">Biblioteka</message>
+
+		<!-- COLLECTIONS -->
+
+		<message key="furnitureCollectionsLabel">Kolekcje</message>
+		<!--<message key="saleCollection1Label">Wyprzedaż</message>-->
+		<message key="vipCollection1Label">VIP</message>
+		<message key="newCollectionLabel">Nowe</message>
+		<message key="artDecoCollection1Label">Art déco</message>
+		<message key="halloweenCollection1Label">Halloween</message>
+		<message key="bachelorCollectionLabel">Kawaler</message>
+		<message key="newYearCollection1Label">Nowy Rok</message>
+		<message key="schoolCollectionLabel">Szkola</message>
+		<message key="cabinetCollection1Label">Gabinet</message>
+		<message key="amusimentCollectionLabel">Cudowny</message>
+
+        <!-- NEW FURNITURE SETS:
+                COUNTRY, BEACH, ALIEN, JAPAN,
+                ARTNOUVEAU, MAYA, PRINCESS -->
+
+		<message key="tableArtNouveauTitle">Stół „Modern”</message>
+
+		<message key="sofaCountryTitle">Sofa „Country”</message>
+		<message key="sofaBeachTitle">Sofa „Z morskich głębin”</message>
+		<message key="sofaPrincessLabel">Sofa „Księżniczka”</message>
+
+		<message key="loungeMayaLabel">Leżak „Majowie”</message>
+
+		<message key="chairAlien1Title">Krzesło „Odległe gwiazdy”</message>
+		<message key="chairAlien2Title">Krzesło „Droga Mleczna”</message>
+		<message key="chairAlien3Title">Krzesło „Neosfera”</message>
+		<message key="chairBeachTitle">Krzesło „Perłowe”</message>
+
+		<message key="tableJapanTitle">Stolik „Japonia”</message>
+		<message key="tableAlienTitle">Stół „Kosmici”</message>
+		<message key="tableCountryTitle">Stolik rzeźbiony „Country”</message>
+		<message key="tableBeachTitle">Stolik „Rozgwiazda”</message>
+
+		<message key="bedJapanTitle">Wersalka „Japonia”</message>
+		<message key="bedAlienTitle">Wersalka „Kosmici”</message>
+		<message key="bedBeachTitle">Leżak plażowy</message>
+		<message key="bedPrincessLabel">Wersalka „Księżniczka”</message>
+
+		<message key="caseCountryTitle">Szafa „Country”</message>
+		<message key="casePrincessTitle">Komoda „Księżniczka”</message>
+		<message key="caseMayaLabel">Komoda „Majowie”</message>
+
+		<message key="armchairPrincessBrownLabel">Krzesło „Księżniczka”</message>
+		<message key="armchairPrincessGreenLabel">Krzesło „Księżniczka”</message>
+
+		<message key="artnouveauCollectionLabel">Modern</message>
+		<message key="japanCollectionLabel">Japonia</message>
+		<message key="alienCollectionLabel">Kosmici</message>
+		<message key="beachCollectionLabel">Plaża</message>
+		<message key="princessCollectionLabel">Księżniczka</message>
+		<message key="countryCollectionLabel">Country</message>
+		<message key="mayaCollection1Label">Majowie</message>
+		<message key="dzo14Collection">Bunkier</message>
+
+		<!-- NY 2014 EVENT ITEMS -->
+        <message key="armchairNY14Title">Lodowy tron</message>
+        <message key="chairNY14Title">Lodowe siedzisko</message>
+
+		<!-- SV14 -->
+		<message key="lovemeterSV14Title">Wyspa Aniołów</message>
+		<message key="lovemeterCategory">Wyspa Aniołów</message>
+		<message key="chairSV14Title">Pufa „Niebiosa”</message>
+		<message key="tableSV14Title">Stolik „Niebiosa”</message>
+
+		<!-- NYROOF -->
+		<message key="nyrfCollection">Drapacz chmur</message>
+		<message key="chairNYRoofLabel">Fotel „Drapacz chmur”</message>
+		<message key="loungeNYRoofLabel">Lezak „Drapacz chmur”</message>
+		<message key="tableNYRoofLabel">Stolik „Drapacz chmur”</message>
+
+        <!-- STVAL15 -->
+        <message key="sofaSV15Label">Ławka „Aleja miłości”</message>
+        <message key="predictionPavilionSV15Title">Altanka „Aleja miłości”</message>
+
+        <!-- CONAN -->
+        <message key="throneConanLabel">Tron króla barbarzyńców</message>
+        <message key="conanCollection">Barbarzyńca</message>
+
+        <message key="dirol15WardrobeDirolTitle">Szafa Dirol</message>
+        <message key="chrGrdGft">Krzesło „Ogrodnik”</message>
+        <message key="sfGrdnrGft">Sofa „Ogrodnik”</message>
+        <message key="tblGrdnrGft">Stół „Ogrodnik”</message>
+        <message key="wrdGrdnrGft">Półka na książki „Ogrodnik”</message>
+
+        <message key="chrTrBthLabel">Siedzisko „Tropiki”</message>
+        <message key="tblTrBthLabel">Stół „Tropiki”</message>
+        <message key="bdTrBthLabel">Łóżko „Tropiki”</message>
+        <message key="tropicalBedroom">Tropiki</message>
+
+        <message key="blackRoseLabel">Czarna Rosa</message>
+        <message key="hsptlLbl">Szpital</message>
+        <message key="bdHsptl">Łóżko szpitalne</message>
+        <message key="nsHsptl">Taboret szpitalny</message>
+        <message key="sfBlkRsLabel">Kanapa „Czarna Rosa”</message>
+        <message key="armchrBlkRsLabel">Fotel „Czarna Rosa”</message>
+        <message key="tblBlkRsLabel">Stół „Czarna Rosa”</message>
+        <message key="bdBlkRsLabel">Wersalka „Czarna Rosa”</message>
+
+		<message key="superHeroCollectionLabel">Superbohaterowie</message>
+		<message key="shWllLabel">Ściany „Superbohaterowie”</message>
+		<message key="shDrLabel">Drzwi „Superbohaterowie”</message>
+		<message key="shFlrLabel">Podłoga „Superbohaterowie”</message>
+		<message key="shWdwLabel">Okno panoramiczne „Superbohaterowie”</message>
+		<message key="shWdmmLabel">Kostium superbohaterki</message>
+		<message key="shMdmmLabel">Kostium superbohatera</message>
+		<message key="shJPckLabel">Plecak odrzutowy</message>
+		<message key="shWldmLabel">Spawarka</message>
+		<message key="shGlbLabel">Globus „Superbohaterowie”</message>
+		<message key="shWplLabel">Biurko „Superbohaterowie”</message>
+		<message key="shChrLabel">Krzesło „Superbohaterowie”</message>
+
+		<message key="pirateRoomCollectionLabel">Kajuta kapitana</message>
+		<message key="prtrWllLabel">Ściany „Kajuta kapitana”</message>
+		<message key="prtrDrLabel">Drzwi „Kajuta kapitana”</message>
+		<message key="prtrWdwLabel">Okno „Kajuta kapitana”</message>
+		<message key="prtrFlrLabel">Podłoga „Kajuta kapitana”</message>
+		<message key="prtrCrptLabel">Dywan „Kajuta kapitana”</message>
+		<message key="prtrMapLabel">Mapa archipelagu</message>
+		<message key="prtrLmpLabel">Lampa „Kajuta kapitana”</message>
+		<message key="prtrCndlLabel">Kinkiet „Kajuta kapitana”</message>
+		<message key="prtrBrlLabel">Beczki z prochem</message>
+		<message key="prtrBrlSbrLabel">Beczka z szablą</message>
+		<message key="prtrMrtLabel">Moździerz</message>
+		<message key="prtrChstLabel">Skrzynia ze złotem</message>
+		<message key="prtrCoreLabel">Kule armatnie</message>
+		<message key="prtrBookLabel">Dziennik pokładowy</message>
+		<message key="prtrArmchrLabel">Fotel kapitana</message>
+		<message key="prtrChrLabel">Krzesło „Kajuta kapitana”</message>
+		<message key="prtrTblLabel">Stół „Kajuta kapitana”</message>
+
+		<message key="gymCollectionLabel">Sala sportowa</message>
+		<message key="gymDrLabel">Drzwi „Sala sportowa”</message>
+		<message key="gymWdwLabel">Okno „Sala sportowa”</message>
+		<message key="gymFlrLabel">Podłoga „Sala sportowa”</message>
+		<message key="gymWllLabel">Ściany „Sala sportowa”</message>
+		<message key="gymRbrCrptLabel">Gumowa mata sportowa</message>
+		<message key="gymYgBlkCrptLabel">Czarna mata do jogi</message>
+		<message key="gymYgGrnCrptLabel">Zielona mata do jogi</message>
+		<message key="gymBllChrLabel">Piłka gimnastyczna</message>
+		<message key="gymMtsBedLabel">Maty sportowe</message>
+		<message key="gymPstrLabel">Plakat „Sala sportowa”</message>
+		<message key="gymExitLabel">Tabliczka „Sala sportowa”</message>
+		<message key="gymJmpRpLabel">Skakanki</message>
+		<message key="gymDmblLabel">Hantel „Sala sportowa”</message>
+		<message key="gymSlfDmblLabel">Stojak na hantle</message>
+		<message key="gymCpbdLabel">Szafa na sprzęt sportowy</message>
+		<message key="gymPngBagLabel">Gruszka bokserska</message>
+		<message key="gymStrLabel">Drabinka</message>
+		<message key="gymBnchSofaLabel">Ławka „Sala sportowa”</message>
+
+		<message key="hlwnBlrmCndlLabel">Świecznik „Vampire”</message>
+		<message key="hlwnBlrmVsLabel">Klatka z różami „Vampire”</message>
+		<message key="hlwnBlrmPnLabel">Fortepian „Vampire”</message>
+		<message key="hlwnBlrmLmpLabel">Kinkiet „Vampire”</message>
+		<message key="hlwnBlrmSfLabel">Sofa „Vampire”</message>
+		<message key="hlwnBlrmChrLabel">Szezlong „Vampire”</message>
+
+		<message key="pnRmCollectionLabel">Wirtuoz</message>
+		<message key="pnRmWllLabel">Ściany „Wirtuoz”</message>
+		<message key="pnRmDrLabel">Drzwi „Wirtuoz”</message>
+		<message key="pnRmWdwLabel">Okno „Wirtuoz”</message>
+		<message key="pnRmFlrLabel">Podłoga „Wirtuoz”</message>
+		<message key="pnRmChrLabel">Szezlong „Wirtuoz”</message>
+		<message key="pnRmTblLabel">Stolik „Wirtuoz”</message>
+		<message key="pnRmSfLabel">Sofa „Wirtuoz”</message>
+		<message key="pnRmPnLabel">Fortepian</message>
+		<message key="pnRmCsLabel">Komoda „Wirtuoz”</message>
+		<message key="pnRmVsLabel">Wazon „Wirtuoz”</message>
+		<message key="pnRmLmpLabel">Kinkiet „Wirtuoz”</message>
+		<message key="pnRmMetroLabel">Metronom</message>
+		<message key="pnRmViolinLabel">Skrzypce</message>
+
+		<message key="armchairSV18Title">Fotel „Dwie połówki”</message>
+
+		<message key="pianoDescription">Na fortepianie możesz wykonać najpiękniejsze utwory klasycznie nie tylko samodzielnie, ale i ze znajomymi!</message>
+		<message key="weldingMachineDescription">Po każdej operacji trzeba naprawić pancerz. Użyj do tego spawarki.</message>
+		<message key="punchingBagDescription">Pokaż swoje bokserskie mistrzostwo, używając najnowszego modelu naszej wspaniałej gruszki bokserskiej!</message>
+
+		<message key="gmrRmCollectionLabel">Streamer</message>
+		<message key="gamerChairTitle">Fotel „Streamer”</message>
+		<message key="gamerNightstandTitle">Komoda „Streamer”</message>
+		<message key="gamerTableTitle">Stół „Streamer”</message>
+		<message key="hlwn18WndLabel">Okno „Pełnia księżyca”</message>
+
+		<message key="ny19ChairLabel">Krzesło</message>
+
+		<message key="glamourHallDr">Drzwi „Pokój księżniczki”</message>
+
+		<message key="rtrCfCollectionLabel">Retro Cafe</message>
+		<message key="rtrCfWllLabel">Ściany „Retro Cafe”</message>
+		<message key="rtrCfDrLabel">Drzwi „Retro Cafe”</message>
+		<message key="rtrCfWndLabel">Okno „Retro Cafe”</message>
+		<message key="rtrCfFlrLabel">Podłoga „Retro Cafe”</message>
+		<message key="rtrCfMscRcrdLabel">Płyty „Retro Cafe”</message>
+		<message key="rtrCfNeonLabel">Neon „Retro Cafe”</message>
+		<message key="rtrCfClmnLabel">Kinkiet „Retro Cafe”</message>
+		<message key="rtrCfOvrhLabel">Baldachim „Retro Cafe”</message>
+		<message key="barCounterRtrCfTitle">Bar „Retro Cafe”</message>
+		<message key="rndTblRtrCfTitle">Okrągły stolik „Retro Cafe”</message>
+		<message key="sqrTblRtrCfTitle">Kwadratowy stolik „Retro Cafe”</message>
+		<message key="rtrCfCctlLabel">Koktajl „Retro Cafe”</message>
+		<message key="rtrCfScLabel">Sosy „Retro Cafe”</message>
+		<message key="rtrCfBarChrTitle">Stołek barowy „Retro Cafe”</message>
+		<message key="rtrCfGrnChrTitle">Krzesło „Retro Cafe”</message>
+		<message key="rtrCfRdChrTitle">Krzesło „Retro Cafe”</message>
+		<message key="rtrCfGrnPfTitle">Puf „Retro Cafe”</message>
+		<message key="rtrCfRdPfTitle">Puf „Retro Cafe”</message>
+		<message key="rtrCfAnglSfLabel">Narożnik „Retro Cafe”</message>
+		<message key="rtrCfSfLabel">Kanapa „Retro Cafe”</message>
+		<message key="rtrCfSgnbrdLabel">Szyld „Retro Cafe”</message>
+		<message key="rtrCfMscMchnLabel">Szafa grająca „Retro Cafe”</message>
+		<message key="rtrCfClckOwlLabel">Zegar „Retro Cafe”</message>
+		<message key="rtrCfGumMchnLabel">Automat z gumą do żucia „Retro Cafe”</message>
+
+        <message key="orclCollectionLabel">Jasnowidz</message>
+        <message key="orclPfLabel">Puf „Jasnowidz”</message>
+        <message key="orclGrlndLabel">Girlanda „Jasnowidz”</message>
+        <message key="orclSfLabel">Kanapa „Jasnowidz”</message>
+        <message key="orclPctrsLabel">Obrazy „Jasnowidz”</message>
+        <message key="orclSphrLabel">Kula „Jasnowidz”</message>
+        <message key="orclWrdLabel">Szafa „Jasnowidz”</message>
+        <message key="orclTblLabel">Stół „Jasnowidz”</message>
+        <message key="hw2019WllLabel">Ściana „Jasnowidz”</message>
+        <message key="hw2019DrLabel">Drzwi „Jasnowidz”</message>
+        <message key="hw2019WndLabel">Okno „Jasnowidz”</message>
+        <message key="hw2019FlrLabel">Podłoga „Jasnowidz”</message>
+        <message key="drgCvCollectionLabel">Jaskinia smoka</message>
+        <message key="drgCvBnsLabel">Kości „Jaskinia smoka”</message>
+        <message key="drgCvChstLabel">Skarb „Jaskinia smoka”</message>
+        <message key="drgCvChrLabel">Tron „Jaskinia smoka”</message>
+        <message key="drgCvTrchLabel">Pochodnia „Jaskinia smoka”</message>
+        <message key="drgCvFntnLabel">Fontanna „Jaskinia smoka”</message>
+        <message key="drgCvDrLabel">Drzwi „Jaskinia smoka”</message>
+        <message key="drgCvFlrLabel">Lawa „Jaskinia smoka”</message>
+        <message key="drgCvWllLabel">Kamienne ściany „Jaskinia smoka”</message>
+
+		<message key="chrClnMgkLabel">Fotel „Średniowieczny zamek”</message>
+		<message key="stlClnMgkLabel">Puf „Średniowieczny zamek”</message>
+		<message key="lngSofaClnMgkLabel">Ława „Średniowieczny zamek”</message>
+		<message key="tblClnMgkLabel">Stół „Średniowieczny zamek”</message>
+		<message key="flagClnMgkLabel">Herb „Średniowieczny zamek”</message>
+		<message key="torchClnMgkLabel">Pochodnia „Średniowieczny zamek”</message>
+		<message key="torchClnMgkDescription">W wielkich komnatach średniowiecznego zamku nie obejdzie się bez dodatkowego oświetlenia.</message>
+		<message key="dummyClanGlamourLabel">Manekin „Pokój księżniczki”</message>
+
+		<message key="ny20BlkTblLabel">Stolik bufetowy</message>
+		<message key="NY20ChrLabel">Krzesło „Błękitny płomyk”</message>
+		<message key="NY20BlTblLabel">Świąteczny stół „Błękitny płomyk”</message>
+		<message key="pdmNY20CollectionLabel">Pokaz mody</message>
+		<message key="pdmNY20ChrLabel">Krzesło „Pokaz mody”</message>
+		<message key="pdmNY20DrLabel">Drzwi „Pokaz mody”</message>
+		<message key="pdmNY20FlrLabel">Podłoga „Pokaz mody”</message>
+		<message key="pdmNY20WllLabel">Ściany „Pokaz mody”</message>
+
+		<message key="wndrlndCollectionLabel">Herbata</message>
+		<message key="wndrlndArmchrLabel">Fotel „Herbata”</message>
+		<message key="wndrlndPfLabel">Puf „Herbata”</message>
+		<message key="wndrlndStlLabel">Krzesło „Herbata”</message>
+		<message key="wndrlndTblLabel">Stół „Herbata”</message>
+		<message key="rstrnt2019CollectionLabel">Restauracja</message>
+		<message key="rstrnt2019Armchr1Label">Czerwony fotel „Restauracja”</message>
+		<message key="rstrnt2019Armchr2Label">Niebieski fotel „Restauracja”</message>
+		<message key="rstrnt2019BrStl1Label">Stołek barowy „Restauracja”</message>
+		<message key="rstrnt2019BrStl2Label">Stołek barowy z oparciem „Restauracja”</message>
+		<message key="rstrnt2019Sf1Label">Czerwona kanapa „Restauracja”</message>
+		<message key="rstrnt2019Sf2Label">Niebieska kanapa „Restauracja”</message>
+		<message key="rstrnt2019RndTblLabel">Okrągły stolik „Restauracja”</message>
+		<message key="rstrnt2019TblLabel">Stół „Restauracja”</message>
+		<message key="rstrnt2019BrTblLabel">Stolik barowy „Restauracja”</message>
+		<message key="sv20CollectionLabel">Dzień zakochanych</message>
+		<message key="sv20TableLabel">Stół „Dzień zakochanych”</message>
+		<message key="sv20PoofLabel">Puf „Dzień zakochanych”</message>
+		<message key="sv20TblwrLabel">Zastawa stołowa „Dzień zakochanych”</message>
+		<message key="sv20WngllsLabel">Napój „Dzień zakochanych”</message>
+		<message key="sv20BllnsLabel">Balony „Dzień zakochanych”</message>
+		<message key="sv20HeartLabel">Neonowe serce „Dzień zakochanych”</message>
+		<message key="sv20CndlLabel">Świeca „Dzień zakochanych”</message>
+		<message key="sv20VaseLabel">Wazon z kwiatami „Dzień zakochanych”</message>
+
+		<message key="rtstWrkshpCollectionLabel">Artysta</message>
+		<message key="rtstWrkshpBxLabel">Pudełko „Artysta”</message>
+		<message key="rtstWrkshpClTblLabel">Stół obrotowy „Artysta”</message>
+		<message key="rtstWrkshpTblLabel">Stół „Artysta”</message>
+		<message key="rtstWrkshpChrLabel">Krzesło „Artysta”</message>
+		<message key="rtstWrkshpArmchrLabel">Fotek „Artysta”</message>
+		<message key="stPtr20ChrLabel">Krzesło „Koniczyna”</message>
+
+		<message key="puffDisorFA20Label">Puf „Zakłopotanie”</message>
+		<message key="puffGrinFA20Label">Puf „Śmiech”</message>
+		<message key="puffJoyFA20Label">Puf „Do łez”</message>
+		<message key="puffLoveFA20Label">Puf „To miłość”</message>
+		<message key="puffRageFA20Label">Puf „Grozisz mi?”</message>
+		<message key="puffRownFA20Label">Puf „Odpadł”</message>
+		<message key="puffSunGlassFA20Label">Puf „Wszystko gra”</message>
+		<message key="puffWinkLFA20Label">Puf „Mrugnął”</message>
+		<message key="puffWinkRFA20Label">Puf „Żartowniś”</message>
+		<message key="puffBrownFA20Label">Puf „Brązowy”</message>
+
+		<message key="puffColorLabel">Puf zmieniający kolor</message>
+		<message key="puffColorDescription">W edytorze pokoju możesz zmienić kolor pufa</message>
+		<message key="estr20CollectionLabel">Wielkanoc</message>
+		<message key="estr20ChrChkLabel">Fotel „Kurczak”</message>
+		<message key="estr20ChrRbtLabel">Fotel „Królik”</message>
+		<message key="estr20ChrEggLabel">Puf „Jajko”</message>
+		<message key="easter20NestLabel">Kanapa „Gniazdo”</message>
+		<message key="estr20StndLabel">Szafka „Wielkanoc”</message>
+		<message key="estr20TblLabel">Stół „Wielkanoc”</message>
+		<message key="estr20ArmChrEggLabel">Fotel „Jajko”</message>
+
+		<message key="modernBedroomCollectionLabel">Sypialnia „Modern”</message>
+		<message key="bdsdTblMdrnBdrmLabel">Taboret „Modern”</message>
+		<message key="cffTblMdrnBdrmLabel">Stolik kawowy „Modern”</message>
+		<message key="bdMdrnBdrmLabel">Łóżko „Modern”</message>
+		<message key="wrdrbMdrnBdrmLabel">Szafa „Modern”</message>
+		<message key="tblMdrnBdrmLabel">Stół „Modern”</message>
+		<message key="pffMdrnBdrmLabel">Puf „Modern”</message>
+		<message key="rndPffMdrnBdrmLabel">Puf okrągły „Modern”</message>
+		<message key="halloween2020CollectionLabel">Freak Show</message>
+		<message key="drHW20Label">Drzwi „Freak Show”</message>
+		<message key="flrHW20Label">Podłoga „Freak Show”</message>
+		<message key="wlHW20Label">Ściany „Freak Show”</message>
+		<message key="hw20BlnLabel">Balon „Freak Show”</message>
+		<message key="hw20BxDcrLabel">Skrzynia „Freak Show”</message>
+		<message key="hw20CshLabel">Kasa „Freak Show”</message>
+		<message key="hw20ExArrLabel">Drogowskaz „Freak Show”</message>
+		<message key="hw20MskDcrLabel">Maska „Freak Show”</message>
+		<message key="hw20PpcrnLabel">Wózek z popcornem „Freak Show”</message>
+		<message key="hw20Pstr1Label">Plakat „Freak Show”</message>
+		<message key="hw20Pstr2Label">Plakat „Freak Show”</message>
+		<message key="hw20TblLabel">Stół „Freak Show”</message>
+		<message key="hw20BlChrLabel">Stół niebieski „Freak Show”</message>
+		<message key="hw20RdChrLabel">Stół czerwony „Freak Show”</message>
+		<message key="hw20CrrgLabel">Klatka „Freak Show”</message>
+		<message key="hw20SprlDcrLabel">Spirala „Freak Show”</message>
+
+		<message key="greenHouseCollectionLabel">Greenhouse</message>
+		<message key="drGrnHsLabel">Drzwi „Greenhouse”</message>
+		<message key="flrGrnHsLabel">Podłoga „Greenhouse”</message>
+		<message key="wllGrnHsLabel">Tapeta „Greenhouse”</message>
+		<message key="pondGrnHsLabel">Staw „Greenhouse”</message>
+		<message key="sofaGrnHsLabel">Ławka „Greenhouse”</message>
+		<message key="tbl1GrnHsLabel">Stół „Greenhouse”</message>
+		<message key="tbl2GrnHsLabel">Podstawka „Greenhouse”</message>
+		<message key="wtrCanGrnHsLabel">Konewka „Greenhouse”</message>
+		<message key="flwrGrnHs1Label">Nolina</message>
+		<message key="flwrGrnHs2Label">Oxalis-trangularis</message>
+		<message key="flwrGrnHs3Label">Plea-peperomioides</message>
+		<message key="flwrGrnHs4Label">Sansevieria</message>
+		<message key="flwrGrnHs5Label">Strelizia</message>
+		<message key="flwrGrnHs6Label">Dieffenbachia</message>
+		<message key="flwrGrnHs7Label">Agave</message>
+		<message key="flwrGrnHs8Label">Rośliny „Greenhouse”</message>
+		<message key="flwrGrnHs9Label">Hedera</message>
+		<message key="flwrGrnHs10Label">Ogród „Greenhouse”</message>
+		<message key="drNY21Label">Drzwi „Christmas night”</message>
+		<message key="ny21FurnitureCollect">Christmas night</message>
+		<message key="flrNY21Label">Podłoga „Christmas night”</message>
+		<message key="wllNY21Label">Ściany „Christmas night”</message>
+		<message key="wndNY21Label">Okno „Christmas night”</message>
+		<message key="ny21BenchLabel">Ławka „Christmas night”</message>
+		<message key="ny21ChairLabel">Krzesło „Christmas night”</message>
+		<message key="ny21SnowballLabel">Balon „Christmas night”</message>
+
+		<message key="sr20ClanAwardLabel">Przeżyliśmy 2020</message>
+		<message key="sr20NoviceAwardLabel">Najlepszy nowicjusz klubowy 2020</message>
+		<message key="sr20PowerAwardLabel">Najlepszy klub 2020</message>
+
+		<message key="drSV21Label">Drzwi "Romantic date"</message>
+		<message key="flrSV21Label">Podłoga "Romantic date"</message>
+		<message key="wllSV21Label">Tapeta "Romantic date"</message>
+		<message key="sv21BedLabel">Łóżko "Romantic date"</message>
+		<message key="sv21ChairLabel">Drewniane "Romantic date"</message>
+		<message key="sv21OttomanLabel">Pufa "Romantic date"</message>
+		<message key="sv21Table1Label">Stół "Romantic date"</message>
+		<message key="sv21Table2Label">Stół okrągły "Romantic date"</message>
+		<message key="sv21BottleLabel">Butelka "Romantic date"</message>
+		<message key="sv21CandlesLabel">świecy "Romantic date"</message>
+		<message key="sv21CarpetLabel">Dywanik "Romantic date"</message>
+		<message key="sv21FlrLmp1Label">Lampa "Romantic date"</message>
+		<message key="sv21FlrLmp2Label">Lampa "Romantic date"</message>
+		<message key="sv21FlrPlan1Label">Bukiet kwiatów "Romantic date"</message>
+		<message key="sv21FlrPlan2Label">Krzew "Romantic date"</message>
+		<message key="sv21FlrPlan3Label">Kwiaty "Romantic date"</message>
+		<message key="sv21GarlandLabel">Girlanda "Romantic date"</message>
+		<message key="sv21GlassLabel">Kieliszek "Romantic date"</message>
+		<message key="sv21StrawberryLabel">Pluszowe szczęście "Romantic date"</message>
+		<message key="sv21TablePlantLabel">Kwiaty "Romantic date"</message>
+		<message key="sv21WllFlwrLabel">Donica z kwiatami "Romantic date"</message>
+		<message key="sv21WllPanelLabel">Panel "Romantic date"</message>
+
+		<!-- ST. PATRICK 2021-->
+		<message key="stPatrick21CollectionLabel">Irish Pub</message>
+		<message key="doorStPtr21Label">Drzwi "Irish Pub"</message>
+		<message key="floorStPtr21Label">Podłoga "Irish Pub"</message>
+		<message key="wallStPtr21Label">Tapeta "Irish Pub"</message>
+		<message key="windowStPtr21Label">Okno "Irish Pub"</message>
+		<message key="stPtr21BarTblLabel">Mały stół "Irish Pub"</message>
+		<message key="stPtr21TblLabel">Duży stół "Irish Pub"</message>
+		<message key="stPtr21StndLabel">Lada barowa "Irish Pub"</message>
+		<message key="stPtr21ChrLabel">Krzesło "Irish Pub"</message>
+		<message key="stPtr21GrnBarChrLabel">Stołek barowy zielony "Irish Pub"</message>
+		<message key="stPtr21RedBarChrLabel">Stołek barowy czerwony "Irish Pub"</message>
+		<message key="stPtr21SofaLabel">Sofa "Irish Pub"</message>
+		<message key="stPtr21BoardLabel">Tabliczka z nazwiskiem "Irish Pub"</message>
+		<message key="stPtr21CrptLabel">Wykładzina podłogowa "Irish Pub"</message>
+		<message key="stPtr21ClowerLabel">Neonowy znak "Irish Pub"</message>
+		<message key="stPtr21Coctail1Label">Koktajl "Irish Pub"</message>
+		<message key="stPtr21Coctail2Label">Mojito "Irish Pub"</message>
+		<message key="stPtr21FlagLabel">Flaga "Irish Pub"</message>
+		<message key="stPtr21MenuLabel">Menu "Irish Pub"</message>
+		<message key="stPtr21Lamp1Label">Lampa "Irish Pub"</message>
+		<message key="stPtr21Lamp2Label">Okrągła lampa "Irish Pub"</message>
+
+		<message key="fa21ChairDoubleLabel">Podwójne krzesło</message>
+		<message key="fa21ChairTongueLabel">Krzesło</message>
+		<message key="fa21SofaLabel">Kanapa „Tygrys”</message>
+		<message key="fa21TableLabel">Stół</message>
+		<message key="bingo2021TribuneLabel">Trybuna „Bingo”</message>
+		<message key="animeRoomCollectionLabel">Pokój „Anime”</message>
+		<message key="bedAnimeRoomLabel">Łóżko „Anime”</message>
+		<message key="footAnimeRoomLabel">Puf „Anime”</message>
+		<message key="chairAnimeRoomLabel">Fotel „Anime”</message>
+		<message key="tableAnimeRoomLabel">Stół „Anime”</message>
+
+		<message key="kdRm21CollectionLabel">Pokój dziecięcy</message>
+		<message key="kdRm21ChairLabel">Krzesło „Pokój dziecięcy”</message>
+		<message key="kdRm21SofaLabel">Sofa „Pokój dziecięcy”</message>
+		<message key="kdRm21TableLabel">Stół „Pokój dziecięcy”</message>
+		<message key="kdRm21BedLabel">Łóżko dziecięce</message>
+
+		<message key="cbr21CollectionLabel">Cyberpunk</message>
+		<message key="cbr21ArmcharLabel">Fotel „Cyberpunk”</message>
+		<message key="cbr21ChairLabel">Krzesło „Cyberpunk”</message>
+		<message key="cbr21CabineLabel">Akwarium „Cyberpunk”</message>
+		<message key="cbr21TableLabel">Stół „Cyberpunk”</message>
+		<message key="ab21CollectionLabel">Underwater</message>
+		<message key="ab21AquariumTableLabel">Akwarium stołowe „Underwater”</message>
+		<message key="ab21ArmchairLabel">Fotek „Underwater”</message>
+		<message key="ab21CoffeeTableLabel">Stolik kawowy „Underwater”</message>
+		<message key="ab21SofaLabel">Kanapa „Underwater”</message>
+		<message key="ab21TableLabel">Stół „Underwater”</message>
+
+		<message key="blk21CollectionLabel">Black</message>
+		<message key="blk21ArmchairLabel">Fotel „Black”</message>
+		<message key="blk21BedsideTableLabel">Szafka „Black”</message>
+		<message key="blk21PoofLabel">Puf „Black”</message>
+		<message key="blk21SofaLabel">Kanapa „Black”</message>
+		<message key="blk21TableLabel">Stół „Black”</message>
+		<message key="blk21Table2Label">Okrągły stół „Black”</message>
+		<message key="rockingChairLabel">Fotel bujany</message>
+		<message key="wtrpl21CollectionLabel">Relax</message>
+		<message key="wtrpl21SunbedLabel">Leżak „Relax”</message>
+		<message key="wtrpl21TableLabel">Stół „Relax”</message>
+		<message key="sport2021TreadmilLabel">Bieżnia</message>
+		<message key="sport2021TreadmilDescription">Bieganie świetnie wpływa na ogólny nastrój. Kup bieżnię i zachowaj pozytywny nastrój co dnia!</message>
+		<message key="sport2021FitMatLabel">Mata do jogi</message>
+		<message key="sport2021FitMatDescription">Rozciąganie się jest gwarancją zdrowia! Dzięki macie zajęcia jogi będą jeszcze przyjemniejsze</message>
+		<message key="sciFi21CollectionLabel">AVAEarth - 1</message>
+		<message key="sciFi21ArmchairLabel">Fotel kapitana „AVAEarth - 1”</message>
+		<message key="sciFi21ChairLabel">Fotel „AVAEarth - 1”</message>
+		<message key="sciFi21Table1Label">Pulpit nawigacyjny „AVAEarth - 1”</message>
+		<message key="sciFi21Table2Label">Panel sterowania „AVAEarth - 1”</message>
+		<message key="sln21CollectionLabel">Wild West</message>
+		<message key="sln21ChairLabel">Krzesło „Wild West”</message>
+		<message key="sln21StoolLabel">Taboret „Wild West”</message>
+		<message key="sln21TableLabel">Stół „Wild West”</message>
+		<message key="sln21BarrelLabel">Beczka z kołem „Wild West”</message>
+		<message key="sln21BullLabel">Mechaniczny byk „Wild West”</message>
+		<message key="bullDescription">Każdy kowboj z gracją ujeżdża mechanicznego byka. Ty też możesz się sprawdzić na tym sprzęcie!</message>
+
+		<message key="avapacClassicLabel">Awapaka</message>
+		<message key="avapacVampireLabel">Awapaka – wampir</message>
+		<message key="avapacZombieLabel">Awapaka – zombie</message>
+		<message key="hl21CollectionLabel">Laboratorium</message>
+		<message key="hl21ArmchairLabel">Fotel „Laboratorium naukowca”</message>
+		<message key="hl21BedLabel">Skaner „Laboratorium naukowca”</message>
+		<message key="hl21ChairLabel">Krzesło „Laboratorium naukowca”</message>
+		<message key="hl21DresserLabel">Taboret „Laboratorium naukowca”</message>
+		<message key="hl21TableLabel">Stół „Laboratorium naukowca”</message>
+	</locale>
+
+</dictionary>

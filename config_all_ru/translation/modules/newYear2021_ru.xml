@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="pl">
+        <message key="ny21FirButtonCraftGarlandHint">Zrób łańcuch</message>
+        <message key="ny21FirButtonAddGarlandHint">Powieś łańcuch na choince</message>
+        <message key="ny21FirButtonLeftTimeHint">Pozostało :time:</message>
+        <message key="ny21Stage1Title">1. etap</message>
+        <message key="ny21Stage2Title">2. etap</message>
+        <message key="ny21Stage3Title">3. etap</message>
+        <message key="ny21Stage4Title">4. etap</message>
+        <message key="ny21ProgressDialogTitle">Noworoczna bitwa</message>
+        <message key="ny21Stage1Description">Zrób łańcuch i powieś go na choince</message>
+        <message key="ny21Stage2Description">Zdobądź superzdolność do walki ze złoczyńcami</message>
+        <message key="ny21Stage3Description">Wybij z bałwanów śnieżynki</message>
+        <message key="ny21Stage4Description">Wybij ze złoczyńcy śnieżynki. Zrób tarczę do ochrony przed mrozem.</message>
+        <message key="ny21Stage5Description">Graj w noworocznej lokacji</message>
+        <message key="ny21StageCompleteDescription">Gratulacje, etap zaliczony! Śnieżynki możesz wymienić na zimowe prezenty, póki jest czas.</message>
+        <message key="ny21TrophyDescription">Zbieraj śnieżynki i zdobądź wyjątkowy tytuł pod koniec akcji</message>
+        <message key="ny21WelcomeDialogTitle">Skradzione Boże Narodzenie</message>
+        <message key="ny21WelcomeDialogMessageTop1">Pokonaj siły zła, które chcą skraść nasze święto</message>
+        <message key="ny21WelcomeDialogMessageTop2">Bierz udział w minigrach, aby zebrać więcej iskier</message>
+        <message key="ny21WelcomeDialogMessageTop3">Walcz wraz z innymi graczami przeciwko bałwanom</message>
+        <message key="ny21WelcomeDialogMessageTop4">Pokonaj głównego złoczyńcę</message>
+        <message key="ny21WelcomeDialogMessageMiddle1">Zbierz więcej lampek i zrób z nich łańcuch, aby ozdobić choinkę</message>
+        <message key="ny21WelcomeDialogMessageMiddle2">Zdobądź superzdolność, aby pokonać złoczyńców</message>
+        <message key="ny21WelcomeDialogMessageMiddle3">Wymieniaj śnieżynki na prezenty</message>
+        <message key="ny21WelcomeDialogMessageMiddle4">Zrób tarczę do obrony przed złoczyńcą</message>
+        <message key="ny21WelcomeDialogMessageBottom1">Ozdób choinkę łańcuchem. Podczas całej akcji będzie ci dawać śnieżynki</message>
+        <message key="ny21WelcomeDialogMessageBottom4">Zdobądź ostatnią nagrodę i ukończ akcję</message>
+        <message key="ny21ThroughLabel">w ciągu :time:</message>
+        <message key="ny21PutInTitle">włóż</message>
+        <message key="ny21NeedLabel">wymagane</message>
+        <message key="ny21CurrentLabel">masz</message>
+        <message key="ny21CollectSnowflakesButtonLabel">zbierz śnieżynki</message>
+        <message key="ny21ParticipationDialogTitle">Ocal święta przed złoczyńcą</message>
+        <message key="ny21ParticipationDialogMessage">Choinka to najważniejsza ozdoba nowego roku. Została zamrożona przez złego bałwana i jego pomocników. Walcz ze złoczyńcą i uwolnij choinkę!</message>
+        <message key="ny21MittensDialogTitle">Potrzebujesz rękawiczek? Zaproś znajomych!</message>
+        <message key="ny21MittensDialogMessage">Im więcej twoich znajomych gra w Awatarię, tym więcej rękawiczek będziesz codziennie otrzymywać. Wejdź do gry i pamiętaj o zbieraniu rękawiczek! Załóż je i wyjdź na dwór, by porzucać śnieżkami i otrzymać więcej śnieżynek.</message>
+        <message key="ny21ThrowSnowballMenuTitle">Śnieżka</message>
+        <message key="ny21ThrowSnowballNotificationTitle">Uwaga, śnieżka!</message>
+        <message key="ny21ThrowSnowballNotificationMessage">:userName: :genderDrop: w ciebie śnieżkę.</message>
+        <message key="ny21UseMittensWearDialogMessage">Aby nie zmarzły ci ręce, włóż rękawiczki. Możesz w nich rzucać śnieżkami, póki nie przemokną.</message>
+        <message key="ny21NotEnoughMittensWearDialogMessage">Zrób rękawiczki z pracowni i rzucaj się dzięki nim śnieżkami. Rzucaj śnieżki i zdobywaj za to lampki, które są potrzebne do wykonania łańcucha na choinkę.</message>
+        <message key="ny21ExchangeSnowflakesDialogTitle">Wymiana na prezenty!</message>
+        <message key="ny21ExchangeSnowflakesDialogMessage">Wymieniaj pozostałe śnieżynki na noworoczne prezenty!</message>
+        <message key="ny21RightPanelButtonCreateEventHintMessage">Pokonaj złego bałwana i uwolnij choinkę</message>
+        <message key="ny21EventFilterLabel">noworoczne</message>
+        <message key="ny21LocationName">Zimowa bitwa</message>
+        <message key="ny21SnowBattleWelcomeDialogTitle">Zimowa bitwa</message>
+        <message key="ny21SnowBattleWelcomeDialogText">Użyj superzdolności i walcz ze złem</message>
+        <message key="ny21SnowBattleAlreadyStart">Gra już się zaczęła. Znajdź inne wydarzenie.</message>
+        <message key="ny21SnowBattleWelcomeDialogTextDescription">Walcz z pomocnikami złoczyńcy i zdobądź odłamki za wygraną z nimi.</message>
+        <message key="ny21SnowBattleWelcomeDialogAllies">Zbieramy drużynę, aby uratować nasze święta</message>
+        <message key="ny21SnowBattleWelcomeDialogAlliesMessage">Oczekiwanie na graczy...</message>
+        <message key="ny21SnowBattleNoGun">Nie masz superzdolności, nie możesz wziąć udziału w bitwie</message>
+        <message key="ny21GiftExchange">Wymiana śnieżynek na prezenty</message>
+        <message key="ny21GiftGun">Superzdolność</message>
+        <message key="ny21GiftSkill">Doświadczenie i umiejętność bitewna</message>
+        <message key="ny21GunLabel">Superzdolność</message>
+        <message key="ny21ShieldLabel">Tarcza od mrozu</message>
+        <message key="ny21Lamp1Label">czerwona lampka</message>
+        <message key="ny21Lamp2Label">zielona lampka</message>
+        <message key="ny21Lamp3Label">niebieska lampka</message>
+        <message key="ny21LampDescription">można zdobyć, grając w śnieżki na zewnątrz</message>
+        <message key="ny21SparkLabel">iskra</message>
+        <message key="ny21SparkDescription">można zdobyć, przegrywając minigry</message>
+        <message key="ny21LeftTime">do :stage: etapu :time:</message>
+        <message key="ny21InterfaceCraftShieldHint">Zorganizuj obronę</message>
+        <message key="ny21InterfaceHasShieldHint">Masz obronę</message>
+        <message key="ny21MiniGameVictoryDialogTitle">Hurra! Zwycięstwo!</message>
+        <message key="ny21MiniGameVictoryDialogDescription">Walcz z bałwanami i zdobywaj lodowe odłamki</message>
+        <message key="ny21WallStageGiftMessage">Udało mi się zdobyć wspaniałą nagrodę za zaliczony etap. Też taki chcesz? Czekam na ciebie w grze! :link:</message>
+        <message key="ny21WallMiniGameVictoryMessage">Hurra, pokonałem wszystkie bałwany w noworocznej minigrze! :link:</message>
+        <message key="ny21WallGetTrophyMessage">Hurra, otrzymałem noworoczny tytuł! Czekam na ciebie w grze! :link:</message>
+        <plural key="ny21Snowflakes">
+            <form>śnieżynka</form>
+            <form>śnieżynki</form>
+            <form>śnieżynek</form>
+        </plural>
+        <plural key="ny21Mittens">
+            <form>rękawiczka</form>
+            <form>rękawiczki</form>
+            <form>rękawiczek</form>
+        </plural>
+        <plural key="ny21Friends">
+            <form>przyjaciel</form>
+            <form>przyjaciół</form>
+            <form>przyjaciół</form>
+        </plural>
+        <message key="ny21SnowballCountHint">Zostało rzutów: :count:</message>
+        <message key="ny21BuyFirPanelTitle">Kupno choinki</message>
+        <message key="ny21BuyCrTrPanelDescription1">Kupuj dodatkowe choinki i stawiaj je w swoim mieszkaniu</message>
+        <message key="ny21BuyCrTrPanelDescription2">Każda choinka daje 3 śnieżynki co 3 godziny</message>
+        <message key="ny21CreateGarlandPanelTitle">Łańcuch na choinkę</message>
+        <message key="ny21CreateGarlandPanelDescription1">Rzucaj na zewnątrz śnieżkami i zbieraj lampki, z których w pracowni można zrobić łańcuch</message>
+        <message key="ny21CreateGarlandPanelDescription2">Ozdób łańcuchem choinkę, a będzie ci dawać o :garlandBonus: śnieżynek więcej</message>
+        <message key="ny21CreateStarPanelTitle">Gwiazda na choinkę</message>
+        <message key="ny21CreateStarPanelDescription1">Weź udział w wydarzeniu „Noworoczna bitwa”, w którym można walczyć z bałwanami i wybijać z nich lodowe odłamki do stworzenia gwiazdy</message>
+        <message key="ny21CreateStarPanelDescription2">Ozdób gwiazdą choinkę, a będzie ci dawać o :starBonus: śnieżynek więcej</message>
+        <message key="ny21TrophyProgressPanelTitle">Uratowanie głównej choinki w Awatarii</message>
+        <message key="ny21TrophyProgressPanelDescription1">Wraz z innymi graczami walcz przeciwko złemu bałwanowi i uwolnij choinkę z prezentami</message>
+        <message key="ny21TrophyProgressPanelDescription2">Przed walką przygotuj w pracowni tarczę, abo wróg cię nie zamroził</message>
+        <message key="ny21TrophyProgressPanelDescription3">Zbierz ze złego bałwana :trophyProgress: gałązek i zdobądź unikatowy tytuł „Bohater 2021 roku”</message>
+        <message key="ny21MainSnowflakesDescription">Zbieraj śnieżynki i kupuj za nie nową odzież i meble w sklepie świątecznym</message>
+        <message key="ny21IceShardLabel">odłamek lodu</message>
+        <message key="ny21IceShardDescription">można zdobyć, walcząc z bałwanami</message>
+        <message key="ny21MittensLabel">Rękawiczki</message>
+        <message key="ny21MittensDescription">Ogrzeją ci ręce podczas zabawy śnieżkami</message>
+        <message key="ny21BranchLabel">Gałązka</message>
+        <message key="ny21BranchDescription">Można zdobyć od złego bałwana</message>
+        <message key="ny21ShopPanelLabel">Sklep świąteczny</message>
+        <message key="ny2021InfoDialogTitle">Krótko o akcji</message> <message key="ny21bossDefeatDescription">Zdołaliście pokonać największego złoczyńcę i uwolnić choinkę, pod którą czekają prezenty!</message>
+        <message key="ny21SnowflakesExchangeDialogTitle">Śnieżny sklep</message>
+        <message key="ny21BuySnowflakeDialogDescription">Masz za mało śnieżynek? Skorzystaj z tych ofert i zdobądź zapasy!</message>
+        <message key="ny21BuySnowflakeDialogTitle">Zakup śnieżynek</message>
+        <message key="ny21BuySnowflakeNotificationDescription">Zdobywasz :count: :currency:</message>
+        <message key="ny21ClothesSetsLabel">Kostiumy</message>
+        <message key="ny21ClothesUpLabel">Góra</message>
+        <message key="ny21ClothesDownLabel">Dół</message>
+        <message key="ny21ClothesShoesLabel">Obuwie</message>
+        <message key="ny21ClothesAccessoriesLabel">Dodatki</message>
+        <message key="ny21ClothesColorLabel">Kolorowa odzież</message>
+        <message key="ny21Furniture2014Label">Lodowy pałac</message>
+        <message key="ny21Furniture2015Label">Śnieżna opowieść</message>
+        <message key="ny21Furniture2020Label">Błękitny płomyk</message>
+        <message key="ny21FiReceivingNotification">Zdobywasz świąteczną choinkę. Ozdób ją i zbierz śnieżynki</message>
+        <message key="ny21BossCooldownLabel">Niedawno brałeś udział w bitwie z bossem. Spróbuj później</message>
+
+        <message key="ny21StreetFirTitle">Ozdoba choinkowa</message>
+        <message key="ny21StreetFirPanelDescription1">Idź na zewnątrz i ozdób miejską choinkę. Choinka daje :snowflakes: śnieżynek na :time:</message>
+        <message key="ny21StreetFirPanelDescription2">Kupuj dodatkowe ozdoby w postaci łańcuchów choinkowych i wieszaj je na choinkę, aby otrzymać o :tinselBonus: śnieżynek więcej</message>
+        <message key="ny21CreateToyPanelTitle">Ozdoba choinkowa</message>
+        <message key="ny21CreateToyPanelDescription1">Weź udział w wydarzeniu „Noworoczna bitwa”, w którym można walczyć z bałwanami i wybijać z nich lodowe odłamki do stworzenia ozdób</message>
+        <message key="ny21CreateToyPanelDescription2">Ozdób choinkę, a da ci o :toyBonus: śnieżynek więcej</message>
+        <message key="ny21DecorToyLabel">Ozdoba choinkowa</message>
+        <message key="ny21DecorToyDescription">Pomoże ozdobić choinkę na zewnątrz</message>
+        <message key="ny21DecorGarlandLabel">Girlanda na choinkę</message>
+        <message key="ny21DecorGarlandDescription">Pomoże ozdobić choinkę na zewnątrz</message>
+        <message key="ny2021InfoDialogMessageTop1">Przystrój choinkę, która stoi na zewnątrz, i zdobywaj śnieżynki na zakup przedmiotów w sklepie noworocznym</message>
+        <message key="ny2021InfoDialogMessageMiddle1">Przystrój choinkę girlandami, łańcuchami i innymi ozdobami, aby zdobyć więcej śnieżynek.</message>
+        <message key="ny2021InfoDialogMessageBottom1">Zbierz znajomych i walczcie ze złym bałwanem w lokacji noworocznej.</message>
+        <message key="ny2021InfoDialogMessageBottom2">Uwolnij główną choinkę w Awatarii i zdobądź prezenty!</message>
+        <message key="ny21DecorDialogTitle">Wybierz ozdobę!</message>
+        <message key="ny21DecorDialogDescription">Ozdabiaj choinkę i zdobywaj śnieżynki!</message>
+        <message key="ny21DecorButtonTitle">ozdób</message>
+        <message key="ny21DecorNotification">Choinka ozdobiona!</message>
+        <message key="ny21DecorHintText">Kiedy skala się zapełni, otrzymasz :count: śnieżynek</message>
+        <gender key="ny21DecorHintDescription">
+            <form>:name: ozdobił choinkę</form>
+            <form>:name: ozdobiła choinkę</form>
+        </gender>
+
+        <message key="ny21RefundMessage">Rekompensata za niewykorzystane tarcze podczas akcji „Nowy Rok 2021”.</message>
+    </locale>
+</dictionary>

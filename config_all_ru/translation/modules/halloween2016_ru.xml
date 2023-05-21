@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="hw16NewsTitle">Halloween!</message>
+        <message key="hw16NewsDescription">Czaruj swoich znajomych i zdobywaj za to cukierki. Otrzymasz za nie prezenty!</message>
+        <message key="hw16PotionLabel">Eliksir</message>
+        <message key="hw16BelladonnaLabel">Wilcza jagoda</message>
+        <message key="hw16BelladonnaDescription">można zdobyć, wygrywając minigry</message>
+        <message key="hw16GiftLabel">prezent na Halloween</message>
+        <message key="hw16ExchangeDialogTitle">Wymiana cukierków na prezenty!</message>
+        <message key="hw16ExchangeDialogMessage">Wymieniaj cukierki na prezenty!</message>
+        <message key="hw16GiftNotificationTitle">prezent:</message>
+        <message key="hw16ConjureMenuTitle">czaruj</message>
+        <message key="hw16RemoveMonsterSuitMenuTitle">zdejmij strój</message>
+        <message key="hw16ConjureDialogUsePotionMessage">Użyj eliksiru, aby zmienić gracza w potwora</message>
+        <message key="hw16ConjureDialogEmptyPotionMessage">Nie masz eliksiru. Przygotuj go w pracowni</message>
+        <message key="hw16ConjureNotificationTitle">Halloween</message>
+        <message key="hw16RevengeTitle">zemścij się</message>
+        <gender key="hw16VipMessage">
+            <form>Otrzymałeś w prezencie status VIP!</form>
+            <form>Otrzymałaś w prezencie status VIP!</form>
+        </gender>
+        <gender key="hw16ConjureNotificationMessage">
+            <form>:userName: zaczarował cię! Chcesz się zemścić?</form>
+            <form>:userName: zaczarowała cię! Chcesz się zemścić?</form>
+        </gender>
+    </locale>
+</dictionary>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="pl">
+        <message key="ny18GoToSkiResortButtonHint">Ośrodek narciarski</message>
+        <message key="ny18LockObjectHint">Otworzy się za :time:</message>
+        <message key="ny18MittensLabel">Rękawiczka</message>
+        <message key="ny18MittensDescription">Można zdobyć, wygrywając minigry</message>
+        <message key="ny18UseMittensWearDialogMessage">Aby nie zmarzły ci ręce, włóż rękawiczki. Możesz w nich rzucać śnieżkami, póki nie przemokną.</message>
+        <message key="ny18NotEnoughMittensWearDialogMessage">Nie masz rękawiczek? Nie szkodzi! Bierz udział w minigrach, a zdobędziesz rękawiczki bezpłatnie!</message>
+        <message key="ny18ThrowSnowballMenuTitle">Śnieżka</message>
+        <message key="ny18ThrowSnowballNotificationTitle">Uwaga, śnieżka!</message>
+        <message key="ny18ThrowSnowballNotificationMessage">:userName: :genderDrop: w ciebie śnieżkę.</message>
+        <message key="NY18ProgressDialogTitle">Osiągnięcia osobiste</message>
+        <message key="ny18InfoDialogTitle">Ośrodek narciarski!</message>
+        <message key="ny18InfoDialogDescription">Ośrodek narciarski rozpoczyna działalność! Już teraz możesz porzucać się śnieżkami ze znajomymi. Z czasem otworzą się dla ciebie nowe możliwości. Za aktywność czekają na ciebie wspaniałe nagrody! Naprzód, ku przygodom! </message>
+        <message key="ny18PutInTitle">włóż</message>
+        <message key="ny18NeedLabel">wymagane</message>
+        <message key="ny18CurrentLabel">masz</message>
+        <message key="ny18SnowboardHint">Ozdobny snowboard</message>
+        <message key="ny18BoyClothesSetHint">Strój snowboardzisty</message>
+        <message key="ny18GirlClothesSetHint">Strój snowboardzistki</message>
+        <message key="ny18AnimationHint">Unikatowa animacja radości</message>
+        <message key="ny18TrophyHint">Król góry</message>
+        <message key="ny18SnowboardDialogDescription">Snowboard będzie nie tylko świetną ozdobą twojego mieszkania, ale i wiele będzie mówił o jego właścicielu!</message>
+        <message key="ny18ClothesSetDialogDescription"> Co to za snowboardzista, jeśli nie ma specjalnego sprzętu? Zdobądź nie tylko ochronny, ale i modny strój do swojej kolekcji!</message>
+        <message key="ny18AnimationDialogDescription">Specjalna reakcja radości pokaże wszystkim, jak cieszysz się z każdego zwycięstwa!</message>
+        <message key="ny18TrophyDialogDescription">Unikatowy tytuł „Król góry” widać z daleka. Będzie on świadczył o twoich sukcesach w noworocznej akcji!</message>
+        <message key="ny18NpcMessage1">Świetnie. Trochę to przypomina bitwę na śnieżki, jeśli wiesz, o czym mówię!</message>
+        <message key="ny18NpcMessage2">Ciekawe, co kryje się za grzbietem górskim.</message>
+        <message key="ny18NpcMessage3">Ech, ale zimno! Chyba pora włożyć czapkę!</message>
+        <message key="ny18NpcMessage4">Mróz i słońce to najlepsi styliści!</message>
+        <message key="ny18NpcMessage5">Och, gdzie moje lusterko? Czyżbym zgubiła je w jednej z tych zasp?</message>
+        <message key="ny18NpcMessage6">Taaak... bez rękawiczek ciężko rzucać śnieżkami.</message>
+        <message key="ny18NpcMessage7">Pora kupić nowy snowboard. Mój trochę się już zużył...</message>
+        <message key="ny18NpcMessage8">Dalej, do wyścigu!</message>
+        <message key="ny18NpcMessage9">Co, nart w wypożyczalni nie było?</message>
+        <message key="ny18NpcMessage10">Ciekawe, czy zdążę zjechać jeszcze parę razy, nim czas wypożyczenia dobiegnie końca.</message>
+        <message key="ny18NpcMessage11">Trzeba zacząć przygotowywać prezenty świąteczne...</message>
+        <message key="ny18NpcMessage12">Dobrze by było dostać w prezentach coś rzadkiego!</message>
+        <message key="ny18NpcMessage13">Ciekawe, czy Aleks ma już dla mnie prezent.</message>
+        <message key="ny18NpcMessage14">Super, udało mi się znaleźć wśród prezentów magiczną kulę! Teraz poznam całą prawdę.</message>
+        <message key="ny18NpcMessage15">A może zorganizujemy flash mob? Będzie super!</message>
+        <message key="ny18NpcMessage16">Proszę podejść, nie ma co się wstydzić. Nie gryziemy :)</message>
+        <message key="ny18NpcMessage17">Jaka piękna harmonia ruchów!</message>
+        <message key="ny18NpcMessage18">Trzeba będzie później zająć się tańcem...</message>
+        <message key="ny18NpcMessage19">Może skomplikujemy trasę? Ta jest trochę zbyt łatwa.</message>
+        <message key="ny18NpcMessage20">Ty zawsze chcesz komplikować!</message>
+        <message key="ny18NpcMessage21">Ciekawe kto zostanie najlepszym snowboardzistą sezonu.</message>
+        <message key="ny18NpcMessage22">A może snowboardzistką? :D</message>
+        <message key="ny18NpcMessage23">Zajrzymy na stragan z prezentami?</message>
+        <message key="ny18NpcMessage24">Innym razem. Portfel ze złotem zostawiłem w domu...</message>
+        <message key="ny18NpcMessage25">I po co jechać w ciepłe strony, kiedy tutaj jest tak super?</message>
+        <message key="ny18NpcMessage26">Aleks, przecież zaplanowaliśmy już wyjazd do Tropikanii!</message>
+        <message key="ny18NpcMessage27">Ale super. Zrobimy zdjęcie?</message>
+        <message key="ny18NpcMessage28">Jasne, śmiało! </message>
+        <message key="ny18NpcMessage29">Flash mob to świetny sposób na wypoczynek po wyścigach!</message>
+        <message key="ny18NpcMessage30">Ja też tak uważam!</message>
+        <message key="danceFloorHintTitle">Parkiet</message>
+        <message key="danceFloorHintDescription">Zbierzcie innych snowboardzistów i urządźcie potężne flash moby na parkiecie. W utrwaleniu miłych wspomnień pomoże zdjęcie grupowe!</message>
+        <message key="snowboardRaceEntranceHintTitle">Zjazd narciarski</message>
+        <message key="snowboardRaceEntranceHintDescription">Bierzcie udział w wyścigach snowboardowych, rywalizując z innymi! Aby wziąć w nich udział, musicie albo zrobić, albo wypożyczyć deskę.</message>
+        <message key="snowboardRatingBoardHintTitle">Ranking snowboardzistów</message>
+        <message key="snowboardRatingBoardHintDescription">Rywalizujcie z innymi uczestnikami, zdobywajcie punkty rankingowe i walczcie o mistrzowski tytuł oraz szacunek mieszkańców Awatarii!</message>
+        <message key="giftMarketHintTitle">Stragan z prezentami</message>
+        <message key="giftMarketHintDescription">Tylko tu przez cały rok można kupować prezenty dla siebie i bliskich. Każdy ma szansę znaleźć wśród prezentów rzadkie przedmioty!</message>
+        <message key="ny18AwardDialogMessage">Dajemy ci ten wspaniały prezent w nagrodę za zdobyte punkty. Tylko tak dalej! Podziel się tą nowością ze znajomymi!</message>
+        <message key="ny18AwardReceivedMessage">Za zdobyte punkty udało mi się zdobyć wspaniały prezent. Też taki chcesz? Czekam na ciebie w grze! :link:</message>
+        <gender key="ny18AllDoneDescription">
+            <form>Gratulacje! Zdobyłeś wszystkie nagrody.</form>
+            <form>Gratulacje! Zdobyłaś wszystkie nagrody.</form>
+        </gender>
+    </locale>
+</dictionary>

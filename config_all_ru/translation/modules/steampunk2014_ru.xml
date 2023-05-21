@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <plural key="gear">
+            <form>tryb</form>
+            <form>tryby</form>
+            <form>trybów</form>
+        </plural>
+        <plural key="fuel">
+            <form>kolba</form>
+            <form>kolby</form>
+            <form>kolb</form>
+        </plural>
+        <plural key="myFriends">
+            <form>znajomy</form>
+            <form>znajomych</form>
+            <form>znajomych</form>
+        </plural>
+        <gender key="genderShot">
+            <form>wystrzelił</form>
+            <form>wystrzeliła</form>
+        </gender>
+
+        <message key="steampunk2014WelcomeDialogTitle">Steampunk. Inna cywilizacja.</message>
+        <message key="steampunk2014WelcomeDialogMessage1">Zbieraj kolby z paliwem w pracy znajomych. Im więcej masz znajomych, tym więcej paliwa możesz codziennie zdobyć.</message>
+        <message key="steampunk2014WelcomeDialogMessage2">Wlej paliwo do generatora w twoim mieszkaniu, by otrzymać tryby. Naładuj swój pistolet plazmowy i weź udział w walkach z innymi graczami, by zdobyć więcej trybów.</message>
+        <message key="steampunk2014WelcomeDialogMessage3">Zdobywaj unikalne nagrody, zbierając odpowiednią liczbą trybów. Te przedmioty te można otrzymać tylko podczas trwania promocji!</message>
+
+        <message key="steampunk2014CreateRoomTitle">Nowy mechaniczny pokój</message>
+        <message key="steampunk2014CreateRoomMessage">W tym pokoju jest wiele ruchomych przedmiotów. By działały, potrzebują paliwa. Dużo paliwa!</message>
+
+        <message key="steampunk2014ProgressDialogTitle">Zebrałeś tryby? Zdobądź nagrodę!</message>
+        <message key="steampunk2014YouHaveGearsLabel">masz</message>
+
+        <message key="steampunk2014AskDialogTitle">Chcę więcej trybów!</message>
+        <message key="steampunk2014AskDialogMessage">Za mało trybów? Poproś o pomoc znajomych! Na pewno ci pomogą! Więcej znajomych to więcej trybów, więcej radości i prezentów!</message>
+        <message key="steampunk2014AwardDialogTitle">Gratulacje!</message>
+        <message key="steampunk2014AwardDialogMessage">Otrzymujesz ten wspaniały prezent w nagrodę za zebranie trybu. Tylko tak dalej! Podziel się tą nowością ze znajomymi!</message>
+        <message key="steampunk2014Congratulation">Udało ci się zebrać odpowiednią liczbę trybów i zdobyć wszystkie prezenty. Dobra robota!</message>
+
+        <message key="steampunk2014WallMessage1">Dostałem wspaniały prezent w zamian za zebrane tryby. Też taki chcesz? Czekam na ciebie w grze! :link:</message>
+        <message key="steampunk2014WallMessage2">Chciałbym dostać wyjątkowy prezent w grze „Awataria” i potrzebuję waszej pomocy. Bez was mi się uda! :link:</message>
+
+        <message key="steampunk2014FuelDialogTitle">Pomoc w tankowaniu</message>
+        <message key="steampunk2014FuelDialogMessage">Im więcej twoich znajomych gra w Awatarię, tym więcej kolb będziesz codziennie otrzymywać BEZPŁATNIE!</message>
+
+        <message key="steampunk2014RoomButtonHint">Mechaniczny pokój</message>
+        <message key="steampunk2014DontFuelMessage">Aby uruchomić generator, potrzeba minimum 10 kolb z paliwem. Zaproś znajomych do gry lub kup 10 jedn. paliwa za monety</message>
+        <message key="steampunk2014DontFuelToShootMessage">Skończyło ci się paliwo. Zaproś znajomych do gry, a otrzymasz kolby bezpłatnie, lub kup :count: kolb za monety.</message>
+
+        <message key="steampunk2014ShootTitle">Pif paf!</message>
+        <message key="steampunk2014ShootMenuHint">Strzel z pistoletu plazmowego</message>
+
+        <message key="currentFuelLabel">masz</message>
+
+        <message key="gearLootLabel">tryb</message>
+        <message key="fuelLootLabel">paliwo</message>
+
+        <message key="gearLootDescription">zbieraj tryby i zdobywaj nagrody</message>
+        <message key="fuelLootDescription">naładuj swój pistolet plazmowy paliwem lub zatankuj generator w mechanicznym pokoju</message>
+
+        <message key="gunDescription">Pistolet plazmowy działa dzięki paliwu. Naładuj go i weź udział w walkach z innymi graczami, by zdobyć więcej trybów.</message>
+        <message key="robotDescription">Robot-pracuś wypoleruje na błysk podłogę w twoim mieszkaniu. Ostrożnie, nie poślizgnij się!</message>
+        <message key="clothGDescription">Wyjątkowy komplet ubrań w stylu Steampunk. Nie kupisz takich w sklepie!</message>
+        <message key="clothBDescription">Wyjątkowy komplet ubrań w stylu Steampunk. Nie kupisz takich w sklepie!</message>
+        <message key="generatorDescription">Generator-perpetuum mobile. Mechaniczny pokój z takim silnikiem będzie działać wiecznie, bez konieczności tankowania paliwa!</message>
+
+        <message key="steampunk2014WarningPlasmaTitle">Plazmowe pozdrowienie!</message>
+        <message key="steampunk2014WarningPlasmaMessage">:userName: :genderShot: w ciebie plazmą.</message>
+        <message key="steampunk2014SendBackPlasmaButtonTitle">odpowiedz</message>
+
+        <message key="steampunk2014DontHaveGun">Musisz mieć w ręku pistolet plazmowy.</message>
+        <message key="steampunk2014DontHaveGunAward">Nie możesz strzelać, póki nie masz pistoletu plazmowego. Zbieraj tryby, aby go otrzymać.</message>
+
+        <message key="steampunk2014FillMessage">Aby mechaniczny pokój działał, trzeba wlać paliwo do generatora. Zróbmy to właśnie teraz!</message>
+        <message key="steampunk2014FillBtnTitle">Zatankuj</message>
+        <message key="steampunk2014TakeGun">Hura! Masz teraz prawdziwy pistolet plazmowy! Trzeba go tylko wziąć do ręki i... pif paf!!</message>
+        <message key="steampunk2014TakeBtnTitle">Weź pistolet</message>
+
+    </locale>
+</dictionary>

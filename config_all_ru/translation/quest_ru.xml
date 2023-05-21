@@ -1,0 +1,2048 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dictionary>
+	<locale name="pl">
+		
+		<!-- Tutorial -->
+		
+        <message key="quest1Title">Instalacja fontanny</message>
+		<message key="quest1Comment">Dziękuję za pomoc. Fontanna wygląda po prostu pięknie!</message>
+		
+		<message key="quest2Title">Przebieranie</message>
+		<message key="quest2Comment">Świetnie wyglądasz w tych modnych rzeczach!
+Tak trzymaj – orientuj się w sprawach mody ;)</message>
+		
+		<message key="quest3Title">Pierwsze zamówienie</message>
+		<message key="quest3Comment">W kawiarni i w klubie można zamawiać różne pyszne rzeczy, które przywracają energię.</message>
+		
+		<message key="quest4Title">Tańce!</message>
+		<message key="quest4Comment">Weź ten napój. Doda ci on siły i da energię na cały dzień.</message>
+		
+		<message key="quest5Title">Parapetówka</message>
+		<message key="quest5Comment">Masz jeszcze mało mebli, dlatego weź to, żeby w mieszkaniu nie było tak pusto.</message>
+		
+		<!-- Main quests -->
+		
+		<message key="quest6Title">Słodkie życie</message>
+		<message key="quest6Description">A może by się wybrać do najbliższej kawiarenki i spróbować jakichś pyszności? To pozwoli ci zregenerować siły i trochę się rozerwać.</message>
+		<message key="quest6Task1Title"><![CDATA[<span class="bold">Przejdź się do baru i zjedz kawałek tortu lub pizzy albo wypij filiżankę kawy</span>]]></message>
+		<message key="quest6Comment"><![CDATA[<span class="bold">Wskazówka:</span> Żeby trafić do baru lub klubu, kliknij przycisk „Miejsca” w bocznym menu.</span>]]></message>
+		
+		<message key="quest9Title">Poszukiwanie przyjaciół</message>
+		<message key="quest9Description">Cóż, mieszkanie doprowadzone do porządku. Czas nawiązać nowe znajomości. Przecież to, co najciekawsze, zawsze wiąże się właśnie z przyjaciółmi.</message>
+		<message key="quest9Comment"><![CDATA[<span class="bold">Wskazówka:</span> Kliknij jednego z graczy i wybierz z listy „Kontakty” punkt „Nawiąż znajomość”.]]></message>
+		
+		<message key="quest10Title">Sąsiedzka pomoc</message>
+		<message key="quest10Description">Zgodni sąsiedzi zawsze pomagają sobie nawzajem. Możesz pomóc swoim sąsiadom posprzątać mieszkanie. Będziesz za to dostawać srebrne monety.</message>
+		<message key="quest10Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Sąsiedzi to twoi prawdziwi przyjaciele, którzy grają w Awatarię.]]></message>
+		
+		<message key="quest11Title">Powiększ przestrzeń!</message>
+		<message key="quest11Description">W jednym pokoju zrobiło się ciasno? Teraz możesz pozwolić sobie na zakup jeszcze jednego pokoju. Urządź go tak, jak zechcesz.</message>
+		
+		<message key="quest12Title">Zasady na podwórku</message>
+		<message key="quest12Description">O czystość podwórka trzeba dbać nieustannie. Możesz wziąć w tym udział, w zamian za co uzyskasz czystą ulicę, wdzięczność mieszkańców i trochę srebrnych monet za swoją pracę.</message>
+		
+		<message key="quest13Title">Trzy pokoje</message>
+		<message key="quest13Description">Dwa pokoje są dobre, a trzy — jeszcze lepsze! Zresztą kto by w to wątpił. Pojawiła się możliwość kupienia jeszcze jednego pokoju, więc śmiało! Więcej miejsca to większy komfort oraz większy rozmach przy urządzaniu imprez.</message>
+		
+		<message key="quest14Title">Hojny gest</message>
+		<message key="quest14Description">W klubie jest dzisiaj super impreza. To świetna okazja do nawiązania nowej znajomości. I to nie jednej.</message>
+		
+		<message key="quest15Title">Młody ogrodnik</message>
+		<message key="quest15Description">Całkiem niedawno w Avatarii otwarto cudowny ogród. Możesz dostać tam pracę, pomagać pielęgnować rośliny i chronić je przed plagą owadów.</message>
+		
+		<message key="quest16Title">Pierwszy remont</message>
+		<message key="quest16Description">Czas na remont! Chodź, zaczniemy od jednego z pokoi.</message>
+		<message key="quest16Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Aby zmienić wystrój, kliknij „Edytor pokoju” i wybierz kupione przedmioty.]]></message>quest121Description
+		<message key="quest16Task1Title"><![CDATA[<span class="bold">Wytapetuj</span>]]></message>
+		<message key="quest16Task2Title"><![CDATA[<span class="bold">Wyłóż podłogi</span>]]></message>
+		
+		<message key="quest17Title">Mój dom to moja twierdza</message>
+		<message key="quest17Description">Nowe drzwi w mieszkaniu będą nie tylko świetnie pasowały do wnętrza, ale i ochronią twój dobytek przed nieproszonymi gośćmi.</message>
+		<message key="quest17Task1Title"><![CDATA[<span class="bold">Kup nowe drzwi</span>]]></message>
+		<message key="quest17Task2Title"><![CDATA[<span class="bold">Wstaw drzwi do mieszkania</span>]]></message>
+		
+		<message key="quest18Title">Jazda!</message>
+		<message key="quest18Description">Ta noc należy do ciebie! Pokaż wszystkim, jak szalejesz na parkiecie!</message>
+		
+		<message key="quest19Title">Na skrzydłach miłości</message>
+		<message key="quest19Description">Miłość to potęga – o każdej porze roku wszędzie spotykasz zakochane pary. Może także dla ciebie nadszedł czas, by poszukać drugiej połówki?</message>
+		
+		<message key="quest20Title">Zamieńmy się!</message>
+		<message key="quest20Description">Jeden z przyjaciół, kiedy zobaczył twój kolejny nowy ciuch, nie wytrzymał i zapytał, czy może go trochę ponosić. Przecież nie będziesz skąpić i zamienisz się z nim na coś innego, prawda?</message>
+		<message key="quest20Task1Title"><![CDATA[<span class="bold">Wymień się z kimś rzeczami</span>]]></message>
+		
+		<message key="quest22Title">Początkujący florysta</message>
+		<message key="quest22Description">Twoja praca została zauważona i coraz więcej ludzi zaczęło przychodzić do tego cudownego kwitnącego ogrodu. Ale na tym praca się nie kończy.</message>
+		
+		<message key="quest23Title">Pomocna dłoń</message>
+		<message key="quest23Description">Wyciągnij pomocną dłoń, a odpłacą ci tym samym! Dziś ty pomagasz w sprzątaniu swoim sąsiadom, a jutro oni pomogą tobie.</message>
+		
+		<message key="quest26Title">Ogrodnik amator</message>
+		<message key="quest26Description">Praca w ogrodzie przypadła ci do gustu, i to jest piękne! Czy może być coś lepszego niż hobby, które przynosi nie tylko radość, ale i trochę pieniędzy?</message>
+		
+		<message key="quest27Title">Maraton tańca</message>
+		<message key="quest27Description">To prawdziwy maraton tańca. Udowodnij wszystkim, że nie tylko kochasz muzykę, ale i świetnie się poruszasz!</message>
+		
+		<message key="quest28Title">Miłość-zawiłość</message>
+		<message key="quest28Description">Pocałunki w Avatarii to coś więcej, niż mogłoby się wydawać. Zrozumieć prawdziwy sens pocałunku będą w stanie tylko ci, którzy w pełni doświadczyli jego siły.</message>
+		
+		<message key="quest29Title">Moja łazienka</message>
+		<message key="quest29Description">Czystość warunkiem zdrowia! O jakim zdrowiu można mówić bez porannego prysznica we własnej łazience?</message>
+		<message key="quest29Task1Title"><![CDATA[<span class="bold">Wstaw wannę</span>]]></message>
+		<message key="quest29Task2Title"><![CDATA[<span class="bold">Wstaw umywalkę</span>]]></message>
+		<message key="quest29Task3Title"><![CDATA[<span class="bold">Wstaw muszlę klozetową</span>]]></message>
+		<message key="quest29Task4Title"><![CDATA[<span class="bold">Powieś lustro</span>]]></message>
+		
+		<message key="quest30Title">Stare rzeczy</message>
+		<message key="quest30Description">Twoja garderoba wkrótce zostanie uzupełniona o nowe rzeczy, więc możesz śmiało pozbyć się starych, znoszonych ciuchów. Ich sprzedaż niespecjalnie się opłaca, za to w szafie zwolni się sporo miejsca.</message>
+		<message key="quest30Task1Title"><![CDATA[<span class="bold">Sprzedaj swoje ubrania</span>]]></message>
+		<message key="quest30Comment"><![CDATA[<span class="bold">Wskazówka:</span> Żeby sprzedać rzecz, otwórz „Inwentarz” i naciśnij przycisk „Sprzedaj” pod jedną z rzeczy.]]></message>
+		
+		<message key="quest31Title">Twój nowy image</message>
+		<message key="quest31Description">Chcesz, żeby otworzyły się przed tobą nowe horyzonty? Chcesz się spotykać ze sławnymi ludźmi, nosić najlepsze ciuchy i zawsze być dobrze widocznym? W takim razie trzeba zacząć zmieniać swój image.</message>
+		<message key="quest31Comment"><![CDATA[<span class="bold">Wskazowka:</span> Zdobądź 60 punktów image'u, kupując nowe rzeczy w sklepie odzieżowym.]]></message>
+		
+		<message key="quest32Title">Wstaw łóżko</message>
+		<message key="quest32Description">Na kanapie wcale nie śpi się tak wygodnie, jak się na początku wydawało. Ale teraz możesz sobie pozwolić na to, by co rano zażywać rozkoszy w wielkim łożu.</message>
+		<message key="quest32Task1Title"><![CDATA[<span class="bold">Kup łóżko</span>]]></message>
+		<message key="quest32Task2Title"><![CDATA[<span class="bold">Ustaw łóżko w mieszkaniu</span>]]></message>
+		
+		<message key="quest33Title">Świeży i pełen sił</message>
+		<message key="quest33Description">Zawsze chce się zrobić więcej, a do tego potrzeba dużo sił i energii.</message>
+		
+		<message key="quest34Title">Nowy stopień komfortu</message>
+		<message key="quest34Description">Człowiek zawsze zmierza do tego, co najlepsze. We wszystkim. Szczególnie jeśli dotyczy to komfortu mieszkania. Wszak to właśnie w domu czujesz się najswobodniej i najbezpieczniej.</message>
+		
+		<message key="quest35Title">Spróbuj szczęścia!</message>
+		<message key="quest35Description">Jeśli wierzysz w szczęście – śmiało, zakręć kołem! Tak mówią wszyscy, którzy choć raz wygrali w „Kole Fortuny”. Niech los uśmiechnie się właśnie do ciebie!</message>
+		
+		<message key="quest36Title">Zmiana image'u</message>
+		<message key="quest36Description">Nadszedł czas na zmianę image'u. Nowy stopień, nowe osiągnięcia. Czekają na ciebie niesamowite imprezy, nowe znajomości i burza emocji. Śmiało!</message>
+		
+		<message key="quest37Title">Walczący o czystość</message>
+		<message key="quest37Description">Podwórko wymaga ciągłej pielęgnacji, to prawda. Żeby nie zarosło brudem, trzeba pilnować, by było czyste. Niestety, nikt poza samymi mieszkańcami nie jest zainteresowany utrzymaniem czystości.</message>
+		
+		<message key="quest38Title">Gorączka zakupów</message>
+		<message key="quest38Description">Pora na odnowienie garderoby. Biegiem do sklepu, zanim wszystko wykupią!</message>
+		<message key="quest38Task1Title"><![CDATA[<span class="bold">Kup parę butów</span>]]></message>
+		<message key="quest38Task2Title"><![CDATA[<span class="bold">Kup spodnie lub szorty</span>]]></message>
+		<message key="quest38Task3Title"><![CDATA[<span class="bold">Kup koszulę lub T-shirt</span>]]></message>
+		<message key="quest38Task4Title"><![CDATA[<span class="bold">Kup kurtkę</span>]]></message>
+		
+		<message key="quest39Task2Title"><![CDATA[<span class="bold">Kup spodnie lub spódnicę</span>]]></message>
+		<message key="quest39Task3Title"><![CDATA[<span class="bold">Kup koszulę</span>]]></message>
+		
+		<message key="quest40Title">Symfonia piany</message>
+		<message key="quest40Description">Kilka najtańszych nawet akcesoriów odmieni twoją łazienkę, sprawiając, że będzie bardziej przytulna i wygodna.</message>
+		<message key="quest40Task1Title"><![CDATA[<span class="bold">Umieść w łazience 3 akcesoria</span>]]></message>
+		<message key="quest40Task2Title"><![CDATA[<span class="bold">Ustaw w łazience szafkę</span>]]></message>
+		
+		<message key="quest41Title">Początkującym szczęście sprzyja!</message>
+		<message key="quest41Description">Zdarzało ci się już kręcić „Kołem Fortuny”, ale teraz zadanie jest trudniejsze. Żeby je wykonać, będzie trzeba wygrać kilka razy.</message>
+		
+		<message key="quest42Title">Komfortowe życie</message>
+		<message key="quest42Description">Twoje mieszkanie zmienia się w oczach. Zauważasz to nie tylko ty, ale i całe twoje otoczenie. Przed tobą jeszcze dużo pracy, zanim przejdziesz na nowy poziom komfortu. Wszystko w twoich rękach!</message>
+		
+		<message key="quest43Title">Żwawo!</message>
+		<message key="quest43Description">Wielkie plany wymagają wielkich nakładów. Aby te nakłady zgromadzić, trzeba dużo pracować.</message>
+		
+		<message key="quest44Title">Wnętrze</message>
+		<message key="quest44Description">Można śmiało eksperymentować z wystrojem mieszkania. Przecież wszystko, czego potrzebujesz, jest w sklepie Avatarii!</message>
+		<message key="quest44Task1Title"><![CDATA[<span class="bold">Ustaw lampę stojącą</span>]]></message>
+		<message key="quest44Task2Title"><![CDATA[<span class="bold">Powieś kinkiet</span>]]></message>
+		<message key="quest44Task3Title"><![CDATA[<span class="bold">Ustaw wazon</span>]]></message>
+		
+		<message key="quest45Title">Piękno tkwi w szczegółach</message>
+		<message key="quest45Description">W sklepie odzieżowym możesz wypatrzyć wiele ciekawych akcesoriów, które nie tylko odświeżą twój wizerunek, lecz również wpłyną pozytywnie na twój image.</message>
+		<message key="quest45Task1Title"><![CDATA[<span class="bold">Kup 3 dowolne akcesoria w sklepie odzieżowym</span>]]></message>
+		
+		<message key="quest46Title">Wzajemna pomoc</message>
+		<message key="quest46Description">Czeka cię sporo pracy, wystarczy wszak posprzątać w jednym miejscu, a już w drugim naśmiecone. I gdzie mają oczy twoi sąsiedzi?</message>
+		
+		<message key="quest47Title">Image — wszystkim!</message>
+		<message key="quest47Description">Podczas pracy nad sobą i swoim wizerunkiem przyszło ci wiele przeżyć i wiele osiągnąć. Nie jest to jednak bynajmniej ostatni krok, masz do czego dążyć!</message>
+		
+		<message key="quest48Title">Gliniana skarbonka</message>
+		<message key="quest48Description">Pieniądze mają to do siebie, że szybko znikają, dlatego aby zaoszczędzić, potrzebna jest skarbonka. Trzylitrowy słoik też się nada :)</message>
+		
+		<message key="quest49Title">Dwa razy dwa — cztery!</message>
+		<message key="quest49Description">Wie o tym cały świat. Teraz i ty możesz pozwolić sobie na czwarty pokój. Duży, jasny, przestronny.</message>
+		
+		<message key="quest50Title">Projekt kuchni</message>
+		<message key="quest50Description">Teraz masz dość pomieszczeń, żeby urządzić także kuchnię. Jedzenie przy kuchennym stole jest o wiele przyjemniejsze i wygodniejsze niż na kanapie.</message>
+		<message key="quest50Task1Title"><![CDATA[<span class="bold">Ustaw 5 modułów kuchennych</span>]]></message>
+		<message key="quest50Task2Title"><![CDATA[<span class="bold">Ustaw stół kuchenny</span>]]></message>
+		<message key="quest50Task3Title"><![CDATA[<span class="bold">Ustaw 2 kuchenne krzesła</span>]]></message>
+		
+		<message key="quest51Title">Wystrój kuchni</message>
+		<message key="quest51Description">Kilka wyszukanych akcesoriów uczyni twoją kuchnię wyjątkową. Dekoracje kuchenne możesz kupić w sklepie meblowym.</message>
+		<message key="quest51Task1Title"><![CDATA[<span class="bold">Kup 3 elementy dekoracji kuchennych</span>]]></message>
+		
+		<message key="quest52Title">Precz z brudem!</message>
+		<message key="quest52Description">Po wczorajszej ulewie i niemal huraganowym wietrze nasze podwórko obróciło się w ruinę. Znowu czeka cię dużo pracy.</message>
+		
+		<message key="quest53Title">Energizer</message>
+		<message key="quest53Description">Skąd wziąć tyle czasu i sił, żeby ze wszystkim zdążyć? W tym szalonym pędzie tak wiele chciałoby się zrobić, a tak mało mamy czasu na realizację swoich planów.</message>
+		
+		<message key="quest54Title">Szczęściarz</message>
+		<message key="quest54Description">Zakręć „Kołem Fortuny” i wygraj! Żaden mieszkaniec Avatarii nie przepuści okazji do zarobienia kilkuset srebrnych monet.</message>
+		
+		<message key="quest55Title">Wygoda i komfort</message>
+		<message key="quest55Description">Wygoda i komfort. Komfort i wygoda. A czy ty czujesz się komfortowo w swoim mieszkaniu?</message>
+		
+		<message key="quest57Title">Król imprez</message>
+		<message key="quest57Description">Myślisz, że tańczysz najlepiej ze wszystkich w Avatarii? Udowodnij to!</message>
+		
+		<message key="quest58Title">Mistrz ogrodnictwa</message>
+		<message key="quest58Description">Bez trudu radzisz sobie z wszelkimi pracami w ogrodzie. A pracy z każdym dniem jest coraz więcej.</message>
+		
+		<message key="quest59Title">Nadchodzi pomoc!</message>
+		<message key="quest59Description">W mieszkaniach sąsiadów zawsze znajdzie się coś do zrobienia. A im więcej masz sąsiadów, tym więcej pracy :)</message>
+		
+		<message key="quest60Title">Zmiany na lepsze</message>
+		<message key="quest60Description">Wszystko płynie, wszystko się zmienia. Czas nie stoi w miejscu i ludzie wokół dostrzegają twoje sukcesy. Teraz twój image pracuje na ciebie. Ale nie można spocząć na laurach!</message>
+		
+		<message key="quest61Title">Sekrety uwodzenia</message>
+		<message key="quest61Description">Myślisz, że opanowanie sztuki miłości masz już za sobą? Ależ skąd. Jeszcze wiele sekretów przyjdzie ci odkryć w imię miłości.</message>
+		
+		<message key="quest62Title">Zadbaj o przytulność</message>
+		<message key="quest62Description">W sklepie meblowym jest jeszcze sporo różnych różności, które sprawią, że twoje mieszkanie będzie przytulne. Kiedy tylko znajdziesz czas, koniecznie zajrzyj tam i kup wszystko, co ci się spodoba.</message>
+		<message key="quest62Task1Title"><![CDATA[<span class="bold">Rozłóż dywan</span>]]></message>
+		<message key="quest62Task2Title"><![CDATA[<span class="bold">Ustaw 2 fotele</span>]]></message>
+		<message key="quest62Task3Title"><![CDATA[<span class="bold">Ustaw kanapę</span>]]></message>
+		<message key="quest62Comment"><![CDATA[<span class="bold">Wskazówka:</span> Żeby zadanie zostało zaliczone, trzeba umieścić wszystkie meble w jednym pokoju.]]></message>
+		
+		<message key="quest63Title">Ciekawe znajomości</message>
+		<message key="quest63Description">Nigdy nie wiadomo, gdzie znajdziesz nowych przyjaciół. Zresztą nieważne gdzie, liczy się to, że przyjaciel nigdy nie zostawi cię w biedzie, zawsze będzie cię wspierać i przyjdzie z pomocą w trudnych chwilach.</message>
+		
+		<message key="quest64Title">Babcina pończocha</message>
+		<message key="quest64Description">Choć to dziś niemodne, pieniądze trzeba oszczędzać. Do banku niedaleko, a w domu niby ciągle ma się je na oku.</message>
+		
+		<message key="quest65Title">Czyste podwórko</message>
+		<message key="quest65Description">Co dzień stajesz do walki o porządek na podwórku, choć wiesz, że jutro znów cię to czeka. I pojutrze. I popojutrze. Za to dziś dzięki tobie podwórko będzie lśnić czystością.</message>
+		
+		<message key="quest66Title">Perpetuum mobile</message>
+		<message key="quest66Description">Kiedy ktoś w końcu wynajdzie perpetuum mobile? A najlepiej roboty, które będą wykonywać za człowieka całą pracę. Wtedy nadejdą czasy, kiedy będzie można zajmować się tym, na co akurat ma się ochotę!</message>
+		
+		<message key="quest67Title">Złota podkowa</message>
+		<message key="quest67Description">Zobaczmy, czy i tym razem los ci sprzyja. Czy uda ci się dzisiaj zgarnąć całą pulę? Czas pokaże.</message>
+		
+		<message key="quest68Title">Przytulne gniazdko</message>
+		<message key="quest68Description">Tu odpoczywasz po pracy, a czasem, kiedy masz już wszystkiego dość, urządzasz zwariowane imprezy. I przecież bez względu na wszystko – cokolwiek by się działo, wciąż tu wracasz. Wszak to twój dom. Twoje przytulne gniazdko.</message>
+		
+		<message key="quest70Title">Dom, ukochany dom</message>
+		<message key="quest70Description">Udało ci się! Teraz możesz pozwolić sobie na zakup jeszcze jednego pokoju do swojego przytulnego mieszkanka.</message>
+		
+		<message key="quest71Title">Wymiana drzwi</message>
+		<message key="quest71Description">Znudziły ci się te stare okropne drzwi, które łączą pokoje twojego mieszkania? Czas wyskoczyć z gotówki i wymienić te drzwi na coś porządniejszego.</message>
+		<message key="quest71Task1Title"><![CDATA[<span class="bold">Kup 2 różnych drzwi</span>]]></message>
+		<message key="quest71Task2Title"><![CDATA[<span class="bold">Wymień 2 drzwi w mieszkaniu</span>]]></message>
+		<message key="quest71Comment"><![CDATA[<span class="bold">Wskazówka:</span> Wszystkich 2 drzwi należy umieścić w głównym pokoju – tylko wtedy zadanie zostanie zaliczone.]]></message>
+		
+		<message key="quest72Title">Wstawienie okien</message>
+		<message key="quest72Description">Okna w mieszkaniu dają dużo światła i pozytywnej energii, sprawiając, że twój dom jest jeszcze przytulniejszy. Co? Jeszcze nie masz okien? Niedobrze, trzeba naprawić to nieporozumienie, bo całkiem zwiędniesz z braku światła dziennego.</message>
+		<message key="quest72Task1Title"><![CDATA[<span class="bold">Kup 3 okna</span>]]></message>
+		<message key="quest72Task2Title"><![CDATA[<span class="bold">Wstaw 3 okna w mieszkaniu</span>]]></message>
+		<message key="quest72Comment"><![CDATA[<span class="bold">Wskazówka:</span> Wszystkie 3 okna należy wstawić w jednym, dowolnym pokoju – inaczej zadanie nie zostanie zaliczone.]]></message>
+		
+		<message key="quest73Title">Prace ogrodnicze</message>
+		<message key="quest73Description">Dziś dali ci duże zlecenie na prace w ogrodzie. Ale i nagrodę obiecali sporą. Dasz sobie radę?</message>
+		
+		<message key="quest74Title">Generalne porządki</message>
+		<message key="quest74Description">Dziś w waszym domu trwają generalne porządki, więc trzeba będzie dobrze się postarać, żeby pozbyć się nagromadzonego brudu i śmieci aż do następnego razu.</message>
+		
+		<message key="quest75Title">Śmietanka towarzyska</message>
+		<message key="quest75Description">Jeszcze trochę i drzwi do doborowego towarzystwa staną przed tobą otworem. To zupełnie nowa ścieżka, niezwykli ludzie i ich kaprysy, które szokują otoczenie. Uwierz jednak, że warto zapłacić tę cenę. Trzeba zrobić jeszcze tylko jeden krok.</message>
+		
+		<message key="quest76Title">Bank w kieszeni</message>
+		<message key="quest76Description">Podczas gdy inni bezmyślnie wydają zarobione pieniądze, ty spokojnie odkładasz je na swą świetlaną przyszłość. Tak, tak, to mądra decyzja.</message>
+		
+		<message key="quest77Title">Tańce do upadłego</message>
+		<message key="quest77Description">Najlepsze kluby Avatarii zapraszają cię na swoje parkiety. Czy wytrzymasz tym razem? Zaczął się maraton tańca!</message>
+		
+		<message key="quest78Title">Błogostan</message>
+		<message key="quest78Description">Jak przyjemnie rozłożyć się we własnym jacuzzi, rozkoszując się łagodną pieszczotą wzburzonych bąbelków. Jeszcze nie masz jacuzzi? W takim razie biegiem do sklepu!</message>
+		<message key="quest78Task1Title"><![CDATA[<span class="bold">Kup jacuzzi</span>]]></message>
+		<message key="quest78Task2Title"><![CDATA[<span class="bold">Ustaw jacuzzi w mieszkaniu</span>]]></message>
+		
+		<message key="quest79Title">Sezon kąpieli</message>
+		<message key="quest79boyDescription">Chyba nie zamierzasz kąpać się w ubraniu? Zresztą bez ubrania pewnie też nie? A kąpielówki byłyby w sam raz.</message>
+		<message key="quest79girlDescription">Chyba nie zamierzasz kąpać się w ubraniu? Zresztą bez ubrania pewnie też nie? A strój kąpielowy byłby w sam raz.</message>
+		<message key="quest79boyTask1Title"><![CDATA[<span class="bold">Kup kąpielówki</span>]]></message>
+		<message key="quest79girlTask1Title"><![CDATA[<span class="bold">Kup strój kąpielowy</span>]]></message>
+		
+		<message key="quest80Title">Kostium pirata</message>
+		<message key="quest80Description">Jo ho, ho! Żeby choć przez chwilę poczuć się prawdziwym piratem, potrzebujesz pirackiego kostiumu. Reszta to kwestia wyobraźni!</message>
+		<message key="quest80boyTask1Title"><![CDATA[<span class="bold">Kup piracki trójgraniasty kapelusz</span>]]></message>
+		<message key="quest80boyTask2Title"><![CDATA[<span class="bold">Kup piracką opaskę</span>]]></message>
+		<message key="quest80boyTask3Title"><![CDATA[<span class="bold">Kup kolczyk do ucha</span>]]></message>
+		<message key="quest80boyTask4Title"><![CDATA[<span class="bold">Kup podwinięte spodnie</span>]]></message>
+		<message key="quest80boyTask5Title"><![CDATA[<span class="bold">Kup czarną kurtkę z zamkiem</span>]]></message>
+		
+		<message key="quest80girlTask2Title"><![CDATA[<span class="bold">Kup czarne spodnie</span>]]></message>
+		<message key="quest80girlTask3Title"><![CDATA[<span class="bold">Kup czarną kurtkę</span>]]></message>
+		<message key="quest80girlTask4Title"><![CDATA[<span class="bold">Kup czarne lakierowane botki</span>]]></message>
+		<message key="quest80girlTask5Title"><![CDATA[<span class="bold">Kup górę od bikini</span>]]></message>
+		
+		<message key="quest81Title">Uzupełnienie garderoby</message>
+		<message key="quest81Description">Dobrze mieć w garderobie strój na każdą okazję. W tym celu trzeba ją choćby raz na jakiś czas uzupełnić.</message>
+		<message key="quest81Task1Title"><![CDATA[<span class="bold">Kup nowe buty</span>]]></message>
+		<message key="quest81Task2Title"><![CDATA[<span class="bold">Kup nowe spodnie i szorty</span>]]></message>
+		<message key="quest81Task3Title"><![CDATA[<span class="bold">Kup nowe koszule i T-shirty</span>]]></message>
+		<message key="quest81Task4Title"><![CDATA[<span class="bold">Kup nowe spodnie i spódnice</span>]]></message>
+		<message key="quest81Task5Title"><![CDATA[<span class="bold">Kup nowe koszule</span>]]></message>
+		
+		<message key="quest87Title">Wszystko się może zdarzyć</message>
+		<message key="quest87Description">W życiu wszystko się może zdarzyć, dlatego nie warto kryć się ze swoimi uczuciami. Nie bój się, że ktoś cię nie zrozumie. Każdy z nas trafia na swej życiowej drodze na smugi światła i cienia.</message>
+		<message key="quest87Task1Title"><![CDATA[<span class="bold">Złość się na skwerku</span>]]></message>
+		<message key="quest87Task2Title"><![CDATA[<span class="bold">Płacz w parku</span>]]></message>
+		<message key="quest87Comment"><![CDATA[<span class="bold">Wskazówka:</span> Działanie „złość się” i „płacz” można znaleźć, klikając na swojego awatara.]]></message>
+		
+		<message key="quest88Title">Wyrażanie uczuć</message>
+		<message key="quest88Description">Możesz na różne sposoby wyrażać swoje uczucia i stosunek do innych awatarów. Dysponujesz bowiem całym arsenałem emocji i działań. Pamiętaj jednak, że możesz zarówno poprawić relacje z drugim człowiekiem, jak i je zepsuć.</message>
+		
+		<message key="quest89Title">Kąpiel w jacuzzi</message>
+		<message key="quest89Description">Nadszedł czas na rozkoszną kąpiel w jacuzzi!</message>
+		<message key="quest89Task1Title"><![CDATA[<span class="bold">Wykąp się w jacuzzi</span>]]></message>
+		
+		<message key="quest90Title">Nowa nazwa pokoju</message>
+		<message key="quest90Description">Możesz zmieniać nazwy swoich pokoi, jak zechcesz i kiedy zechcesz. Chodź, zrobimy to teraz!</message>
+		<message key="quest90Task1Title"><![CDATA[<span class="bold">Zmień nazwę pokoju</span>]]></message>
+		<message key="quest90Comment"><![CDATA[<span class="bold">Wskazówka:</span> Żeby zmienić nazwę jednego z pokoi, kliknij ikonkę z lupą i naciśnij przycisk „Zmień nazwę” pod jednym z pokoi.]]></message>
+		
+		<message key="quest91Title">Sam w domu</message>
+		<message key="quest91Description">Jeśli potrzebujesz samotności, w dowolnej chwili możesz zamknąć swoje mieszkanie i nikogo nie wpuszczać.</message>
+		<message key="quest91Task1Title"><![CDATA[<span class="bold">Zamknij mieszkanie przed gośćmi</span>]]></message>
+		<message key="quest91Comment"><![CDATA[<span class="bold">Wskazówka:</span> Żeby zamknąć mieszkanie, kliknij ikonkę z lupą i naciśnij przycisk „Zamknij mieszkanie”.]]></message>
+		
+		<message key="quest92Title">Zapraszam do siebie</message>
+		<message key="quest92Description">Masz dość samotności? Nudno siedzieć samotnie w domu, bez przyjaciół? Czym prędzej otwórz mieszkanie, żeby przyjaciele mogli cię odwiedzić!</message>
+		<message key="quest92Task1Title"><![CDATA[<span class="bold">Otwórz mieszkanie dla gości</span>]]></message>
+		<message key="quest92Comment"><![CDATA[<span class="bold">Wskazówka:</span> Żeby otworzyć mieszkanie, kliknij ikonkę z lupą i naciśnij przycisk „Otwórz mieszkanie”.]]></message>
+		
+		<message key="quest93Title">Do ostatniego pyłku</message>
+		<message key="quest93Description">Popatrz, ile znowu śmieci na podwórku! I co, czujesz zmęczenie? Zaczętą pracę trzeba doprowadzić do końca.</message>
+		
+		<message key="quest94Title">Za czystość!</message>
+		
+		<message key="quest99Title">Do ostatniego chwastu</message>
+		<message key="quest99Description">Popatrz, ile rzeczy do zrobienia jest w ogrodzie. I co, czujesz zmęczenie? Zaczętą pracę trzeba doprowadzić do końca.</message>
+		
+		<message key="quest105Title">Najlepszy z najlepszych</message>
+		<message key="quest105Description">Masz teraz szansę wyróżnić się i otrzymać za to dodatkowe wynagrodzenie. Śmiało!</message>
+		
+		<message key="quest108Title">Najlepszy ogrodnik</message>
+		<message key="quest108Description">Kto najlepiej ze wszystkich radzi sobie z pracą w ogrodzie? Kto chciałby otrzymać premię za dobrą pracę?</message>
+		
+		<message key="quest111Title">Praca i wypoczynek</message>
+		<message key="quest111Description">Ludzie mówią, że ten, kto nie umie odpoczywać, nie umie pracować. Trzeba będzie się porządnie napracować na podwórku, a później należycie odpocząć i zregenerować siły.</message>
+		
+		<message key="quest112Title">Wygoda i piękno</message>
+		<message key="quest112Description">Żeby wykonać to zadanie, trzeba będzie zajrzeć do sklepu, a następnie zająć się ozdobieniem mieszkania.</message>
+		<message key="quest112Task2Title"><![CDATA[<span class="bold">Umieść w łazience 3 wazony</span>]]></message>
+		
+		<message key="quest113Title">A jednak się kręci</message>
+		<message key="quest113Description">Nadszedł czas, by spróbować szczęścia! Zakręć „Kołem Fortuny” i niech los uśmiechnie się właśnie do ciebie!</message>
+		
+		<message key="quest114Title">Czas na znajomości</message>
+		<message key="quest114Description">Czekają na ciebie nowe znajomości, a trudno znaleźć lepsze miejsce na spotkania niż bar czy klub.</message>
+		
+		<message key="quest115Title">Rozrabiaka</message>
+		<message key="quest115Description">Chodź, trochę poszalejemy, co?</message>
+		
+		<message key="quest116Title">Zaprowadzenie porządku</message>
+		<message key="quest116Description">Twoi sąsiedzi znów potrzebują wsparcia. Pomożesz im w sprzątaniu?</message>
+		
+		<message key="quest117Title">Radość życia</message>
+		<message key="quest117Description">Najpierw praca, potem zabawa. Nadszedł czas na odrobinę relaksu i porządnej rozrywki.</message>
+		
+		<message key="quest118Title">Prace ogrodnicze</message>
+		<message key="quest118Description">Lokalne towarzystwo ogrodnicze postawiło przed tobą nowe cele i zadania. Kiedy je wykonasz, otrzymasz wysokie wynagrodzenie.</message>
+		
+		<message key="quest119Title">W pogoni za image'em</message>
+		<message key="quest119Description">Ci, którzy mówią, że za modą nie da się nadążyć, bardzo się mylą. Wiesz o tym bynajmniej nie ze słyszenia.</message>
+		
+		<message key="quest120Title">Kuferek</message>
+		<message key="quest120Description">Od przybytku głowa nie boli, jak kiedyś mawiano. Skorzystaj z rady przodków, nie trać na próżno zarobionych uczciwą pracą monet. Przydadzą ci się, i to jeszcze jak!</message>
+		
+		<message key="quest121Title">Życie w tańcu</message>
+		<message key="quest121Description">Tańcz wszędzie, gdzie tylko zapragniesz! Żyj tańcem, a wszyscy pójdą za twoim przykładem, nikt nie pozostanie obojętny!</message>
+		<message key="quest121Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Aby zacząć tańczyć, kliknij swój awatar i wybierz „Tańcz”.]]></message>
+
+		<message key="quest133Title">Rozdawaj prezenty!</message>
+		<message key="quest133Description">Dawać prezenty jest nawet przyjemniej, niż je otrzymywać. Właśnie tym się zajmiesz.</message>
+		
+		<message key="quest134Title">Opakowania szklane</message>
+		<message key="quest134Description">Sprzątając śmieci na podwórku, można znaleźć sporo użytecznych rzeczy, które przydadzą ci się w warsztacie.</message>
+		
+		<message key="quest135Title">Słodka przyjemność</message>
+		<message key="quest135Description">W barze zbiera się zwykle sporo ludzi. Niektórzy przychodzą tu po prostu pogadać przy filiżance kawy, a niektórzy po to, żeby wziąć udział w konkursie rzucania tortem.</message>
+		
+		<message key="quest136Title">Pani Fortuna</message>
+		<message key="quest136Description">Koło Fortuny umożliwia łatwy zarobek. Grunt to mieć trochę szczęścia. Grajcie i wygrywajcie!</message>
+		
+		<message key="quest137Title">Ciepło w każdym domu</message>
+		<message key="quest137Description">Kominek symbolizuje nie tylko ciepło i przytulność, ale świadczy też o twojej zamożności. W długie zimowe wieczory możesz usiąść przy kominku w swoim ulubionym fotelu i zawinąwszy się w ciepły pled, wspominać lato.</message>
+		<message key="quest137Task2Title"><![CDATA[<span class="bold">Ustaw kominek</span>]]></message>
+		
+		<message key="quest138Title">Pracuś</message>
+		<message key="quest138Description">Przy każdej pogodzie, o każdej porze dnia i nocy jesteś gotowy porządnie popracować, więc stawiają cię innym za przykład. Czyż to nie powód do dumy?</message>
+		
+		<message key="quest139Title">Zbieracz</message>
+		<message key="quest139Description">Wykonując pracę, a także inne działania w grze, możesz otrzymywać różne materiały, które warto mieć w warsztacie. Chodź, zgromadzimy mały zapas materiałów, na pewno przydadzą ci się w przyszłości.</message>
+		
+		<message key="quest140Title">Pluszowe szczęście</message>
+		<message key="quest140Description">Łatwo własnoręcznie wykonać prezenty, gdy ma się warsztat. Wszak miło jest przyjść do kogoś w gości i zobaczyć, że główną ozdobą mieszkania jest podarowany przez ciebie własnoręcznie wykonany prezent.</message>
+		<message key="quest140Task2Title"><![CDATA[<span class="bold">Podaruj komuś misia</span>]]></message>
+		
+		<message key="quest141Title">W poszukiwaniu szczęścia</message>
+		<message key="quest141Description">Szczęście... Co oznacza dla ciebie to słowo? Czy daje ci radość sprawianie przyjemności nie tylko sobie, ale i innym? A może masz inne poglądy na życie?</message>
+		
+		<message key="quest142Title">Uściski</message>
+		<message key="quest142Description">Przyjacielskie objęcia, przyjacielski pocałunek... A może już nie tylko przyjacielski? Kto wie, może to miłość na całe życie?</message>
+		
+		<message key="quest143Title">Nowoczesny sprzęt w domu</message>
+		<message key="quest143Description">Nowoczesny sprzęt nie tylko ozdobi twoje mieszkanie, ale i sprawi, że będzie ono bardziej funkcjonalne. Oglądanie programów rozrywkowych w telewizji i słuchanie różnorodnej muzyki urozmaici twój wolny czas.</message>
+		<message key="quest143Task1Title"><![CDATA[<span class="bold">Kup telewizor</span>]]></message>
+		<message key="quest143Task2Title"><![CDATA[<span class="bold">Kup sprzęt Hi-Fi</span>]]></message>
+		<message key="quest143Task3Title"><![CDATA[<span class="bold">Kup 2 głośniki</span>]]></message>
+		
+		<message key="quest151Title">Cud w piórach</message>
+		<message key="quest151Description">Poduszka to najważniejszy przedmiot podczas walki. Niekiedy z poduszki wydostają się pióra, które mogą ci się przydać do pracy w warsztacie.</message>
+		
+		<message key="quest152Title">Modniś</message>
+		<message key="quest152Description">Ubierać się zgodnie z ostatnim krzykiem mody – czy nie o tym marzy każdy prawdziwy modniś?</message>
+		
+		<message key="quest153Title">Brzęk monet</message>
+		<message key="quest153Description">Sprzątając w mieszkaniach sąsiadów, można nie tylko zarobić, ale i znaleźć monetę na szczęście. Ruszaj na poszukiwania szczęścia!</message>
+		
+		<message key="quest154Title">Czas na zabawę</message>
+		<message key="quest154Description">Najpierw praca, potem zabawa. Pora trochę narozrabiać!</message>
+		
+		<message key="quest155Title">Duszą i ciałem</message>
+		<message key="quest155Description">Bar i klub Avatarii to bodaj najpopularniejsze miejsca, w których można odpocząć i miło spędzić czas. A może by tak odwiedzić je właśnie teraz?</message>
+		
+		<message key="quest156Title">Koło Fortuny</message>
+		<message key="quest156Description">Koło Fortuny to gra, która nigdy się nie nudzi. Gra, która zawsze daje ci szansę, czasem złudną, a czasem jak najbardziej realną i namacalną.</message>
+		
+		<message key="quest157Title">Energia się przelewa</message>
+		<message key="quest157Description">To zadanie jest w całości poświęcone energii. Trzeba będzie popracować w warsztacie i zająć się kwestią uzupełnienia zapasów energetycznych.</message>
+		
+		<message key="quest158Title">Święto duszy</message>
+		<message key="quest158Description">W naszym barze zawsze sprzedają pyszne ciastka. A jaką tam mają pizzę! Jaką aromatyczną kawę tam parzą... Aż ślinka cieknie!</message>
+		
+		<message key="quest159Title">Don't worry, be happy!</message>
+		<message key="quest159Description">Chcesz być szczęśliwym człowiekiem? Bądź nim!</message>
+		
+		<message key="quest160Title">Przydatne znaleziska</message>
+		<message key="quest160Description">Może dla kogoś to śmieci. A dla ciebie – jak najbardziej przydatne rzeczy. Sprzątając podwórko, można znaleźć mnóstwo pożytecznych przedmiotów.</message>
+		
+		<message key="quest161Title">Goście</message>
+		<message key="quest161Description">Nadszedł czas, by porządnie poimprezować. Opowiedz o tym wszystkim, zapraszaj gości i urządzaj u siebie w domu szalone imprezy!</message>
+		
+		<message key="quest162Title">Bum!</message>
+		<message key="quest162Description">Ktoś nazwie to zabawą, a ktoś inny po prostu „świństwem”. Tak czy inaczej, podkładanie bomb z farbą i patrzenie, jak ktoś na nich siada, to świetna zabawa!</message>
+		
+		<message key="quest165Title">Troska</message>
+		<message key="quest165Description">Dawać ludziom ciepło i troskę – oto prawdziwe przeznaczenie człowieka. Wszak jeśli nie będziemy wspierać się nawzajem dobrym słowem i czułym gestem, do niczego dobrego to nie doprowadzi.</message>
+		
+		<message key="quest166Title">Labirynt</message>
+		<message key="quest166Description">Pokoi nigdy za wiele. Najważniejsze, żeby samemu nie zabłądzić w tym labiryncie kanap, krzeseł, łóżek i innych mebli oraz sprzętów.</message>
+		
+		<message key="quest167Title">Rzeczotwórstwo</message>
+		<message key="quest167Description">Wiele ciekawych przedmiotów można kupić w sklepie. Ale i ty możesz zrobić mnóstwo fajnych rzeczy. W warsztacie.</message>
+		
+		<message key="quest168Title">Maraton kwiatowy</message>
+		<message key="quest168Description">Byłoby miło zebrać całą kolekcję wazonów, które wytwarzane są w warsztacie.</message>
+		
+		<message key="quest169Title">Właściwe odżywianie</message>
+		<message key="quest169Description">Ona zawsze chłodno cię wita, ale w każdej chwili jest gotowa oddać ci wszystko, co w sobie kryje. To lodówka, dusza twojego mieszkania, skarbnica żywności i różnych smakołyków, które tak lubisz.</message>
+		
+		<message key="quest170Title">Dzieła sztuki</message>
+		<message key="quest170Description">Monotonny wzór na tapetach szybko się nudzi. Łatwo to jednak naprawić, bo w sklepie z prezentami i zabawnymi przedmiotami możesz kupić kilka puszek farby i zrobić na ścianie niesamowite graffiti!</message>
+		
+		<message key="quest171Title">Własnoręczne dekoracje</message>
+		<message key="quest171Description">Masz genialny pomysł na udekorowanie mieszkania. Najlepsze miejsce na urzeczywistnianie takich pomysłów to warsztat.</message>
+		
+		<message key="quest172Title">Kręć się, koło!</message>
+		<message key="quest172Description">Graj i wygrywaj, niech szczęście ci sprzyja!</message>
+		
+		<message key="quest173Title">Oszczędności</message>
+		<message key="quest173Description">Przechowywanie wszystkich oszczędności w szafce to niezbyt rozsądny pomysł. A może zrobić w warsztacie skarbonkę, żeby chroniła twoje środki przed niepotrzebnymi wydatkami?</message>
+		
+		<message key="quest174Title">Psotnik</message>
+		<message key="quest174Description">W twoim arsenale zawsze znajdzie się trochę sztuczek i trików, żeby zabawić i rozweselić towarzystwo. Uważaj tylko, żeby nie pęknąć ze śmiechu!</message>
+		
+		<message key="quest175Title">Przyjacielska pomoc</message>
+		<message key="quest175Description">Po hucznych imprezach w mieszkaniach twoich sąsiadów gromadzi się cała góra śmieci. Ale nawet wśród tych wszystkich porozrzucanych papierków można czasem znaleźć bardzo cenne przedmioty.</message>
+		
+		<message key="quest176Title">Ukochany ogród</message>
+		<message key="quest176Description">Ach, ileż przyjemnych chwil spędziło się w cieniu drzew w ogrodzie! Szkoda, że te chwile następują dopiero po długiej, męczącej pracy.</message>
+		
+		<message key="quest177Title">A na naszym podwórku</message>
+		<message key="quest177Description">A na naszym podwórku... znowu pełno śmieci, co oznacza, że trzeba będzie po raz kolejny stawić czoła tej inwazji i ją zatrzymać. Jak zwykle zresztą.</message>
+		
+		<message key="quest178Title">Na zapas</message>
+		<message key="quest178Description">Chcesz dziś tak dużo zrobić, ale pod wieczór ciągniesz już resztką sił, więc zamierzasz spędzić ten wieczór, poświęcając się ulubionym zajęciom. Na szczęście możesz przyrządzić coś, co pomoże ci odzyskać siłę i rześkość.</message>
+		
+		<message key="quest179Title">Z kwiatka na kwiatek</message>
+		<message key="quest179Description">Założyłeś się z przyjaciółmi, że złapiesz kolekcję różnobarwnych motyli. Im więcej ich złapiesz, tym większa szansa, że wygrasz zakład.</message>
+		
+		<message key="quest180Title">Zwycięski marsz</message>
+		<message key="quest180Description">Nie pora na relaks, nadszedł czas nowych zwycięstw! I nawet jeśli dla kogoś zwycięstwo w walce na poduszki nic nie znaczy, to dla ciebie, prawdziwego mieszkańca Avatarii, każde zwycięstwo znaczy bardzo wiele.</message>
+		
+		<message key="quest181Title">Płomień świecy</message>
+		<message key="quest181Description">Poustawiaj w pokoju świece, zapal je, ale nie spiesz się. Rób to spokojnie, z namaszczeniem. A teraz wyłącz światło i rozkoszuj się ciemnością i ciszą. A właśnie, gdzie świece?</message>
+		<message key="quest181Task2Title"><![CDATA[<span class="bold">Ustaw świece w jednym z pokoi</span>]]></message>
+		
+		<message key="quest182Title">Żetony na szczęście</message>
+		<message key="quest182Description">Szczęście jest zmienne. Dziś ci się udaje, a jutro już nie. Ale nie warto się denerwować, przecież każda próba może ci przynieść bogactwo!</message>
+		
+		<message key="quest183Title">Pamiątkowe zdjęcie</message>
+		<message key="quest183Description">Dobrze, że masz tak dużo pokoi. To znaczy, że bez trudu możesz postawić w mieszkaniu wszystkie ulubione zdjęcia na widocznym miejscu.</message>
+		
+		<message key="quest184Title">Chuligaństwo</message>
+		<message key="quest184Description">Drobne psikusy, zwłaszcza odwzajemniane, są przyjemne. Dlaczego pozbawiać siebie i innych takiej wspaniałej okazji na poprawienie sobie nastroju?</message>
+		
+		<message key="quest185Title">Mały majsterkowicz</message>
+		<message key="quest185Description">Żeby nie zapomnieć umiejętności i nie wyjść z wprawy, trzeba ciągle majsterkować. A żeby zrobić coś cennego, należy zdobyć sporo materiałów.</message>
+		
+		<message key="quest186Title">Ach, ta młodzież!</message>
+		<message key="quest186Description">Wokół ciągle słychać: „Ach ta dzisiejsza młodzież!”. I ciekawe, gdzie niby jest ta dzisiejsza młodzież? Oczywiście w klubie, gdzieżby indziej!</message>
+		
+		<message key="quest187Title">Śmiech i łzy</message>
+		<message key="quest187Description">Wszyscy jesteśmy żywymi ludźmi i dlatego możemy wyrażać swoje emocje w różny sposób, w zależności od sytuacji i swojego stanu psychicznego. I nie ma się czego wstydzić.</message>
+		
+		<message key="quest188Title">Wazy na zamówienie</message>
+		<message key="quest188Description">Twój stary przyjaciel otworzył sklepik w centrum miasta i poprosił cię o wyprodukowanie partii waz dekoracyjnych na sprzedaż. Obiecał szczodrze zapłacić za tę pracę.</message>
+		
+		<message key="quest189Title">Częstujcie się!</message>
+		<message key="quest189Description">Nie jest dobrym gospodarzem ten, kto nie może zaproponować swym gościom, nawet najbardziej niespodziewanym, żadnego poczęstunku. U dobrego gospodarza zawsze znajdzie się coś na poczęstunek. A ty przecież do takich właśnie należysz, prawda?</message>
+		
+		<message key="quest190Title">Materiały budowlane</message>
+		<message key="quest190Description">Jedna deska, druga deska — i będzie drabinka!</message>
+		
+		<message key="quest191Title">Wszystko będzie dobrze</message>
+		<message key="quest191Description">Dobrze, kiedy wszystko idzie dobrze. I świetnie, kiedy wszystko idzie świetnie. I nawet jeśli jest kiepsko, to też jest dobrze. Przecież prędzej czy później wszystko będzie dobrze. A nawet świetnie.</message>
+		
+		<message key="quest192Title">Kwiatowy raj</message>
+		<message key="quest192Description">Mówią, że kwiaty w domu tworzą atmosferę przytulności i rześkości, której nie sposób opisać słowami. I wcale nie jest trudno w to uwierzyć.</message>
+		<message key="quest192Task2Title"><![CDATA[<span class="bold">Ozdób jeden z pokoi liliami</span>]]></message>
+		
+		<message key="quest193Title">Szable w dłoń</message>
+		<message key="quest193Description">Prawdziwa broń całkiem nieźle wygląda jako dekoracja mieszkania. Pozostaje tylko gdzieś ją zdobyć, a później powiesić w jednym z pokoi w swoim mieszkaniu.</message>
+		<message key="quest193Task2Title"><![CDATA[<span class="bold">Powieś szable w jednym z pokoi</span>]]></message>
+		
+		<message key="quest194Title">Cichaczem</message>
+		<message key="quest194Description">Twoi sąsiedzi nawet nie podejrzewają, że przygotowujesz dla nich niespodziankę. Niby nic niezwykłego, po prostu zajrzałeś, żeby pomóc w sprzątaniu. A w rzeczywistości...</message>
+		
+		<message key="quest195Title">Straty</message>
+		<message key="quest195Description">I jak tu zapraszać gości. Nie dość, że po imprezie została cała góra śmieci, to w dodatku zepsuli sprzęt, łobuzy!</message>
+		
+		<message key="quest196Title">Wszystko się przyda</message>
+		<message key="quest196Description">Już wkrótce mogą zasypać cię zleceniami, dlatego najlepiej będzie wcześniej pomyśleć o materiałach do pracy, która się szykuje.</message>
+		
+		<message key="quest197Title">O żywieniu</message>
+		<message key="quest197Description">Kiedy jedzenie w domu staje się nudne, wybierasz się do baru. Ale będąc tam po raz dziesiąty, zaczynasz myśleć o swojej kochanej, swojskiej, domowej lodóweczce.</message>
+		
+		<message key="quest198Title">Szkodniki</message>
+		<message key="quest198Description">Nowy problem — tak lubiany przez wszystkich ogród upodobały sobie szkodniki. Zalęgły się wszędzie i trzeba jak najszybciej się ich pozbyć.</message>
+		
+		<message key="quest199Title">Udane posunięcie</message>
+		<message key="quest199Description">Za każdym razem, gdy inkasujesz wygraną, myślisz już o tym, że możesz wygrywać wciąż na nowo, oraz o tym, na co wydasz tę fortunę.</message>
+		
+		<message key="quest200Title">Zamówienie nr 1</message>
+		<message key="quest200Description">To zamówienie na dostawę wazonów na stół z żółtym kwiatkiem. Czas brać się do roboty, za zamówienie dobrze zapłacą.</message>
+		
+		<message key="quest201Title">Zamówienie nr 2</message>
+		<message key="quest201Description">To zamówienie na dostawę wazonów na stół z pomarańczowym kwiatkiem. Czas brać się do roboty, za zamówienie dobrze zapłacą.</message>
+		
+		<message key="quest202Title">Zamówienie nr 3</message>
+		<message key="quest202Description">To zamówienie na dostawę wazonów na stół z różowym kwiatkiem. Czas brać się do roboty, za zamówienie dobrze zapłacą.</message>
+		
+		<message key="quest203Title">Słodkie wariactwo</message>
+		<message key="quest203Description">Dziś w barze organizowany jest słodki turniej w rzucaniu tortem. Na pewno będzie tam bardzo wesoło, więc koniecznie musisz wziąć w tym udział.</message>
+		
+		<message key="quest204Title">Upierzenie</message>
+		<message key="quest204Description">Pióra z poduszek to kluczowy materiał do wykonania wielu przedmiotów, które można przygotować w warsztacie. Żeby zapasy tego materiału się nie wyczerpywały, trzeba je nieustannie uzupełniać.</message>
+		
+		<message key="quest205Title">Oszczędności</message>
+		<message key="quest205Description">Przydałoby się zrobić trochę zapasów na przyszłość. Kto wie, co nas jeszcze czeka.</message>
+		
+		<message key="quest206Title">W poszukiwaniu prowiantu</message>
+		<message key="quest206Description">Jeśli się chce, zawsze znajdzie się takie miejsce, w którym można się trochę wzmocnić. Dobrze, że ty masz nie tylko chęci, ale i talent do wynajdywania takich miejsc.</message>
+		
+		<message key="quest207Title">Kreatywność</message>
+		<message key="quest207Description">Puść wodze fantazji! Więcej kreatywności! Wymyślaj, realizuj, twórz! Wszystko w twoich rękach!</message>
+		
+		<message key="quest208Title">Śmieciowy patrol</message>
+		<message key="quest208Description">Pracę na podwórku mieszkańcy nazywają żartobliwie „śmieciowym patrolem”. Ale jakkolwiek by ją nazwać, jest to praca, a za pracę należy się dobra płaca.</message>
+		
+		<message key="quest209Title">Warunki</message>
+		<message key="quest209Description">Robiąc czerwone przedmioty w pracowni, a następnie ustawiając je w mieszkaniu, można znacznie podnieść jego komfort.</message>
+		
+		<message key="quest210Title">Kontrola czystości</message>
+		<message key="quest210Description">Mieszkańcy Awatarii zostawiają po sobie góry śmieci. Dobrze, że są wśród nich tak oddani bojownicy o czystość, jak ty!</message>
+		
+		<message key="quest211Title">Dajcie mi skrzydła!</message>
+		<message key="quest211Description">No dlaczego ludzie nie latają jak, na przykład, motyle? Możemy się wiele nauczyć od tych pięknych stworzeń.</message>
+		
+		<message key="quest212Title">I sobie, i ludziom</message>
+		<message key="quest212Description">Dawanie prezentów zawsze jest miłe. A jeszcze milej jest je dostawać. Zwłaszcza jeśli prezent robisz sobie.</message>
+		
+		<message key="quest213Title">Na wagę złota</message>
+		<message key="quest213Description">Pewnie nie raz już udało ci się wygrać złote monety w „Kole Fortuny”? Tym razem na pewno także ci się powiedzie!</message>
+		
+		<message key="quest214Title">Stare zdjęcia</message>
+		<message key="quest214Description">Postanawiasz zebrać ze znajomymi dużo starych zdjęć i umieścić je we wspólnym albumie. Zdjęcia będziesz jednak szukać długo i w pocie czoła.</message>
+		
+		<message key="quest215Title">Jeszcze jedna szansa</message>
+		<message key="quest215Description">Każda z karteczek to jeszcze jeden bilet do „Koła Fortuny”. Jeszcze jedna szansa rzucić wyzwanie losowi i spróbować szczęścia!</message>
+		
+		<message key="quest216Title">Prace w ogrodzie</message>
+		<message key="quest216Description">Sprzyjający klimat i ładna pogoda cieszy nie tylko ciebie, ale i wszystkich mieszkańców ogrodu Awatarii. Na przykład żuki.</message>
+		
+		<message key="quest217Title">Lej!</message>
+		<message key="quest217Description">Kwiaty lubią, kiedy się o nie dba. Tylko wtedy są w stanie pokazać swoje piękno. Nie daj im uschnąć!</message>
+		
+		<message key="quest218Title">Zwycięstwo jest twoje!</message>
+		<message key="quest218Description">Zawsze, kiedy spotykasz się ze znajomymi, organizujecie walki na poduszki. Wspaniała rozrywka w każdą pogodę i o dowolnej porze roku!</message>
+		
+		<message key="quest219Title">Bada-bum</message>
+		<message key="quest219Description">Organizujesz imprezę? Spodziewasz się gości? Trzeba odpowiednio się przygotować, żeby udała się wystrzałowa prywatka – w każdym znaczeniu tego słowa!</message>
+		
+		<message key="quest220Title">Pączki</message>
+		<message key="quest220Description">Praca w ogrodzie jest połączeniem przyjemnego z pożytecznym. Do tego to właśnie tutaj można zdobyć różne materiały do pracy w pracowni.</message>
+		
+		<message key="quest221Title">Różne i przydatne</message>
+		<message key="quest221Description">Ruszaj na drów – pracy jest tam pod dostatkiem! Przy okazji zbierzesz butelki do pracowni.</message>
+		
+		<message key="quest222Title">Jasne barwy</message>
+		<message key="quest222Description">Aby życie stało się jaśniejsze — potrzebne są jasne farby. Dodaj trochę kolorów do szarej codzienności mieszkańców Awatarii!</message>
+		
+		<message key="quest223Title">Złota rączka</message>
+		<message key="quest223Description">Potrafisz robić ładne rzeczy, które później bez wstydu można podarować najlepszemu znajomemu lub komuś innemu. A wszystko to z materiałów, które można znaleźć na terenie całej Awatarii.</message>
+		
+		<message key="quest224Title">Zaproszenie</message>
+		<message key="quest224Description">Mieszkanie wyposażone? Pora więc zaprosić wszystkich znajomych na imprezę z tej okazji. Najważniejsze to nie pobrudzić i nie zepsuć nowych mebli :)</message>
+		
+		<message key="quest225Title">Próba pióra</message>
+		<message key="quest225Description">Pióra z poduszek mają wiele zastosowań. Jedni robią z nich maski, jak u starych Indian, inni używają ich do pisania wierszy, maczając końcówkę pióra w atramencie.</message>
+		
+		<message key="quest226Title">Nie bzycz!</message>
+		<message key="quest226Description">Muszki dosłownie nie dają przejść! Trzeba się ich jakoś pozbyć. Przydałby się spray na owady.</message>
+		
+		<message key="quest227Title">Gra warta świeczki</message>
+		<message key="quest227Description"> Gra warta jest świeczki… A gdzie gra? Gdzie świece???</message>
+		
+		<message key="quest228Title">Śmietnik</message>
+		<message key="quest228Description">Co ty się stało? Wszystko jasne – znajomi porządnie się bawili i po kolejnym turnieju w walkach na poduszki zostało sporo śmieci, które dobrze byłoby uprzątnąć.</message>
+		
+		<message key="quest229Title">Ty mnie – ja tobie</message>
+		<message key="quest229Description">Miło, kiedy w twojej lodówce jest jedzenie. A jeśli go nie ma? Racja. Trzeba iść w gości!</message>
+		
+		<message key="quest230Title">Papierek</message>
+		<message key="quest230Description">Nie, nie – to nie jest jakiś papierek od cukierka, rzucony na ulicę przez dziecko. To prawdziwy papier pakowy, który świetnie uzupełni i ozdobi twoje prace, przygotowane w pracowni.</message>
+		
+		<message key="quest231Title">Od początku do końca</message>
+		<message key="quest231Description">Nie zostawiasz rozpoczętych spraw w połowie drogi. Jeśli już za coś się bierzesz, to doprowadzasz wszystko do końca.</message>
+		
+		<message key="quest232Title">Utracjusz</message>
+		<message key="quest232Description">Miło jest zarabiać pieniądze, ale jeszcze przyjemniej jest je wydawać. Zmieć wszystko ze sklepowych półek, wydawaj zarobione pieniądze tak, jak każe ci twoje wewnętrzne „ja”.</message>
+		
+		<message key="quest233Title">Pałac</message>
+		<message key="quest233Description">To przypomina już nie zwykłe mieszkanie, a prawdziwy pałac. Każdy pokój ma swój niepowtarzalny styl, co mówi o dobrym smaku właściciela.</message>
+		
+		<message key="quest234Title">Moje zwycięstwa</message>
+		<message key="quest234Description">Bez ryzyka nie ma wygranej. Ryzyko może się opłacić. Aby jednak zwyciężyć, nie zawsze wystarczy zaryzykować. Odrobina szczęścia nie zaszkodzi.</message>
+		
+		<message key="quest235Title">Zrób to</message>
+		<message key="quest235Description">Trzeba coś po prostu zrobić. A co — to już twoja decyzja. Czy to piękny wazon na kwiaty, czy inna ozdoba – wszystko w twoich rękach.</message>
+		
+		<message key="quest236Title">Kowal</message>
+		<message key="quest236Description">Dawniej tylko najlepsi kowale potrafili wykuwać najwspanialszą broń. Jednak czasy te już dawno minęły. Teraz broń jest po prostu ozdobą mieszkania.</message>
+		
+		<message key="quest237Title">Ja stawiam!</message>
+		<message key="quest237Description">Wielu ciekawych rozmówców można znaleźć w kawiarni, ale jeśli chcesz po prostu odpocząć, najlepiej od razu pójść do klubu.</message>
+		
+		<message key="quest238Title">Skrzydła i pióra</message>
+		<message key="quest238Description">Nałapać motyli i zebrać pióra — oto zadanie na dziś. Jeśli nie zdążysz zrobić tego wszystkiego, to nic. Jutro też będzie dzień.</message>
+		
+		<message key="quest239Title">Ekspres do kawy</message>
+		<message key="quest239Description">Z ziarenek kawy można przygotować mocny i stawiający na nogi napój, który da ci siły na cały dzień.</message>
+		
+		<message key="quest240Title">Świecznik</message>
+		<message key="quest240Description">Maleńkie świeczki mogą być wspaniałą ozdobą każdego pokoju. Trzeba tylko zdobyć odpowiednią ilość wosku i wziąć się za ich robienie.</message>
+		
+		<message key="quest241Title">Plamka</message>
+		<message key="quest241Description">Plamę od bombki z farbą łatwo jest wywabić, ale sam fakt niespodziewanej eksplozji robi wrażenie.</message>
+		
+		<message key="quest242Title">Czas zwycięstwa</message>
+		<message key="quest242Description">Im twój poziom wyższym, tym więcej pieniędzy daje ci „Koło Fortuny”. A to oznacza, że więcej czasu możesz poświęcać znajomym i hobby.</message>
+		
+		<message key="quest243Title">Ozdabianie</message>
+		<message key="quest243Description">Każdy ma własne poczucie piękna. Jedni widzą piękno w bohomazach chuligana na płocie, innym wystarczy patrzenie na rozgwieżdżone niebo …</message>
+		
+		<message key="quest244Title">Czyn</message>
+		<message key="quest244Description">Nieważne, czy właśnie jest sobota, czy poniedziałek. Wyraz „czyn” oznacza tylko jedno — aby osiągnąć wynik, trzeba będzie przejść od słów do czynów.</message>
+		
+		<message key="quest245Title">Jarmark</message>
+		<message key="quest245Description">Czas pozbyć się starych, niepotrzebnych rzeczy i kupić kilka nowych!</message>
+		<message key="quest245Task1Title"><![CDATA[<span class="bold">Sprzedaj stare meble</span>]]></message>
+		
+		<message key="quest246Title">Nauczanie</message>
+		<message key="quest246Description">Bądź szczodry w miłości, a znajdziesz szczęście.</message>
+		
+		<message key="quest247Title">Ognisko domowe</message>
+		<message key="quest247Description">Jak miło usiąść wieczorem w fotelu, przy własnym kominku. Na dodatek nie trzeba go kupować w sklepie. Kominek można zrobić samodzielnie, w pracowni.</message>
+		<message key="quest247Task2Title"><![CDATA[<span class="bold">Kup lodówkę</span>]]></message>
+		
+		<message key="quest248Title">Miłe spotkania</message>
+		<message key="quest248Description">Wiesz, gdzie zwykle spotykają się najlepsi przyjaciele? Oczywiście w kawiarni. Albo zwyczajnie przychodzą do siebie w gości. A jak – tak też bywa ;)</message>
+		
+		<message key="quest249Title">Potężna siła</message>
+		<message key="quest249Description">Piękno — to potężna siła. A salon urody w takim przypadku – to prawdziwe źródło tej siły. Weźmy część tej siły sobie!</message>
+		
+		<message key="quest250Title">Dwie lewe ręce</message>
+		<message key="quest250Description">Rzeczy same z siebie się nie psują, ale jeśli zrobi się coś niedbale, potem trzeba będzie naprawiać. Chyba nie obraziłeś się na swoich znajomych?</message>
+		
+		<message key="quest251Title">Filiżanka kawy</message>
+		<message key="quest251Description">Poranna filiżanka mocnej kawy pomoże się obudzić i rozpocząć dzień w dobrym humorze.</message>
+		
+		<message key="quest252Title">Schowek</message>
+		<message key="quest252Description">W schowku jest jeszcze dużo miejsca. A do realizacji poważnych projektów potrzeba dużo materiałów, dlatego trzeba je zdobyć jak najszybciej.</message>
+		
+		<message key="quest253Title">Studio fotograficzne</message>
+		<message key="quest253Description">Twoja pracownia zmieni się w prawdziwe studio fotograficzne: wszędzie leżą zdjęcia, na półkach stoją ramki, w których uwieczniono najpiękniejsze chwile w życiu.</message>
+		
+		<message key="quest254Title">Po-duszka</message>
+		<message key="quest254Description">Najlepszym sposobem na wyjaśnienie sporów do dziś są walki na poduszki. A co? I wesoło, i nie boli :)</message>
+		
+		<message key="quest255Title">Wolna chata</message>
+		<message key="quest255Description">Prywatka zawsze mile widziana. W końcu tylko tutaj można zebrać wszystkich przyjaciół i znajomych w jednym miejscu i czasie.</message>
+		
+		<message key="quest256Title">Bogaty poczęstunek</message>
+		<message key="quest256Description">Dać coś dobremu człowiekowi – zawsze warto. Czy to najlepszemu przyjacielowi, czy sympatycznemu rozmówcy w kawiarni.</message>
+		
+		<message key="quest257Title">Złote dno</message>
+		<message key="quest257Description">Czas na prawdziwą grę! Dawaj złoto!</message>
+		
+		<message key="quest258Title">Prezenty</message>
+		<message key="quest258Description">Wkrótce wpadną znajomi. Byłoby im miło, gdyby dostali zrobione własnoręcznie przez ciebie prezenty. Do pracy!</message>
+		
+		<message key="quest259Title">Robótka</message>
+		<message key="quest259Description">W ogrodzie i na podwórzu znów czeka na ciebie dużo pracy. Nie odkładaj tego na później. Im szybciej się z nią uporasz, tym szybciej będzie można odpocząć jak należy.</message>
+		
+		<message key="quest260Title">Często widziany gość</message>
+		<message key="quest260Description">Wszyscy twoi znajomi i przyjaciele zawsze chętnie widzą cię u siebie. Wpadaj do nich częściej!</message>
+		
+		<message key="quest261Title">Dary</message>
+		<message key="quest261Description">Wydając pieniądze, nie zapominaj o prezentach dla swoich bliskich i przyjaciół. W końcu dawanie prezentów jest tak samo miłe, jak ich otrzymywanie.</message>
+		
+		<message key="quest262Title">Clubbing</message>
+		<message key="quest262Description">Wieczór w klubie zapowiada się ciekawie. Pogoda nie zachęca do spacerów na świeżym powietrzu, więc klub to chyba najlepszy pomysł!</message>
+		
+		<message key="quest263Title">Piedestał</message>
+		<message key="quest263Description">Na piedestale mogą stanąć tylko ci, którzy na to zasłużyli. Chyba nie znajdzie się nikt dostojniejszy od ciebie!</message>
+		
+		<message key="quest264Title">Kamieniołom</message>
+		<message key="quest264Description">Glinę zazwyczaj wydobywa się w kamieniołomie. Ty jednak nie potrzebujesz jej dużo, dlatego wystarczy to, co można wykopać w ogrodzie.</message>
+		
+		<message key="quest265Title">Wazoniki</message>
+		<message key="quest265Description">Ozdobne wazony są teraz bardzo modne. Dlatego jest na nie duże zapotrzebowanie. Dla wielu mieszkańców Awatarii ich produkcja stała się prawdziwym hobby.</message>
+		
+		<message key="quest266Title">Wspólne porządki</message>
+		<message key="quest266Description">Pora zrobić porządek, jednak nie tylko we własnym domu, ale i w mieszkaniach znajomych. Precz ze śmieciami – czystość dla każdego!</message>
+		
+		<message key="quest267Title">Miłośnik kawy</message>
+		<message key="quest267Description">Do przygotowania mocnej kawy potrzebne są odpowiednio uprażone ziarna kawy. Jednak o wiele ciekawiej jest pójść do kawiarni i posiedzieć w niej z przyjaciółmi przy filiżance czarnego napoju.</message>
+		
+		<message key="quest268Title">Zemsta</message>
+		<message key="quest268Description">Twoi znajomi psocą, ale i ty szykujesz dla nich małą niespodziankę. Bombka z farbą nie tylko rozśmieszy wszystkich zebranych, ale i da nauczkę chuliganom.</message>
+		
+		<message key="quest269Title">Barwy życia</message>
+		<message key="quest269Description">Pomaluj swój świat jasnymi kolorami! A jeśli wystarczy ci farby, pomaluj także świat znajomych :)</message>
+		
+		<message key="quest270Title">Znaleziska</message>
+		<message key="quest270Description">Do pakowania prezentów potrzebny jest specjalny papier. A jeśli przyklei się do pudełka kokardę, prezent będzie wyglądał jeszcze wspanialej!</message>
+		        
+		<message key="quest271Title">Pizzeria</message>
+		<message key="quest271Description">Co by nie mówili twoi znajomi, najlepszą pizzę w Awatarii można zjeść w miejscowej kawiarni.</message>
+		
+		<message key="quest272Title">Sala kominkowa</message>
+		<message key="quest272Description">Mając do dyspozycji tak dużo pokoi, można w jednym z nich urządzić salę kominkową. I organizować w niej bale oraz spotkania biznesowe :)</message>
+		<message key="quest272Task3Title"><![CDATA[<span class="bold">Kup nowy kominek</span>]]></message>
+		
+		<message key="quest273Title">Zagadka</message>
+		<message key="quest273Description">Ciekawe, ile trzeba czasu, aby stracić 5000 jedn. energii? Trzeba będzie znaleźć odpowiedź na to pytanie metodą prób i błędów.</message>
+		<message key="quest273Description7500">Ciekawe, ile trzeba czasu, aby stracić 7500 jedn. energii? Trzeba będzie znaleźć odpowiedź na to pytanie metodą prób i błędów.</message>
+
+		<message key="quest274Title">Hojne dary</message>
+		<message key="quest274Description">Najwięcej na temat człowieka mówią jego uczynki. Jeśli jesteś hojny i lubisz dawać innym radość — zawsze zdobędziesz popularność.</message>
+		
+		<message key="quest275Title">Utracjusz</message>
+		<message key="quest275Description">Pieniędzy nigdy za wiele: trzeba kupić to to, to tamto. I jeśli wydaje się je stopniowo, może się uzbierać okrągła sumka.</message>
+		
+		<message key="quest276Title">Złota rączka</message>
+		<message key="quest276Description">Jak to mówią, niektórzy to prawdziwe złote rączki! Dla takich mamy sporo pracy w warsztacie.</message>
+		
+		<message key="quest277Title">Wrażenia</message>
+		<message key="quest277Description">Kiedy już raz odwiedzisz Tropikanię, będziesz mieć ochotę wracać tam raz za razem. Tymczasem możesz pooglądać wykonane przez siebie zdjęcia tropików.</message>
+		
+		<message key="quest278Title">Lista prac</message>
+		<message key="quest278Description">Dziś masz dużo do zrobienia: popracować w ogrodzie, uprzątnąć śmieci na podwórzu. Sąsiedzi też poprosili o pomoc przy sprzątaniu. Na pewno nie będziesz się nudzić!</message>
+		
+		<message key="quest279Title">Zdobycze</message>
+		<message key="quest279Description">Nie jest łatwo zdobyć niektóre z przedmiotów do pracy w warsztacie. Im droższy składnik, tym trudniej go zdobyć.</message>
+		
+		<message key="quest280Title">Prymus</message>
+		<message key="quest280Description">Masz szczęście? Zawsze? W takim razie bez problemu wykonasz to zadanie :)</message>
+		
+		<message key="quest281Title">Dom, ukochany dom</message>
+		<message key="quest281Description">Niezależnie od tego, czy wierzysz w zabobony, czy nie - musisz kupić jeszcze jeden pokój. A co z nim zrobisz — to już twoja sprawa.</message>
+		
+		<message key="quest282Title">Graj i wygrywaj!</message>
+		<message key="quest282Description">Im wieksze twoje doswiadczenie, tym wiecej pieniedzy mozesz wygrac w Kole Fortuny. Pora pojsc na calego – masz juz dosc doswiadczenia!</message>
+		 
+		<message key="quest283Title">Droga do komfortu</message>
+		<message key="quest283Description">Aby zdobyc najwyzsza slawe, trzeba duzo pracowac. I dopiero stamtad, z samego szczytu, ujrzysz wszystko, co udalo ci sie osiagnac.</message>
+		 
+		<message key="quest284Title">Domowki</message>
+		<message key="quest284Description">Dobrze jest miec wielu przyjaciol! To nic, kiedy wszyscy nagle zwalaja ci sie na glowe. Co wiecej – to bardzo mile!</message>
+		 
+		<message key="quest285Title">Transporter</message>
+		<message key="quest285Description">Jak duzo masz materialow! Chyba wystarczy do budowy samolotu. Nie tracmy czasu – zbudujmy cos takiego.</message>
+		 
+		<message key="quest286Title">Przyjaciele, sąsiedzi</message>
+		<message key="quest286Description">Mieszkancy Awatarii sa naprawde szczesliwi. W koncu wszyscy sasiedzi sa ich przyjaciolmi. A wszyscy przyjaciele – sasiadami. Tak milo jest pojsc w gosci do przyjaciela. Do przyjaciela, ktory mieszka po sasiedzku.</message>
+		 
+		<message key="quest287Title">Zelazna zasada</message>
+		<message key="quest287Description">Nie raz miales juz okazje ukladac wlasnorecznie kominek w warsztacie. Podstawowym skladnikiem jest zelazo, ktore mozna znalezc na dworze, podczas sprzatania.</message>
+		 
+		<message key="quest288Title">Dla rzeskosci</message>
+		<message key="quest288Description">Aby zawsze ze wszystkim zdazyc, trzeba byc rzeskim, wyspanym i wypoczetym. Jesli czlowiek jest niewyspany i zmeczony, nie bedzie mial nawet ochoty na robienie czegokolwiek.</message>
+		 
+		<message key="quest289Title">Na sciane</message>
+		<message key="quest289Description">Co moze ozdobic sciane w mieszkaniu? Piekny obraz, drogi kinkiet? To banalne i nudne!</message>
+		 
+		<message key="quest290Title">Zaoszczedzic i wydac</message>
+		<message key="quest290Description">Po co oszczedzamy pieniadze? Aby kupic cos potrzebnego. Ale czy nigdy nie naszla cie ochota na wydanie kupy pieniedzy na zbytki, bez namyslu?</message>
+		 
+		<message key="quest291Title">Z rzadka, ale porzadnie</message>
+		<message key="quest291Description">Lubisz rywalizowac ze znajomymi? W takim razie zadanie dla ciebie: zbierz rzadkie materialy szybciej od pozostalych!</message>
+		
+		<message key="quest292Title">Technika ma potężną moc</message>
+		<message key="quest292Description">Chcesz, żeby znajomi uważali cię za najlepiej zorientowaną osobę w nowych technologiach? Trzeba będzie udowodnić to czynem. Naprzód, po plazmę i lodówkę!</message>
+        
+		<message key="quest292Title">Technika ma potężną moc</message>
+		<message key="quest292Description">Chcesz, żeby znajomi uważali cię za najlepiej zorientowaną osobę w nowych technologiach? Trzeba będzie udowodnić to czynem. Naprzód, po plazmę i lodówkę!</message>
+		<message key="quest292Task1Title"><![CDATA[<span class="bold">Kup telewizor plazmowy</span>]]></message>
+		
+		<message key="quest293Title">Niespodzianka</message>
+		<message key="quest293Description">Zawsze miło jest dostać prezent od znajomego. Tym bardziej, jeśli do dobry znajomy, a prezent nie jest jeden ;)</message>
+		
+		<message key="quest294Title">Zmiana image’u</message>
+		<message key="quest294Description">Masz już dość codziennego image’u? Chcesz się wyróżnić z tłumu? Zmień się jak trzeba! Fryzura, kształt brwi, no i może coś jeszcze...</message>
+		
+		<message key="quest295Title">Stylowe ozdoby</message>
+		<message key="quest295Description">Widziałeś już w warsztacie te wspaniałe naszyjniki z muszli? Musi je mieć każdy, kto był na naszej pięknej plaży.</message>
+		
+		<message key="quest296Title">Fotomodeling!</message>
+		<message key="quest296Description">Aby poczuć się jak prawdziwa gwiazda, można odwiedzić salon fotograficzny. Znajdziesz tam wiele ozdób. Wszystko pozostałe — to kwestia fantazji!</message>
+		
+		<message key="quest297Title">Technologiczny guru</message>
+		<message key="quest297Description">Wynalazki – niełatwa sprawa. Ale przecież dasz sobie radę. Przecież wiesz!</message>
+		
+		<message key="quest298Title">Szansa na sukces</message>
+		<message key="quest298Description">Dziś na pewno ci się uda!</message>
+		
+		<message key="quest299Title">Cenne znaleziska</message>
+		<message key="quest299Description">Morze, słońce… Jak wspaniale jest tam, gdzie ciepło. Naprzód, na plażę, do palącego słońca. Będziemy zbierać przydatne rzeczy na pamiątkę wspaniałego wypoczynku.</message>
+		
+		<message key="quest300Title">Dżungla wzywa</message>
+		<message key="quest300Description">Dawno nie było cię w ogrodzie. Teraz sąsiedzi mówią coś o prawdziwej dżungli. Szybko, trzeba usunąć chwasty!</message>
+		
+		<message key="quest301Title">Generalne porządki</message>
+		<message key="quest301Description">Na zewnątrz zaczął wiać porywisty wiatr i zostawił po sobie nieprzyjemną niespodziankę. Teraz trzeba będzie posprzątać ten bałagan.</message>
+		
+		<message key="quest302Title">Praca czekać nie będzie</message>
+		<message key="quest302Description">W życiu spotyka nas wiele problemów. Na przykład z pracą. Nawet jeśli bardzo się nie chce — i tak trzeba będzie ją wykonać.</message>
+		
+		<message key="quest303Title">Rozrzutnik</message>
+		<message key="quest303Description">Kto nie umie wydawać pieniędzy, ten nie potrafi ich także zarobić. Cóż, trzeba będzie trochę na siebie wydać.</message>
+		
+		<message key="quest304Title">Kolekcjoner emocji</message>
+		<message key="quest304Description">Bez emocji życie byłoby nudne i nie do wytrzymania! Ale warto je uwolnić. Dalej, podzielmy się nimi ze wszystkimi!</message>
+		
+		<message key="quest305Title">Imprezowanie jest fajne!</message>
+		<message key="quest305Description">Jeśli lubisz głośne nocne imprezy, musisz odwiedzić klub! Tylko u nas najlepsze drinki i wesoła zabawa.</message>
+		
+		<message key="quest306Title">Mistrzostwa w sprzątaniu</message>
+		<message key="quest306Description">Słyszałeś o lidze mistrzów w sprzątaniu u sąsiadów? Zresztą… po co tyle gadać? Pora działać!</message>
+		
+		<message key="quest307Title">Ciepłe objęcia</message>
+		<message key="quest307Description">Nawet jeśli na zewnątrz panuje mróz, zawsze można się ogrzać. Na przykład obejmując kogoś bliskiego. Śmiało, obejmij znajomych, nie daj im zmarznąć!</message>
+		
+		<message key="quest308Title">Imprezowicz</message>
+		<message key="quest308Description">Spraw znajomym przyjemność — zorganizuj u siebie domówkę! I bawcie się na całego.</message>
+		
+		<message key="quest309Title">Głodek</message>
+		<message key="quest309Description">Któż nie lubi porządnie podjeść? A tym bardziej otworzyć lodówkę znajomego i uszczknąć z niej kilka kawałków kiełbasy.</message>
+		
+		<message key="quest310Title">Zły geniusz</message>
+		<message key="quest310Description">Z pewnością masz jakichś wrogów. I zdarzają ci się chwile, kiedy masz ochotę czynić zło. No, może przynajmniej małe „zełko” :)</message>
+		
+		<message key="quest311Title">Łap falę!</message>
+        <message key="quest311Description">Wszyscy twoi znajomi są już na plaży — przygotuj się do nowego sezonu surfingowego. Chyba nie chcesz być gorszy?</message>
+        
+        <message key="quest312Title">Bitwa morska</message>
+        <message key="quest312Description">Treningi nie poszły na marne. Teraz masz duże szansa na dostanie się do finału surfingowego Awatarii.</message>
+        
+        <message key="quest313Title">Przecinacz fal</message>
+        <message key="quest313Description">Ty i twoja deska — to prawdziwa sól w oku każdego z przeciwników. Dalej, spróbuj mnie dogonić!</message>
+        
+        <message key="quest314Title">Dary morza</message>
+        <message key="quest314Description">Naszyjniki z muszli cieszą się popularnością wśród mieszkańców Awatarii. Ech, gdyby tylko wiedzieli, jak ciężko jest znaleźć odpowiednie materiały.</message>
+        
+        <message key="quest315Title">Nurkowie</message>
+        <message key="quest315Description">Niedawno któryś ze znajomych chwalił się, że znalazł prawdziwą górę pereł w zatoce nieopodal. Może i tobie się uda?</message>
+        
+        <message key="quest316Title">Sklep jubilerski</message>
+        <message key="quest316Description">Zebranie materiałów na naszyjnik to tylko pół sukcesu. Trzeba być prawdziwym mistrzem, żeby zrobić z tego ozdobę!</message>
+        
+        <message key="quest317Title">Trzask!</message>
+        <message key="quest317Description">Nagle twoja deska pękła. A to przecież dopiero początek sezonu! Nie traćmy czasu - trzeba przygotować nową deskę.</message>
+        
+        <message key="quest318Title">Na wszystkich frontach</message>
+        <message key="quest318Description">Jeśli już być zwycięzcą, to absolutnym!</message>
+        
+        <message key="quest319Title">Czerwone czy niebieskie?</message>
+        <message key="quest319Description">Jaki kolor jest wyraźniejszy, bardziej nasycony: czerwony czy niebieski? Trzeba poeksperymentować w warsztacie.</message>
+        
+        <message key="quest320Title">Chwile</message>
+        <message key="quest320Description">Jak nie zapomnieć o najlepszych chwilach w życiu? Właśnie, trzeba je uwiecznić na kliszy.</message>
+        
+        <message key="quest321Title">Najlepsze zdjęcia</message>
+        <message key="quest321Description">A gdzie są najlepsze zdjęcia? Tylko w studiu fotograficznym Awatarii!</message>
+        
+        <message key="quest322Title">Sesja zdjęciowa</message>
+        <message key="quest322Description">Wspaniałe dekoracje, najlepszy sprzęt i oświetlenie — tylko w studiu fotograficznym Awatarii. Nie wierzysz? Chodź, sprawdzimy!</message>
+        
+        <message key="quest323Title">Energetyk VIP</message>
+        <message key="quest323Description">Wiesz, że w loży VIP w klubie można nieźle wypocząć? Zbieraj się, dziś idziemy właśnie tam!</message>
+        
+        <message key="quest324Title">Zapasy</message>
+        <message key="quest324Description">Podstawowe zapasy prowiantu przechowujesz, rzecz jasna, w swojej lodówce. Ale wokół jest przecież tyle miejsc, w których można zdobyć jedzenie!</message>
+        
+        <message key="quest325Title">Gość w dom...</message>
+        <message key="quest325Description">Dosłownie kilka dni temu odwiedzili cię znajomi. Zrobili taki bałagan w mieszkaniu. Nadszedł czas zemsty!</message>
+        
+        <message key="quest326Title">Skacz, koniku!</message>
+        <message key="quest326Description">Widziałeś już świetne huśtawki w kształcie koni i smoków? Fajnie byłoby się na takich pohuśtać!</message>
+        
+        <message key="quest327Title">Rycerze i smoki</message>
+        <message key="quest327Description">W czasach rycerzy każdy wojownik marzył o sławie i pokonaniu smoka. Tylko co to za rycerz bez miecza? Albo przynajmniej szabli?</message>
+
+		<message key="quest328Title">Wystrój się</message>
+		<message key="quest328Description">Dobrze wyglądasz. Przybij piątkę! Ale musisz wyglądać nie tylko dobrze, ale wręcz legendarnie!</message>
+
+		<message key="quest329Title">Handmade</message>
+		<message key="quest329Description">W rzecz, którą robimy sami, wkładamy cząstkę duszy i swoje emocje. Dlatego przedmioty wykonane własnoręcznie tak cieszą nas i naszych gości.</message>
+
+		<message key="quest330Title">Smak morza</message>
+		<message key="quest330Description">Nad brzegiem morza wszystkie potrawy nabierają szczególnego smaku. Sprawmy, by naszej kuchni też panował taki klimat.</message>
+		<message key="quest330TaskTitle"><![CDATA[<span class="bold">Kup przedmioty z kolekcji „Morska bryza”</span>]]></message>
+		<message key="quest330Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Liczy się tylko zakup różnych przedmiotów.]]></message>
+
+		<message key="quest331Title">Przestrzeń</message>
+		<message key="quest331Description">W swoim mieszkaniu znamy każdy zakamarek i stopniowo staje się ono za małe. Jak dobrze, że w Awatarii możemy powiększyć swoją przestrzeń życiową, nigdzie się nie przeprowadzając.</message>
+
+		<message key="quest332Title">Dla komfortu</message>
+		<message key="quest332Description">Dom to miejsce, gdzie spędzamy większość czasu. Raj można urządzić i w szałasie, ale lepiej mieszkać w zadbanym i wygodnym mieszkaniu.</message>
+
+		<message key="quest333Title">Odśwież wygląd</message>
+		<message key="quest333Description">Nadszedł czas na zmiany w twoim życiu. Zaczniemy od udoskonalenia wystroju mieszkania i pójdziemy do salonu piękności.</message>
+
+		<message key="quest334Title">Wiatr zmian</message>
+		<message key="quest334Description">Nadszedł czas, by coś zmienić i zacząć zaskakiwać. Pójdź do salonu, aby nabrać pewności siebie i wyróżnić się z tłumu!</message>
+
+		<message key="quest335Title">Pan</message>
+		<message key="quest335Description">To prawdziwa rezydencja, panie! Ale chyba mało komfortowa. Trzeba tu ustawić więcej sprzętów domowych.</message>
+
+		<message key="quest336Title">Szafa</message>
+		<message key="quest336Description">Z każdym kolejnym poziomem masz coraz więcej ubrań. Niedługo nie będzie gdzie ich trzymać! Może kupimy więcej szaf?</message>
+		<message key="quest336TaskTitle"><![CDATA[<span class="bold">Kup szafę na ubrania</span>]]></message>
+
+		<message key="quest337Title">HD i Hi-Fi</message>
+		<message key="quest337Description">Jak przyjemnie oglądać filmy na telewizorze HD i z dźwiękiem wysokiej jakości!</message>
+
+		<message key="quest338Title">Broń się!</message>
+		<message key="quest338Description">Broń się, sir! Czyżbyś nie miał szabli? Nigdy nie byłeś w pracowni?</message>
+
+		<message key="quest339Title">Wkrótce zima</message>
+		<message key="quest339Description">Zimą, a czasem nawet letnią nocą, na dworze bywa zimno. Wtedy przyjemnie jest posiedzieć przy ciepłym kominku.</message>
+
+		<message key="quest340Title">Przygotowania</message>
+		<message key="quest340Description">Nie ma to jak podkładanie bomb znajomym! Trzeba pójść do pracowni i przygotować kilka sztuk na zapas.</message>
+
+		<message key="quest341Title">Światło świecy</message>
+		<message key="quest341Description">Widziałeś, jakie niezwykłe światło daje świeca? Delikatne i migoczące. Kiedy światło świecy rozprasza ciemność, robi się tak przytulnie!</message>
+
+		<message key="quest342Title">Moc ciała i ducha</message>
+		<message key="quest342Description">Pora się pokrzepić. Napijmy się kawy lub napoju energetycznego.</message>
+
+		<message key="quest343Title">Szalone tempo życia</message>
+		<message key="quest343Description">Aby być na bieżąco i nadążać za nowymi trendami, nie można siedzieć w miejscu, tylko ciągle przeć naprzód i czymś się zajmować.</message>
+
+		<message key="quest344Title">Obowiązki ogrodnika</message>
+		<message key="quest344Description">Porządni gracze powinni mieć porządny ogród. W tym celu trzeba o niego ciągle dbać.</message>
+
+		<message key="quest345Title">Chodząca energia</message>
+		<message key="quest345Description">Jesteś osobą, która zaraża wszystkich pozytywną energią i optymizmem. Ale jak masz to robić, gdy jesteś zmęczony? Czas się wzmocnić!</message>
+
+		<message key="quest346Title">Koniec zmian</message>
+		<message key="quest346Description">Lubimy brać się za nowe rzeczy, ale nie zawsze udaje się je doprowadzić do końca. Popracujmy jeszcze trochę i dokończmy wszystkie sprawy w ogrodzie i na podwórku.</message>
+
+		<message key="quest347Title">Jesteś zwycięzcą</message>
+		<message key="quest347Description">Prawdziwi zwycięzcy starają się być najlepszymi we wszystkim. Udowodnij, że jesteś najlepszy we wszystkim!</message>
+
+		<message key="quest348Title">Wyprzedaż garażowa</message>
+		<message key="quest348Description">Na pewno masz sporo niepotrzebnych rzeczy, które zalegają na półpiętrach i w spiżarkach. Szkoda byłoby je wyrzucić, lepiej je sprzedać. Na pewno komuś jeszcze się przydadzą.</message>
+
+		<message key="quest348TaskTitle"><![CDATA[<span class="bold">Sprzedaj niepotrzebne rzeczy</span>]]></message>
+		<message key="quest349Title">Wynieś śmieci</message>
+		<message key="quest349Description">Na podwórku zalega dużo śmieci, które przeszkadzają w odpoczynku i działają na nerwy. Uprzątnij wszystkie śmieci.</message>
+
+		<message key="quest350Title">Piękna kolekcja</message>
+		<message key="quest350Description">Muszle, perły i pąki kwiatów są takie piękne. Chciałoby się mieć jak najwięcej tych wspaniałości. Na początek zbierzmy trochę tych pięknych rzeczy.</message>
+
+		<message key="quest351Title">Magazynek</message>
+		<message key="quest351Description">Magazynki nie powinny być puste. Zawsze coś może być potrzebne w pracowni. Nie ociągajmy się. Ruszajmy na poszukiwanie potrzebnych materiałów.</message>
+
+		<message key="quest352Title">Skarbnica emocji</message>
+		<message key="quest352Description">Nie bez powodu Awataria to świat, w którym spełniają się marzenia. To prawdopodobnie najlepsza gra, w której można poczuć całą gamę emocji: miłość, szczęście, nienawiść...</message>
+
+		<message key="quest353Title">Król plaży</message>
+		<message key="quest353Description">Jak wyróżnić się spośród innych plażowiczów? Oczywiście wygrać w zawodach surfingowych! Ten, kto wygra, zostanie królem plaży. Albo królową...</message>
+
+		<message key="quest354Title">Na fali</message>
+		<message key="quest354Description">Na plaży jest wiele atrakcji, ale najciekawsze są oczywiście wyścigi surfingowe.</message>
+
+		<message key="quest355Title">Wszystko naraz</message>
+		<message key="quest355Description">Czeka na nas koło fortuny! Pora zdobyć złoto, srebro i żetony do gry.</message>
+
+		<message key="quest356Title">Grosz do grosza</message>
+		<message key="quest356Description">Podobno bogacze przyciągają bogactwo. Sprawdźmy to stwierdzenie!</message>
+
+		<message key="quest357Title">To wszystko</message>
+		<message key="quest357Description">Po długiej pracy przyjemnie jest powiedzieć: „To wszystko” i odpocząć.</message>
+
+		<message key="quest358Title">Burzyć! Niszczyć!</message>
+		<message key="quest358Description">Czasem bywa, że ktoś tak zepsuje nam nastrój, że ma się ochotę coś zniszczyć.</message>
+
+		<message key="quest359Title">Muzyka wprawia w szaleństwo</message>
+		<message key="quest359Description">Kiedy muzyka wprawia w szaleństwo, nie da się ustać w miejscu. Nieważne gdzie jesteś — w klubie, na ulicy czy w kawiarni — chcesz tańczyć!</message>
+
+		<message key="quest360Title">Selfie</message>
+		<message key="quest360Description">W studiu fotograficznym Awatarii można zrobić wiele zakręconych zdjęć, wrzucić na swoją stronę i dostać mnóstwo polubień! No dalej! Znajomi czekają na twoje nowe zdjęcia.</message>
+
+		<message key="quest361Title">Straż nocna</message>
+		<message key="quest361Description">Wieczorem zazwyczaj ma się ochotę na coś smacznego.</message>
+
+		<message key="quest362Title">Z całej siły</message>
+		<message key="quest362Description">Życie byłoby nudne, gdyby nie pozwolić sobie czasem na rozrywkę!</message>
+
+		<message key="quest363Title">Energia tańca</message>
+		<message key="quest363Description">Kiedy wkładasz w taniec całą swoją duszę — męczysz się. Ale potem dostajesz takiej dawki energii, że ojej!</message>
+
+		<message key="quest364Title">Jeszcze jedną!</message>
+		<message key="quest364Description">Zabawimy się w klubie? Samemu nudno jest tańczyć. Zaproś znajomych, by razem z tobą sprawili, że parkiet zapłonie.</message>
+
+		<message key="quest365Title">Łobuzerstwo</message>
+		<message key="quest365Description">Ciągle nam mówią, że trzeba zachowywać się spokojnie i cicho. Ale to przecież nudne!</message>
+
+		<message key="quest366Title">Wrajter</message>
+		<message key="quest366Description">Wrajterami nazywa się ludzi, którzy malują graffiti na murach. Poczuj się jak prawdziwy artysta i pomaluj ściany u swoich znajomych!</message>
+
+		<message key="quest367Title">Wkurzenie</message>
+		<message key="quest367Description">Może zrobimy coś, co naprawdę wkurzy znajomych?</message>
+
+		<message key="quest368Title">Żarty znajomych</message>
+		<message key="quest368Description">Dobra robota, przyjaciele! W domu wszystko zniszczone, ściany całe w graffiti, i jeszcze tortem w twarz!</message>
+
+		<message key="quest369Title">Wymiana</message>
+		<message key="quest369Description">Jeśli masz jakąś wartościową, ale niezbyt potrzebną ci rzecz, na pewno znajdziesz kogoś, dla kogo okaże się ona niezbędna.</message>
+
+		<message key="quest370Title">Impreza w apartamencie</message>
+		<message key="quest370Description">Masz ogromne mieszkanie. Warto zorganizować tu kilka legendarnych imprez.</message>
+
+		<message key="quest371Title">Wymiatać</message>
+		<message key="quest371Description">W mieszkaniach znajomych nazbierało się dużo śmieci. Czas powiedzieć im: „Wymiatać!”</message>
+
+		<message key="quest372Title">Zadziora</message>
+		<message key="quest372Description">Bicie i kopanie to zajęcie dla prawdziwego zadziory.</message>
+
+		<message key="quest373Title">Na mój koszt</message>
+		<message key="quest373Description">Ugość znajomych na swój koszt — będą zadowoleni i razem miło spędzicie czas.</message>
+
+        <message key="quest456Title">Jak wiatr</message>
+        <message key="quest456Description">Wieczorem znajomi zbierają się w kanionie, by się ścigać. Dołączymy do tej wesołej kompanii?</message>
+
+        <message key="quest465Title">Śrubeczki, nakrętki</message>
+        <message key="quest465Description">Można zauważyć, że po rajdzie odpadło kilka śrubek. Jak można tak pędzić!</message>
+
+        <message key="quest470Title">Kask — trzeba jeździć z głową</message>
+        <message key="quest470Description">Udział w rajdach to niebezpieczne zajęcie. Dobrze byłoby mieć kask na głowie podczas każdego wyścigu.</message>
+
+        <message key="quest479Title">Mechanik</message>
+        <message key="quest479Description">Jeśli lubisz jeździć, musisz też umieć naprawić samochód. Rajdy są fajne, ale trzeba też zadbać o swoje auto.</message>
+
+        <message key="quest487Title">Stacja benzynowa</message>
+        <message key="quest487Description">Bez paliwa daleko nie zajedziesz. Zbudujmy prywatną stację benzynową, aby umożliwić ci tankowanie.</message>
+
+        <message key="quest492Title">Gazu!</message>
+        <message key="quest492Description">Czas kupić swoje własne auto. Nawet jeśli masz już „stalowego rumaka” i być może nawet nie jednego.</message>
+        <message key="quest492Task1Title"><![CDATA[<span class="bold">Kup samochód</span>]]></message>
+
+        <message key="quest515Title">Mój motocykl</message>
+        <message key="quest515Description">Motocykl daje zupełnie inne wrażenia z jazdy niż samochód. Sprawdzimy to?</message>
+        <message key="quest515Task1Title"><![CDATA[<span class="bold">Kup motocykl</span>]]></message>
+		
+		<!-- Fortune wins -->
+		
+		<message key="fsTitle">Srebrne szczęście</message>
+		<message key="fsDescription">Jeśli ci się poszczęści, możesz wybrać cały stos srebrnych monet. Gotowy, by zakręcić „Kołem Fortuny”?</message>
+		
+		<message key="fgTitle">Złote szczęście</message>
+		<message key="fgDescription">Wygrywać w „Kole Fortuny” złote monety jest o wiele trudniej niż srebrne. Ale nie ma rzeczy niemożliwych!</message>
+		
+		<message key="fcTitle">Hej dokoła</message>
+		<message key="fcDescription">Każdy żeton zdobyty przez ciebie w „Kole Fortuny” daje szansę na wygraną. Mała rzecz, a cieszy!</message>
+		
+		<!-- Collect glasses -->
+		
+		<message key="collectGlassesTitle">Kolekcja okularów</message>
+		<message key="collectGlassesDescription">Gdy uzbierasz kolekcję okularów, nigdy nie będziesz myśleć o tym, jaki rekwizyt będzie pasował do tego czy innego ubrania. Okulary nigdy nie wychodzą z mody!</message>
+		<message key="collectGlassesBoyTask1"><![CDATA[<span class="bold">Kup okulary w złotej oprawce</span>]]></message>
+		<message key="collectGlassesBoyTask2"><![CDATA[<span class="bold">Kup okulary</span>]]></message>
+		<message key="collectGlassesBoyTask3"><![CDATA[<span class="bold">Kup okulary w jasnej oprawce</span>]]></message>
+		<message key="collectGlassesBoyTask4"><![CDATA[<span class="bold">Kup ciemne okulary</span>]]></message>
+		<message key="collectGlassesBoyTask5"><![CDATA[<span class="bold">Kup okulary z brązowymi szkłami</span>]]></message>
+		
+		<message key="collectGlassesGirlTask1"><![CDATA[<span class="bold">Kup okulary ze złotą ozdobą</span>]]></message>
+		<message key="collectGlassesGirlTask2"><![CDATA[<span class="bold">Kup okulary w kolorze złocistym</span>]]></message>
+		<message key="collectGlassesGirlTask3"><![CDATA[<span class="bold">Kup różowe okulary</span>]]></message>
+		<message key="collectGlassesGirlTask4"><![CDATA[<span class="bold">Kup okulary</span>]]></message>
+		<message key="collectGlassesGirlTask5"><![CDATA[<span class="bold">Kup okulary w kolorze purpurowym</span>]]></message>
+		
+		<!-- Cake throwing -->
+		
+		<message key="quest122Title">Słodka zemsta</message>
+		<message key="quest122Description">Okazuje się, że torty można nie tylko jeść... Można też rzucać nimi w innych ludzi! I nawet jeśli ktoś rzuci w ciebie tortem, nie ma w tym nic strasznego, wprost przeciwnie — to bardzo zabawne. Spróbuj!</message>
+		
+		<!-- Buy VIP, present VIP -->
+		
+		<message key="quest123Title">V.I.P.</message>
+		<message key="quest123Description">Lubisz się wyróżniać i zawsze być widocznym? Status VIP sprawi, że otworzą się przed tobą nowe możliwości! Zadbaj o to, by życie było bardziej kolorowe!</message>
+		<message key="quest123Task1Title"><![CDATA[<span class="bold">Uzyskaj lub przedłuż status VIP</span>]]></message>
+		<message key="quest123Comment"><![CDATA[<span class="bold">Wskazówka:</span> Aby kupić lub przedłużyć status VIP, kliknij ikonkę z koroną w górnej części ekranu.]]></message>
+		
+		<message key="quest124Title">Prezent VIP</message>
+		<message key="quest124Description">Chcesz sprawić komuś przyjemność? Podaruj mu status VIP! Uwierz, że to idealny prezent dla każdego. Podaruj to, co najlepsze, przyjaciołom i znajomym, a odpłacą ci tym samym!</message>
+		<message key="quest124Task1Title"><![CDATA[<span class="bold">Podaruj komuś status VIP</span>]]></message>
+		<message key="quest124Comment"><![CDATA[<span class="bold">Wskazówka:</span> Status VIP można podarować, klikając innego gracza i wybierając odpowiedni przycisk w menu „Prezenty”.]]></message>
+		
+		
+		<!-- Create event -->
+		
+		<message key="quest125Title">Balanga</message>
+		<message key="quest125Description">Nadszedł czas, by zapoznać się z innymi mieszkańcami Avatarii. Urządź szaloną imprezę, a twoje lokum zacznie przyciągać najbardziej rozrywkowych mieszkańców!</message>
+		
+		<!-- Achieve level -->
+		
+		<message key="quest126Title">Pierwsze sukcesy</message>
+		<message key="quest126Description">Twoje sukcesy w świecie Avatarii mogą zaowocować nagrodami. Każdą z otrzymanych nagród możesz ustawić w swoim mieszkaniu, żeby inni mogli ci zazdrościć. Nadszedł czas na twoją pierwszą nagrodę!</message>
+		<message key="quest126Task1Title"><![CDATA[<span class="bold">Otrzymaj dowolną brązową nagrodę</span>]]></message>
+		<message key="rewardComment"><![CDATA[<span class="bold">Wskazówka:</span> Opisy nagród znajdziesz w inwentarzu w zakładce „Nagrody”.]]></message>
+		
+		<!-- Change appearance -->
+		
+		<message key="quest127Title">Wygląd</message>
+		<message key="quest127Description">Nie podobasz się sobie? Łatwo to zmienić! Może na początek nowa fryzura?</message>
+		<message key="quest127Task1Title"><![CDATA[<span class="bold">Zmień fryzurę</span>]]></message>
+		<message key="quest127Comment"><![CDATA[<span class="bold">Wskazówka:</span> Aby zmienić fryzurę, użyj przycisku „Wygląd” w dolnej części ekranu.]]></message>
+		
+		<message key="quest128Title">Salon piękności</message>
+		<message key="quest128Description">Mistrzowie styliści z pobliskiego salonu piękności mogą zaproponować ci o wiele większy wybór fryzur i innych usług, niż masz do dyspozycji w tej chwili. Czy nie nadszedł czas, żeby wybrać się tam i powierzyć zmianę swojego wyglądu profesjonalistom?</message>
+		<message key="quest128Task1Title"><![CDATA[<span class="bold">Zmień fryzurę w salonie piękności</span>]]></message>
+		<message key="quest128Task2Title"><![CDATA[<span class="bold">Zmień oczy w salonie piękności</span>]]></message>
+		<message key="quest128Task3Title"><![CDATA[<span class="bold">Zmień usta w salonie piękności</span>]]></message>
+		
+		<!-- Craft & gift -->
+		
+		<message key="quest129Title">Własnymi rękami</message>
+		<message key="quest129Description">Lubisz majsterkować? Masz do dyspozycji warsztat oraz parę szkiców i przepisów. Możesz zrobić coś pożytecznego dla siebie i na prezent dla przyjaciół.</message>
+		
+		<message key="quest130Title">Świnka</message>
+		<message key="quest130Description">Łatwo samodzielnie wykonywać prezenty, gdy ma się własny warsztat. Wszak tak miło jest przyjść do kogoś w gości i zobaczyć, że główną ozdobą mieszkania jest podarowany przez ciebie własnoręcznie wykonany prezent.</message>
+		<message key="quest130Task2Title"><![CDATA[<span class="bold">Podaruj komuś skarbonkę</span>]]></message>
+		
+		<!-- Get mailbox -->
+		
+		<message key="quest132Title">Skrzynka pocztowa</message>
+		<message key="quest132Description">Twoi przyjaciele i znajomi zawsze będą mogli wysłać ci wiadomość, jeśli będziesz mieć skrzynkę pocztową. Kupmy ją i ustawmy w twoim mieszkaniu.</message>
+		<message key="quest132Task1Title"><![CDATA[<span class="bold">Kup skrzynkę pocztową</span>]]></message>
+		<message key="quest132Task2Title"><![CDATA[<span class="bold">Ustaw skrzynkę pocztową w mieszkaniu</span>]]></message>
+		<message key="quest132Comment"><![CDATA[<span class="bold">Wskazówka:</span> Skrzynkę pocztową możesz znaleźć w sklepie meblowym w dziale „Technika”.]]></message>
+		
+		<!-- Christmas tree -->
+		
+		<message key="quest144Title">Świąteczna krzątanina</message>
+		<message key="quest144Description">W Avatarii nadszedł czas przygotowań do Nowego Roku. Posprzątajmy przed tym wspaniałym, radosnym świętem!</message>
+		<message key="quest144Comment"><![CDATA[<span class="bold">Wskazówka:</span> Żeby sprzątnąć śmieci z podwórka, naciśnij „Miejsca”, a następnie w zakładce „Praca” wybierz „Dozorca”.</span>]]></message>
+		
+		<message key="quest145Title">Choinka</message>
+		<message key="quest145Description">Za wykonanie jednego z zadań podarowaliśmy ci choinkę. Wstawmy ją jak najszybciej do twojego mieszkania!</message>
+		<message key="quest145Task1Title"><![CDATA[<span class="bold">Ustaw choinkę w mieszkaniu</span>]]></message>
+		
+		<message key="quest163Title">Ubierz choinkę</message>
+		<message key="quest163Description">Choinka już się zagrzała, teraz możesz śmiało zabrać się do jej ozdabiania!</message>
+		<message key="quest163Task1Title"><![CDATA[<span class="bold">Nałóż czubek na choinkę</span>]]></message>
+		<message key="quest163Task2Title"><![CDATA[<span class="bold">Powieś 5 ozdób choinkowych</span>]]></message>
+		<message key="quest163Comment"><![CDATA[<span class="bold">Wskazówka:</span> Kliknij choinkę, żeby ją ozdobić.]]></message>
+		
+		<message key="quest164Title">Ozdoby choinkowe</message>
+		<message key="quest164Description">Dając ozdobę choinkową, obdarowujesz kogoś swoim ciepłem i dzielisz się swoim świątecznym nastrojem ze wszystkimi mieszkańcami Avatarii.</message>
+		<message key="quest164Task1Title"><![CDATA[<span class="bold">Podaruj 5 ozdób choinkowych</span>]]></message>
+		<message key="quest164Comment"><![CDATA[<span class="bold">Wskazówka:</span> Aby podarować ozdobę choinkową, kliknij czyjąś choinkę, a następnie wybierz „Podaruj ozdobę”.]]></message>
+		
+		<!-- Pillow fighting -->
+		
+		<message key="quest146Title">Zwycięzca</message>
+		<message key="quest146Description">Wyrównać rachunki można na różne sposoby, ale najbardziej humanitarna metoda to walka na poduszki.</message>
+		<message key="quest146Comment"><![CDATA[<span class="bold">Wskazówka:</span> Pióro może wypaść przy zwycięstwie w walce na poduszki. Może też nie wypaść :)]]></message>
+		
+		<message key="quest147Title">Psuć – nie budować</message>
+		<message key="quest147Description">Niektóre rzeczy w grze można zepsuć, ale równie łatwo można je też naprawić.</message>
+		
+		<message key="quest148Title">Drugi stopień</message>
+		<message key="quest148Description">Srebrna nagroda to drugi stopień każdego osiągnięcia. Dasz sobie radę?</message>
+		<message key="quest148Task1Title"><![CDATA[<span class="bold">Otrzymaj srebrną nagrodę</span>]]></message>
+		
+		<message key="quest149Title">Trzeci stopień</message>
+		<message key="quest149Description">Srebrna nagroda to najwyższy stopień każdego osiągnięcia. Dasz sobie radę?</message>
+		<message key="quest149Task1Title"><![CDATA[<span class="bold">Otrzymaj złotą nagrodę</span>]]></message>
+		
+		<!-- St. Patrick Day -->
+        
+        <message key="spd1Title">Skrzat</message>
+        <message key="spd1Description">Wiesz, kim są skrzaty? Te zabawne istoty są najważniejszym symbolem dnia świętego Patryka. Teraz masz okazję zrobić figurkę skrzata w pracowni.</message>
+        <message key="spd1Task1Title"><![CDATA[<span class="bold">Zrób garniec ze złotem</span>]]></message>
+        
+        <message key="spd2Title">Dzień świętego Patryka</message>
+        <message key="spd2Description">Z okazji dnia świętego Patryka w sklepach pojawiły się nowe przedmioty i ubrania, wykonane w świąteczno-zielonych barwach. Nie możesz tego przegapić. Kup sobie odjazdowe ciuchy!</message>
+        <message key="spd2Task1Title"><![CDATA[<span class="bold">Kup jedną rzecz z okazji dnia świętego Patryka</span>]]></message>
+        
+        <message key="spd3Title">A oto i on!</message>
+        <message key="spd3Description">A oto i skrzat! Wkrótce twoi znajomi przyjdą na przyjęcie. Koniecznie musisz im pokazać swojego skrzata.</message>
+        <message key="spd3Task1Title"><![CDATA[<span class="bold">Postaw garniec ze złotem w mieszkaniu</span>]]></message>
+        <message key="spd3Task2Title"><![CDATA[<span class="bold">Zaproś znajomych na przyjęcie</span>]]></message>
+		
+		<!-- Fool's day, 1 april -->
+		
+		<message key="foolsDayQuestTitle">Kwietniowy cud</message>
+		<message key="foolsDayQuestDescription">Tylko teraz masz możliwość zarobić 100 złotych monet za wykonanie tego specjalnego zadania!
+Pospiesz się. Zadanie wkrótce zniknie, a wraz z nim twoja szansa na zdobycie 100 złotych monet!</message>
+		<message key="foolsDayQuestTask1Title"><![CDATA[<span class="bold">Zwiedź dwór 25 razy<br>w ciągu 24 godzin</span>]]></message>
+		
+		<!-- Easter -->
+		
+		<message key="easterQuest1Title">Przygotowania do Wielkanocy</message>
+		<message key="easterQuest1Description">W pracowni pojawiły się nowe przepisy. Oznacza to, że czas rozpocząć przygotowania do Wielkiej Nocy.</message>
+		<message key="easterQuest1Task1Title"><![CDATA[<span class="bold">Zrób zielone jajko wielkanocne</span>]]></message>
+		<message key="easterQuest1Task2Title"><![CDATA[<span class="bold">Zrób fioletowe jajko wielkanocne</span>]]></message>
+		<message key="easterQuest1Task3Title"><![CDATA[<span class="bold">Zrób zielone jajko wielkanocne</span>]]></message>
+		<message key="easterQuest1Comment"><![CDATA[<span class="bold">Wskazówka:</span> Użyj przepisu na „wielkanocne jajo” w pracowni, aby zdobyć jajo w jednym z trzech kolorów.]]></message>
+		
+		<message key="easterQuest2Title">Wielkanocne prezenty</message>
+		<message key="easterQuest2Description">Co to za Wielkanoc bez prezentów!? Zrób prezent, a z pewnością dostaniesz prezent w odpowiedzi!</message>
+		<message key="easterQuest2Task1Title"><![CDATA[<span class="bold">Podaruj fioletowe wielkanocne jajko </span>]]></message>
+		<message key="easterQuest2Comment"><![CDATA[<span class="bold">Wskazówka:</span>Kliknij jednego ze znajomych, wciśnij przycisk „Prezenty, a następnie „Wręcz prezent”.]]></message>
+
+        <message key="easterQuest3Title">Królik wielkanocny</message>
+        <message key="easterQuest3Description">W pracowni można zrobić figurkę królika wielkanocnego. Ale bez pomocy znajomych sobie nie poradzisz!</message>
+        <message key="easterQuest3Task1Title"><![CDATA[<span class="bold">Zrób królika wielkanocnego</span>]]></message>
+        <message key="easterQuest3Task2Title"><![CDATA[<span class="bold">Daj komuś niebieską pisankę</span>]]></message>
+        <message key="easterQuest3Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Kliknij znajomego, wybierz opcję „prezenty”, a następnie „daj prezent”.]]></message>
+
+        <message key="easterQuest4Title">Wielkanocny mistrz</message>
+        <message key="easterQuest4Description">Ozdóbmy twój dom na Wielkanoc. Biegiem do pracowni!</message>
+		
+		<!-- Victory day -->
+        
+        <message key="victoryQuest1Title">Dzień Zwycięstwa!</message>
+        <message key="victoryQuest1Description">To było tak dawno temu... 9 maja 1945 roku... Pamiętasz o tym dniu?</message>
+        <message key="victoryQuest1Task1Title"><![CDATA[<span class="bold">Stwórz wstęgę św. Jerzego</span>]]></message>
+        <message key="victoryQuest1Task2Title"><![CDATA[<span class="bold">Namaluj graffiti „Dzień Zwycięstwa”</span>]]></message>
+        <message key="victoryQuest1Comment"><![CDATA[<span class="bold">Wskazówka:</span> Graffiti możesz kupić w sklepie z prezentami i zabawkami. Wstęgę można stworzyć w warsztacie.]]></message>
+        
+		<!-- Tropicania -->
+		
+		<message key="tropicQuest1Title">Wigwam</message>
+		<message key="tropicQuest1Description">Tkanina z Tropikanii jest mocniejsza i lepszej jakości niż tu, w Awatarii. Dlatego można z niej uszyć lepsze rzeczy.</message>
+		<message key="tropicQuest1Task1Title"><![CDATA[<span class="bold">Zrób wigwam</span>]]></message>
+		<message key="tropicQuest1Comment"><![CDATA[<span class="bold">Wskazówka:</span> Len lub bawełnę można zdobyć w grze Tropikania, a następnie, używając powietrzolotu, wysłać tkaninę do Awatarii.]]></message>
+		
+		<message key="tropicQuest2Title">Kanoe</message>
+		<message key="tropicQuest2Description">Z czerwonego drewna, produkowanego w Tropikanii, można zbudować prawdziwe kanoe. Będzie pięknie wyglądać w twoim mieszkaniu, chociaż nadaje się tylko do pływania w jacuzzi :)</message>
+		<message key="tropicQuest2Task1Title"><![CDATA[<span class="bold">Zrób kanoe</span>]]></message>
+		<message key="tropicQuest2Comment"><![CDATA[<span class="bold">Wskazówka:</span> Czerwone drewno można zdobyć w grze Tropikania, a następnie, używając powietrzolotu, wysłać je do Awatarii.]]></message>
+		
+		<message key="tropicQuest3Title">Kolekcjoner</message>
+		<message key="tropicQuest3Description">Podczas podróżowania po Tropikanii można znaleźć wiele pradawnych artefaktów.</message>
+		<message key="tropicQuest3Task1Title"><![CDATA[<span class="bold">Zbierz pierwszą kolekcję totemów</span>]]></message>
+		<message key="tropicQuest3Task2Title"><![CDATA[<span class="bold">Zbierz drugą kolekcję totemów</span>]]></message>
+		<message key="tropicQuest3Task3Title"><![CDATA[<span class="bold">Zbierz trzecią kolekcję totemów</span>]]></message>
+		<message key="tropicQuest3Comment"><![CDATA[<span class="bold">Wskazówka:</span> Totem można zdobyć w grze Tropikania, a następnie, używając powietrzolotu, wysłać go do Awatarii.]]></message>
+		
+        <!-- New year 2013 -->
+        
+        <message key="questNY1Title">Nowy rok!</message>
+        <message key="questNY1Description">W oczekiwaniu na nowy rok, wszyscy ruszają do sklepów i kupują prezenty dla bliskich i przyjaciół. Co powiesz na przednoworoczne zakupy?</message>
+        <message key="questNY1Task1Title"><![CDATA[<span class="bold">Kup prezenty noworoczne</span>]]></message>
+        <message key="questNY1Task2Title"><![CDATA[<span class="bold">Wręcz znajomym noworoczne prezenty</span>]]></message>
+        <message key="questNY1Comment"><![CDATA[<span class="bold">Wskazówka:</span> Paczki z prezentami znajdziesz w sklepie z prezentami i śmiesznymi rzeczami, w dziale „Nowy rok”.]]></message>
+        
+        <message key="questNY2Title">Śnieżna kula</message>
+        <message key="questNY2Description">Z pewnością nie każdy mógłby coś takiego zrobić! Ale ci, którzy uporają się z tym zadaniem, będą mogli nacieszyć się pięknem, zrobionym własnymi rękami.</message>
+        <message key="questNY2Task1Title"><![CDATA[<span class="bold">Zrób kulę śnieżną</span>]]></message>
+        <message key="questNY2Task2Title"><![CDATA[<span class="bold">Umieść kulę w mieszkaniu</span>]]></message>
+        <message key="questNY2Comment"><![CDATA[<span class="bold">Wskazówka:</span> Ten przedmiot możesz zrobić w pracowni. Kliknij ikonkę skrzyni z narzędziami, aby przejść do pracowni.]]></message>
+        
+        <message key="questNY3Title">Pierniki</message>
+        <message key="questNY3Description">Myślisz, że tak łatwo jest zrobić ludzika z piernika? Do tego naturalnej wielkości? Trzeba poświęcić dużo czasu i sił, aby przygotować ten kulinarny przebój. Ale uwierz mi - warto!</message>
+        <message key="questNY3Task1Title"><![CDATA[<span class="bold">Przygotuj ludzika z piernika</span>]]></message>
+        <message key="questNY3Task2Title"><![CDATA[<span class="bold">Umieść ludzika w mieszkaniu</span>]]></message>
+        <message key="questNY3Comment"><![CDATA[<span class="bold">Wskazówka:</span> Ten przedmiot możesz zrobić w pracowni. Kliknij ikonkę skrzyni z narzędziami, aby przejść do pracowni.]]></message>
+        
+        <message key="questNY4Title">Bałwany</message>
+        <message key="questNY4Description">Ulepmy bałwana. A najlepiej dwa. Bałwana i jego przyjaciółkę - panią Bałwanową!</message>
+        <message key="questNY4Task1Title"><![CDATA[<span class="bold">Ulep bałwana</span>]]></message>
+        <message key="questNY4Task2Title"><![CDATA[<span class="bold">Ulep panią Bałwanową</span>]]></message>
+        <message key="questNY4Comment"><![CDATA[<span class="bold">Wskazówka:</span> Bałwany można zrobić w pracowni. Ten przepis pomoże ci zdobyć ozdobę albo w postaci bałwana, albo pani Bałwanowej.]]></message>
+        
+        <!-- St. Valentine Day -->
+        
+        <message key="valdayQuest1Title">Walentynki</message>
+        <message key="valdayQuest1Description">Jakże przyjemnie jest dostać walentynkę niezależnie od kogo: czy od starego przyjaciela, czy po prostu od uprzejmego przechodnia. Tego dnia dla miłości nie ma przeszkód!</message>
+        <message key="valdayQuest1Task1Title"><![CDATA[<span class="bold">Podaruj walentynkę</span>]]></message>
+        <message key="valdayQuest1Comment"><![CDATA[<span class="bold">Wskazówka:</span> walentynkę mogą ci podarować znajomi. Żeby mogli to zrobić, wejdź do pracowni, znajdź walentynkę i kliknij „Poproś”.]]></message>
+        
+        <message key="valdayQuest2Title">Kula miłości</message>
+        <message key="valdayQuest2Description">Chcesz komuś wyznać miłość lub po prostu zrobić miły prezent? Z okazji dnia świętego Walentego, w pracowni znajdziesz coś wyjątkowego!</message>
+        <message key="valdayQuest2Task1Title"><![CDATA[<span class="bold">Wykonaj kulę „LOVE”</span>]]></message>
+        <message key="valdayQuest2Comment"><![CDATA[<span class="bold">Wskazówka:</span> kule można wykonać w pracowni.]]></message>
+        
+        <message key="valdayQuest3Title">O miłości</message>
+        <message key="valdayQuest3Description">Cóż wiemy o miłości? Zupełnie nic… Ale zawsze dążymy do tego, aby poznać wszystkie wdzięki tego nieziemskiego uczucia, jak również obdarować cząsteczką naszego ciepła drogą nam osobę.</message>
+        <message key="valdayQuest3Task1Title"><![CDATA[<span class="bold">Obdarowuj miłością</span>]]></message>
+        <message key="valdayQuest3Comment"><![CDATA[<span class="bold">Wskazówka:</span> można zostać obdarowanym miłością, wykonując akcję „obejmij” lub „pocałuj” z innymi awatarami.]]></message>
+        
+        <message key="valdayQuest4Title">Słodki buziak</message>
+        <message key="valdayQuest4Description">Co to za święto bez słodkości? Twoi znajomi już nie mogą się doczekać, a ty już wiesz, że przyniesiesz im na to święto małe co nieco do herbaty.</message>
+        <message key="valdayQuest4Task1Title"><![CDATA[<span class="bold">Podaruj kosz cukierków</span>]]></message>
+        <message key="valdayQuest4Comment"><![CDATA[<span class="bold">Wskazówka:</span> kosz podarunkowy w kształcie serca, znajdziesz w sklepie z prezentami i śmiesznymi rzeczami.]]></message>
+        
+        <message key="valdayQuest5Title">Spotkanie znajomych</message>
+        <message key="valdayQuest5Description">Te walentynki postanawiasz spędzić ze znajomymi w kawiarni. A my wiemy, jak można spędzić tam czas wesoło!</message>
+        <message key="valdayQuest5Task2Title"><![CDATA[<span class="bold">Obejmij kogoś w kawiarni</span>]]></message>
+        <message key="valdayQuest5Task3Title"><![CDATA[<span class="bold">Rzuć w kogoś tortem w kawiarni</span>]]></message>
+        
+        <!-- School (NOT USED) -->
+        
+        <message key="schoolQuest1Title">Грамотей</message>
+        <message key="schoolQuest1Desc">Знание русского языка дает большие перспективы в будущем каждого человека. Давай проверим, насколько хорошо ты знаешь русский язык!</message>
+        <message key="schoolQuest1Task1"><![CDATA[<span class="bold">Дать правильные ответы по русскому языку в школе</span>]]></message>
+        
+		<message key="schoolQuest2Title">Математик</message>
+        <message key="schoolQuest2Desc">Любишь считать? Знаешь наизусть таблицу умножения? Молодец, но этого мало. В школе Аватарии тебя ждет множество интересных вопросов по математике, заодно и проверим твои знания по этому предмету.</message>
+        <message key="schoolQuest2Task1"><![CDATA[<span class="bold">Дать правильные ответы по математике в школе</span>]]></message>
+        
+		<message key="schoolQuest3Title">Всезнайка</message>
+        <message key="schoolQuest3Desc">Прелесть тестирования в том, что ответы на вопрос видны сразу. Тебе остается лишь немного подумать и выбрать правильный. С виду все просто, но, посмотрим, как это на самом деле.</message>
+        <message key="schoolQuest3Task1"><![CDATA[<span class="bold">Дать правильные ответы по тестам в школе</span>]]></message>
+        
+		<message key="schoolQuest4Title">Путешественник</message>
+        <message key="schoolQuest4Desc">Много ли ты знаешь о том, что находится за пределами твоего города, твоей страны? Какие еще города и страны ты знаешь? Вопросов и ответов может быть много, ведь это — география! Знание этого предмета не только расширяет твой кругозор, но и позволяет взглянуть на жизнь под другим углом.</message>
+        <message key="schoolQuest4Task1"><![CDATA[<span class="bold">Дать правильные ответы по географии в школе</span>]]></message>
+        
+		<message key="schoolQuest5Title">Знаток формул</message>
+        <message key="schoolQuest5Desc">Формулы бывают разные, но не важно, знаешь ли ты их наизусть или нет. Важно то, как ты умеешь ими пользоваться. Но ведь физика и химия это не только формулы, ведь так?</message>
+        <message key="schoolQuest5Task1"><![CDATA[<span class="bold">Дать правильные ответы<br>по физике в школе</span>]]></message>
+        <message key="schoolQuest5Task2"><![CDATA[<span class="bold">Дать правильные ответы<br>по химии в школе</span>]]></message>
+        
+		<message key="schoolQuest6Title">Книголюб-историк</message>
+        <message key="schoolQuest6Desc">Знания об историческом прошлом зачастую отображается и в художественных произведениях того или иного отрезка времени. Ведь кто как не люди, живущие в прошлом, могут более достоверно описать все то, что происходило в мире и вокруг них самих?</message>
+        <message key="schoolQuest6Task1"><![CDATA[<span class="bold">Дать правильные ответы по литературе в школе</span>]]></message>
+        <message key="schoolQuest6Task2"><![CDATA[<span class="bold">Дать правильные ответы по истории в школе</span>]]></message>
+        
+		<message key="schoolQuest7Title">Успеваемость</message>
+        <message key="schoolQuest7Desc">Наверняка ты хорошо учишься и всегда без ошибок отвечаешь почти на все вопросы, даже самые сложные? В таком случае, тебе полагается дополнительная награда!</message>
+        <message key="schoolQuest7Task1"><![CDATA[<span class="bold">Получить приз за 30 баллов</span>]]></message>
+        <message key="schoolQuest8Task1"><![CDATA[<span class="bold">Получить приз за 75 баллов</span>]]></message>
+        <message key="schoolQuest9Task1"><![CDATA[<span class="bold">Получить приз за 180 баллов</span>]]></message>
+        
+		<message key="schoolQuest10Title">Отличник</message>
+        <message key="schoolQuest10Desc">Если учиться прилежно, можно получить дополнительные баллы, тем самым приблизив себя к получению главного приза. Справишься?</message>
+        <message key="schoolQuest10Task1"><![CDATA[<span class="bold">Получить бонусные баллы<br>за хорошую учебу</span>]]></message>
+        
+		<message key="schoolQuest14Title">25 баллов</message>
+        <message key="schoolQuest14Desc">Каждый полученный тобой балл в школе — показатель твоей успеваемости. И чем больше ты отвечаешь на вопросы, тем больше баллов можешь получить.</message>
+        <message key="schoolQuest14Task1"><![CDATA[<span class="bold">Получить баллы за<br>правильные ответы в школе</span>]]></message>
+        
+		<message key="schoolQuest15Title">100 баллов</message>
+        <message key="schoolQuest16Title">200 баллов</message>
+        
+        <!-- HELP BUTTON TITLES -->
+        
+		<message key="hbCafeLocationTitle">do kawiarni</message>
+		<message key="hbClubLocationTitle">do klubu</message>
+		<message key="hbParkLocationTitle">do parku</message>
+		<message key="hbPublicLocationsTitle">miejsca</message>
+		<message key="hbWorkLocationsTitle">praca</message>
+		<message key="hbClothesShopTitle">sklep z ubraniami</message>
+		<message key="hbFurnitureShopTitle">sklep meblowy</message>
+		<message key="hbJokeAndPresentShopTitle">sklep z zartami</message>
+		<message key="hbMyinventory">moj inwentarz</message>
+		<message key="hbAchievements">nagrody</message>
+		<message key="hbCraft">do warsztatu</message>
+		<message key="hbApartment">kup pokoj</message>
+		<message key="hbMngApartment">moje mieszkanie</message>
+		<message key="hbBeautySalonTitle">do salonu pieknosci</message>
+		<message key="hbAvatarApearance">moj wyglad</message>
+		<message key="hbEventsTitle">utworz wydarzenie</message>
+		<message key="hbGardenWorkTitle">pracuj w ogrodzie</message>
+		<message key="hbNpcWorkTitle">do sąsiada</message>
+		<message key="hbGarbageWorkTitle">pracuj na dworze</message>
+		<message key="hbFortuneWorkTitle">Kolo Fortuny</message>
+		<message key="hbBeachLocationTitle">plaża</message>
+        <message key="hbPhotosalonLocationTitle">studio fotograficzne</message>
+        <message key="hbTechShopTitle">Sklep ze sprzętem</message>
+        <message key="hbCanyonLocationTitle">kanion</message>
+		
+		<!-- GARDEN'n'YARD ACTION -->
+		
+		<message key="gdBugTitle"><![CDATA[<span class="bold">Zadepcz robaki</span>]]></message>
+		<message key="gdBtfTitle"><![CDATA[<span class="bold">Zlap motyla</span>]]></message>
+		<message key="gdFlwTitle"><![CDATA[<span class="bold">Podlej kwiaty</span>]]></message>
+		<message key="gdInsTitle"><![CDATA[<span class="bold">Spryskaj rosliny</span>]]></message>
+		
+		<message key="pickGarbage"><![CDATA[<span class="bold">Uprzatnij podworko</span>]]></message>
+		<message key="pickGarbageComment"><![CDATA[<span class="bold">Wskazówka:</span> Kliknij przycisk „Miejsca”, nastepnie wybierz zakladke „Praca”. Na liscie prac kliknij „Dozorca”.]]></message>
+		
+		<message key="doneGarbageWorkSession"><![CDATA[<span class="bold">Wykonaj wszystkie prace na dworze</span>]]></message>
+		<message key="gwsComment"><![CDATA[<span class="bold">Wskazówka:</span> Trzeba zdazyc usunac wszystkie smieci z podworka do konca zmiany. Jesli czesci smieci nie widac lub nie mozna ich usunac, wejdz do lokacji jeszcze raz.]]></message>
+		
+		<message key="doneGardenWorkSession"><![CDATA[<span class="bold">Wykonaj wszystkie prace w ogrodzie</span>]]></message>
+		<message key="gdwsComment"><![CDATA[<span class="bold">Wskazówka:</span> Trzeba zdazyc wykonac wszystkie prace do konca zmiany.]]></message>
+		
+		<message key="createGarbageWorkSession"><![CDATA[<span class="bold">Zacznij nowa zmiane na podworku</span>]]></message>
+		<message key="cgwsComment"><![CDATA[<span class="bold">Wskazówka:</span> Liczy sie tylko odwiedzenie kazdej nowej zmiany, ktora aktualizuje sie co 30 minut.]]></message>
+		
+		<message key="createGardenWorkSession"><![CDATA[<span class="bold">Zacznij nowa zmiane w ogrodzie</span>]]></message>
+		<message key="cgdwsComment"><![CDATA[<span class="bold">Wskazówka:</span> Liczy sie tylko odwiedzenie kazdej nowej zmiany, ktora aktualizuje sie co 60 minut.]]></message>
+		
+		<message key="cwsCommonComment"><![CDATA[<span class="bold">Wskazówka:</span> Liczy sie tylko odwiedzenie kazdej nowej zmiany.]]></message>
+		
+		<!-- SOCIAL ACTIONS -->
+		
+		<message key="kissAction"><![CDATA[<span class="bold">Pocaluj kogos</span>]]></message>
+		<message key="hugAction"><![CDATA[<span class="bold">Obejmij kogos</span>]]></message>
+		<message key="kickAction"><![CDATA[<span class="bold">Kopnij kogos</span>]]></message>
+		<message key="slapAction"><![CDATA[<span class="bold">Spoliczkuj kogos</span>]]></message>
+		
+		<message key="giftPresent"><![CDATA[<span class="bold">Daj komus prezent</span>]]></message>
+		<message key="winPillowBattle"><![CDATA[<span class="bold">Wygraj bitwe na poduszki</span>]]></message>
+		<message key="throwCake"><![CDATA[<span class="bold">Rzuc w kogos tortem</span>]]></message>
+		<message key="wipeCake"><![CDATA[<span class="bold">Zmyj z siebie resztki tortu</span>]]></message>
+		<message key="addBuddy"><![CDATA[<span class="bold">Znajdz nowych przyjaciol</span>]]></message>
+		
+		<message key="friendsHelp"><![CDATA[<span class="bold">Posprzataj u sasiadow</span>]]></message>
+		<message key="friendsHelpComment"><![CDATA[<span class="bold">Wskazówka:</span> Wszyscy twoi sasiedzi wyswietlaja sie w dolnej czesci ekranu.]]></message>
+		
+		<message key="giftCoctail"><![CDATA[<span class="bold">Postaw komus w klubie drinka</span>]]></message>
+		<message key="giftCoctailComment"><![CDATA[<span class="bold">Wskazówka:</span> Kliknij jednego z graczy w klubie, a nastepnie wybierz czynnosc „Postaw”.]]></message>
+		<message key="giftSweets"><![CDATA[<span class="bold">Postaw komus kawe</span>]]></message>
+		<message key="giftSweetsComment"><![CDATA[<span class="bold"> Wskazówka:</span> Kliknij jednego z graczy w klubie, a nastepnie wybierz czynnosc „Postaw”.]]></message>
+		<message key="giftSomeone"><![CDATA[<span class="bold">Postaw cos komus w klubie lub kawiarni</span>]]></message>
+		
+		<message key="refrigerateMe"><![CDATA[<span class="bold">Zjedz cos ze swojej lodowki</span>]]></message>
+		<message key="treatTheirs"><![CDATA[<span class="bold">Poczestuj kogos czyms ze swojej lodowki</span>]]></message>
+		<message key="treatMe"><![CDATA[<span class="bold">Zjedz cos z cudzej lodowki</span>]]></message>
+		
+		<message key="brokeFurniture"><![CDATA[<span class="bold">Zepsuj czyjas rzecz</span>]]></message>
+		<message key="repairFurniture"><![CDATA[<span class="bold">Napraw swoja zepsuta rzecz</span>]]></message>
+		
+		<message key="createEvent"><![CDATA[<span class="bold">Utworz nowe wydarzenie</span>]]></message>
+		<message key="createEventComment"><![CDATA[<span class="bold">Wskazówka:</span> Aby utworzyc wydarzenie, kliknij po lewej przycisk „Miejsca”, potem przejdz do zakladki „Wydarzenia”. Na dole kliknij „Utworz wydarzenie”.</span>]]></message>
+		
+		<message key="paintGraffiti"><![CDATA[<span class="bold">Namaluj graffiti</span>]]></message>
+		<message key="eraseGraffiti"><![CDATA[<span class="bold">Usun graffiti w swoim mieszkaniu</span>]]></message>
+		
+		<message key="winBeachRace"><![CDATA[<span class="bold">Wygraj wyścig surfingowców</span>]]></message>
+        <message key="makePhoto"><![CDATA[<span class="bold">Zrób zdjęcie w studiu fotograficznym</span>]]></message>
+        <message key="restoreEnergyInVip"><![CDATA[<span class="bold">Odzyskaj energię w klubowej loży VIP</span>]]></message>
+        <message key="sitOnHorse"><![CDATA[<span class="bold">Pohuśtaj się na fajnej huśtawce</span>]]></message>
+
+        <message key="winCarRace"><![CDATA[<span class="bold">Zwycięż w rajdzie</span>]]></message>
+        <message key="collectScrew"><![CDATA[<span class="bold">Znajdź śrubkę</span>]]></message>
+        <message key="collectWrench"><![CDATA[<span class="bold">Znajdź klucz płaski</span>]]></message>
+        <message key="craftMotoHelm"><![CDATA[<span class="bold">Zrób kask wyścigowy</span>]]></message>
+        <message key="craftGasStation"><![CDATA[<span class="bold">Zbuduj stację benzynową</span>]]></message>
+        <message key="danceInCanyon"><![CDATA[<span class="bold">Zatańcz w kanionie</span>]]></message>
+
+		<!-- COLLECT ACTION -->
+		
+		<message key="collectBow"><![CDATA[<span class="bold">Podczas sprzatania na dworze znajdz wstazki</span>]]></message>
+		<message key="collectPhial"><![CDATA[<span class="bold">Znajdz butelke</span>]]></message>
+		<message key="collectBigPhial"><![CDATA[<span class="bold">Znajdz duza butelke</span>]]></message>
+		<message key="collectClay"><![CDATA[<span class="bold">Zbierz kawalki gliny w ogrodzie</span>]]></message>
+		<message key="collectWater"><![CDATA[<span class="bold">Znajdz krople wody z ogrodzie</span>]]></message>
+		<message key="collectCoins"><![CDATA[<span class="bold">Znajdz szczesliwe monety</span>]]></message>
+		<message key="collectFeather"><![CDATA[<span class="bold">Zbierz piora</span>]]></message>
+		<message key="collectWick"><![CDATA[<span class="bold">Zdobadz knot</span>]]></message>
+		<message key="collectIron"><![CDATA[<span class="bold">Zbierz kawalki zelaza</span>]]></message>
+		<message key="collectWood"><![CDATA[<span class="bold">Zbierz kawalki drewna</span>]]></message>
+		<message key="collectPhotos"><![CDATA[<span class="bold">Zbierz zdjecia</span>]]></message>
+		<message key="collectFlowerBuds"><![CDATA[<span class="bold">Zbierz paki</span>]]></message>
+		<message key="collectWrappingPaper"><![CDATA[<span class="bold">Zbierz papier do pakowania</span>]]></message>
+		<message key="collectSaberHilt"><![CDATA[<span class="bold">Znajdz rekojesc szabli</span>]]></message>
+		<message key="collectShell"><![CDATA[<span class="bold">Zbierz muszle</span>]]></message>
+		<message key="collectPearl"><![CDATA[<span class="bold">Zbierz perły</span>]]></message>
+		
+		<message key="collectComponents"><![CDATA[<span class="bold">Zbierz dowolne materialy do warsztatu</span>]]></message>
+		
+		<message key="collectGenerosity"><![CDATA[<span class="bold">Zdobadz hojnosc</span>]]></message>
+		<message key="collectLove"><![CDATA[<span class="bold">Zdobadz milosc</span>]]></message>
+		<message key="collectHappiness"><![CDATA[<span class="bold">Zdobadz szczescie</span>]]></message>
+		<message key="collectHate"><![CDATA[<span class="bold">Zdobadz nienawisc</span>]]></message>
+		
+		<!-- CRAFT ACTION -->
+		
+		<message key="craftCoffeeDrink"><![CDATA[<span class="bold">Przygotuj w warsztacie napoj kawowy</span>]]></message>
+		<message key="craftEnergyDrink"><![CDATA[<span class="bold">Przygotuj w warsztacie napoj wzmacniajacy</span>]]></message>
+		<message key="craftTeddyBear"><![CDATA[<span class="bold">Zrob pluszowego misia</span>]]></message>
+		<message key="craftSaber"><![CDATA[<span class="bold">Zrob szable</span>]]></message>
+		<message key="craftCandel"><![CDATA[<span class="bold">Zrob swiece</span>]]></message>
+		<message key="craftLillies"><![CDATA[<span class="bold">Stworz bukiet lilii</span>]]></message>
+		<message key="craftMoneybox"><![CDATA[<span class="bold">Zrob skarbonke</span>]]></message>
+		<message key="craftBomb"><![CDATA[<span class="bold">Zrob bomby z farba</span>]]></message>
+		<message key="craftFireplace"><![CDATA[<span class="bold">Zrob komin</span>]]></message>
+		<message key="craftTV"><![CDATA[<span class="bold">Zrob telewizor</span>]]></message>
+		<message key="craftShellNecklace"><![CDATA[<span class="bold">Zrób naszyjnik z muszli</span>]]></message>
+		<message key="craftPearlNecklace"><![CDATA[<span class="bold">Zrób naszyjnik z pereł</span>]]></message>
+		<message key="craftFilm"><![CDATA[<span class="bold">Stwórz kliszę fotograficzną</span>]]></message>
+		<message key="craftMusCenter"><![CDATA[<span class="bold">Stwórz wieżę muzyczną</span>]]></message>
+		<message key="craftSurfBoard"><![CDATA[<span class="bold">Zrób deskę surfingową</span>]]></message>
+		
+		<message key="craftTableVaseYellow"><![CDATA[<span class="bold">Wykonaj wazon z zoltym kwiatkiem</span>]]></message>
+		<message key="craftTableVaseOrange"><![CDATA[<span class="bold">Wykonaj wazon z pomaranczowym kwiatkiem</span>]]></message>
+		<message key="craftTableVasePink"><![CDATA[<span class="bold">Wykonaj wazon z rozowym kwiatkiem</span>]]></message>
+		
+		<message key="craftFloorVaseBlue"><![CDATA[<span class="bold">Wykonaj blekitny wazon dekoracyjny</span>]]></message>
+		<message key="craftFloorVaseRed"><![CDATA[<span class="bold">Wykonaj czerwony wazon dekoracyjny</span>]]></message>
+		
+		<message key="craftPhotoFrameBlue"><![CDATA[<span class="bold">Wykonaj blekitna ramke na zdjecie</span>]]></message>
+		<message key="craftPhotoFrameRed"><![CDATA[<span class="bold">Wykonaj czerwona ramke na zdjecie</span>]]></message>
+		
+		<message key="craftAnyItem"><![CDATA[<span class="bold">Wykonaj dowolny przedmiot</span>]]></message>
+		
+		<!-- OTHER ACTIONS -->
+		
+		<message key="changeClothesRating"><![CDATA[<span class="bold">Zdobadz punkty image’u</span>]]></message>
+		<message key="changeHouseRating"><![CDATA[<span class="bold">Zdobadz punkty komfortu</span>]]></message>
+		
+		<message key="winChips"><![CDATA[<span class="bold">Wygraj zetony w „Kole Fortuny”</span>]]></message>
+		<message key="winSilver"><![CDATA[<span class="bold">Wygraj srebro w „Kole Fortuny”</span>]]></message>
+		<message key="winGold"><![CDATA[<span class="bold">Wygraj zloto w „Kole Fortuny”</span>]]></message>
+		
+		<message key="buyRoom"><![CDATA[<span class="bold">Kup nowy pokoj</span>]]></message>
+		<message key="buyRoomComment"><![CDATA[<span class="bold">Wskazówka:</span> Aby kupic jeszcze jeden pokoj, kliknij jedne z drzwi, ktore nie prowadza na zewnatrz.]]></message>
+		
+		<message key="questRandomCraftHint"><![CDATA[<span class="bold">Wskazówka:</span> Aby otrzymac odpowiedni kolor, konieczne moze byc zrobienie przedmiotu kilka razy.]]></message>
+		
+		<message key="fortuneWin"><![CDATA[<span class="bold">Wygraj „Kolo Fortuny”</span>]]></message>
+		<message key="fortuneWinComment"><![CDATA[<span class="bold">Wskazówka:</span> Kliknij ikonke „Zetony” w dolnej czesci ekranu, aby zagrac w „Kolo Fortuny”.]]></message>
+		
+		<message key="feedYourself"><![CDATA[<span class="bold">Zloz zamowienie w klubie lub kawiarni</span>]]></message>
+		<message key="feedYourselfInCafe"><![CDATA[<span class="bold">Zjedz cos w kawiarni</span>]]></message>
+		<message key="feedYourselfInClub"><![CDATA[<span class="bold">Zamow drinka w klubie</span>]]></message>
+		<message key="drinkB52InClub"><![CDATA[<span class="bold">Zamów w klubie B-52</span>]]></message>
+		
+		<message key="buyCafeCake"><![CDATA[<span class="bold">Zjedz kawalek tortu w kawiarni</span>]]></message>
+		<message key="buyCafeCoffee"><![CDATA[<span class="bold">Wypij filizanke kawy w kawiarni</span>]]></message>
+		<message key="buyCafePizza"><![CDATA[<span class="bold">Zjedz kawalek pizzy w kawiarni</span>]]></message>
+		
+		<message key="spendEnergy"><![CDATA[<span class="bold">Zuzyj energie</span>]]></message>
+		<message key="spendSilver"><![CDATA[<span class="bold">Wydaj srebro</span>]]></message>
+		<message key="spendGold"><![CDATA[<span class="bold">Wydaj zloto</span>]]></message>
+		
+		<message key="danceInClub"><![CDATA[<span class="bold">Zatancz w klubie</span>]]></message>
+		<message key="danceInStreet"><![CDATA[<span class="bold">Zatancz na ulicy</span>]]></message>
+		<message key="danceInYard"><![CDATA[<span class="bold">Zatancz na skwerku</span>]]></message>
+		<message key="danceInCafe"><![CDATA[<span class="bold">Zatancz w kawiarni</span>]]></message>
+		<message key="danceInPark"><![CDATA[<span class="bold">Zatancz w parku</span>]]></message>
+		<message key="justDance"><![CDATA[<span class="bold">Zatancz</span>]]></message>
+		
+		<message key="plantBomb"><![CDATA[<span class="bold">Podloz bombe</span>]]></message>
+		<message key="plantBombComment"><![CDATA[<span class="bold">Wskazówka:</span> Bombe mozna kupic w sklepie z zartami, a podlozyc na dowolnym krzesle, fotelu lub kanapie – tam, gdzie mozna usiasc.</span>]]></message>
+		
+		<message key="roomsCount"><![CDATA[<span class="bold">Zwieksz liczbe pokoi w mieszkaniu</span>]]></message>
+		
+		<!-- LOCATION QUESTS: GARDEN -->
+		
+		<message key="grdnType1Quest1Title">Podlewanie</message>
+		<message key="grdnType1Quest1Desc">Tak jak człowiek potrzebuje jedzenia, rośliny potrzebują pokarmu. Wystarczy tylko podlewać je wodą. Nie zapominając o tym, aby robić to codziennie.</message>
+		<message key="grdnType1Quest2Title">Chrząszcze</message>
+		<message key="grdnType1Quest2Desc">Spójrz, ile szkodników! Wszystkie twoje wysiłki w opiece nad ogrodem będą daremne, jeśli szybko nie pozbędziesz się tych chrząszczy.</message>
+		<message key="grdnType1Quest3Title">Obfity połów</message>
+		<message key="grdnType1Quest3Desc">Pachnący ogród przyciąga zwierzęta. Spójrz, ile tu różnych motyli!</message>
+		<message key="grdnType1Quest4Title">Nic z tego!</message>
+		<message key="grdnType1Quest4Desc">Przyroda ma swoje prawa, ale czasem musisz się w nie wtrącać. Spójrz, trzeba pozbyć się szkodników z niektórych krzewów.</message>
+		<message key="grdnType1Quest5Title">Latają i pełzają</message>
+		<message key="grdnType1Quest5Desc">Kto lata po ogrodzie? Zgadza się, motyle. A kto pełza? Oprócz ciebie? Tak, chrząszcze szkodniki.</message>
+		<message key="grdnType1Quest6Title">Suchy sezon</message>
+		<message key="grdnType1Quest6Desc">Im cieplej jest na dworze, tym więcej czasu trzeba poświęcać roślinom w ogrodzie. Zwłaszcza w taki upał.</message>
+		<message key="grdnType1Quest7Title">Wszystko według grafiku</message>
+		<message key="grdnType1Quest7Desc">Niektóre rzeczy trzeba robić w ściśle określonym czasie. W końcu jeśli na czas nie podleje się roślin w ogrodzie, nic z nich nie będzie.</message>
+		<message key="grdnType1Quest8Title">Nieuchwytni</message>
+		<message key="grdnType1Quest8Desc">Złapanie motyla to trudne zadanie. Ale przez to bardziej ciekawe i zabawne.</message>
+		<message key="grdnType1Quest9Title">Podlewaj!</message>
+		<message key="grdnType1Quest9Desc">Rośliny w ogrodzie wprost uwielbiają, kiedy podlewa się je świeżą i chłodną wodą, która daje im siłę do wzrostu i rozwoju. Jak to dobrze, że mają ciebie!</message>
+		<message key="grdnType1Quest10Title">Robótka</message>
+		<message key="grdnType1Quest10Desc">Gotów do pracy? Masz w ogrodzie wiele przyjemnych robótek!</message>
+		<message key="grdnType1Quest11Title">Odświeżanie gleby</message>
+        <message key="grdnType1Quest11Desc">Jak wspaniale mieć własny ogród. Trzeba tylko o niego dbać. Naprzód, sprzątamy!</message>
+        <message key="grdnType1Quest12Title">Piękno tuż obok</message>
+        <message key="grdnType1Quest12Desc">Jaka piękna przyroda wokół nas! Tak samo piękne są kwiaty, które rosną w ogrodzie. Trzeba kilka z nich zerwać i włożyć do wazonu ;)</message>
+        <message key="grdnType1Quest13Title">Zasłużony odpoczynek</message>
+        <message key="grdnType1Quest13Desc">Nie można zapominać o pracy w ogrodzie. Ale czasami można sobie w nim pozwolić na beztroski odpoczynek.</message>
+        <message key="grdnType1Quest14Title">Życiodajna wilgoć</message>
+        <message key="grdnType1Quest14Desc">Żaden chwast nie może przeżyć bez wody, a co dopiero kwiaty i krzewy.</message>
+        <message key="grdnType1Quest15Title">Susza</message>
+        <message key="grdnType1Quest15Desc">Co za pogoda! Odpowiada nam, że słoneczko świeci, ale rośliny usychają. Podlejmy je!</message>
+        <message key="grdnType1Quest16Title">A niech to!</message>
+        <message key="grdnType1Quest16Desc">W twoim ogrodzie jest bardzo dużo chrząszczy. Trzeba się ich pozbyć.</message>
+        <message key="grdnType1Quest17Title">Inwazja owadów</message>
+        <message key="grdnType1Quest17Desc">Spójrz, jak wiele owadów jest w twoim ogrodzie! Ale nie wszystkie są pożyteczne. Trzeba pozbyć się szkodników. Potem będzie można podziwiać piękno motyli.</message>
+        <message key="grdnType1Quest18Title">Do ostatniej kropli</message>
+        <message key="grdnType1Quest18Desc">Woda to bardzo cenny surowiec, nie bez powodu w szkole uczą, by ją oszczędzać. Dlatego zbierzmy całą wodę, jaką znajdziemy w ogrodzie.</message>
+        <message key="grdnType1Quest19Title">Motyl w ręku</message>
+        <message key="grdnType1Quest19Desc">Lepszy motyl w garści, niż chrząszcz w ogrodzie.</message>
+        <message key="grdnType1Quest20Title">Popsuł się wodociąg</message>
+        <message key="grdnType1Quest20Desc">Nieszczęście – popsuł się wodociąg w ogrodzie. Wkrótce ma zostać naprawiony, ale na wszelki wypadek lepiej zgromadzić zapas wody.</message>
+        <message key="grdnType1Quest21Title">Wysiłki</message>
+        <message key="grdnType1Quest21Desc">Przyjemnie jest leniuchować w ogrodzie, ale by pozostał piękny, trzeba się zdrowo napracować. Należy podlać rośliny i pozbyć się owadów – szkodników.</message>
+        <message key="grdnType1Quest22Title">Poczucie piękna</message>
+        <message key="grdnType1Quest22Desc">Motyle są takie piękne! Złapmy je, by przyjrzeć im się z bliska! Tylko bądź ostrożny – mają bardzo delikatne skrzydła!</message>
+        <message key="grdnType1Quest23Title">Opieka</message>
+        <message key="grdnType1Quest23Desc">Rośliny są niezwykle czułe i delikatne. Trzeba ciągle o nie dbać: podlewać je i spryskiwać.</message>
+        <message key="grdnType1Quest24Title">Szkodniki!</message>
+        <message key="grdnType1Quest24Desc">Zobacz, ile szkodników przysiadło na krzewach w ogrodzie! Trzeba szybko je opryskać, inaczej z krzewów zostaną tylko gałązki.</message>
+        <message key="grdnType1Quest25Title">Nawadnianie</message>
+        <message key="grdnType1Quest25Desc">W starożytności wymyślano skomplikowane systemy irygacyjne, by nawadniać pola. Dziś wszystko jest łatwiejsze.</message>
+        <message key="grdnType1Quest26Title">Łap go, łap!</message>
+        <message key="grdnType1Quest26Desc">Zobacz, jaki piękny motyl poleciał! Złapmy go!</message>
+        <message key="grdnType1Quest27Title">Sztuczny deszczyk</message>
+        <message key="grdnType1Quest27Desc">Od dawna nie padało i rośliny zaczęły usychać. Trzeba je podlać przy pomocy konewki z wodą.</message>
+        <message key="grdnType1Quest28Title">Ciągła opieka</message>
+        <message key="grdnType1Quest28Desc">Roślin nie wystarczy tylko zasadzić i czekać, aż urosną. Trzeba o nie bez przerwy dbać. Najwyższy czas je podlać i usunąć szkodniki.</message>
+        <message key="grdnType1Quest29Title">Po kropelce</message>
+        <message key="grdnType1Quest29Desc">Zbierając kropla po kropli, można napełnić wodą wielką beczkę.</message>
+        <message key="grdnType1Quest30Title">Pożyteczne i szkodliwe</message>
+        <message key="grdnType1Quest30Desc">Jedne są pożyteczne, a inne szkodliwe. Dlatego motyle łapiemy i oglądamy, a chrząszcze neutralizujemy.</message>
+        <message key="grdnType1Quest31Title">Roztargnienie</message>
+        <message key="grdnType1Quest31Desc">Dawno nie pryskałem krzewów. Przecież mogą uschnąć przez mszyce i inne szkodniki. Do dzieła.</message>
+        <message key="grdnType1Quest32Title">Inwazja chrząszczy</message>
+        <message key="grdnType1Quest32Desc">Co to się skrada? Chrząszcz? A tam jeszcze jeden! I tam też! I tam! Trzeba szybko się ich pozbyć, zanim zniszczą ogród.</message>
+        <message key="grdnType1Quest33Title">Uniwersalny robotnik</message>
+        <message key="grdnType1Quest33Desc">Prace w ogrodzie bywają różne: nabieranie wody, pryskanie krzewów...</message>
+        <message key="grdnType1Quest34Title">Skacz i łap</message>
+        <message key="grdnType1Quest34Desc">Motyle latają wysoko, ale jeśli się podskoczy, można złapać te piękne istoty.</message>
+		
+		<message key="grdnType2Quest1Title">Za jednym zamachem</message>
+		<message key="grdnType2Quest1Desc">Doprowadzanie rozpoczętych spraw do końca to słuszna zasada. Zamierzasz jej przestrzegać.</message>
+		<message key="grdnType2Quest2Title">Glina</message>
+		<message key="grdnType2Quest2Desc">Co wiesz o glinie ? Tak, można znaleźć ją w ogrodzie. A więc możesz wykorzystać ją w warsztacie.</message>
+		<message key="grdnType2Quest3Title">Dla formalności</message>
+		<message key="grdnType2Quest3Desc">Bywa też tak, że nic ci się nie chce. A pracować trzeba. Regularnie odwiedzaj sad, a nikt nie odkryje twojego małego podstępu :)</message>
+		<message key="grdnType2Quest4Title">Flora</message>
+		<message key="grdnType2Quest4Desc">Z pąków kwiatów można zrobić w warsztacie wiele wspaniałych rzeczy. Zbierzmy ich kilka.</message>
+		<message key="grdnType2Quest5Title">Zadbany ogród</message>
+		<message key="grdnType2Quest5Desc">Aby ogród był czysty i zadbany, trzeba zrobić wiele rzeczy: podlać wszystkie rośliny, uporać się ze szkodnikami, itd. Zaczynamy?</message>
+		<message key="grdnType2Quest6Title">Drewienka</message>
+		<message key="grdnType2Quest6Desc">Z drewienek można zrobić w warsztacie wiele wspaniałych rzeczy. Zbierzmy ich trochę.</message>
+		<message key="grdnType2Quest7Title">Praca w ogrodzie</message>
+		<message key="grdnType2Quest7Desc">Nie każdy wie, jak trudno utrzymać ogród w czystości i dbać o jego piękno przez cały rok. Dokładnie wiesz, ile pracy wymaga ogród.</message>
+		<message key="grdnType2Quest8Title">Korzyści</message>
+		<message key="grdnType2Quest8Desc">Ogród daje ci nie tylko pracę, ale też możliwość znalezienia czegoś przydatnego. Na przykład, materiałów do warsztatu.</message>
+		<message key="grdnType2Quest9Title">Pod kontrolą</message>
+		<message key="grdnType2Quest9Desc">Umiesz porządnie pracować i zawsze masz wszystko pod kontrolą. Aby tak dalej!</message>
+		<message key="grdnType2Quest10Title">Każdemu według uznania</message>
+		<message key="grdnType2Quest10Desc">Każdy mieszkaniec Awatarii znajduje zajęcie dla siebie: jeden lubi organizować głośne imprezy, a inny woli cichy ogród. Każdemu według uznania.</message>
+		<message key="grdnType2Quest11Title">Te, co skaczą i pełzają</message>
+		<message key="grdnType2Quest11Desc">Oprócz dobrych wiadomości są i złe: w ogrodzie pojawiły się szkodniki. Trzeba się ich pozbyć jak najszybciej.</message>
+		<message key="grdnType2Quest12Title">Wszystko pod kontrolą</message>
+		<message key="grdnType2Quest12Desc">Odpocząłeś? No to można popracować. I pamiętaj: nie ma leniuchowania!</message>
+		<message key="grdnType2Quest13Title">Potrzebne surowce</message>
+		<message key="grdnType2Quest13Desc">W ogrodzie można znaleźć wiele przydatnych surowców, na przykład drewno. Na pewno się przydadzą.</message>
+		<message key="grdnType2Quest14Title">Pracuś</message>
+        <message key="grdnType2Quest14Desc">Prawdziwy pracuś z ochotą bierze się za nowe zadanie i zawsze je kończy.</message>
+        <message key="grdnType2Quest15Title">Stolarz</message>
+        <message key="grdnType2Quest15Desc">Praca z drewnem to sama przyjemność. Tylko nie ma z czym pracować. Idźmy do lasu po drewno.</message>
+        <message key="grdnType2Quest16Title">Praca pali się w rękach</message>
+        <message key="grdnType2Quest16Desc">Jeśli od razu wezmę się do pracy, szybciej ją skończę. To jak? Popracujemy?</message>
+        <message key="grdnType2Quest17Title">Aromat</message>
+        <message key="grdnType2Quest17Desc">Jak pięknie pachną pąki kwiatów! Aby bez przerwy cieszyć się tym zapachem, zbierz pąki w ogrodzie.</message>
+        <message key="grdnType2Quest18Title">Od świtu do zmierzchu</message>
+        <message key="grdnType2Quest18Desc">Czasami jest tyle do zrobienia, że trzeba pracować cały dzień: nie zdążysz skończyć jednej sprawy, kiedy już pojawia się następna.</message>
+        <message key="grdnType2Quest19Title">Złota rączka</message>
+        <message key="grdnType2Quest19Desc">Nie da się pracować w pracowni bez materiałów. Drewno, glina i pąki są zawsze potrzebne!</message>
+        <message key="grdnType2Quest20Title">Zwieńczenie dzieła</message>
+        <message key="grdnType2Quest20Desc">Jak to się mówi: „Koniec wieńczy dzieło”, dlatego jak najszybciej zakończmy wszystkie prace w ogrodzie, a potem odpoczniemy.</message>
+        <message key="grdnType2Quest21Title">Dzień powszedni rzeźbiarza</message>
+        <message key="grdnType2Quest21Desc">Widzimy piękne rzeźby. Ale nie wiemy, ile trudu zostało w nie włożone, a przecież wszystko zaczyna się od zebrania materiałów.</message>
+        <message key="grdnType2Quest22Title">Dobry gospodarz</message>
+        <message key="grdnType2Quest22Desc">Prawdziwy gospodarz ciągle pracuje w swoim ogrodzie. Właśnie dlatego wszystkie jego rośliny pachną.</message>
+        <message key="grdnType2Quest23Title">Piknik</message>
+        <message key="grdnType2Quest23Desc">Kto nie lubi pikników przy szaszłykach i ciekawych rozmowach? Trzeba tylko wcześniej przygotować drewno i wodę, by potem zgasić ognisko.</message>
+        <message key="grdnType2Quest24Title">Zaczynajmy!</message>
+        <message key="grdnType2Quest24Desc">Nazbierało się dużo pracy! Czas wziąć się za robotę!</message>
+        <message key="grdnType2Quest25Title">Zrób to!</message>
+        <message key="grdnType2Quest25Desc">Zacząłeś pracę w ogrodzie! Jeszcze tylko troszkę i ją skończysz. Po prostu to zrób.</message>
+        <message key="grdnType2Quest26Title">Według grafiku</message>
+        <message key="grdnType2Quest26Desc">Pracę trzeba wykonywać nie tylko porządnie, ale też na czas.</message>
+        <message key="grdnType2Quest27Title">Przodownik</message>
+        <message key="grdnType2Quest27Desc">Przodownik to honorowy tytuł nadawany tylko najbardziej pracowitym. I my popracujmy jak dawni przodownicy.</message>
+        <message key="grdnType2Quest28Title">Drwal</message>
+        <message key="grdnType2Quest28Desc">Przyszedł czas popracować z drewnem.</message>
+        <message key="grdnType2Quest29Title">Czas ugniatać glinę</message>
+        <message key="grdnType2Quest29Desc">Zaglądałeś ostatnio do pracowni? Wystarczy ci gliny? Może zbierzmy jej więcej?</message>
+        <message key="grdnType2Quest30Title">Motywacja do działania</message>
+        <message key="grdnType2Quest30Desc">Im szybciej zaczniesz pracować w ogrodzie, tym szybciej skończysz i otrzymasz oczekiwaną nagrodę.</message>
+        <message key="grdnType2Quest31Title">Narodziny zapachu</message>
+        <message key="grdnType2Quest31Desc">Z pąków można zrobić w pracowni wiele przedmiotów, które nie tylko ozdobią twoje mieszkanie, ale będą też pięknie pachnieć.</message>
+        <message key="grdnType2Quest32Title">Surowce</message>
+        <message key="grdnType2Quest32Desc">W historii ludzkości człowiek wykorzystywał glinę i drewno od dawna, ale nawet teraz nie można się bez nich obejść. Ogród obfituje w te surowce, dlatego idźmy ich poszukać.</message>
+        <message key="grdnType2Quest33Title">Misja wykonana</message>
+        <message key="grdnType2Quest33Desc">Jak ciepło robi się na sercu, kiedy wiesz, że wszystko zostało zrobione. Nie odkładajmy spraw na potem i wykonajmy wszystkie prace w ogrodzie.</message>
+        <message key="grdnType2Quest34Title">Źródło życia</message>
+        <message key="grdnType2Quest34Desc">Woda to źródło życia, zresztą przydaje się też w gospodarstwie.</message>
+        <message key="grdnType2Quest35Title">Od początku do końca</message>
+        <message key="grdnType2Quest35Desc">Pracy w ogrodzie jest dużo i trzeba ją wykonywać do końca. W przeciwnym razie ogród będzie wyglądał na niezadbany, a do tego nie można dopuścić.</message>
+        <message key="grdnType2Quest36Title">Skoro zacząłeś</message>
+        <message key="grdnType2Quest36Desc">Skoro zacząłeś, musisz skończyć. Czas doprowadzić wszystkie prace w ogrodzie do końca.</message>
+		
+		<!-- LOCATION QUESTS: GARBAGE -->
+		
+		<message key="grbgType1Quest1Title">Czystość</message>
+		<message key="grbgType1Quest1Desc">Lubisz czystość? Więc wiesz co robić, aby ją osiągnąć!</message>
+		<message key="grbgType1Quest2Title">Znaleziska</message>
+		<message key="grbgType1Quest2Desc">Ludzie śmiecą, to fakt. Ale nie wszystko, co jest uważane za śmieci, rozkłada się od razu.</message>
+		<message key="grbgType1Quest3Title">Sprzątanie na całego</message>
+		<message key="grbgType1Quest3Desc">Podwórko jest czyste tylko wtedy, kiedy wszystkie śmieci są uprzątnięte. Dlatego musisz postarać się na 100%!</message>
+		<message key="grbgType1Quest4Title">Słoiki</message>
+		<message key="grbgType1Quest4Desc">Och, kto porozrzucał tu to wszystko? Zresztą, co za różnica? Znalezione, nie kradzione :)</message>
+		<message key="grbgType1Quest5Title">Nowa zmiana</message>
+		<message key="grbgType1Quest5Desc">To niesprawiedliwe: śmiecą wszyscy, ale tylko ty sprzątasz. Bałagan!</message>
+		<message key="grbgType1Quest6Title">Papierki</message>
+		<message key="grbgType1Quest6Desc">Hej, ludzie! Przyznajcie się, kto porozrzucał tu wszystkie te papierki?</message>
+		<message key="grbgType1Quest7Title">Lśniąca czystość</message>
+		<message key="grbgType1Quest7Desc">Pracy na podwórku zawsze jest po łokcie. I za każdym razem chcesz wykonać ją perfekcyjnie, lepiej niż inni.</message>
+		<message key="grbgType1Quest8Title">Złom</message>
+		<message key="grbgType1Quest8Desc">Może dla kogoś to złom, ale dla mnie to użyteczne metale, które można wykorzystać w warsztacie.</message>
+		<message key="grbgType1Quest9Title">To moje podwórko</message>
+		<message key="grbgType1Quest9Desc">Tak, to twoje podwórko. W twoim interesie jest utrzymanie go w czystości i porządku.</message>
+		<message key="grbgType1Quest10Title">Znajdź i zapakuj</message>
+		<message key="grbgType1Quest10Desc">Papier do pakowania? Oczywiście. Można go znaleźć właśnie tu. A więc ruszamy na poszukiwania?</message>
+		<message key="grbgType1Quest11Title">Czyste podwórko</message>
+		<message key="grbgType1Quest11Desc">Czyściochu, chyba nie zostawisz takiego bałaganu na dworze, prawda? Do sprzątania odmaszerować.</message>
+		<message key="grbgType1Quest12Title">Znaleźć, a potem znaleźć jeszcze raz</message>
+		<message key="grbgType1Quest12Desc">Zdaje się, że na podwórzu, poza śmieciami, można znaleźć przydatne materiały. Jasne, że nam się przydadzą.</message>
+		<message key="grbgType1Quest13Title">Podwórkowy amator</message>
+		<message key="grbgType1Quest13Desc">Podwórko można nie tylko sprzątać, ale i pospacerować po nim. I wcale nie trzeba za każdym razem łapać za miotłę...</message>
+		<message key="grbgType1Quest14Title">Cenny surowiec</message>
+		<message key="grbgType1Quest14Desc">Co wejdzie do dużych słoików? Musisz się dowiedzieć. A jak? Po prostu je zbierz :)</message>
+		<message key="grbgType1Quest15Title">Na straży porządku</message>
+        <message key="grbgType1Quest15Desc">Śmieci zapełniły całe twoje podwórko! Potrzebujesz ochrony, która oczyści ulice!</message>
+        <message key="grbgType1Quest16Title">Żelazo</message>
+        <message key="grbgType1Quest16Desc">O, żelazo! Przyda się w pracowni.</message>
+        <message key="grbgType1Quest17Title">Sprzątanie</message>
+        <message key="grbgType1Quest17Desc">Ile tu śmieci! Czas zrobić generalne porządki.</message>
+        <message key="grbgType1Quest18Title">Wszystko się przyda</message>
+        <message key="grbgType1Quest18Desc">Co to? Kokardy? Szkło? Papier? To wszystko jest potrzebne! Zbiorę wszystko!</message>
+        <message key="grbgType1Quest19Title">Odpowiedzialny gospodarz</message>
+        <message key="grbgType1Quest19Desc">Czas wziąć się do pracy na podwórku</message>
+        <message key="grbgType1Quest20Title">Kokardy!</message>
+        <message key="grbgType1Quest20Desc">Kokardy! Kokardy! Piękne kokardy! Zbierz je!</message>
+        <message key="grbgType1Quest21Title">Czyścioch</message>
+        <message key="grbgType1Quest21Desc">Przecież przyjemniej jest mieć czyste podwórko niż zaśmiecone. Uprzątnijmy śmieci i sprawmy, że nasze podwórko będzie przytulne.</message>
+        <message key="grbgType1Quest22Title">Słoiki i buteleczki</message>
+        <message key="grbgType1Quest22Desc">Kto to zrobił? Kto naśmiecił!? Trzeba posprzątać.</message>
+        <message key="grbgType1Quest23Title">Dalej!</message>
+        <message key="grbgType1Quest23Desc">Na podwórku jest dużo do zrobienia. Trzeba wziąć się do pracy.</message>
+        <message key="grbgType1Quest24Title">Wilkołak</message>
+        <message key="grbgType1Quest24Desc">Rzecz jasna, nie taki jak w bajce o Czerwonym Kapturku, tylko z papieru. A papier możesz znaleźć na podwórku.</message>
+        <message key="grbgType1Quest25Title">Pomocna dłoń</message>
+        <message key="grbgType1Quest25Desc">Sprzątnięcie śmieci to dobry uczynek. Im więcej dobrych uczynków, tym lepszy jest świat, a im mniej śmieci, tym jest czystszy! </message>
+        <message key="grbgType1Quest26Title">Ostrożnie, szkło!</message>
+        <message key="grbgType1Quest26Desc">Aj, aj! O mało nie wszedłem na flakonik! Leży ich wiele wśród śmieci. Trzeba zebrać wszystkie, zanim ktoś się skaleczy.</message>
+        <message key="grbgType1Quest27Title">Poważne zadanie</message>
+        <message key="grbgType1Quest27Desc">Jaki bałagan panuje na podwórku! Trzeba wziąć się do pracy i doprowadzić je do porządku.</message>
+        <message key="grbgType1Quest28Title">Wszystko jest czyste!</message>
+        <message key="grbgType1Quest28Desc">Wyobraź sobie, że jesteś bohaterem filmu sensacyjnego, a śmieci to twój wróg. Twoje zadanie, bohaterze, polega na zneutralizowaniu śmieci na podwórku. Nie bierz jeńców. Działamy szybko i dokładnie.</message>
+        <message key="grbgType1Quest29Title">Czystość</message>
+        <message key="grbgType1Quest29Desc">Kto lubi żyć w brudzie i pośród stert śmieci? Nikt. Weźmy się do pracy i zróbmy porządek na podwórku.</message>
+        <message key="grbgType1Quest30Title">Resztki</message>
+        <message key="grbgType1Quest30Desc">Nawet resztki mogą przydać się w gospodarstwie. Trzeba je zebrać – leżą gdzieś tu, na podwórku.</message>
+        <message key="grbgType1Quest31Title">Niespodziewani goście</message>
+        <message key="grbgType1Quest31Desc">W taki piękny dzień lepiej pospacerować z gośćmi po podwórku, niż siedzieć w domu.  Goście mogą cię nagle odwiedzić, a u ciebie na podwórku będzie bałagan. Trzeba się wcześniej przygotować.</message>
+        <message key="grbgType1Quest32Title">Recykling</message>
+        <message key="grbgType1Quest32Desc">Ludzie wyrzucają metalowe części, szkło i papier, a przecież można z nich zrobić tyle przydatnych rzeczy!</message>
+        <message key="grbgType1Quest33Title">Do roboty!</message>
+        <message key="grbgType1Quest33Desc">Przystępując do pracy, nie należy się zbytnio zastanawiać. To tylko zabiera czas. Kiedy widzisz, że jest coś do zrobienia, od razu bierz się do pracy!</message>
+        <message key="grbgType1Quest34Title">Ozdoby</message>
+        <message key="grbgType1Quest34Desc">Prezent ozdobiony kokardą jest ciekawszy. Jeśli zbierzesz kilka kokard, możesz zrobić w pracowni pluszowego misia.</message>
+        <message key="grbgType1Quest35Title">Szperacz</message>
+        <message key="grbgType1Quest35Desc">Jeśli będziesz często sprzątać na podwórku, możesz znaleźć wiele przedmiotów przydatnych w gospodarstwie, na przykład żelazo lub papier.</message>
+        <message key="grbgType1Quest36Title">Graty</message>
+        <message key="grbgType1Quest36Desc">Nie uważasz, że nasze podwórko jest zbyt zagracone? Pozbądźmy się tego bałaganu. Może znajdziemy też coś przydatnego.</message>
+        <message key="grbgType1Quest37Title">Zaczynajmy</message>
+        <message key="grbgType1Quest37Desc">Co tak bezczynnie siedzisz? Nudzisz się? Chodźmy popracować w ogrodzie.</message>
+        
+        <!-- LOCATION QUESTS: FORTUNE's WHEEL -->
+        
+		<message key="frtnQuest1Title">Pomóż szczęściu</message>
+		<message key="frtnQuest1Desc">Mówi się: pierwsze koty za płoty. Ale dla nas ta gra to nie jakieś koteczki! Tobie po prostu musi się udać, nawet za pierwszym razem.</message>
+		<message key="frtnQuest2Title">Miłość do gry</message>
+		<message key="frtnQuest2Desc">Pokaż, jak bardzo lubisz kręcić kołem o zdobywać cenne nagrody. Dla nas liczy się wynik!</message>
+		<message key="frtnQuest3Title">Koło-killer</message>
+		<message key="frtnQuest3Desc">Wszyscy tutaj słyszeli już o twoich osiągnięciach. Ale chyba warto nadal walczyć o status najlepszego, prawda?</message>
+		<message key="frtnQuest4Title">Uda się!</message>
+		<message key="frtnQuest4Desc">Grać, grać i jeszcze raz grać. Za dobre wyniki czeka cię wysoka nagroda!</message>
+		<message key="frtnQuest5Title">Kręcioł</message>
+		<message key="frtnQuest5Desc">Kręcić, kręcić, kręcić… Najważniejsze, żeby się w głowie nie zakręciło!</message>
+		<message key="frtnQuest6Title">Udany obrót</message>
+		<message key="frtnQuest6Desc">Zdolny, utalentowany i wytrzymały. Tak, tak, to o tobie! Od kogo, jeśli nie od ciebie, powinien się uczyć prawdziwy guru Koła Fortuny ;)</message>
+		<message key="frtnQuest7Title">Jo, ho, ho, ho!</message>
+        <message key="frtnQuest7Desc">Lubisz złoto. Ale nie tak łatwo je zdobyć. Bądźmy jak prawdziwi piraci i zdobądźmy je dzięki łutowi szczęścia.</message>
+        <message key="frtnQuest8Title">Hazard</message>
+        <message key="frtnQuest8Desc">Gra jest taka wciągająca! Jak miło jest wciskać guzik i za każdym razem wygrywać.</message>
+        <message key="frtnQuest9Title">Moment obrotowy</message>
+        <message key="frtnQuest9Desc">Zakręć bębnem, a zdobędziesz wygraną</message>
+        <message key="frtnQuest10Title">Zakręć</message>
+        <message key="frtnQuest10Desc">Kręć kołem, a wygrasz różne niespodzianki!</message>
+        <message key="frtnQuest11Title">Ulubieniec fortuny</message>
+        <message key="frtnQuest11Desc">Kto jest ulubieńcem fortuny? Oczywiście ty! A więc na co czekasz!? Zakręć kołem!</message>
+        <message key="frtnQuest12Title">Kręcenie</message>
+        <message key="frtnQuest12Desc">Kołem mocno zakręcę, wygrana wpadnie w moje ręce!</message>
+        <message key="frtnQuest13Title">Obrót</message>
+        <message key="frtnQuest13Desc">Kręć kołem, by wygrać.</message>
+        <message key="frtnQuest14Title">Deszcz srebra</message>
+        <message key="frtnQuest14Desc">Podobnie jak złota, srebra nigdy dość. Spraw, by spadł srebrny deszcz!</message>
+        <message key="frtnQuest15Title">Fortuna</message>
+        <message key="frtnQuest15Desc">Niech szczęście będzie po twojej stronie. Zacznij grę!</message>
+        <message key="frtnQuest16Title">Szczęściarz</message>
+        <message key="frtnQuest16Desc">Szczęście lubi tych, którzy ryzykują i dużo grają. I wydaje mi się, że jesteś właśnie taki!</message>
+        <message key="frtnQuest17Title">Karat</message>
+        <message key="frtnQuest17Desc">Karat jest mały, ale cenny. A więc? Potrzebujesz więcej złota!</message>
+        <message key="frtnQuest18Title">Na fali</message>
+        <message key="frtnQuest18Desc">Szczęście będzie ci sprzyjać, wystarczy tylko zakręcić kołem i wygrywać nagrody.</message>
+        <message key="frtnQuest19Title">Urodzony zwycięzca</message>
+        <message key="frtnQuest19Desc">Urodzony zwycięzca nie może przegrać.</message>
+        
+        <!-- 1 MAY EVENT QUESTS -->
+        <message key="may1Quest1Title">Spokój! Praca! Maj!</message>
+        <message key="may1Quest1Description">Wkrótce przyjdzie wiosna! Dla wszystkich, którzy wezmą udział w wiosennej akcji zagospodarowania Awatarii, mamy wyjątkowe nagrody! Pospiesz się, by wziąć udział!</message>
+        <message key="may1Quest2Title">Prezent na pamiątkę</message>
+        <message key="may1Quest2Description">Rząd Awatarii postanowił podziękować wszystkim mieszkańcom i wręczyć im prezent na pamiątkę. Jednak aby go otrzymać, należy potrudzić się dla wspólnego dobra.</message>
+        <message key="may1Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Możesz otrzymać ten wyjątkowy prezent tylko podczas trwania promocji od 30 kwietnia do 6 maja.]]></message>
+
+        <!-- MEERKATS 06.03.2015 -->
+        <message key="winMeerkatGame"><![CDATA[<span class="bold">Nakarm surykatki w kanionie</span>]]></message>
+        <message key="winMeerkatGameAward1"><![CDATA[<span class="bold">Wygraj lizaka w grze „Głodna surykatka”</span>]]></message>
+        <message key="winMeerkatGameAward2"><![CDATA[<span class="bold">Wygraj balonik w grze „Głodna surykatka”</span>]]></message>
+        <message key="winMeerkatGameAward3"><![CDATA[<span class="bold">Wygraj misia w grze „Głodna surykatka”</span>]]></message>
+
+		<!-- PROFESSIONAL QUESTS -->
+		<!-- PHOTOGRAPHER -->
+        <message key="phtghrPro_q1_t1">Zdobądź :maxProgress: akceptacji zdjęć w temacie „Jacht”</message>
+        <message key="phtghrPro_q1_t2">Zrób :maxProgress: zdjęć z użyciem co najmniej 2 póz</message>
+
+		<message key="phtghrPro_q2_t1">Zrób :maxProgress: zdjęć z 2 przyjaciółmi, znajomymi lub bliskimi</message>
+
+		<message key="phtghrPro_q3_t1">Zdobądź :maxProgress: akceptacji zdjęć z 2 różnymi pozami</message>
+        <message key="phtghrPro_q3_t2">Zrób :maxProgress: zdjęć z użyciem co najmniej 5 przedmiotów</message>
+
+		<message key="phtghrPro_q4_t1">Zrób :maxProgress: zdjęć 5 graczami</message>
+        <message key="phtghrPro_q4_t2">Zdobądź :maxProgress: akceptacji zdjęć w temacie „Hala sportowa”</message>
+
+		<message key="phtghrPro_q5_t1">Zrób :maxProgress: zdjęć graczami VIP</message>
+
+        <message key="phtghrPro_q6_t1">Zdobądź :maxProgress: zdjęć z użyciem co najmniej 5 elementów wystroju</message>
+        <message key="phtghrPro_q6_t2">Zrób :maxProgress: zdjęć z użyciem co najmniej 3 póz</message>
+
+		<message key="phtghrPro_q7_t1">Zdobądź :maxProgress: akceptacji zdjęć z 2 znajomymi lub bliskimi</message>
+
+        <message key="phtghrPro_q8_t1">Zrób :maxProgress: zdjęć z użyciem co najmniej 3 póz</message>
+        <message key="phtghrPro_q8_t2">Zdobądź :maxProgress: akceptacji zdjęć w parku</message>
+
+		<message key="phtghrPro_q9_t1">Zrób :maxProgress: zdjęć w temacie „Avawood”</message>
+
+        <message key="phtghrPro_q10_t1">Zdobądź :maxProgress: akceptacji zdjęć z 2 graczami VIP</message>
+        <message key="phtghrPro_q10_t2">Zrób :maxProgress: zdjęć z użyciem co najmniej 5 elementów wystroju</message>
+
+		<message key="phtghrPro_q11_t1">Zrób :maxProgress: zdjęć z mikrofonem w temacie „Scena rockowa”</message>
+
+        <message key="phtghrPro_q12_t1">Zrób :maxProgress: zdjęć 2 graczami VIP</message>
+        <message key="phtghrPro_q12_t2">Zrób :maxProgress: zdjęć w klubie</message>
+
+		<message key="phtghrPro_q13_t1">Zdobądź :maxProgress: akceptacji zdjęć z 4 różnymi pozami</message>
+        <message key="phtghrPro_q13_t2">Zdobądź :maxProgress: akceptacji zdjęć z 3 graczami</message>
+
+		<message key="phtghrPro_q14_t1">Zrób :maxProgress: zdjęć z 3 znajomymi lub bliskimi</message>
+        <message key="phtghrPro_q14_t2">Zrób :maxProgress: zdjęć w kanionie</message>
+
+		<message key="phtghrPro_q15_t1">Zrób :maxProgress: zdjęć 2 graczami VIP</message>
+        <message key="phtghrPro_q15_t2">Zrób :maxProgress: zdjęć na ślubie</message>
+
+		<message key="phtghrPro_q16_t1">Zrób :maxProgress: zdjęć w temacie „Skate park”</message>
+
+		<message key="phtghrPro_q17_t1">Zrób :maxProgress: zdjęć z 4 różnymi pozami</message>
+
+		<message key="phtghrPro_q18_t2">Zrób :maxProgress: zdjęć w temacie „Szczęśliwego Nowego Roku!”</message>
+
+        <message key="craftFilm12">Znajdź kliszę na 12 zdjęć</message>
+        <message key="craftFilm24">Znajdź kliszę na 24 zdjęcia</message>
+        <message key="craftFilm36">Znajdź kliszę na 36 zdjęć</message>
+
+		<!--VISAGIST-->
+        <message key="vsgstPro_q1_t1">:maxProgress: razy zrób makijaż przyjaciołom, znajomym lub bliskim</message>
+        <message key="vsgstPro_q1_t2">:maxProgress: razy zdobądź akceptację malunku na twarzy</message>
+
+		<message key="vsgstPro_q2_t2">:maxProgress: razy zrób makijaż, używając co najmniej 2 elementów</message>
+
+		<message key="vsgstPro_q3_t1">:maxProgress: razy zrób makijaż graczom VIP</message>
+        <message key="vsgstPro_q3_t2">:maxProgress: razy zdobądź akceptację, wykonując piercing</message>
+
+		<message key="vsgstPro_q4_t2">:maxProgress: razy zdobądź akceptację, robiąc makijaż przyjaciołom, znajomym lub bliskim</message>
+
+		<message key="vsgstPro_q6_t2">:maxProgress: razy zrób makijaż, używając cyrkonii</message>
+
+		<message key="vsgstPro_q8_t1">:maxProgress: razy zrób makijaż graczom VIP, używając co najmniej 2 elementów</message>
+
+		<message key="vsgstPro_q9_t2">:maxProgress: razy nałóż cienie</message>
+
+		<message key="vsgstPro_q10_t1">:maxProgress: razy zdobądź akceptację, robiąc makijaż znajomym lub bliskim</message>
+        <message key="vsgstPro_q10_t2">:maxProgress: razy zrób makijaż, używając co najmniej 3 elementów</message>
+
+        <message key="vsgstPro_q11_t2">:maxProgress: razy zdobądź akceptację, wykonując rysunek</message>
+
+        <message key="craftSmallSet">Znajdź mały zestaw do makijażu</message>
+        <message key="craftMediumSet">Znajdź średni zestaw do makijażu</message>
+        <message key="craftLargeSet">Znajdź duży zestaw do makijażu</message>
+
+		<message key="paintCarAerography"><![CDATA[<span class="bold">Pomaluj samochód</span>]]></message>
+
+		<message key="questRusDay1Title">Dzień Rosji!</message>
+		<message key="questRusDay1Description">Świętujmy! Ale żeby zdobyć nagrodę, będzie trzeba się napracować!</message>
+		<message key="questRusDay1Task1Title"><![CDATA[<span class="bold">Namaluj graffiti „Matrioszka”</span>]]></message>
+		<message key="questRusDay1Task2Title"><![CDATA[<span class="bold">Uprzątnij podwórko</span>]]></message>
+		<message key="questRusDay1Task3Title"><![CDATA[<span class="bold">Poczęstuj innego awatara koktajlem</span>]]></message>
+		<message key="questRusDay1Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Graffiti możesz kupić w sklepie z prezentami i zabawkami.]]></message>
+
+		<message key="m1st19Quest1Title">Spokój! Praca! Maj!</message>
+		<message key="m1st19Quest1Description">Pora popracować i ozdobić główny plan przed świętem.</message>
+		<message key="m1st19Quest2Title">Przygotowania do święta</message>
+		<message key="m1st19Quest2Description">Aby święto minęło w dobrych nastrojach, trzeba wszystko ozdobić i przygotować się na gości.</message>
+		<message key="m1st19Quest2Task1Description"><![CDATA[<span class="bold">Przygotuj plakat „Święto pracy”</span>]]></message>
+		<message key="m1st19Quest2Task2Description"><![CDATA[<span class="bold">Przygotuj wazon na stół z różowym kwiatem</span>]]></message>
+		<message key="m1st19Quest2Task3Description"><![CDATA[<span class="bold">Przygotuj samowar „Sprzątacz”</span>]]></message>
+		<message key="m1st19Quest3Title">Niech się święci!</message>
+		<message key="m1st19Quest3Description">W końcu wszystkie prace wykonane. Czas na zabawę! Weź udział w bitwie na poduszki i wyścigach surfingowych, aby zdobyć wielką nagrodę.</message>
+		<message key="victoryQuest19Title">Wszystkiego najlepszego z okazji dnia zwycięstwa!</message>
+		<message key="victoryDay19Description">Wykonaj wszystkie zadania i zdobądź świąteczne prezenty!</message>
+		<message key="victoryDay19VkDescription">Wykonaj wszystkie zadania! Zdobądź prezenty świąteczne i specjalną naklejkę VKontakte!</message>
+		<message key="rusDay19Quest1Title">Dzień Rosji!</message>
+		<message key="rusDay19Quest1Description">Święto trzeba spędzić w gronie przyjaciół! A jeśli są zajęci sprzątaniem mieszkań, trzeba im pomóc, a potem wspólnie świętować!</message>
+		<message key="rusDay19Quest2Title">Zabawa się zaczyna!</message>
+		<message key="rusDay19Quest2Description">Wszyscy znajomi już są. Pora się bawić!</message>
+		<message key="rusDay19Quest3Title">Prezentów nigdy za wiele!</message>
+		<message key="rusDay19Quest3Description">To była porządna zabawa! Aby to święto na długo pozostało w pamięci, wykonamy na jego cześć nową zabawkę – niedźwiadka!</message>
+		<message key="rusDay19Quest3Task1Description"><![CDATA[<span class="bold">Wykonaj misia bębniarza</span>]]></message>
+		<message key="rusDay19Comment1"><![CDATA[<span class="bold">Podpowiedź:</span> Ten przedmiot możesz zrobić w pracowni, w zakładce „Świąteczne”.]]></message>
+		<message key="winSnowboardRace"><![CDATA[<span class="bold">Wygraj wyścigi snowboardowe</span>]]></message>
+
+		<message key="questNY20_2Description">Za poprzednie zadanie daliśmy ci choinkę. Umieśćmy go w twoim mieszkaniu tak szybko, jak to możliwe!</message>
+		<message key="questNY20_3Task2Title"><![CDATA[<span class="bold">Zawieś gwiazdkę na nowej choince</span>]]></message>
+
+		<message key="questNY20_1Title">Noworoczne zamieszanie</message>
+		<message key="questNY20_1Description">W Awatarii zaczęły się przygotowania do Nowego Roku. Posprzątajmy przed tym wspaniałym, wesołym świętem!</message>
+		<message key="questNY20_1Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Aby posprzątać śmieci na dworze, Kliknij „Miejsca”, a potem, w zakładce „Praca”, wybierz „Dozorca”.]]></message>
+		<message key="questNY20_2Title">Choinka</message>
+		<message key="questNY20_2Task1Title"><![CDATA[<span class="bold">Postaw nową choinkę w mieszkaniu</span>]]></message>
+		<message key="questNY20_3Title">Ubierz choinkę</message>
+		<message key="questNY20_3Description">Dobra, choinka nieco się rozgrzała. Możesz ją ozdobić!</message>
+		<message key="questNY20_3Task1Title"><![CDATA[<span class="bold">Powieś łańcuch na nową choinkę</span>]]></message>
+		<message key="questNY20_3Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Kliknij choinkę, aby ją ubrać.]]></message>
+
+		<message key="spd20_1Title">Wesołe święto!</message>
+		<message key="spd20_1Description">W Dzień Świętego Patryka miło jest się przytulać i cieszyć! Miła atmosfera i wesołe tańce pomogą ci zdobyć kilka listków koniczyny.</message>
+		<message key="spd20_2Description">Dzień Świętego Patryka to wesołe święto! Trzeba sprawić, aby wspomnienia po nim były jak najlepsze! Zrób pamiątkowe zdjęcia i zdobądź miły upominek.</message>
+		<message key="spd20_3Description">W warsztacie jest wiele nowych unikatowych przedmiotów, poświęconych Dniu Świętego Patryka. Nie przegap okazji!</message>
+		<message key="spd20_1Task1Title"><![CDATA[<span class="bold">Przygotuj świąteczne krzesło „Koniczyna”</span>]]></message>
+
+		<message key="easterQuest5Title">Wielkanoc</message>
+		<message key="easterQuest5Description">„Nowy przepis na Wielkanoc! Czas zajrzeć do pracowni i przygotować nowy świąteczny poczęstunek!”</message>
+		<message key="easterQuest5Task1Title"><![CDATA[<span class="bold">Zrób babkę wielkanocną</span>]]></message>
+		<message key="easterQuest5Task2Title"><![CDATA[<span class="bold">Podaruj komuś babkę wielkanocną</span>]]></message>
+		<message key="easterQuest6Title">Hojny człowiek</message>
+		<message key="easterQuest6Description">Jajka są podstawowym prezentem wielkanocnym! Nie zapomnij złożyć wszystkim życzeń z okazji tego radosnego święta!</message>
+		<message key="easterQuest7Title">Świąteczna niespodzianka</message>
+		<message key="easterQuest7Description">Nie ma Wielkanocy bez prezentów! Rób prezenty innym awatarom, a z pewnością ci się odwdzięczą.</message>
+		<message key="easterQuest8Title">Wielkanocna radość</message>
+		<message key="easterQuest8Description">Wielkanocnych jajek nigdy za wiele!</message>
+		<message key="easterQuest8Task2Title"><![CDATA[<span class="bold">Daj komuś zieloną pisankę</span>]]></message>
+		<message key="easterQuest9Title">Złota rączka</message>
+		<message key="easterQuest9Description">Ozdóbmy twój dom na Wielkanoc. Biegiem do pracowni!</message>
+		<message key="easterQuest9Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Użyj przepisu na fotel „Jajko” w pracowni.]]></message>
+		<message key="easterQuest9Task1Title"><![CDATA[<span class="bold">Zrób fotel wielkanocny</span>]]></message>
+		<message key="victoryDay20Quest1Title">Świąteczny wystrój</message>
+		<message key="victoryDay20Quest1Description">Przygotujmy się do świąt!</message>
+		<message key="victoryDay20Quest2Title">Niepokonany</message>
+		<message key="victoryDay20Quest2Description">Wygraj w wyścigu i odbierz świąteczną nagrodę!</message>
+		<message key="victoryDay20Quest3Title">Do boju!</message>
+		<message key="victoryDay20Quest3Description">Nagroda czeka na ciebie!</message>
+
+		<message key="winDice"><![CDATA[<span class="bold">Wygraj kostkę do gry w Kole Fortuny</span>]]></message>
+		<message key="winClover"><![CDATA[<span class="bold">Wygraj koniczynę w Kole Fortuny</span>]]></message>
+		<message key="winCard"><![CDATA[<span class="bold">Wygraj karty do gry w Kole Fortuny</span>]]></message>
+
+		<message key="questNY21_1Title">Świąteczny nastrój</message>
+		<message key="questNY21_1Description">Nowy Rok już w Awatarii! Przygotuj rękawiczki i wyjdź na zewnątrz pobawić się śnieżkami! </message>
+		<message key="questNY21_1Task1Title">Zrób rękawiczki</message>
+		<message key="questNY21_1Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Aby zrobić rękawiczki, kliknij „Do pracowni”, a następnie przejdź „Na zewnątrz”, aby pobawić się śnieżkami.]]></message>
+		<message key="questNY21_2Title">Noworoczne śnieżynki</message>
+		<message key="questNY21_2Description">Zbieraj noworoczne śnieżynki i zdobądź noworoczny prezent!</message>
+		<message key="questNY21_2Task1Title">Zbierz śnieżynki</message>
+		<message key="questNY21_2Comment"><![CDATA[<span class="bold">Podpowiedź:</span> Aby zebrać śnieżynki, kliknij „Miejsca”, a następnie przejdź „Na zewnątrz”.]]></message>
+		<message key="questNY21_3Title">Noworoczne zamieszanie</message>
+		<message key="questNY21_3Description">Walcz z bałwanami i zdobywaj odłamki potrzebne do tworzenia noworocznych ozdób!</message>
+		<message key="questNY21_3Task1Title">Zbierz odłamki</message>
+
+		<!--AVAPACA-->
+		<message key="questqavpc_Title">Awapaka</message>
+		<message key="questqavpc_Description">Chcesz zdobyć jesienny awapaka? To raczej wykonuj zadania!</message>
+		<message key="craftSnowboard"><![CDATA[<span class="bold">Zrób snowboard</span>]]></message>
+	</locale>
+</dictionary>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="hw20ParticipationDialogDescription">Odwiedź nową lokację: „Farmę strachu”! Znajdź tam wiedźmę i kup od niej nasiona dyń. Hoduj
+            dynie na grządkach. Użyj wyhodowanych plonów do gry w memory, aby wygrać cukierki, które można wymieniać na potworne nagrody ze sklepiku z
+            horrorami!
+        </message>
+        <message key="hw20InfoDialogTitle">Farma strachu!</message>
+        <message key="hw20InfoDescription1">Przejdź na „Farmę strachu”, znajdź tam wiedźmę sprzedającą nasiona dyń i wyhoduj je</message>
+        <message key="hw20InfoDescription2">Użyj grządki do hodowli dyń</message>
+        <message key="hw20InfoDescription3">Zdobywaj cukierki, grając z Jackiem w memory, i wymieniaj je na unikatowe przedmioty ze sklepiku z
+            horrorami
+        </message>
+        <message key="hw20LocationButtonTitle">na farmę</message>
+        <message key="hw20GotoFarmButtonHintMessage">Hoduj dynie i zbieraj plony</message>
+        <message key="hw20NPCName">Wiedźma</message>
+        <message key="hw20NPCDirection">Wiedźmy</message>
+        <message key="hw20BuySeedDescription">Witaj, wędrowcze! Nie chcesz kupić trochę nasion? Dzięki nim wyhodujesz dynie. Ale pamiętaj,
+            dojrzewająca dynia szybko zwiędnie, więc nie zapomnij o zebraniu plonów! He-he-he!
+        </message>
+        <message key="hw20BuySeedPanelTitle">Kupno nasion</message>
+        <message key="hw20CommonSeedTitle">Nasionko dyni</message>
+        <message key="hw20GoldSeedTitle">Potworne nasionko</message>
+        <message key="hw20SeedHintDescription">Rośnie :count: co :time:</message>
+        <message key="hw20PlantSeedDialogTitle">Zasiej dynię!</message>
+        <message key="hw20PlantSeedDialogDescription">Wybierz nasiona, które chcesz zasiać! Nasiona można kupić u wiedźmy</message>
+        <message key="hw20PlantSeedButtonTitle">zasadź</message>
+        <plural key="hw20Pumpkins">
+            <form>dynia</form>
+            <form>dynie</form>
+            <form>dyń</form>
+        </plural>
+    </locale>
+</dictionary>

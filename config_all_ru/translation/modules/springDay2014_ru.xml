@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        
+		<message key="sd2014WelcomeDialogTitle">Święto wiosny i słońca</message>
+		<message key="sd2014WelcomeDialogMessage1">Zdobywaj puste kolby u sąsiadów i wykonując różne czynności w grze. Im więcej sąsiadów i im większa jest twoja ogólna aktywność — tym więcej kolb można zebrać.</message>
+		<message key="sd2014WelcomeDialogMessage2">Wypełniaj puste kolby światłem słonecznym. W tym celu na mapie „Ulica” umieściliśmy prawdziwy generator promieni słonecznych. Wypełni on twoje puste kolby słońcem!</message>
+		<message key="sd2014WelcomeDialogMessage3">Zdobądź BEZPŁATNIE nowy pokój — „Szklarnię”, dbaj o sadzonkę, używając wypełnionych kolb i CODZIENNIE zdobywaj przydatne surowce!</message>
+		 
+		<message key="sd14GotoSD14RoomButtonHint">Do szklarni</message>
+		<message key="sd14CreateHouseRoomDialogTitle">Nowa szklarnia</message>
+		<message key="sd14CreateHouseRoomDialogMessage">Chcesz BEZPŁATNIE zdobyć nowy pokój — szklarnię? Możliwe to będzie tylko podczas trwania promocji!</message>
+		<message key="sd14CreateHouseRoomDialogFriendMessage">Twój znajomy nadal nie ma szklarni? Zaprośmy go do gry i powiedzmy mu, jakie to fajne!</message>
+		 
+		<message key="sd2014ProgressDialogTitle">Moja szklarnia</message>
+		<message key="sd2014ProgressDialogMessage">Tutaj znajdziesz informację, na jakim stadium rozwoju jest twoje drzewo. Im większe urośnie, tym więcej surowców przyniesie. Dbaj o nie, a da ci powód do radości każdego dnia!</message>
+		 
+		<message key="youHaveLabel">zużyto</message>
+		<message key="buyItems">Kup :pieces: za :golds:</message>
+		 
+		<message key="sd2014AwardDialogTitle">Gratulacje!</message>
+		<message key="sd2014AwardDialogMessage">Twoje drzewo wciąż rośnie, pochłaniając ciepło zebranego przez ciebie słonecznego światła. Teraz stało się jeszcze większe i piękniejsze. Dbaj o nie nadal, a przyniesie ci radość każdego dnia!</message>
+		 
+		<message key="sd2014AskEmptyFlacksDialogTitle">Potrzebuję pomocy!</message>
+		<message key="sd2014AskEmptyFlacksDialogMessage">Masz za mało kolb? Poproś znajomych, aby weszli do gry, aby zebrać ich jeszcze więcej, a następnie wypełnić je światłem słonecznym.</message>
+		 
+		<message key="sd2014WallMessage1">Patrzcie, przyjaciele, jakie drzewo rośnie w mojej szklarni! Chcecie wyhodować takie samo, a może i jeszcze większe? Chętnie wam w tym pomogę!</message>
+		<message key="sd2014WallMessage2">Pomóżcie mi w szklarni: moje drzewo potrzebuje dużo słońca, aby mogło dalej rosnąć. Wejdźcie do gry, a pomożemy sobie nawzajem!</message>
+		 
+		<message key="sd14CantCollectEmptyFlacksLabel">Będzie można zebrać za :time:</message>
+		<message key="sd14CollectEmptyFlacksDialogTitle">Zdobądź kolby</message>
+		<message key="sd14CollectEmptyFlacksDialogDescription">Im więcej masz aktywnych sąsiadów, tym więcej kolb codziennie zdobędziesz. Można też znaleźć kolby podczas wykonywania różnych działań w grze.</message>
+		 
+		<message key="sd14CollectRequestNotAllowedLabel">Znajomy od dawna nie grał.</message>
+		 
+		<message key="sd2014NotEnoughEmptyFlacksDialogMessage">Masz za mało pustych kolb. Można je zdobyć u sąsiadów lub podczas wykonywania różnych czynności w grze. Nadal masz ich za mało?</message>
+		<message key="sd2014NotEnoughEmptyFlacksGotoStreetDialogMessage">Masz za mało pełnych kolb. Można je napełnić na ulicy. Chcesz tam przejść?</message>
+        
+    </locale>
+</dictionary>

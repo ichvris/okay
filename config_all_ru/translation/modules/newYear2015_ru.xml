@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <plural key="snowflakes">
+            <form>śnieżynka</form>
+            <form>śnieżynki</form>
+            <form>śnieżynek</form>
+        </plural>
+        <plural key="mittens">
+            <form>rękawiczka</form>
+            <form>rękawiczki</form>
+            <form>rękawiczek</form>
+        </plural>
+        <plural key="nyFriends">
+            <form>znajomy</form>
+            <form>znajomych</form>
+            <form>znajomych</form>
+        </plural>
+        <message key="newYear2015WelcomeDialogTitle">Zimowe zabawy</message>
+        <message key="newYear2015WelcomeDialogMessage1">Zbieraj śnieżynki, by zdobyć główną nagrodę - fabrykę prezentów Mikołaja. Im wcześniej ją otrzymasz, tym więcej prezentów będzie można wyprodukować!</message>
+        <message key="newYear2015WelcomeDialogMessage2">Aby wziąć udział w zimowym zabawach, potrzebujesz rękawiczek. Im więcej masz znajomych w grze, tym więcej bezpłatnych rękawiczek możesz otrzymać codziennie!</message>
+        <message key="newYear2015WelcomeDialogMessage3">Włóż rękawiczki i wyjdź na dwór, aby porzucać śnieżkami i zdobyć więcej śnieżynek. Więcej rękawiczek to więcej śnieżynek, dzięki którym wspaniałe prezenty będą coraz bliżej!</message>
+        <message key="newYear2015ProgressDialogTitle">Galeria zimowych prezentów</message>
+        <message key="newYear2015ProgressDialogMessage">Zbieraj śnieżynki. Główną nagrodą jest fabryka produkująca świąteczne prezenty. W pudełkach z prezentami jest wiele cennych przedmiotów, w tym również ZŁOTO! Pośpiesz się, fabryka produkuje prezenty tylko do nadejścia Nowego Roku. Po 31 grudnia nie będzie już można tego robić!</message>
+        <message key="newYear2015UseMittensWarningDialogMessage">Włóż rękawiczki, żeby nie zmarzły ci ręce. Możesz w nich rzucać śnieżkami, póki nie przemokną.</message>
+        <message key="newYear2015NotEnoughMittensWarningDialogMessage">Nie masz rękawiczek? Nie szkodzi! Zapraszaj znajomych do gry, a otrzymasz rękawiczki bezpłatnie! Im więcej znajomych, tym więcej rękawiczek!</message>
+        <message key="newYear2015AwardDialogTitle">Gratulacje!</message>
+        <message key="newYear2015AwardDialogMessage">Otrzymujesz ten wspaniały prezent w nagrodę za zebrane śnieżynki. Oby tak dalej! Podziel się tą nowością ze znajomymi!</message>
+        <message key="newYear2015AskSnowflakesDialogTitle">Potrzebuję więcej śnieżynek!</message>
+        <message key="newYear2015AskSnowflakesDialogMessage">Za mało śnieżynek? Poproś o pomoc znajomych! Na pewno ci pomogą! Więcej znajomych - to więcej śnieżynek, radości i prezentów!</message>
+        <message key="newYear2015MittensInfoDialogTitle">Potrzebujesz rękawiczek? Zapraszaj znajomych!</message>
+        <message key="newYear2015MittensInfoDialogMessage">Im więcej twoich znajomych gra w Awatarię, tym więcej rękawiczek otrzymasz codziennie. Wejdź do gry i pamiętaj o zbieraniu rękawiczek! Włóż rękawiczki i wyjdź na dwór, żeby porzucać śnieżkami i zdobyć więcej śnieżynek.</message>
+        <message key="throwSnowballTitle">Śnieżka!</message>
+        <message key="putInTitle">włóż</message>
+        <message key="currentMittensLabel">masz</message>
+        <message key="neededMittensLabel">potrzeba</message>
+        <message key="youHaveSnowflakesLabel">masz</message>
+        <message key="warningSnowballTitle">Uwaga, śnieżka!</message>
+        <message key="warningSnowballMessage">:userName: :genderDrop: w ciebie śnieżką.</message>
+        <message key="sendBackSnowballButtonTitle">oddaj</message>
+        <message key="newYear2015WallMessage1">Dostałem wspaniały prezent w nagrodę za zebrane śnieżynki. Też taki chcesz? Czekam na ciebie w grze!</message>
+        <message key="newYear2015WallMessage2">Chciałbym dostać wyjątkowy prezent w grze „Awataria” i potrzebuję waszej pomocy. Bez was mi się uda!</message>
+        <message key="ny14inviteFriend">Twój sąsiad jeszcze nie bierze udziału w świątecznej promocji. Zaproś go, byście razem mogli zebrać jeszcze więcej śnieżynek!</message>
+        <message key="throughLabel">przez</message>
+    </locale>
+</dictionary>

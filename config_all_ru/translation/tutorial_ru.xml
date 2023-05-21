@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+    
+        <gender key="tutorialNpcName">
+		    <form>Aleks</form>
+		    <form>Marysiu</form>
+		</gender>
+		
+		<gender key="npcName1">
+		    <form>Andrzej</form>
+		    <form>Julia</form>
+		</gender>
+		
+		<gender key="npcName2">
+		    <form>Roman</form>
+		    <form>Anastazja</form>
+		</gender>
+		
+        <gender key="npcName3">
+            <form>Rick</form>
+            <form>Jenny</form>
+        </gender>
+    
+        <gender key="npcName4">
+            <form>Bob</form>
+            <form>Diana</form>
+        </gender>
+		
+		<gender key="npcName5">
+            <form>Rick</form>
+            <form>Jenny</form>
+        </gender>
+    
+        <gender key="npcName6">
+            <form>Bob</form>
+            <form>Diana</form>
+        </gender>
+        
+        <gender key="chooseAppearanceMessage">
+            <form><![CDATA[<p>Cześć, jestem :name:! Zaczynamy. Najpierw określ swój wygląd.</p>]]></form>
+            <form><![CDATA[<p>Cześć, jestem :name:! Zaczynamy. Najpierw określ swój wygląd.</p>]]></form>
+        </gender>
+        
+        <message key="tutorialClothesCategoryLabel">Strona</message>
+        
+        <message key="tutorialHelpTitle">Nauka</message>
+        <message key="tutorialContinueLabel">kontynuuj</message>
+        <message key="tutorialFinishLabel">zakończ</message>
+        
+        <message key="finishTutorialTitle">Zakończ naukę</message>
+        <message key="finishTutorialConfirm">Na pewno chcesz zakończyć naukę?</message>
+        
+        <!-- Step 2 -->
+        <gender key="ttSt2Npc1">
+            <form><![CDATA[<p>Gotów na klubową imprezę?</p>]]></form>
+            <form><![CDATA[<p>Gotowa na klubową imprezę?</p>]]></form>
+        </gender>
+        <message key="ttSt1Hlp"><![CDATA[<p><font size="13">Kliknij, aby odpowiedzieć znajomemu</font></p>]]></message>
+        
+        <!-- Step 3 -->
+        <gender key="ttSt3Npc1">
+            <form><![CDATA[<p>Zanim jednak pójdziecie do klubu, muszę zainstalować fontannę. Pomożesz mi?</p>]]></form>
+            <form><![CDATA[<p>Zanim jednak pójdziecie do klubu, muszę zainstalować fontannę. Pomożesz mi?</p>]]></form>
+        </gender>
+        <gender key="ttSt3Chat1">
+            <form><![CDATA[Jasne, że pomogę.]]></form>
+            <form><![CDATA[Jasne, że pomogę.]]></form>
+        </gender>
+        <message key="ttSt3Hlp1"><![CDATA[<p><font size="13">Otwórz „Edytor pokoju”</font></p>]]></message>
+        <message key="ttSt3Hlp2"><![CDATA[<p><font size="13">Umieść fontannę w pokoju, przeciągając ją myszką. Następnie kliknij „Zapisz”.</font></p>]]></message>
+        <message key="ttSt3Hlp3"><![CDATA[<p><font size="13">Kliknij fontannę, aby ją wybrać</font></p>]]></message>
+        
+        <!-- Step 4 -->
+        <gender key="ttSt4Npc1">
+            <form><![CDATA[<p>Chyba nie chcesz iść do klubu w tym stroju? W szafie z pewnością znajdziesz coś lepszego.</p>]]></form>
+            <form><![CDATA[<p>Chyba nie chcesz iść do klubu w tym stroju? W szafie z pewnością znajdziesz coś lepszego.</p>]]></form>
+        </gender>
+        <gender key="ttSt4Chat1">
+            <form><![CDATA[Dobrze, spójrzmy.]]></form>
+            <form><![CDATA[Dobrze, spójrzmy.]]></form>
+        </gender>
+        <message key="ttSt4Msg2"><![CDATA[<p><font size="13">Wybierz jakieś ubrania, a następnie kliknij „Zapisz”.</font></p>]]></message>
+        <message key="ttSt4Hlp1"><![CDATA[<p><font size="13">Kliknij, aby otworzyć garderobę</font></p>]]></message>
+        
+        <!-- Step 5 -->
+        <gender key="ttSt5Npc1">
+            <form><![CDATA[<p>Świetnie wyglądasz! Zajrzyjmy do kawiarni i wypijmy filiżankę kawy.</p>]]></form>
+            <form><![CDATA[<p>Świetnie wyglądasz! Zajrzyjmy do kawiarni i wypijmy filiżankę kawy.</p>]]></form>
+        </gender>
+        <gender key="ttSt5Chat1">
+            <form><![CDATA[Świetny pomysł! Chodźmy!]]></form>
+            <form><![CDATA[Świetny pomysł! Chodźmy!]]></form>
+        </gender>
+        <message key="ttSt5Hlp2"><![CDATA[<p><font size="13">Kliknij, aby pójść do kawiarni</font></p>]]></message>
+        <gender key="ttSt5Chat2">
+            <form><![CDATA[Jak to zrobić?]]></form>
+            <form><![CDATA[Jak to zrobić?]]></form>
+        </gender>
+        <gender key="ttSt5Npc2">
+            <form><![CDATA[<p>Zamówmy po filiżance kawy.</p>]]></form>
+            <form><![CDATA[<p>Zamówmy po filiżance kawy.</p>]]></form>
+        </gender>
+        <message key="ttSt5Hlp1"><![CDATA[<p><font size="13">Kliknij, aby zamówić kawę</font></p>]]></message>
+        
+        <message key="ttFriendMsg0">Cześć, świetnie wyglądasz!</message>
+        <message key="ttFriendMsg1">Jak leci? Dawno się nie widzieliśmy!</message>
+        <message key="ttFriendMsg2">Uuu, zapowiada się nieźle!</message>
+        <message key="ttFriendMsg3">Wesoło tu dziś!</message>
+        <message key="ttFriendMsg4">U mnie w porządku.</message>
+        
+        <!-- Step 6 -->
+        <gender key="ttSt6Npc1">
+            <form><![CDATA[<p>Było miło. Aha, pora ruszać do klubu.</p>]]></form>
+            <form><![CDATA[<p>Było miło. Aha, pora ruszać do klubu.</p>]]></form>
+        </gender>
+        <gender key="ttSt6Chat1">
+            <form><![CDATA[Tak, najwyższy czas.]]></form>
+            <form><![CDATA[Tak, najwyższy czas.]]></form>
+        </gender>
+        <message key="ttSt6Hlp1"><![CDATA[<p><font size="13">Aby awatar zaczął tańczyć, kliknij go, a następnie wybierz czynność „Tańczyć”.</font></p>]]></message>
+        <gender key="ttSt6Npc2">
+            <form><![CDATA[<p>No i jesteśmy w klubie! To co, bawimy się?</p>]]></form>
+            <form><![CDATA[<p>No i jesteśmy w klubie! To co, bawimy się?</p>]]></form>
+        </gender>
+        
+        <!-- Step 7 -->
+        <gender key="ttSt7Chat1">
+            <form><![CDATA[Chyba pora wracać do domu.]]></form>
+            <form><![CDATA[Chyba pora wracać do domu.]]></form>
+        </gender>
+        <gender key="ttSt7Msg2">
+            <form><![CDATA[<p>I co, wytańczyłeś się? Możemy jeszcze trochę zostać albo pójść do mnie.</p>]]></form>
+            <form><![CDATA[<p>I co, wytańczyłaś się? Możemy jeszcze trochę zostać albo pójść do mnie.</p>]]></form>
+        </gender>
+
+        <!-- Step 8 -->
+        <gender key="ttSt8Npc1">
+            <form><![CDATA[<p>Niezła impreza... A propos, nie myślałeś o własnym mieszkaniu?</p>]]></form>
+            <form><![CDATA[<p>Niezła impreza... A propos, nie myślałaś o własnym mieszkaniu?</p>]]></form>
+        </gender>
+        <gender key="ttSt8Chat1">
+            <form><![CDATA[Sprawdźmy, co jest w sprzedaży.]]></form>
+            <form><![CDATA[Sprawdźmy, co jest w sprzedaży.]]></form>
+        </gender>
+        
+        <!-- Step 10 -->
+        <gender key="ttSt10Chat1">
+            <form><![CDATA[Dobra. Pomożesz mi?]]></form>
+            <form><![CDATA[Dobra. Pomożesz mi?]]></form>
+        </gender>
+        <gender key="ttSt10Npc1">
+            <form><![CDATA[<p>Gratulacje z okazji zakupu mieszkania! Zaprosimy wszystkich twoich znajomych na parapetówkę?</p>]]></form>
+            <form><![CDATA[<p>Gratulacje z okazji zakupu mieszkania! Zaprosimy wszystkich twoich znajomych na parapetówkę?</p>]]></form>
+        </gender>
+        <gender key="ttSt10Chat2">
+            <form><![CDATA[Dzięki za pomoc, Aleks!]]></form>
+            <form><![CDATA[Dzięki za pomoc, Marysiu!]]></form>
+        </gender>
+        <gender key="ttSt10Npc2">
+            <form><![CDATA[<p>Robisz postępy! Przed tobą ciekawe zadania, które pomogą ci dowiedzieć się więcej o Awatarii.</p>]]></form>
+            <form><![CDATA[<p>Robisz postępy! Przed tobą ciekawe zadania, które pomogą ci dowiedzieć się więcej o Awatarii.</p>]]></form>
+        </gender>
+        
+        <!-- Appartments -->
+        <message key="userHouse1Label">Bajka</message>
+        <message key="userHouse1Description">Wyraźny design dla indywidualisty. Lubisz wyróżniać się z tłumu? Jeśli tak - to mieszkanie dla ciebie!</message>
+        
+        <message key="userHouse2Label">Hi-tech</message>
+        <message key="userHouse2Description">Umiarkowany wystrój i styl. Prosto i z gustem!</message>
+        
+        <message key="userHouse3Label">Wrażliwość</message>
+        <message key="userHouse3Description">Jeśli chcesz wrażliwości i ciepła, to mieszkanie nada się najlepiej! Ciepłe barwy i stylowy wystrój spodoba się każdemu.</message>
+        
+        <message key="userHouse4Label">Komfort</message>
+        <message key="userHouse4Description">Komfort — to właśnie odróżnia to mieszkanie od pozostałych.</message>
+        
+        <message key="userHouse5Label">Minimalizm</message>
+        <message key="userHouse5Description">Doskonały widok z okien i minimalna liczba mebli. Idealne rozwiązanie dla tych, którzy wolą zrobić remont samodzielnie.</message>
+        
+        <message key="goldForFriendsLabelText">Otrzymasz 10 szt. złota za każdego znajomego, którego zaprosisz do gry.</message>
+        <!--
+        <message key="goldForFriendsLabelText">Zaproś znajomych do Awatarii. W kupie weselej!</message>
+         -->
+        <message key="fastSearchLabel">Wyszukiwanie</message>
+        <message key="typeNameLabel">Wpisz imię</message>
+        
+        <message key="questsFirstMessageText"><![CDATA[<p><font size="13">Sprawdź, jakie jeszcze ciekawe zadania przed tobą</font></p>]]></message>
+
+<!--  =========================================================================================
+
+        <gender key="chooseAppearanceMessage">
+            <form><![CDATA[<p>Hi! I'm :name:! Let's start - choose your appearance first.</p>]]></form>
+            <form><![CDATA[<p>Hi! I'm :name:! Let's start - choose your appearance first.</p>]]></form>
+        </gender>
+		
+		<gender key="ttSt2Npc1">
+		    <form><![CDATA[<p>Cześć! Miło cię widzieć, przyjacielu! Gotów na imprezę w klubie?</p>]]></form>
+		    <form><![CDATA[<p>Cześć! Miło cię widzieć, przyjaciółko! Gotowa na imprezę w klubie?</p>]]></form>
+		</gender>
+		<gender key="ttSt2Msg1">
+		    <form><![CDATA[<p>To mieszkanie twojego znajomego. Dziś wieczorem wybieracie się do klubu.</p>]]></form>
+		    <form><![CDATA[<p>To mieszkanie twojej znajomej. Dziś wieczorem wybieracie się do klubu.</p>]]></form>
+		</gender>
+		
+		<gender key="ttSt3Npc1">
+		    <form><![CDATA[<p>Zanim jednak pójdziecie do klubu, muszę zainstalować fontannę. Pomożesz mi?</p>]]></form>
+		    <form><![CDATA[<p>Zanim jednak pójdziecie do klubu, muszę zainstalować fontannę. Pomożesz mi?</p>]]></form>
+		</gender>
+		<gender key="ttSt3Msg1">
+		    <form><![CDATA[<p>Pomóżmy twojemu znajomemu zainstalować nową fontannę.</p>]]></form>
+		    <form><![CDATA[<p>Pomóżmy twojej znajomej zainstalować nową fontannę.</p>]]></form>
+		</gender>
+		<gender key="ttSt3Npc2">
+		    <form><![CDATA[<p>Świetnie! Wkrótce będziemy się cieszyć wspaniałą fontanną!</p>]]></form>
+		    <form><![CDATA[<p>Świetnie! Wkrótce będziemy się cieszyć wspaniałą fontanną!</p>]]></form>
+		</gender>
+		<gender key="ttSt3Msg2">
+		    <form><![CDATA[<p>Fontannę można zainstalować w „Edytorze pokoju”. Kliknij wskaźnik w lewym górny rogu.</p>]]></form>
+		    <form><![CDATA[<p>Fontannę można zainstalować w „Edytorze pokoju”. Kliknij wskaźnik w lewym górny rogu.</p>]]></form>
+		</gender>
+		<gender key="ttSt3Npc3">
+		    <form><![CDATA[<p>Bomba! Fontanna ucieszy i mnie, i wszystkich moich znajomych!</p>]]></form>
+		    <form><![CDATA[<p>Bomba! Fontanna ucieszy i mnie, i wszystkich moich znajomych!</p>]]></form>
+		</gender>
+		<gender key="ttSt3Msg3">
+		    <form><![CDATA[<p>Teraz kliknij fontannę w dolnej części ekranu, aby ją wybrać.</p>]]></form>
+		    <form><![CDATA[<p>Teraz kliknij fontannę w dolnej części ekranu, aby ją wybrać.</p>]]></form>
+		</gender>
+		<gender key="ttSt3Npc4">
+		    <form><![CDATA[<p>Dobrze, zostało już niewiele...</p>]]></form>
+		    <form><![CDATA[<p>Dobrze, zostało już niewiele...</p>]]></form>
+		</gender>
+		<gender key="ttSt3Msg4">
+		    <form><![CDATA[<p>Umieść fontannę w mieszkaniu znajomego, a potem kliknij „Zapisz” w lewym górnym rogu.</p>]]></form>
+		    <form><![CDATA[<p>Umieść fontannę w mieszkaniu znajomej, a potem kliknij „Zapisz” w lewym górnym rogu.</p>]]></form>
+		</gender>
+		<message key="ttSt3Hlp3"><![CDATA[<p><font size="13">Kliknij fontannę, aby ją wybrać</font></p>]]></message>
+		
+		<gender key="ttSt4Npc1">
+		    <form><![CDATA[<p>Naprawdę chcesz iść do klubu w takim stroju? Sprawdź garderobę, na pewno masz w niej coś bardziej odpowiedniego.</p>]]></form>
+		    <form><![CDATA[<p>Naprawdę chcesz iść do klubu w takim stroju? Sprawdź garderobę, na pewno masz w niej coś bardziej odpowiedniego.</p>]]></form>
+		</gender>
+		<gender key="ttSt4Msg1">
+		    <form><![CDATA[<p>Naprawdę chcesz iść do klubu w takim stroju? Sprawdź garderobę, na pewno masz w niej coś bardziej odpowiedniego. Kliknij przycisk „Przebierz się”, aby włożyć na siebie coś innego.</p>]]></form>
+		    <form><![CDATA[<p>Naprawdę chcesz iść do klubu w takim stroju? Sprawdź garderobę, na pewno masz w niej coś bardziej odpowiedniego. Kliknij przycisk „Przebierz się”, aby włożyć na siebie coś innego.</p>]]></form>
+		</gender>
+		<gender key="ttSt4Msg2">
+		    <form><![CDATA[<p>Wybierz jakieś ubrania, a następnie kliknij „Zapisz”.</p>]]></form>
+		    <form><![CDATA[<p>Wybierz jakieś ubrania, a następnie kliknij „Zapisz”.</p>]]></form>
+		</gender>
+		
+		<gender key="ttSt5Npc1">
+		    <form><![CDATA[<p>Świetnie wyglądasz! Wpadnijmy do kawiarni i wypijmy filiżankę kawy. Z kawiarni do klubu jest niedaleko...</p>]]></form>
+		    <form><![CDATA[<p>Świetnie wyglądasz! Wpadnijmy do kawiarni i wypijmy filiżankę kawy. Z kawiarni do klubu jest niedaleko...</p>]]></form>
+		</gender>
+		<gender key="ttSt5Msg1">
+		    <form><![CDATA[<p>Twój znajomy proponuje wpaść do kawiarni na filiżankę kawy.</p>]]></form>
+		    <form><![CDATA[<p>Twoja znajoma proponuje wpaść do kawiarni na filiżankę kawy.</p>]]></form>
+		</gender>
+		<gender key="ttSt5Npc2">
+		    <form><![CDATA[<p>Patrz, to przecież nasi znajomi! Oni także wybierają się dziś do klubu!</p>]]></form>
+		    <form><![CDATA[<p>Patrz, to przecież nasi znajomi! Oni także wybierają się dziś do klubu!</p>]]></form>
+		</gender>
+		<gender key="ttSt5Msg2">
+		    <form><![CDATA[<p>Aby zamówić kawę, kliknij menu na stoliku.</p>]]></form>
+		    <form><![CDATA[<p>Aby zamówić kawę, kliknij menu na stoliku.</p>]]></form>
+		</gender>
+		<gender key="ttSt5Npc3">
+		    <form><![CDATA[<p>Nie zaszkodziłaby mi filiżanka kawy.</p>]]></form>
+		    <form><![CDATA[<p>Nie zaszkodziłaby mi filiżanka kawy.</p>]]></form>
+		</gender>
+		<gender key="ttSt5Msg3">
+		    <form><![CDATA[<p>Zamów kawę. Kliknij przycisk z ceną, które wskazuje strzałka.</p>]]></form>
+		    <form><![CDATA[<p>Zamów kawę. Kliknij przycisk z ceną, które wskazuje strzałka.</p>]]></form>
+		</gender>
+		<message key="ttSt5Hlp1"><![CDATA[<p><font size="13">Kliknij, aby zamówić kawę</font></p>]]></message>
+		
+		<gender key="ttSt6Npc1">
+		    <form><![CDATA[<p>W tej kawiarni dają świetną kawę, ale musimy iść już do klubu.</p>]]></form>
+		    <form><![CDATA[<p>W tej kawiarni dają świetną kawę, ale musimy iść już do klubu.</p>]]></form>
+		</gender>
+		<gender key="ttSt6Msg1">
+		    <form><![CDATA[<p>Było miło. A teraz pora do klubu.</p>]]></form>
+		    <form><![CDATA[<p>Było miło. A teraz pora do klubu.</p>]]></form>
+		</gender>
+		<gender key="ttSt6Npc2">
+		    <form><![CDATA[<p>Jesteśmy w klubie! To jak, zabawimy się?</p>]]></form>
+		    <form><![CDATA[<p>Jesteśmy w klubie! To jak, zabawimy się?</p>]]></form>
+		</gender>
+		<gender key="ttSt6Msg2">
+		    <form><![CDATA[<p>No i jesteś w klubie! Co tak stoisz? Idź potańczyć!</p>]]></form>
+		    <form><![CDATA[<p>No i jesteś w klubie! Co tak stoisz? Idź potańczyć!</p>]]></form>
+		</gender>
+		<gender key="ttSt6Npc3">
+		    <form><![CDATA[<p>Co tak stoisz? Ruchy!</p>]]></form>
+		    <form><![CDATA[<p>Co tak stoisz? Ruchy!</p>]]></form>
+		</gender>
+		<gender key="ttSt6Msg3">
+		    <form><![CDATA[<p>Aby awatar zaczął tańczyć, kliknij go, a potem wybierz „Tańcz”.</p>]]></form>
+		    <form><![CDATA[<p>Aby awatar zaczął tańczyć, kliknij go, a potem wybierz „Tańcz”.</p>]]></form>
+		</gender>
+		
+		<gender key="ttSt7Npc1">
+		    <form><![CDATA[<p>Tańce do rana! Zabawa przez całą noc!</p>]]></form>
+		    <form><![CDATA[<p>Tańce do rana! Zabawa przez całą noc!</p>]]></form>
+		</gender>
+		<gender key="ttSt7Msg1">
+            <form><![CDATA[<p>Tańce do rana! Zabawa przez całą noc!</p>]]></form>
+            <form><![CDATA[<p>Tańce do rana! Zabawa przez całą noc!</p>]]></form>
+        </gender>
+		<gender key="ttSt7Msg2">
+		    <form><![CDATA[<p>I co, wytańczyłeś się? Możemy jeszcze trochę poskakać albo pójść do mnie.</p>]]></form>
+		    <form><![CDATA[<p>I co, wytańczyłaś się? Możemy jeszcze trochę poskakać albo pójść do mnie.</p>]]></form>
+		</gender>
+		
+		<gender key="ttSt8Npc1">
+		    <form><![CDATA[<p>Niezła była impreza...</p>]]></form>
+		    <form><![CDATA[<p>Niezła była impreza...</p>]]></form>
+		</gender>
+		<gender key="ttSt8Msg1">
+		    <form><![CDATA[<p>Nie myślałeś o własnym mieszkaniu? Najwyższy czas poszukać odpowiedniego miejsca.</p>]]></form>
+		    <form><![CDATA[<p>Nie myślałaś o własnym mieszkaniu? Najwyższy czas poszukać odpowiedniego miejsca.</p>]]></form>
+		</gender>
+		<gender key="ttSt8Npc2">
+		    <form><![CDATA[<p>Zobacz jaki wybór!</p>]]></form>
+		    <form><![CDATA[<p>Zobacz jaki wybór!</p>]]></form>
+		</gender>
+		<gender key="ttSt8Msg2">
+		    <form><![CDATA[<p>Zaznacz to, które ci odpowiada, a  potem kliknij „Wybierz” w dolnej części okna.</p>]]></form>
+		    <form><![CDATA[<p>Zaznacz to, które ci odpowiada, a  potem kliknij „Wybierz” w dolnej części okna.</p>]]></form>
+		</gender>
+		
+		<gender key="ttSt9Npc1">
+		    <form><![CDATA[<p>Doskonały wybór! Gratuluję!!!</p>]]></form>
+		    <form><![CDATA[<p>Doskonały wybór! Gratuluję!!!</p>]]></form>
+		</gender>
+		<gender key="ttSt9Msg1">
+		    <form><![CDATA[<p>Gratulujemy zakupu własnego mieszkania w grze „Awataria”!</p>]]></form>
+		    <form><![CDATA[<p>Gratulujemy zakupu własnego mieszkania w grze „Awataria”!</p>]]></form>
+		</gender>
+		<gender key="ttSt9Npc2">
+		    <form><![CDATA[<p>Może zorganizujemy parapetówkę?</p>]]></form>
+		    <form><![CDATA[<p>Może zorganizujemy parapetówkę?</p>]]></form>
+		</gender>
+		<gender key="ttSt9Msg2">
+		    <form><![CDATA[<p>Teraz masz gdzie mieszkać. Urządźmy miłą parapetówkę w twoim nowym mieszkaniu!</p>]]></form>
+		    <form><![CDATA[<p>Teraz masz gdzie mieszkać. Urządźmy miłą parapetówkę w twoim nowym mieszkaniu!</p>]]></form>
+		</gender>
+		<gender key="ttSt9Npc3">
+		    <form><![CDATA[<p>Uwielbiam imprezy. A ty?</p>]]></form>
+		    <form><![CDATA[<p>Uwielbiam imprezy. A ty?</p>]]></form>
+		</gender>
+		<gender key="ttSt9Msg3">
+		    <form><![CDATA[<p>Aby zorganizować imprezę, trzeba stworzyć nowe wydarzenie. W tym celu kliknij „Miejsca” w lewej części ekranu.</p>]]></form>
+		    <form><![CDATA[<p>Aby zorganizować imprezę, trzeba stworzyć nowe wydarzenie. W tym celu kliknij „Miejsca” w lewej części ekranu.</p>]]></form>
+		</gender>
+		<gender key="ttSt9Npc4">
+		    <form><![CDATA[<p>Wiesz już chyba, kogo zaprosisz na imprezę?</p>]]></form>
+		    <form><![CDATA[<p>Wiesz już chyba, kogo zaprosisz na imprezę?</p>]]></form>
+		</gender>
+		<gender key="ttSt9Msg4">
+		    <form><![CDATA[<p>Teraz kliknij „stwórz wydarzenie”.</p>]]></form>
+		    <form><![CDATA[<p>Teraz kliknij „stwórz wydarzenie”.</p>]]></form>
+		</gender>
+		<gender key="ttSt9Msg5">
+		    <form><![CDATA[<p>Dodaj nazwę imprezy i krótki opis, aby znajomi wiedzieli, co ich czeka! Potem kliknij „stwórz za...”.</p>]]></form>
+		    <form><![CDATA[<p>Dodaj nazwę imprezy i krótki opis, aby znajomi wiedzieli, co ich czeka! Potem kliknij „stwórz za...”.</p>]]></form>
+		</gender>
+		
+		<message key="ttEventTitle">Parapetówka</message>
+		<message key="ttEventDescription">Zapraszam do mnie na parapetówkę!</message>
+		
+		<gender key="ttSt10Npc1">
+		    <form><![CDATA[<p>Im-pre-zaaaa!!!</p>]]></form>
+		    <form><![CDATA[<p>Im-pre-zaaaa!!!</p>]]></form>
+		</gender>
+		<gender key="ttSt10Msg1">
+		    <form><![CDATA[<p>Utworzyłeś nowe wydarzenie. Teraz pora zaprosić znajomych na imprezę!</p>]]></form>
+		    <form><![CDATA[<p>Utworzyłaś nowe wydarzenie. Teraz pora zaprosić znajomych na imprezę!</p>]]></form>
+		</gender>
+		<gender key="ttSt10Npc2">
+		    <form><![CDATA[<p>Im więcej znajomych, tym weselej!</p>]]></form>
+		    <form><![CDATA[<p>Im więcej znajomych, tym weselej!</p>]]></form>
+		</gender>
+		<gender key="ttSt10Msg2">
+		    <form><![CDATA[<p>Robisz postępy! Czekają na ciebie ciekawe zadania, które pomogą ci dowiedzieć się więcej o świecie Awatarii.
+Przed tobą wspaniała przygoda, podczas której poznasz ciekawych ludzi, znajdziesz wielu przyjaciół i towarzyszy rozmów, a także miło spędzisz czas.</p>]]></form>
+		    <form><![CDATA[<p>Robisz postępy! Czekają na ciebie ciekawe zadania, które pomogą ci dowiedzieć się więcej o świecie Awatarii.
+Przed tobą wspaniała przygoda, podczas której poznasz ciekawych ludzi, znajdziesz wielu przyjaciół i towarzyszy rozmów, a także miło spędzisz czas.</p>]]></form>
+		</gender>
+		<gender key="ttSt10Npc3">
+		    <form><![CDATA[<p>Niezła zabawa! Oj, zapomniałem o pewnej ważnej sprawie. Zresztą, to nic. Wkrótce znów się spotkamy. Wspólnie wiele jeszcze przeżyjemy!</p>]]></form>
+		    <form><![CDATA[<p>Niezła zabawa! Oj, zapomniałam o pewnej ważnej sprawie. Zresztą, to nic. Wkrótce znów się spotkamy. Wspólnie wiele jeszcze przeżyjemy!</p>]]></form>
+		</gender>
+		
+		<message key="ttFriendMsg0">Część, świetnie wyglądasz!</message>
+		<message key="ttFriendMsg1">Co u ciebie? Dawno się nie widzieliśmy!</message>
+		<message key="ttFriendMsg2">Ach, co za ludzie!</message>
+		<message key="ttFriendMsg3">Ale dziś smacznie!</message>
+		<message key="ttFriendMsg4">U mnie w porządku.</message>
+        
+        <message key="userHouse1Label">Сказка</message>
+        <message key="userHouse1Description">Выразительный дизайн для яркой личности. Любишь выделяться из толпы? Тогда эта квартира для тебя!</message>
+        
+        <message key="userHouse2Label">Хай-тек</message>
+        <message key="userHouse2Description">Лаконичный дизайн и стиль. Просто и со вкусом!</message>
+        
+        <message key="userHouse3Label">Нежность</message>
+        <message key="userHouse3Description">Если хочется нежности и тепла, эта квартира подходит лучше всего! Мягкие тона и стильный дизайн интерьера не оставят никого равнодушным.</message>
+        
+        <message key="userHouse4Label">Уют</message>
+        <message key="userHouse4Description">Уют и комфорт — вот что отличает эту квартиру от остальных.</message>
+        
+        <message key="userHouse5Label">Минимализм</message>
+        <message key="userHouse5Description">Отличный вид из окон и минимум мебели. Идеальный вариант для тех, кто предпочитает делать ремонт сам.</message>
+        
+        <message key="questButtonTutorialFinishedMessage">Посмотри какие еще интересные задания тебе предстоит выполнить</message>
+        <message key="goldForFriendsLabelText">You will receive 10 gold coins for every friend, who join the game!</message>
+        <message key="fastSearchLabel">Fast search</message>
+        <message key="typeNameLabel">Type name</message>
+        
+        <message key="questsFirstMessageText"><![CDATA[<p><font size="13">Посмотри какие еще интересные задания тебе предстоит выполнить</font></p>]]></message>
+-->
+    </locale>
+</dictionary>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="springDay2017ParticipationDialogTitle">Święto wiosny!</message>
+        <message key="springDay2017ParticipationDialogDescription">Wierzysz, że twoje życzenia mogą się spełnić, jeśli bardzo tego chcesz? Teraz możesz sprawdzić tę teorię!</message>
+        <message key="springDay2017ParticipationOkButtonTitle">sprawdź</message>
+        <message key="springDay2017TrophyDialogMessage">W nagrodę za szczególne osiągnięcia w wiosennej akcji wręczamy ci odznakę „Wiosna 2017”. Gratulujemy pracowitości!</message>
+        <message key="springDay2017WallGetTrophyMessage">Hura, udało mi się zdobyć odznakę „Wiosna 2017”! Czekam na ciebie w grze! :link:</message>
+        <message key="springDay2017ProgressDialogTitle">Pomyśl życzenie!</message>
+        <message key="springDay2017ProgressDialogWishesTitle">Wybierz przedmioty</message>
+        <message key="springDay2017ProgressDialogWishesDescription">Wybierz przedmioty, o których marzysz od dawna. Zbieraj monety i wybierz sobie prezenty.</message>
+        <message key="springDay2017ProgressDialogTrophyDescription">Zbieraj monety i zdobądź wyjątkową odznakę pod koniec akcji</message>
+        <message key="springDay2017ProgressDialogStartButtonTitle">Rozpocznij</message>
+        <message key="springDay2017SelectWishDialogTitle">Wybierz przedmiot</message>
+        <message key="springDay2017ConvertCoinsMessage">Gratulacje! Teraz możesz wydać :coinsCount: monet, aby spełnić swoje życzenia</message>
+        <message key="springDay2017WishCompleteMessage">Gratulacje! Twoje życzenie się spełniło!</message>
+        <message key="springDay2017FountainHintMessage">Wrzuć monety do fontanny, aby twoje marzenia się spełniły</message>
+        <message key="springDay2017FriendHelpMessage">Tutaj możesz zdobyć monety szczęścia</message>
+    </locale>
+</dictionary>

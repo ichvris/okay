@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="sr20TitleDialog">Dzień X</message>
+        <message key="sr20Description">Tylko dziś masz niesamowitą okazję wziąć udział w specjalnej misji i zdobyć wyjątkowy prezent</message>
+        <gender key="sr20AwardDialogTitle">
+            <form>Przeżyłeś!</form>
+            <form>Przeżyłaś!</form>
+        </gender>
+        <gender key="sr20AwardDialogDescription">
+            <form>Gratulacje, przeżyłeś 2020 rok! Oto zasłużone prezenty!</form>
+            <form>Gratulacje, przeżyłaś 2020 rok! Oto zasłużone prezenty!</form>
+        </gender>
+
+    </locale>
+</dictionary>

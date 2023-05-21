@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="pl">
+        <message key="ny17FirButtonCraftGarlandHint">Wykonaj girlandę</message>
+        <message key="ny17FirButtonAddGarlandHint">Zawieś girlandę na choince</message>
+        <message key="ny17FirButtonLeftTimeHint">Pozostało :time:</message>
+        <message key="ny17Stage1Title">1 etap</message>
+        <message key="ny17Stage2Title">2 etap</message>
+        <message key="ny17Stage3Title">3 etap</message>
+        <message key="ny17Stage4Title">4 etap</message>
+        <message key="ny17ProgressDialogTitle">Świąteczna bitwa</message>
+        <message key="ny17Stage1Description">Wykonaj girlandę i zawieś ją na choince.</message>
+        <message key="ny17Stage2Description">Zdobądź wyjątkową umiejętność w walce ze złoczyńcami.</message>
+        <message key="ny17Stage3Description">Pokonaj bałwany i zdobądź wypadające z nich śnieżynki.</message>
+        <message key="ny17Stage4Description">Zdobądź śnieżynki wypadające ze złoczyńcy. Wykonaj tarczę dla ochrony przed mrozem.</message>
+        <message key="ny17Stage5Description">Zagraj w świątecznej lokacji.</message>
+        <message key="ny17StageCompleteDescription">Gratulacje! Etap zaliczony. Możesz wymieniać śnieżynki na zimowe prezenty.</message>
+        <message key="ny17TrophyDescription">Zbieraj śnieżynki i zdobądź wyjątkowy tytuł pod koniec promocji.</message>
+        <message key="newyear2017WelcomeDialogTitle">Skradzione Święta</message>
+        <message key="newyear2017WelcomeDialogMessageTop1">Pokonaj siły zła, które chcą ukraść nasze święto.</message>
+        <message key="newyear2017WelcomeDialogMessageTop2">Graj w minigry, aby zebrać więcej "iskierek".</message>
+        <message key="newyear2017WelcomeDialogMessageTop3">Wraz z innymi graczami walcz z bałwanami.</message>
+        <message key="newyear2017WelcomeDialogMessageTop4">Pokonaj głównego złoczyńcę.</message>
+        <message key="newyear2017WelcomeDialogMessageMiddle1">Zbierz więcej lampek i wykonaj z nich girlandę, aby ozdobić swoją choinkę.</message>
+        <message key="newyear2017WelcomeDialogMessageMiddle2">Zdobądź wyjątkową umiejętność, aby pokonać złoczyńców.</message>
+        <message key="newyear2017WelcomeDialogMessageMiddle3">Wymieniaj śnieżynki na prezenty.</message>
+        <message key="newyear2017WelcomeDialogMessageMiddle4">Wykonaj tarczę dla ochrony przed złoczyńcą.</message>
+        <message key="newyear2017WelcomeDialogMessageBottom1">Ozdób choinkę girlandą, a będzie ona dostarczać śnieżynki podczas trwania promocji.</message>
+        <message key="newyear2017WelcomeDialogMessageBottom4">Zdobądź finałową nagrodę i zakończ promocję.</message>
+        <message key="ny17ThroughLabel">za :time:</message>
+        <message key="ny17PutInTitle">załóż</message>
+        <message key="ny17NeedLabel">potrzeba</message>
+        <message key="ny17CurrentLabel">masz</message>
+        <message key="ny17CollectSnowflakesButtonLabel">zbierz śnieżynki</message>
+        <message key="ny17ParticipationDialogTitle">Uratuj święto przed złoczyńcą.</message>
+        <message key="ny17ParticipationDialogMessage">Dostaniesz choinkę za darmo, ale musisz uratować święta i choinkę znajdującą się w osobnej lokacji.</message>
+        <message key="ny17MittensDialogTitle">Potrzebujesz rękawic? Zaproś znajomych!</message>
+        <message key="ny17MittensDialogMessage">Im więcej twoich znajomych zagra w Awatarię, tym więcej rękawiczek codziennie otrzymasz. Wystarczy, że wyjdziesz do gry i zbierzesz rękawiczki! Załóż je i wyjdź na zewnątrz — walcz na śnieżki i zdobywaj więcej śnieżynek!</message>
+        <message key="ny17ThrowSnowballMenuTitle">Śnieżka</message>
+        <message key="ny17ThrowSnowballNotificationTitle">Ostrożnie, śnieżka!</message>
+        <message key="ny17ThrowSnowballNotificationMessage">:userName: :genderDrop: w ciebie śnieżką.</message>
+        <message key="ny17UseMittensWearDialogMessage">Załóż rękawiczki, aby ogrzać ręce. Możesz rzucać śnieżkami, póki rękawiczki nie przemokną.</message>
+        <message key="ny17NotEnoughMittensWearDialogMessage">Nie masz rękawiczek? To nic! Zaproś znajomych do gry i otrzymaj rękawiczki za darmo!</message>
+        <message key="newYear2017ExchangeSnowflakesDialogTitle">Wymiana na prezenty!</message>
+        <message key="newYear2017ExchangeSnowflakesDialogMessage">Wymieniaj pozostałe śnieżynki na świąteczne prezenty!</message>
+        <message key="ny17RightPanelButtonCreateEventHintMessage">Utwórz wydarzenie, zaproś znajomych, pokonaj wszystkie bałwany i otrzymaj prezenty!</message>
+        <message key="ny17EventFilterLabel">Świąteczne</message>
+        <message key="ny17LocationName">Zimowa bitwa</message>
+        <message key="newyear2017SnowBattleWelcomeDialogTitle">Zimowa bitwa</message>
+        <message key="newyear2017SnowBattleWelcomeDialogText">Zdobądź wyjątkową umiejętność i walcz ze złem, aby uratować święta!</message>
+        <message key="newyear2017SnowBattleAlreadyStart">Gra już się rozpoczęła, znajdź inne wydarzenie</message>
+        <message key="newyear2017SnowBattleNoGun">Nie masz broni. Nie możesz wziąć udziału w bitwie</message>
+        <message key="newyear2017SnowBattleWelcomeDialogTextDescription">Walcz ze sprzymierzeńcami złoczyńcy i zdobywaj śnieżynki. Za zwycięstwo otrzymasz nagrodę.</message>
+        <message key="newyear2017SnowBattleWelcomeDialogAllies">Zbieramy drużynę, aby uratować święto</message>
+        <message key="newyear2017SnowBattleWelcomeDialogAlliesMessage">Oczekiwanie na graczy...</message>
+        <message key="ny17GiftExchange">Wymiana śnieżynek na prezenty</message>
+        <message key="ny17GiftGun">Wyjątkowa umiejętność</message>
+        <message key="ny17GiftSkill">Doświadczenie w bitwach</message>
+        <message key="ny17GunLabel">Wyjątkowa umiejętność</message>
+        <message key="ny17ShieldLabel">Ochrona przed mrozem</message>
+        <message key="ny17Lamp1Label">Czerwona lampka</message>
+        <message key="ny17Lamp2Label">Zielona lampka</message>
+        <message key="ny17Lamp3Label">Niebieska lampka</message>
+        <message key="ny17LampDescription">Można otrzymać, rzucając się śnieżkami w pierwszym etapie.</message>
+        <message key="ny17SparkLabel">Iskierka</message>
+        <message key="ny17SparkDescription">Można otrzymać, grając w minigry.</message>
+        <message key="ny17LeftTime">do :stage: etapu:time:</message>
+        <message key="ny17InterfaceCraftShieldHint">Wykonaj osłonę</message>
+        <message key="ny17InterfaceHasShieldHint">Jest osłona</message>
+        <message key="ny17MiniGameVictoryDialogTitle">Hura, zwycięstwo!</message>
+        <message key="ny17MiniGameVictoryDialogDescription">Walcz z bałwanami i zdobywaj śnieżynki</message>
+        <message key="newYear2017WallStageGiftMessage">Przyznano mi prezent za zaliczenie etapu. Też taki chcesz? Czekam na ciebie w grze! :link:</message>
+        <message key="newYear2017WallMiniGameVictoryMessage">Hura, pokonałem wszystkie bałwany w świątecznej minigrze! :link:</message>
+        <message key="newYear2017WallGetTrophyMessage">Hura, przyznano mi świąteczny tytuł! Czekam na ciebie w grze! :link:</message>
+        <plural key="ny17Snowflakes">
+            <form>śnieżynka</form>
+            <form>śnieżynki</form>
+            <form>śnieżynek</form>
+        </plural>
+        <plural key="ny17Mittens">
+            <form>rękawiczka</form>
+            <form>rękawiczki</form>
+            <form>rękawiczek</form>
+        </plural>
+        <plural key="ny17Friends">
+            <form>znajomy</form>
+            <form>znajomych</form>
+            <form>znajomych</form>
+        </plural>
+    </locale>
+</dictionary>

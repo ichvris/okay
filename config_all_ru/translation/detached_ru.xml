@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dictionary>
+
+	<locale name="pl">
+	
+		<!-- PETS -->
+        
+        <message key="followFriendPetsTitle">Poszukiwanie znajomego</message>
+		<message key="followFriendPetsMessage">Twój przyjaciel bawi się teraz ze swoim zwierzątkiem. Chcesz się przyłączyć?</message>
+		
+		<!-- ISLAND -->
+        <message key="islandGameTitle">Tropikania</message>
+		<message key="islandLevel">Jesteś na :level: poziomie w Tropikanii</message>
+		<message key="islandTransferPlayerLevel">Wymagany :level: poziom</message>
+		<message key="transferAllItemsButton">weź wszystko</message>
+		<message key="noItemsForTransfer">Nie ma nic do przekazania :(</message>
+		
+		<message key="islandTransferResourcesText"><![CDATA[Wszystko, czego tak brakowało ci w Awatarii: zabawne zwierzaki, niesamowite przygody, a nawet spotkanie z tubylcami — wszystko to czeka na ciebie w cieniu palm, na twojej prywatnej wyspie, pełnej niezbadanych jaskiń i pradawnych skarbów.]]></message>
+	
+	</locale>
+</dictionary>

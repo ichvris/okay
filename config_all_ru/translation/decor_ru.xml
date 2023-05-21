@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dictionary>
+
+	<locale name="pl">
+
+		<!-- CARPET -->
+        <message key="carpet1Title">Arabski dywan</message>
+		<message key="carpet2Title">Jasnoszary dywanik</message>
+		<message key="carpet3Title">Beżowa wykładzina</message>
+		<message key="carpet4Title">Owalny dywanik</message>
+		<message key="carpet5Title">Futrzany dywanik</message>
+		<message key="carpet6Title">Dywanik zebra</message>
+		<message key="carpet7Title">Dywanik płyta</message>
+		<message key="carpet8Title">Wzorzysty chodnik</message>
+		<message key="carpet9Title">Dywanik „Sakura”</message>
+		<message key="carpet10Title">Mały niebieski dywanik</message>
+		<message key="carpet11Title">Mały szary dywanik</message>
+		<message key="carpet12Title">Mały zielony dywanik</message>
+		<message key="carpet13Title">Mały pomarańczowy dywanik</message>
+		<message key="carpet14Title">Mały czerwony dywanik</message>
+		<message key="carpetArtdecoTitle">Dywan art déco</message>
+		<message key="carpetArtdecoRombTitle">Dywan art déco</message>
+		<message key="carpetGhostTitle">Dywan „Zjawa”</message>
+
+		<!-- FIREPLACE -->
+        <message key="fireplace1Title">Kominek metalowy</message>
+		<message key="fireplace2Title">Kominek marmurowy</message>
+		<message key="fireplace3Title">Złoty kominek</message>
+		<message key="fireplace4Title">Kominek zamek</message>
+		<message key="fireplace5Title">Kominek kamienny</message>
+
+		<!-- OTHER -->
+        <message key="bigMaskVeniceTitle">Duża wenecka maska</message>
+		<message key="candlestickBookVeniceTitle">Wenecki świecznik</message>
+		<message key="trayVeniceTitle">Taca ze srebra</message>
+		<message key="bookForgetTitle">Książka i kałamarz</message>
+		<message key="screenForgetTitle">Parawan</message>
+		<message key="casketGoldTitle">Szkatułka</message>
+		<message key="headArtTitle">Głowa</message>
+		<message key="catArtTitle">Kot</message>
+		<message key="bookArtTitle">Książki</message>
+		<message key="amuletArt">Amulet</message>
+		<message key="maskArt">Maska bóstwa</message>
+		<message key="screenArtdecoTitle">Parawan art déco</message>
+		<message key="pokerFireplaceTitle">Zestaw kominkowy</message>
+		<message key="fireWoodTitle">Stos drewna</message>
+		<message key="headArtTitle">Głowa</message>
+		<message key="catArtTitle">Kot</message>
+		<message key="bookArtTitle">Książki</message>
+		<message key="amuletArtTitle">Amulet</message>
+		<message key="maskArtTitle">Maska</message>
+		<message key="decorBachelorTitle">Zestaw „Kawaler”</message>
+		<message key="decorBachelor2Title">Wazon „Kawaler”</message>
+		<message key="officeBachelorTitle">Zestaw biurowy „Kawaler”</message>
+		<message key="regimentBachelorTitle">Półka na książki „Kawaler”</message>
+		<message key="plateBachelorTitle">Talerz na ścianę „Kawaler”</message>
+		<message key="wreathBlackTitle">Wieniec Halloween</message>
+		<message key="webHalloweenTitle">Pajęczyna</message>
+		<message key="batHalloweenRedTitle">Nietoperz na ścianę</message>
+		<message key="batHalloweenTitle">Nietoperz na ścianę</message>
+		<message key="broomHalloweenTitle">Miotła Halloween</message>
+		<message key="pumpkinSmallTitle">Mała dynia</message>
+		<message key="treeHalloweenTitle">Drzewo Halloween</message>
+		<message key="weddingArchTitle">Brama weselna</message>
+		<message key="weddingArchOrangeTitle">Brama weselna</message>
+		<message key="weddingBookTitle">Piedestał</message>
+		<message key="candyHeartTitle">Pudełko cukierków na prezent</message>
+		<message key="weddingCandyPinkTitle">Pudełko cukierków na prezent</message>
+		<message key="vipWheelTitle">Koło samochodowe</message>
+		<message key="guitarTitle">Gitara ze stojakiem</message>
+		<message key="candleStickCastleTitle">Lichtarz „Królewski”</message>
+
+		<!-- CRAFTED GIFTS -->
+        <message key="photoFrame">Ramka na zdjęcie</message>
+		<message key="lilyFlowersTitle">Bukiet lilii</message>
+		<message key="loveBalloonTitle">Balon „LOVE”</message>
+		<message key="miniFountainTitle">Fontanna</message>
+		<message key="pirateShipTitle">Statek piracki</message>
+		<message key="roseBasketTitle">Kosz róż</message>
+		<message key="candelTitle">Świeca</message>
+		<message key="saberTitle">Szabla</message>
+		<message key="easterEggTitle">Jajo wielkanocne</message>
+
+		<!-- PICTURE -->
+        <message key="pictureBaseTitle">Plakat</message>
+		<message key="pictureBubbleTitle">Plakat z bąbelkami</message>
+		<message key="pictureFallTitle">Obraz z wodospadem</message>
+		<message key="pictureVeniceRoseTitle">Obraz mistrza weneckiego</message>
+		<message key="pictureIrisTitle">Obraz z irysem</message>
+		<message key="pictureHrysanthemumTitle">Obraz z chryzantemami</message>
+		<message key="pictureBeachTitle">Plakat „Plaża”</message>
+		<message key="pictureElfTitle">Obraz „Elf”</message>
+		<message key="pictureGirlTitle">Plakat „Girl”</message>
+		<message key="pictureArtDecoTitle">Obraz art déco</message>
+		<message key="pictureBachelorTitle">Obraz „Kawaler”</message>
+
+		<!-- VASE -->
+        <message key="vaseBaseTitle">Wazon z kwiatami</message>
+		<message key="vaseDecorativeFlowerTitle">Wazon dekoracyjny</message>
+		<message key="vaseDracaenaTitle">Dracena w donicy</message>
+		<message key="vaseFlowerTitle">Wazon z kwiatami</message>
+		<message key="vaseGlamTitle">Luksusowy wazon</message>
+		<message key="vaseOpenTitle">Wazon</message>
+		<message key="vaseGoldTitle">Złoty wazon</message>
+		<message key="vaseGoldLightTitle">Wazon z pozłotą</message>
+		<message key="vaseRoseTitle">Wazon na róże</message>
+		<message key="vaseRoundTitle">Dzban</message>
+		<message key="vaseSmallTitle">Wazonik</message>
+		<message key="vaseWoodFlowerTitle">Donica na drzewko</message>
+		<message key="vaseForgetTitle">Donica z kwiatami</message>
+		<message key="vaseSmallForgetTitle">Doniczka z kwiatami</message>
+		<message key="vaseArtdecoTitle">Wazon art déco</message>
+		<message key="vaseHeadTitle">Wazon art déco</message>
+		<message key="vaseBachelorTitle">Wazon „Kawaler”</message>
+		<message key="weddingBouquetTitle">Bukiet ślubny</message>
+		<message key="weddingBouquetOrangeTitle">Bukiet ślubny</message>
+		<message key="weddingBouquet2Title">Bukiet ślubny</message>
+		<message key="weddingBouquet2OrangeTitle">Bukiet ślubny</message>
+		<message key="weddingBouquetPresentTitle">Bukiet na prezent ślubny</message>
+		<message key="blueFlowerTitle">Niezwykły kwiat</message>
+        <message key="redTopiaryTitle">Krzew z kwiatami</message>
+        <message key="torchFlowerTitle">Kwiat-latarnia</message>
+
+		<!-- ACTIVE DECOR -->
+        <message key="activeDecor1Title">Sprzęt Hi-Fi</message>
+		<message key="activeDecor5Title">Boombox</message>
+		<message key="activeDecor6Title">System akustyczny</message>
+		<message key="activeDecor7Title">Sprzęt Hi-Fi</message>
+		<message key="activeDecor8Title">Srebrny laptop</message>
+		<message key="activeDecor9Title">Jaskrawy laptop</message>
+		<message key="activeDecor10Title">Nowoczesny laptop</message>
+		<message key="activeDecor2Title">Stary telewizor</message>
+		<message key="applianceTv2Title">Telewizor plazmowy</message>
+		<message key="applianceTv3Title">Telewizor plazmowy</message>
+		<message key="applianceTv4Title">Duży telewizor plazmowy</message>
+		<message key="acoustic1Title">Głośnik na stół</message>
+		<message key="acoustic2Title">Długi głośnik stojący</message>
+		<message key="acoustic3Title">Prostokątny głośnik stojący</message>
+		<message key="acoustic4Title">Głośnik stojący</message>
+		<message key="miscAppliance1Title">Odtwarzacz DVD</message>
+		<message key="mailBoxCategory">Skrzynka pocztowa</message>
+		<message key="mailBox1Title">Wisząca skrzynka pocztowa</message>
+		<message key="mailBox2Title">Stojąca skrzynka pocztowa</message>
+		<message key="mailBox3Title">Skrzynka pocztowa z gołębiem</message>
+
+		<!-- LAMPS -->
+        <message key="lamp1Title">Kinkiet</message>
+		<message key="lamp2Title">Wykwintna lampa</message>
+		<message key="lamp3Title">Lampa stojąca</message>
+		<message key="lamp4Title">Owalna lampa</message>
+		<message key="lamp5Title">Lampa stojąca</message>
+		<message key="lamp6Title">Lampa stojąca</message>
+		<message key="lamp7Title">Lampa stołowa</message>
+		<message key="lamp8Title">Kinkiet</message>
+		<message key="lamp9Title">Kinkiet</message>
+		<message key="lamp10Title">Kinkiet</message>
+		<message key="lamp11Title">Kinkiet</message>
+		<message key="lampDecoTitle">Lampa art déco</message>
+		<message key="lampArtDecoTitle">Lampa art déco</message>
+		<message key="scullCandleTitle">Lampa „Czaszka”</message>
+		<message key="pumpkinSilverTitle">Lampa „Dynia”</message>
+		<message key="pumpkinHalloweenTitle">Lampa „Dynia”</message>
+		<message key="pumpkinBlackTitle">Lampa „Dynia”</message>
+		<message key="ghostBlackTitle">Lampa „Zjawa”</message>
+		<message key="candleWallHalloweenTitle">Lampa „Nietoperz”</message>
+		<message key="candleCobwebTitle">Długi lichtarz Halloween</message>
+
+		<!-- CRAFT -->
+        <message key="moneyBox">Skarbonka na drobne</message>
+		<message key="teddyBear">Pluszowy miś</message>
+		<message key="gerberaTitle">Wazon stołowy</message>
+		<message key="vaseFloor">Wazon ozdobny</message>
+		<message key="christmasToy">Ozdoba choinkowa</message>
+		<message key="photoFrame1">Ramka na zdjęcie</message>
+		<message key="sable">Szabla</message>
+		<message key="bunchOfLilies">Bukiet lilii</message>
+		<message key="candle">Świeca</message>
+		<message key="stPatrickTitle">Figurka skrzata</message>
+		<message key="victoryBandTitle">Wstęga św. Jerzego</message>
+		<message key="wigwamTitle">Wigwam tubylców</message>
+		<message key="canoeTitle">Kanoe</message>
+		<message key="totemsTitle">Kolekcja totemów</message>
+
+		<!-- CHRISTMAS -->
+        <message key="newYearFirTitle">Choinka</message>
+		<message key="nyCandleTitle">Świeca noworoczna</message>
+		<message key="garlandNYSphereTitle">Girlanda</message>
+		<message key="garlandNYViolettTitle">Girlanda</message>
+		<message key="presentNYBlueTitle">Pudełko z prezentem</message>
+		<message key="presentNYBlueBigTitle">Pudełko z prezentem</message>
+		<message key="presentNYGoldTitle">Pudełko z prezentem</message>
+		<message key="presentNYRedTitle">Pudełko z prezentem</message>
+		<message key="snowflakeWallTitle">Śnieżynka</message>
+		<message key="sockNYBlueTitle">Świąteczna skarpeta</message>
+		<message key="sockNYGoldTitle">Świąteczna skarpeta</message>
+		<message key="sockNYRedTitle">Świąteczna skarpeta</message>
+		<message key="treeNYPresentTitle">Złote drzewko z prezentem</message>
+		<message key="treeNYViolettTitle">Ozdobione drzewko</message>
+		<message key="wreathNYRedTitle">Noworoczny wieniec</message>
+		<message key="wreathNYGoldTitle">Złoty wieniec</message>
+		<message key="wreathNYBlueTitle">Noworoczny wieniec</message>
+		<message key="gingerbreadManTitle">Ludzik z piernika</message>
+        <message key="snowmanTitle">Bałwan</message>
+        <message key="snowballTitle">Śnieżna kula</message>
+        <message key="decorNYFir1Title">Ozdobna choinka z papieru</message>
+        <message key="decorNYFir2Title">Stroik noworoczny</message>
+        <message key="decorNYFir3Title">Ozdobna stożkowata choinka</message>
+
+		<!-- SCHOOL -->
+		<message key="pictureEinsteinTitle">Portret Einsteina</message>
+		<message key="flowerSchool1Title">Kwiat w doniczce</message>
+		<message key="flowerSchool2Title">Kwiat w doniczce naściennej</message>
+		<message key="schoolBookStand1Title">Półka na dokumenty</message>
+		<message key="schoolBlackboardTitle">Szkolna tablica</message>
+
+		<!-- AMUSIMENT -->
+		<message key="horseAmusimentWhiteTitle">Huśtawka „Biały koń”</message>
+		<message key="horseAmusimentBlackTitle">Huśtawka „Czarny koń”</message>
+		<message key="horseAmusimentDragonTitle">Huśtawka „Smok”</message>
+		<message key="wallAquarium1Title">Akwarium ścienne</message>
+		<message key="floorAquarium1Title">Akwarium podłogowe</message>
+		<message key="carVip1Title">Avamobile</message>
+
+		<!-- BEACH CRAFT ITEMS -->
+		<message key="surfboardTitle">Deska surfingowa</message>
+		<message key="mermaidCastleTitle">Zamek rusałki</message>
+
+        <!-- NEW FURNITURE SETS:
+                COUNTRY, BEACH,
+                ALIEN, JAPAN,
+                ARTNOUVEAU -->
+		<message key="picturePrincessTitle">Obraz „Księżniczka”</message>
+		<message key="pictureJapan1Title">Obraz „Japonia”</message>
+		<message key="pictureJapan2Title">Obraz „Japonia”</message>
+		<message key="carpetJapanTitle">Chodnik „Japonia”</message>
+		<message key="carpetPrincessTitle">Dywan „Księżniczka”</message>
+		<message key="carpetAlienTitle">Chodnik „Kosmici”</message>
+		<message key="lampJapanTitle">Lampa podłogowa „Japonia”</message>
+		<message key="lampArtNouveauTitle">Lampa „Modern”</message>
+		<message key="lampPrincessTitle">lampa „Księżniczka”</message>
+		<message key="fireplaceCountryTitle">Kominek „Country”</message>
+		<message key="katanaJapanBlackTitle">Katana dekoracyjna</message>
+		<message key="katanaJapanRedTitle">Czerwona katana</message>
+		<message key="teaServiceJapanTitle">Serwis japoński</message>
+		<message key="fishBeachTitle">Statuetka</message>
+		<message key="palmBeachTitle">Palma</message>
+		<message key="barAlienTitle">Blat barowy</message>
+		<message key="pipeAlienTitle">Akwarium z kosmitą</message>
+		<message key="poolBeachTitle">Basen ozdobny</message>
+		<message key="tableCoffeeCountryTitle">Stolik kawowy „Country”</message>
+		<message key="diaryPrincessTitle">Pamiętnik księżniczki</message>
+		<message key="chestPrincessTitle">Skrzynia księżniczki</message>
+		<message key="tvAlienTitle">Ekran kosmitów</message>
+		<message key="djAlienTitle">Stolik DJ-a</message>
+		<message key="actAlienTitle">Głośnik kosmitów</message>
+		<message key="plateCountryTitle">Talerz na ścianę „Country”</message>
+		<message key="flowerMayaLabel">Kwiat „Majowie”</message>
+		<message key="treeMayaLabel">Drzewo „Majowie”</message>
+		<message key="trashMayaLabel">Kosz „Majowie”</message>
+		<message key="fireplaceMayaLabel">Pochodnia stojąca „Majowie”</message>
+		<message key="torchMayaLabel">Pochodnia ścienna „Majowie”</message>
+		<message key="carpetMayaLabel">Dywan „Majowie”</message>
+
+		<!-- NY 2014 EVENT ITEMS -->
+        <message key="columnIceNY14Label">Lodowa kolumna</message>
+        <message key="tangerineTreeIceNY14Label">Lodowe drzewo</message>
+
+		<!-- SV14 -->
+		<message key="lampSV14Label">Lampa „Wyznanie”</message>
+		<message key="castleSV14Label">Dmuchany zamek</message>
+
+		<!-- DZO14 -->
+		<message key="lampFebruary23Label">Lampa oświetleniowa w bunkrze</message>
+		<message key="ventilationFebruary23Label">Wentylacja bunkra</message>
+		<message key="clockCategory">Zegar</message>
+		<message key="clockFebruary23Label">Elektroniczny zegar</message>
+
+		<!-- NYROOF -->
+		<message key="binocularsNYRoofLabel">Lornetka</message>
+		<message key="plantNYRoofLabel">Skrzynka z zielenia</message>
+		<message key="menuNewspaperNYRoofLabel">Zestaw „Poranna kawa”</message>
+		<message key="telescopeNYRoofLabel">Teleskop</message>
+
+		<!-- 1st MAY 2014 -->
+		<message key="workersPictureTitle">Plakat „Awataria”</message>
+
+        <!-- SEA KITCHEN -->
+        <message key="carpetSeaLabel">Dywan „Morska bryza”</message>
+        <message key="callasSeaLabel">Wazon dekoracyjny</message>
+
+        <!-- RACE CARS -->
+        <message key="raceCarsCollection">Samochody</message>
+        <message key="carBeetleBlueTitle">Garbus „Laguna”</message>
+        <message key="carBeetleOrangeTitle">Garbus „Fiesta”</message>
+        <message key="carJeepMilitaryTitle">Jeep „Military”</message>
+        <message key="carJeepYellowTitle">Jeep „Sunny”</message>
+        <message key="carLamboGreenTitle">Sportowy „Poison”</message>
+        <message key="carLamboWhiteTitle">Sportowy „Wild”</message>
+        <message key="carLotusRedTitle">Sportowy „Lotus Red”</message>
+        <message key="carLotusVioletTitle">Sportowy „Lotus Violet”</message>
+        <message key="carPontiacBlackTitle">Retro auto „Desert Rose”</message>
+        <message key="carPontiacCherryTitle">Retro auto „Crazy Cherry”</message>
+
+		<!-- SP14 -->
+		<message key="spLimitGenerator">Generator energii</message>
+		<message key="spUnlimGenerator">Perpetuum mobile</message>
+		<message key="spRobot">Robot-pracuś</message>
+        <message key="steampunkUnitCategoryLabel">Steampunk</message>
+        <message key="steampunkGeneratorCategoryLabel">Steampunk</message>
+        <message key="sp2014Label">Steampunk</message>
+
+		<!-- GARAGE ROOM -->
+		<message key="garageRetroDrumkit">Zestaw perkusyjny „Awataria”</message>
+		<message key="garageRetroFuelCan">Kanister</message>
+		<message key="garageRetroSpareWheel">Podstawka pod koło</message>
+		<message key="garageRetroTires">Koło zapasowe</message>
+		<message key="garageRetroExtinguisher">Gaśnica</message>
+		<message key="garageRetroRaceHelmet">Kask wyścigowy</message>
+		<message key="garageRetroGasStation">Stacja benzynowa</message>
+		<message key="garageRetroToolPanel">Zestaw narzędzi</message>
+		<message key="garageRetroTable">Stół warsztatowy</message>
+		<message key="garageRetroLookPit">Kanał</message>
+		<message key="garageTechnoPodium">Podwyższenie dla samochodu</message>
+
+        <!-- SD14 -->
+        <message key="summerDayFlowerCategoryLabel">Szklarnia</message>
+        <message key="summerDayFlower1Title">Szklarnia</message>
+
+        <!-- HALLOWEEN 2014 -->
+        <message key="mirrorHalloweenTitle">Mistyczne Lustro</message>
+
+        <!-- NY15 -->
+        <message key="magicMachineCategoryLabel">Fabryka Mikołaja</message>
+        <message key="magicMachineLabel">Fabryka prezentów</message>
+        <message key="trcSantaHouseLabel">Latarnia „Mikołaj”</message>
+        <message key="frplSantaHouseLabel">Kominek „Mikołaj”</message>
+
+        <!-- STVAL15 -->
+        <message key="vaseSV15Label">Wazon „Aleja miłości”</message>
+
+        <!-- BIKES -->
+        <message key="bikesCategory">Motocykle</message>
+        <message key="bikeChopperBlueTitle">Chopper „Night Wolf”</message>
+        <message key="bikeChopperRedTitle">Chopper „Red Devil”</message>
+        <message key="bikeDucattiOrangeTitle">Motocykl sportowy „Winner”</message>
+        <message key="bikeDucattiYellowTitle">Motocykl sportowy „Champion”</message>
+        <message key="bikeRaiserGreenTitle">Motocykl „Cruiser”</message>
+        <message key="bikeRaiserWhiteTitle">Motocykl „Rider”</message>
+
+        <!-- EASTER15 -->
+        <message key="easterRabbitTitle">Królik wielkanocny</message>
+
+        <!-- CONAN -->
+        <message key="columnConanTitle">Kolumna barbarzyńców</message>
+        <message key="firePlateConanTitle">Ognisko barbarzyńców</message>
+
+        <message key="dirol15PictureTitle">Obraz Dirol</message>
+        <message key="grdFrmBtrfl">Rama „Motyl”</message>
+        <message key="grdFrmBtrfl1">Rama „Niebieski motyl”</message>
+        <message key="grdFrmBtrfl2">Rama „Tęczowy motyl”</message>
+        <message key="grdFrmBtrfl3">Rama „Zielony motyl”</message>
+        <message key="grdnDsyBqt">Bukiet „Daisy”</message>
+        <message key="grdnFlwrBskt">Koszyk z kwiatami</message>
+        <message key="grdnFlwrbd">Klomb „Ogrodnik”</message>
+        <message key="grdnrHrbrm">Zielnik</message>
+        <message key="chstGrdnrGft">Kufer „Ogrodnik”</message>
+        <message key="grdnrBtrflCol">Kolekcja żywych motyli</message>
+        <message key="jntrFrplc">Kominek „Sprzątacz”</message>
+        <message key="jntrKnght">Rycerz</message>
+        <message key="jntrHrgls">Klepsydra</message>
+        <message key="jntrGrmphn">Patefon</message>
+        <message key="jntrTrnsstr">Radio</message>
+        <message key="jntrGrndClck">Zegar stojący</message>
+        <message key="jntrRckr">Huśtawka „Sprzątacz”</message>
+        <message key="jntrRlw">Tory kolejowe</message>
+		<message key="jntrAuto">Garbus „Sprzątacz”</message>
+
+        <message key="jntrCckClck">Zegar z kukułką</message>
+        <message key="jntrJkbx">Szafa grająca</message>
+        <message key="vsTrBthLabel">Wazon „Tropiki”</message>
+        <message key="pctTrBthLabel">Obraz „Tropikalny koktajl”</message>
+        <message key="clmTrBthLabel">Kolumna „Tropiki”</message>
+        <message key="bookTrBthLabel">Księga dżungli</message>
+        <message key="vaseKotexLabel">Wazon Kotex</message>
+
+        <message key="lmpHsptl">Lampa szpitalna</message>
+        <message key="fldngScrnHsptl">Parawan szpitalny</message>
+        <message key="drpCuntrHsptl">Kroplówka</message>
+        <message key="vntltnHsptl">Respirator</message>
+        <message key="dfbrlltrHsptl">Defibrylator</message>
+        <message key="pctBlkRs1Label">Obraz „Rosa w dzieciństwie”</message>
+        <message key="pctBlkRs2Label">Obraz „Rodzice Rosy”</message>
+        <message key="pctBlkRs3Label">Obraz „Portret Rosy”</message>
+        <message key="pctBlkRs4Label">Obraz „Vincent”</message>
+        <message key="bookBlkRsLabel">Książka „Pamiętnik Rosy”</message>
+        <message key="musCentBlkRsLabel">Gramofon „Czarna Rosa”</message>
+
+        <message key="proPhtTblLabel">Stolik kawowy „Fotograf”</message>
+        <message key="proPhtCffLabel">Kawa</message>
+        <message key="proPhtPctrLabel">Obraz „Fotograf”</message>
+        <message key="proPhtVsLabel">Wazon „Fotograf”</message>
+        <message key="proPhtWllLabel">Ściana „Fotograf”</message>
+        <message key="proPhtChrLabel">Taboret „Fotograf”</message>
+        <message key="proPhtCmrLabel">Aparat fotograficzny</message>
+        <message key="proPhtTriLabel">Trójnóg</message>
+        <message key="proPhtCrptLabel">Dywan „Fotograf”</message>
+        <message key="proPhtUmrlLabel">Parasol fotograficzny</message>
+        <message key="proPhtFlrLabel">Podłoga do studia fotograficznego</message>
+        <message key="proPhtFn1Label">Wentylator do studia fotograficznego</message>
+        <message key="proPhtScrnLabel">Ściana do fotografowania</message>
+        <message key="proPhtLmpLabel">Lampa z softboxem</message>
+        <message key="proPhtFn2Label">Wentylator „Fotograf”</message>
+        <message key="proPhtDrLabel">Drzwi „Fotograf”</message>
+        <message key="proPhtSfLabel">Wersalka „Fotograf”</message>
+
+		<message key="sd16DrtPndLabel">Brudny staw</message>
+		<message key="sd16ClnPndLabel">Staw</message>
+		<message key="sd16FlwPndLabel">Staw z kwiatami</message>
+		<message key="sd16FltPndLabel">Staw z czystą wodą</message>
+		<message key="sd16FshPndLabel">Staw z rybami</message>
+
+		<message key="gdnTre1Label">Szmaragdowe drzewo</message>
+		<message key="gdnTre2Label">Rubinowe drzewo</message>
+
+		<message key="gerberaPinkTitle">Wazon stołowy z różowym kwiatem</message>
+		<message key="gerberaOrangeTitle">Wazon stołowy z pomarańczowym kwiatem</message>
+		<message key="gerberaYellowTitle">Wazon stołowy z żółtym kwiatem</message>
+		<message key="vaseFloorBlue">Wazon ozdobny błękitny</message>
+		<message key="vaseFloorRed">Wazon ozdobny czerwony</message>
+		<message key="photoFrameBlue">Błękitna ramka</message>
+		<message key="photoFrameRed">Czerwona ramka</message>
+		<message key="totemsTitle1">Pierwsza kolekcja totemów</message>
+		<message key="totemsTitle2">Druga kolekcja totemów</message>
+		<message key="totemsTitle3">Trzecia kolekcja totemów</message>
+
+		<message key="ny18SnbrdLabel">Snowboard</message>
+
+		<message key="carJeepDescription">Tym jeepem możesz pojechać do kanionu i wziąć udział w wyścigach, a do tego poszpanować i poznać kogoś</message>
+		<message key="dzo18PstrLabel">Plakat &quot;AVA-23&quot;</message>
+		<message key="dzo18SttLabel">Samolot &quot;AVA-23&quot;</message>
+
+		<message key="fireplaceDescription">Ogień w kominku działa uspokajająco, pozwala się zrelaksować i zagłębić we własnych myślach.</message>
+		<message key="computerDescription">Kup modny i stylowy notebook, aby w dowolnym miejscu i o każdej porze móc sprawdzić pocztę od przyjaciół i znajomych.</message>
+		<message key="tvDescription">Zanurz się w atmosferze rozrywki z najlepszymi kanałami w Awatarii. Twoi przyjaciele na pewno docenią wysoką jakość obrazu!</message>
+		<message key="stereoDescription">Nie ma porządnej imprezy bez dobrej muzyki. Kup zestaw stereo, a my dostarczymy ci stacje radiowe na każdy gust!</message>
+		<message key="mailBoxDescription">Załóż skrzynkę pocztową, aby twoi znajomi mogli w każdej chwili przysłać ci wiadomość.</message>
+		<message key="horseDescription">Huśtawka pomoże ci rozbujać każdą imprezę. Jeśli twoim gościom się znudziło, pobujaj się z nimi do dźwięków ulubionej muzyki!</message>
+		<message key="aquariumDescription">Chcesz oczarować swoich gości? Ozdób mieszkanie animowanym akwarium! W akwarium można trzymać rybki ze sklepu z prezentami i śmiesznymi rzeczami.</message>
+		<message key="carDescription">Samochodem można zwiedzić kanion, wziąć udział w wyścigu i po prostu miło spędzić czas ze znajomymi!</message>
+		<message key="bikeDescription">Motocyklem można zwiedzić kanion, wziąć udział w wyścigu i pochwalić się zakupem przez innymi awatarami.</message>
+
+		<message key="telescopeDescription">Kupując ten przedmiot, możesz zobaczyć wiele ciekawych rzeczy. Na pewno tego chcesz?</message>
+
+		<message key="ab18BlnLabel">Balony</message>
+		<message key="ab18CkcLabel">Tort urodzinowy</message>
+		<message key="ab18GrlndLabel">Chorągiewki</message>
+
+		<message key="gamerShelfTitle">Regał na książki „Streamer”</message>
+		<message key="gamerGuitarTitle">Gitara „Streamer”</message>
+		<message key="gamerLampTitle">Lampki „Streamer”</message>
+		<message key="gamerLoudspeakerTitle">Kolumna „Streamer”</message>
+		<message key="gamerPosterTitle">Plakat „Streamer”</message>
+		<message key="gamerWatchTitle">Zegar „Streamer”</message>
+		<message key="gamerHeadphonesTitle">Słuchawki „Streamer”</message>
+		<message key="gamerWheelTitle">Kierownica „Streamer”</message>
+		<message key="hw18PmpPtLabel">Doniczka z dynią</message>
+		<message key="evilFlowerTitle">Diabelski kwiat</message>
+		<message key="infernalRabbitTitle">Piekielny królik</message>
+		<message key="witchFireplaceTitle">Piec wiedźmy</message>
+
+		<message key="ny19TngTrLabel">Drzewo mandarynkowe</message>
+		<message key="ny19BllsLabel">Bombka na choinkę</message>
+		<message key="ny19GrlndLabel">Girlanda</message>
+		<message key="ny19VsLabel">Wazon</message>
+		<message key="ny19FireplaceLabel">Kominek</message>
+		<message key="ny19PnLabel">Fortepian</message>
+
+		<message key="notebookVKPayLabel">Notebook VK</message>
+		<message key="wddnCarLabel">Garbus „Kupidyn”</message>
+		<message key="valentineBearPinkLabel">Różowy miś z róż</message>
+		<message key="valentineBearRedLabel">Czerwony miś z róż</message>
+		<message key="valentineBearVioletLabel">Fioletowy miś z róż</message>
+		<message key="valentineRosesVaseLabel">Wazon z trzema różami</message>
+		<message key="valentineFountainLabel">Fontanna z aniołkiem</message>
+
+		<message key="dzo19PlnTitle">Huśtawka „Samolot”</message>
+		<message key="dzo19PlnDescription">Do dzieła! Chcesz się poczuć jak prawdziwy pilot? Siadaj za ster!</message>
+
+		<message key="stPatrickPotTitle">Garniec ze złotem</message>
+
+		<message key="easterRabbitsLabel">Pluszowe króliki</message>
+		<message key="easterWreathLabel">Wianek wielkanocny</message>
+		<message key="m1st19PosterLabel">Plakat „Święto pracy”</message>
+		<message key="floorTableLabel">Tabliczka</message>
+		<message key="floorTableDescription">Podliczenie punktów, wskazanie ceny, zgadywanie słów po literach – to i wiele innych rzeczy można robić z tabliczką!</message>
+		<message key="finishCarpetLabel">Rozwinięty chodnik finiszowy</message>
+		<message key="colorBigCarpetTitle">Duży zmieniający kolor chodnik</message>
+		<message key="colorSmallCarpetTitle">Mały zmieniający kolor chodnik</message>
+		<message key="colorCarpetDescription">W edytorze pokoju możesz zmienić kolor chodnika</message>
+		<message key="colorWheelLabel">Tęczowe koło</message>
+		<message key="colorWheelDescription">Wybierz losowy kolor, używając tęczowego koła</message>
+		<message key="rusDay19BearDrummerLabel">Miś bębniarz</message>
+
+		<message key="seFanLabel">Wentylator „Złota jesień”</message>
+
+		<message key="pnkSofaClnGlmrLabel">Kanapa „Pokój księżniczki”</message>
+		<message key="grnSofaClnGlmrLabel">Sofa „Pokój księżniczki”</message>
+		<message key="uncrnClnGlmrLabel">Jednorożec „Pokój księżniczki”</message>
+		<message key="uncrnClnGlmrDescription">Chcesz się pokazać na jednorożcu? W takim razie masz na to idealną szansę!</message>
+		<message key="tblClnGlmrLabel">Stolik „Pokój księżniczki”</message>
+		<message key="lampClnGlmrLabel">Żyrandol „Pokój księżniczki”</message>
+		<message key="uncrnHeadClnGlmrLabel">Jednorożec „Pokój księżniczki”</message>
+		<message key="pnkCrptClnGlmrLabel">Chodnik „Pokój księżniczki”</message>
+		<message key="brwnCrptClnGlmrLabel">Dywan „Pokój księżniczki”</message>
+		<message key="mrrClnGlmrLabel">Lustro „Pokój księżniczki”</message>
+		<message key="vaseClnGlmrLabel">Wazonik „Pokój księżniczki”</message>
+		<message key="scrnClnGlmrLabel">Parawan „Pokój księżniczki”</message>
+		<message key="bxsClnGlmrLabel">Pudełka „Pokój księżniczki”</message>
+		<message key="trayClnGlmrLabel">Taca „Pokój księżniczki”</message>
+		<message key="mgkWndClnMgkLabel">Różdżka „Średniowieczny zamek”</message>
+		<message key="armsphrClnMgkLabel">Globus „Średniowieczny zamek”</message>
+		<message key="tblBkClnMgkLabel">Książki „Średniowieczny zamek”</message>
+		<message key="carpetClnMgkLabel">Dywan „Średniowieczny zamek”</message>
+		<message key="tlscpClnMgkLabel">Teleskop „Średniowieczny zamek”</message>
+		<message key="telescopeMagicClanDescription">Pierwszy średniowieczny teleskop, przez który można obserwować sąsiadujące ziemie.</message>
+		<message key="armchrGrnClnSciFiLabel">Zielony fotel „Stacja kosmiczna”</message>
+		<message key="armchrOrngClnSciFiLabel">Pomarańczowy fotel „Stacja kosmiczna”</message>
+		<message key="otmnClnSciFiLabel">Puf „Stacja kosmiczna”</message>
+		<message key="stlClnSciFiLabel">Krzesło „Stacja kosmiczna”</message>
+		<message key="tblClnSciFiLabel">Stół „Stacja kosmiczna”</message>
+		<message key="barClnSciFiLabel">Barek „Stacja kosmiczna”</message>
+		<message key="carpetClnSciFiLabel">Dywan „Stacja kosmiczna”</message>
+		<message key="plantClnSciFiLabel">Kwiat „Stacja kosmiczna”</message>
+		<message key="holoPlanetsClnSciFiLabel">Globus „Stacja kosmiczna”</message>
+		<message key="holoPlanetsClnSciFiDescription">Nowe technologie pozwalają na skanowanie pobliskich planet i obserwowanie ich.</message>
+		<message key="ccmbrClnSciFiLabel">Krzew „Stacja kosmiczna”</message>
+		<message key="wllPnlClnSciFiLabel">Monitor „Stacja kosmiczna”</message>
+		<message key="brmnClnSciFiLabel">Bot barman „Stacja kosmiczna”</message>
+		<message key="brmnClnSciFiDescription">Co to za statek kosmiczny, jeśli nie ma na pokładzie robota? A jeśli to barman, to na pewno nie będzie nudno!</message>
+		<message key="infPnlClnSciFiLabel">Komputer „Planety”</message>
+		<message key="infPnlClnSciFiDescription">Ten komputer pokazuje planety najbliższego układu słonecznego.</message>
+		<message key="infShpPnlClnSciFiLabel">Komputer „Statek kosmiczny”</message>
+		<message key="infShpPnlClnSciFiDescription">Ten komputer pokazuje wszystkie systemy statku kosmicznego.</message>
+		<message key="trChrClnPstApcLabel">Opony „Postapokalipsa”</message>
+		<message key="carClnPstApcLabel">Samochód „Postapokalipsa”</message>
+		<message key="brlTblClnPstApcLabel">Beczka „Postapokalipsa”</message>
+		<message key="tblClnPstApcLabel">Stół „Postapokalipsa”</message>
+		<message key="brlClnPstApcLabel">Płonąca beczka „Postapokalipsa”</message>
+		<message key="brlClnPstApcDescription">W tej beczce stale jest podtrzymywany ogień, aby nie zmarznąć zimną nocą.</message>
+		<message key="duckClnPstApcLabel">Kaczka „Postapokalipsa”</message>
+		<message key="bbordClnPstApcLabel">Billboard „Postapokalipsa”</message>
+		<message key="bbordClnPstApcDescription">Billboard pokazuje reklamę nawet po apokalipsie.</message>
+		<message key="crtClnPstApcLabel">Kosz „Postapokalipsa”</message>
+		<message key="fncClnPstApcLabel">Ogrodzenie „Postapokalipsa”</message>
+		<message key="radioClnPstApcLabel">Prowiant „Postapokalipsa”</message>
+
+		<message key="NY20BllnsLabel">Balony</message>
+		<message key="NY20WllStrLabel">Gwiazda na ścianę</message>
+		<message key="NY20ScnLabel">Podium „Błękitny płomyk”</message>
+		<message key="NY20YllwGrlndLabel">Żółty łańcuch</message>
+		<message key="NY20GrnGrlndLabel">Zielona łańcuch</message>
+		<message key="NY20BlGrlndLabel">Błękitna łańcuch</message>
+		<message key="NY20LghtLabel">Reflektor „Błękitny płomyk”</message>
+		<message key="NY20GlssLabel">Kielich „Błękitny płomyk”</message>
+		<message key="NY20PltLabel">Talerz z zastawą stołową</message>
+		<message key="NY20SprklrLabel">Ogień bengalski</message>
+		<message key="NY20CnpsLabel">Kanapka „Błękitny płomyk”</message>
+		<message key="NY20LmndLabel">Lemoniada „Błękitny płomyk”</message>
+		<message key="pdmNY20CrptLabel">Podium „Pokaz mody”</message>
+		<message key="pdmNY20LampLabel">Lampa „Pokaz mody”</message>
+		<message key="pdmNY20FlrLampLabel">Reflektor podłogowy „Pokaz mody”</message>
+		<message key="pdmNY20SptLghtLabel">Reflektor ścienny „Pokaz mody”</message>
+		<message key="pdmNY20ClmnLabel">Szklany panel „Pokaz mody”</message>
+		<message key="pdmNY20BrrLabel">Ogrodzenie „Pokaz mody”</message>
+		<message key="lightDeerLabel">Renifer Rudolf</message>
+
+		<message key="wndrlndCkLabel">Tort „Herbata”</message>
+		<message key="wndrlndCrdsLabel">Karty „Herbata”</message>
+		<message key="wndrlndClckLabel">Zegar „Herbata”</message>
+		<message key="wndrlndCp1Label">Niebieska filiżanka „Herbata”</message>
+		<message key="wndrlndCp2Label">Różowa filiżanka „Herbata”</message>
+		<message key="wndrlndCp3Label">Biała filiżanka „Herbata”</message>
+		<message key="wndrlndCpcksLabel">Keks „Herbata”</message>
+		<message key="wndrlndFlwrLabel">Kwiat „Herbata”</message>
+		<message key="wndrlndKttl1Label">Dzbanek „Herbata”</message>
+		<message key="wndrlndKttl2Label">Zaczarowany czajniczek „Herbata”</message>
+		<message key="wndrlndPLabel">Ciasto „Herbata”</message>
+		<message key="wndrlndVsLabel">Wazon „Herbata”</message>
+		<message key="wndrlndFlmngLabel">Flaming „Herbata”</message>
+		<message key="wndrlndPntngsLabel">Obrazy „Herbata”</message>
+		<message key="wndrlndRgLabel">Dywan „Herbata”</message>
+		<message key="rstrnt2019BrShlf1Label">Półka z butelkami „Restauracja”</message>
+		<message key="rstrnt2019BrShlf2Label">Półka z napojami „Restauracja”</message>
+		<message key="rstrnt2019PctrLabel">Obraz „Restauracja”</message>
+		<message key="rstrnt2019LmpLabel">Żyrandol „Restauracja”</message>
+		<message key="rstrnt2019PrttnLabel">Parawan „Restauracja”</message>
+		<message key="rstrnt2019BlPltLabel">Niebieski talerz „Restauracja”</message>
+		<message key="rstrnt2019PnkPltLabel">Różowy talerz „Restauracja”</message>
+		<message key="rstrnt2019BttlLabel">Butelki „Restauracja”</message>
+		<message key="rstrnt2019FlwrLabel">Kwiat „Restauracja”</message>
+		<message key="rstrnt2019CndlLabel">Świeca „Restauracja”</message>
+
+		<message key="tankDzo20PinkLabel">Modny czołg „Т-AVA”</message>
+		<message key="tankDzo20GreenLabel">Czołg bojowy „Т-AVA”</message>
+		<message key="tankDescription">Czołgiem można zwiedzić kanion, wziąć udział w wyścigu i po prostu miło spędzić czas!</message>
+		<message key="rtstWrkshpFlwr1Label">Kwiat „Skrzydłokwiat”</message>
+		<message key="rtstWrkshpFlwr2Label">Kwiat „Difenbachia”</message>
+		<message key="rtstWrkshpBttrflsLabel">Kolekcja motyli „Artysta”</message>
+		<message key="rtstWrkshpPntng1Label">Obraz „Pory roku”</message>
+		<message key="rtstWrkshpPntng2Label">Obraz „Zachód słońca”</message>
+		<message key="rtstWrkshpPntng3Label">Obraz „Świt”</message>
+		<message key="rtstWrkshpPntng4Label">Obraz „W ciemności”</message>
+		<message key="rtstWrkshpPntng5Label">Zielnik „Artysta”</message>
+		<message key="rtstWrkshpPntng6Label">Panneau z roślin „Artysta”</message>
+		<message key="rtstWrkshpPrjctrLabel">Reflektor „Artysta”</message>
+		<message key="rtstWrkshpPrjctrDescription">Włączaj dodatkowe oświetlenie, kiedy go brakuje.</message>
+		<message key="rtstWrkshpBrshsLabel">Gałęzie „Artysta”</message>
+		<message key="rtstWrkshpCnvsLabel">Sztaluga „Artysta”</message>
+		<message key="rtstWrkshpCnvsDescription">Maluj, twórz, rozwijaj się i zostań najlepszym artystą Awatarii.</message>
+		<message key="rtstWrkshpFlwrShlfLabel">Półka z kwiatem „Artysta”</message>
+		<message key="rtstWrkshpPntCpsLabel">Pojemniczki z farbą „Artysta”</message>
+		<message key="rtstWrkshpPntShlfLabel">Półka z farbami „Artysta”</message>
+		<message key="rtstWrkshpPlltLabel">Pędzel i farby „Artysta”</message>
+		<message key="roomAquarium1Title">Akwarium „Fortuna”</message>
+		<message key="fireworkLabel">Fajerwerk „Fortuna”</message>
+		<message key="stPtrBllnsLabel">Kule „Koniczyna”</message>
+		<message key="stPtr20GrlndLabel">Girlanda „Koniczyna”</message>
+		<message key="stPtr20DcrLabel">Skrzaty w kapeluszach</message>
+
+		<message key="fa20DcrLabel">Paczka kaszy</message>
+
+		<message key="greenEasterEggTitle">Zielone wielkanocne jajko</message>
+		<message key="blueEasterEggTitle">Błękitne wielkanocne jajko</message>
+		<message key="violetEasterEggTitle">Fioletowe wielkanocne jajko</message>
+		<message key="estr20ChkToyLabel">Zabawka „Kurczak”</message>
+		<message key="estr20RbtToyLabel">Zabawka „Królik”</message>
+		<message key="estr20EggsLabel">Talerz z jajkami wielkanocnymi</message>
+		<message key="estr20WtchLabel">Zegarek „Królik”</message>
+		<message key="estr20FlgsLabel">Chorągiewki</message>
+		<message key="estr20CarpetLabel">Chodnik „Wielkanoc”</message>
+		<message key="estr20RbtCarpetLabel">Dywan „Królik”</message>
+		<message key="estr20CakeLabel">Babka wielkanocna</message>
+		<message key="pgn1May20Label">Gołąb pokoju</message>
+		<message key="9May20CollectionLabel">Muzeum</message>
+		<message key="blLmp9may20Label">Neonowe podświetlenie</message>
+		<message key="flrLmp9may20Label">Podświetlenie „Muzeum”</message>
+		<message key="rpg9May20Label">Eksponat „Ręczny granatnik”</message>
+		<message key="unfrm9May20Label">Eksponat „Mundur”</message>
+		<message key="hStnd9May20Label">Podstawka pionowa</message>
+		<message key="lStnd9May20Label">Podstawka pozioma</message>
+		<message key="gsMsk9May20Label">Eksponat „Maska przeciwgazowa”</message>
+		<message key="gsMskBr9May20Label">Eksponat „Maska przeciwgazowa dziecięca”</message>
+		<message key="fnc9May20Label">Ogrodzenie „Muzeum”</message>
+		<message key="wpn9May20Label">Witryna „Kolekcja broni”</message>
+		<message key="tank9May20Label">Eksponat „Czołg T-34”</message>
+		<message key="katusha9May20Label">Eksponat „Katiusza”</message>
+
+		<message key="pnlMdrnBdrmLabel">Panel „Modern”</message>
+		<message key="crptMdrnBdrmLabel">Dywan „Modern”</message>
+		<message key="hngngLmpMdrnBdrmLabel">Żyrandol „Modern”</message>
+		<message key="plntMdrnBdrmLabel">Roślina ozdobna „Modern”</message>
+		<message key="bksMdrnBdrmLabel">Książki „Modern”</message>
+		<message key="crtnsMdrnBdrmLabel">Zasłona „Modern”</message>
+		<message key="flwrMdrnBdrmLabel">Kwiat „Modern”</message>
+		<message key="tblLmpMdrnBdrmLabel">Lampa stołowa „Modern”</message>
+		<message key="vsMdrnBdrmLabel">Wazon „Modern”</message>
+		<message key="flwrVsMdrnBdrmLabel">Wazon z kwiatami „Modern”</message>
+		<message key="dcrPnlMdrnBdrmLabel">Panel ozdobny „Modern”</message>
+
+		<message key="ny21TableLabel">Stół „Christmas night”</message>
+		<message key="ny21CofeLabel">Filiżanka kawy „Christmas night”</message>
+		<message key="ny21DeerLabel">Renifer „Christmas night”</message>
+		<message key="ny21GarlandDecorLabel">Girlanda „Christmas night”</message>
+		<message key="ny21LampDecorLabel">Lampka „Christmas night”</message>
+		<message key="ny21LampDecorDescription">Dodaj nocy Bożego Narodzenia troszkę światła i ciepła!</message>
+		<message key="ny21MenuLabel">Tabliczka „Christmas night”</message>
+		<message key="ny21SmallTreeLabel">Ozdoba „Christmas night”</message>
+		<message key="ny21SnowmanLabel">Bałwan „Christmas night”</message>
+		<message key="ny21TreeLabel">Drzewo „Christmas night”</message>
+
+		<message key="zilDzo2021Label">Jeep „Punisher”</message>
+		<message key="paradiseHallDrLabel">Portal „Raj”</message>
+		<message key="clanPrdsArcLabel">Łuk „Raj”</message>
+		<message key="clanPrdsBnchLabel">Ławka „Raj”</message>
+		<message key="clanPrdsBrdgLabel">Most „Raj”</message>
+		<message key="clanPrdsClmnLabel">Kolumna „Raj”</message>
+		<message key="clanPrdsClmnSmallLabel">Zburzona kolumna</message>
+		<message key="clanPrdsFntnLabel">Fontanna „Raj”</message>
+		<message key="clanPrdsPondLabel">Staw „Raj”</message>
+		<message key="clanPrdsStmpLabel">Pieniek „Raj”</message>
+		<message key="clanPrdsTreeLabel">Drzewo „Raj”</message>
+		<message key="clanPrdsWellLabel">Studnia „Raj”</message>
+		<message key="hellHallDrLabel">Pentagram „Piekło”</message>
+		<message key="clanHellCageLabel">Klatka „Piekło”</message>
+		<message key="clanHellChrLabel">Stół „Piekło”</message>
+		<message key="clanHellWndLabel">Balkon „Piekło”</message>
+		<message key="clanHellChainLabel">Łańcuch „Piekło”</message>
+		<message key="clanGellFrClmnLabel">Pochodnia „Piekło”</message>
+		<message key="clanHellGrnFrLabel">Zielona pochodnia „Piekło”</message>
+		<message key="clanHellLavaLabel">Kapiąca pochodnia „Piekło”</message>
+		<message key="clanHellRunesLabel">Runy „Piekło”</message>
+		<message key="clanHellSkllLabel">Czaszka „Piekło”</message>
+
+		<message key="avatarYear21SttLabel">Awatar roku</message>
+		<message key="fa21AquaDiscoLabel">Aquadyskoteka</message>
+		<message key="fa21CommodeLabel">Komoda „Marchewka”</message>
+		<message key="bingo2021AwardLabel">Figurka „Mistrz Bingo”</message>
+		<message key="catPosterAnimeRoomLabel">Plakat „Księżyc”</message>
+		<message key="carpetAnimeRoomLabel">Dywan „Anime”</message>
+		<message key="catLampAnimeRoomLabel">Żyrandol „Anime”</message>
+		<message key="computerAnimeRoomLabel">Komputer „Anime”</message>
+		<message key="cupboardAnimeRoomLabel">Szafa „Anime”</message>
+		<message key="lunarPrismAnimeRoomLabel">Księżycowy pryzmat</message>
+		<message key="shelfAnimeRoomLabel">Półka „Anime”</message>
+		<message key="posterAnimeRoomLabel">Plakat „Sailor Moon”</message>
+
+		<message key="rocketDescription">Na kosmodromie w Awatarii wylądował statek kosmiczny „Avaspace”, którym możesz wyruszyć do kanionu i pokazać wszystkim, co oznacza „kosmiczna prędkość”.</message>
+		<message key="bingo2021TimerLabel">Licznik „Bingo”</message>
+		<message key="bingo2021BallLabel">Kryształowa kula „Bingo”</message>
+		<message key="bingo2021TerminalLabel">Terminal „Bingo”</message>
+		<message key="spaceXRocketLabel">Rakieta „Avaspace”</message>
+		<message key="kdRm21BallLabel">Piłka nożna</message>
+		<message key="kdRm21BigCactusLabel">Duży kaktus</message>
+		<message key="kdRm21CarLabel">Samochodzik wyścigowy</message>
+		<message key="kdRm21CarpetLabel">Chodnik „Pokój dziecięcy”</message>
+		<message key="kdRm21ChairToyLabel">Pluszowy miś na krześle</message>
+		<message key="kdRm21CupboardLabel">Szafa „Pokój dziecięcy”</message>
+		<message key="kdRm21LittleCactusLabel">Kaktus</message>
+		<message key="kdRm21RabbitLabel">Zabawka „Królik”</message>
+		<message key="kdRm21SharkLabel">Zabawka „Rekin”</message>
+		<message key="kdRm21TrainLabel">Dziecięcy parowóz</message>
+		<message key="kdRm21PlaneLabel">Półka „Pokój dziecięcy”</message>
+		<message key="kdRm21ShelfLabel">Półka dekoracyjna</message>
+		<message key="kdRm21HorseLabel">Konik na biegunach</message>
+		<message key="kdRm21SwingLabel">Dziecięca huśtawka</message>
+
+		<message key="cbr21BarrelLabel">Naczynie „Cyberpunk”</message>
+		<message key="cbr21BoxLabel">Boks „Cyberpunk”</message>
+		<message key="cbr21CubeLabel">Puchar „Cyberpunk”</message>
+		<message key="cbr21FlwrLabel">Kwiat „Cyberpunk”</message>
+		<message key="cbr21HorLampLabel">Lampa podwójna „Cyberpunk”</message>
+		<message key="cbr21VertLampLabel">Lampa „Cyberpunk”</message>
+		<message key="cbr21WallDecorLabel">Wentylator „Cyberpunk”</message>
+		<message key="cbr21WallWpnLabel">Broń „Cyberpunk”</message>
+		<message key="ab21CarpetLabel">Chodnik „Underwater”</message>
+		<message key="ab21CupboardLabel">Szafka „Underwater”</message>
+		<message key="ab21DecorLabel">Roślina „Underwater”</message>
+		<message key="ab21GlobeLabel">Globus „Underwater”</message>
+		<message key="ab21LampFloorLabel">Żyrandol „Underwater”</message>
+		<message key="ab21LampProjectorLabel">Reflektor „Underwater”</message>
+		<message key="ab21LampTableLabel">Reflektor stołowy „Underwater”</message>
+		<message key="ab21PlantLabel">Wodorosty „Underwater”</message>
+		<message key="ab21SpyGlassLabel">Teleskop „Underwater”</message>
+
+		<message key="ab21BathyscapheLabel">Minibatyskaf</message>
+		<message key="blk21CandleLabel">Świece „Black”</message>
+		<message key="blk21CarpetLabel">Dywan „Black”</message>
+		<message key="blk21FlowerLabel">Kwiat „Black”</message>
+		<message key="blk21Flower2Label">Rośliny na ścianę „Black”</message>
+		<message key="blk21Flower3Label">Roślina „Black”</message>
+		<message key="blk21Flower4Label">Roślina ozdobna „Black”</message>
+		<message key="blk21IcosahedronLabel">Figurka „Black”</message>
+		<message key="blk21LampLabel">Lampa „Black”</message>
+		<message key="blk21LightLabel">Podświetlenie „Black”</message>
+		<message key="blk21MoonLabel">Obraz „Black”</message>
+		<message key="blk21PaintingsLabel">Kolaż „Black”</message>
+		<message key="blk21VaseLabel">Wazon „Black”</message>
+		<message key="blk21Vase2Label">Ozdobny wazon „Black”</message>
+		<message key="bubbleMachineLabel">Pingwin</message>
+		<message key="homeTheatreTvLabel">Kino domowe</message>
+		<message key="wtrpl21FruitLabel">Talerz z owocami</message>
+		<message key="wtrpl21PlantLabel">Roślina ozdobna</message>
+		<message key="sciFi21BoxLabel">Boks „AVAEarth - 1”</message>
+		<message key="sciFi21FuseLabel">Bezpiecznik „AVAEarth - 1”</message>
+		<message key="sciFi21LampLabel">Butelki „AVAEarth - 1”</message>
+		<message key="sciFi21MonitorLabel">Monitor „AVAEarth - 1”</message>
+		<message key="sciFi21PanelLabel">Oznakowanie „AVAEarth - 1”</message>
+		<message key="sciFi21PlantLabel">Roślina „AVAEarth - 1”</message>
+		<message key="sciFi21WarningLabel">System komunikacji „AVAEarth - 1”</message>
+		<message key="carBentleyLabel">Kabriolet „Purple Dream”</message>
+		<message key="sln21CactusLabel">Kinkiet „Wild West”</message>
+		<message key="sln21CupLabel">Kubek „Wild West”</message>
+		<message key="sln21DartsLabel">Rzutki „Wild West”</message>
+		<message key="sln21HangerLabel">Wieszak „Wild West”</message>
+		<message key="sln21HorseshoeLabel">Podkowa „Wild West”</message>
+		<message key="sln21LampLabel">Lampa „Wild West”</message>
+		<message key="sln21MillLabel">Młynek „Wild West”</message>
+		<message key="sln21PosterLabel">Plakat „Wild West”</message>
+		<message key="sln21ShotgunLabel">Strzelba „Wild West”</message>
+		<message key="sln21SkullLabel">Ozdobne popiersie „Wild West”</message>
+		<message key="dartsDescription">Rzucanie w określone pola wymaga specjalnych umiejętności. Czas sprawdzić swoją celność.</message>
+		<message key="bikeYamaha2021Label">Motocykl „Storm”</message>
+		<message key="carBumblebeeLabel">AvaCamaro</message>
+		<message key="coffeeMachine2021Label">Ekspres do kawy</message>
+
+		<message key="carDiscoverLabel">Samochód terenowy „Discover”</message>
+		<message key="hl21BrainLabel">Sterownia „Laboratorium naukowca”</message>
+		<message key="hl21ChestXRayLabel">Rentgen „Laboratorium naukowca” </message>
+		<message key="hl21EyeLabel">Kapsuła „Laboratorium naukowca”</message>
+		<message key="hl21Flask1Label">Probówki „Laboratorium naukowca”</message>
+		<message key="hl21Flask2Label">Kolby „Laboratorium naukowca”</message>
+		<message key="hl21FootXRayLabel">Rentgen nogi „Laboratorium naukowca”</message>
+		<message key="hl21HandLabel">Ręka „Laboratorium naukowca”</message>
+		<message key="hl21JawLabel">Szczęka „Laboratorium naukowca”</message>
+		<message key="hl21LampLabel">Lampa „Laboratorium naukowca”</message>
+		<message key="hl21MonitorLabel">Monitor „Laboratorium naukowca”</message>
+		<message key="hl21PanelLabel">Panel „Laboratorium naukowca”</message>
+		<message key="hl21Sewerage1Label">Kanalizacja „Laboratorium naukowca”</message>
+		<message key="hl21Sewerage2Label">Zlew „Laboratorium naukowca”</message>
+		<message key="hl21SmallTableLabel">Wózek „Laboratorium naukowca”</message>
+	</locale>
+</dictionary>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="fa20BalloonLabel">Śmieszne balony</message>
+        <message key="fa20HatLabel">Śmieszne akcesoria</message>
+        <message key="fa20CakeLabel">keks</message>
+        <message key="fa20CakeLootDescription">można zdobyć, rzucając się tortami w kawiarni, malując graffiti w mieszkaniach awatarów i podkładając bombki</message>
+        <message key="fa20InfoDialogTitle">Święto śmiechu!</message>
+        <message key="fa20InfoDialogDescription">Czas na zabawę, przyjacielu! Rób śmieszne balony i maski, żartuj z innych awatarów i zbieraj uśmiechy. Nowe świąteczne stroje czekają na ciebie!</message>
+        <message key="fa20SelectTrickDialogTitle">Zrób kawał znajomemu!</message>
+        <message key="fa20SelectTrickDialogDescription">Włożyć znajomemu śmieszną czapkę albo maskę? Albo zrobić kawał, używając odjazdowego balonika? Wybór należy do ciebie!</message>
+        <message key="fa20AwardDialogDescription">Odbierz ten wspaniały prezent za udział w akcji! Nie zapomnij podzielić się tą nowinką ze znajomymi!</message>
+        <message key="fa20WallGetAwardMessage">Udało mi się zdobyć wspaniały prezent za udział w akcji! Ty też chcesz? Czekam na ciebie w grze! :link:</message>
+        <message key="fa20NpcName">Innocenty</message>
+        <message key="fa20NpcMessage1">Hej, chcesz sobie zrobić ekstra fotkę ze wspaniałym Innocentym?</message>
+        <message key="fa20NpcMessage2">Ale łajno!</message>
+        <message key="fa20NpcMessage3">A ty co, wciąż szukasz sobie dziewczyny? Zapytaj Innocentego, jak to się robi!</message>
+        <message key="fa20NpcMessage4">Szybko, róbmy fotkę, bo spieszę się do barbershopu!</message>
+        <message key="fa20NpcMessage5">Dlaczego wcześniej nikt mnie nie zauważał?</message>
+        <message key="fa20NpcMessage6">Hej, chcesz sobie zrobić ekstra fotkę ze wspaniałym Innocentym?</message>
+        <message key="fa20NpcMessage7">Podejdź, nie bój się. Nie gryzę... Chociaż to się jeszcze okażę ;)</message>
+        <message key="fa20NpcMessage8">Nie masz jeszcze zdjęcia ze mną? Co za pech...</message>
+        <message key="fa20BuyPhotoDescription">Chcesz mieć ekstra fotkę z Innocentym?</message>
+        <message key="fa20BuyPhotoButtonTitle">zrób fotkę za :count:</message>
+        <message key="fa20MakePhotoDialogDescription">Oto twoje zdjęcie ze wspaniałym Innocentym! Niezłe, co? Opublikuj je na swojej stronie lub zapisz na komputerze.</message>
+        <message key="fa20PublishPhotoDescription">#awataria #selfie #Innocenty #:nick: Pospiesz się, taką fotkę z Innocentym można sobie zrobić tylko do końca akcji! :link:</message>
+        <message key="fa20ProgressDialogShopDescriptor">Rób awatarom kawały i zbieraj uśmiechy. Płać nimi w naszym sklepie akcji specjalnej</message>
+        <message key="fa20ProgressDialogCraftDescriptor">Rób śmieszne maski i balony, żartuj z innych awatarów, aby podzielić się ze znajomymi dobrym nastrojem</message>
+        <message key="fa20ProgressDialogTrickDescriptor">Kop albo rzucaj tortami w inne awatary, niszcz meble, maluj graffiti, podkładaj bombki w mieszkaniach. Zbieraj keksy potrzebne do tworzenia balonów, masek i czapek</message>
+        <message key="fa20ProgressDialogTrophyDescriptor">Zbierz :count: uśmiechów i zdobądź rzadki tytuł!</message>
+        <message key="fa2020ShopDialogTitle">Sklep z uśmiechami</message>
+        <message key="fa2020BuySmilesDialogTitle">Zakup uśmiechów!</message>
+        <message key="fa2020BuySmilesDialogDescription">Tutaj możesz kupić uśmiechy w bardzo korzystnych cenach. Nie przegap wyjątkowych okazji!</message>
+        <gender key="fa20NotificationDescription">
+            <form>:userName: zażartował z ciebie. Możesz mu się odwdzięczyć!</form>
+            <form>:userName: zażartowała z ciebie. Możesz jej się odwdzięczyć!</form>
+        </gender>
+    </locale>
+</dictionary>

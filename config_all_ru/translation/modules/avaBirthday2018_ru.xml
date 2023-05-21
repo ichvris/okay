@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="ab18ParticipationDialogTitle">Urodziny Awatarii!</message>
+        <message key="ab18ParticipationDialogDescription">Zbieraj uśmiechy, bierz udział minigrach, sprzątaj u znajomych i częstuj innych graczy w klubie i w kawiarni. Wymieniaj uśmiechy na rzadkie nagrody! Pospiesz się, akcja potrwa 2 tygodnie.</message>
+        <message key="ab18ProgressDialogTitle">Urodziny!</message>
+        <message key="ab18OpenForPriceButtonLabel">otwórz za :price:</message>
+        <message key="ab18ProgressDialogDescription">Zbieraj uśmiechy, bierz udział minigrach, sprzątaj u znajomych i częstuj innych graczy w klubie i w kawiarni!</message>
+        <message key="ab18FurnitureHint">Zestaw mebli „Urodziny”</message>
+        <message key="ab18StickerHint">Naklejki „Innocenty”</message>
+        <gender key="ab18AwardDialogDescription">
+            <form>Otrzymałeś ten wspaniały prezent w nagrodę za udział w wydarzeniu. Podziel się tym ze znajomymi!</form>
+            <form>Otrzymałaś ten wspaniały prezent w nagrodę za udział w wydarzeniu. Podziel się tym ze znajomymi!</form>
+        </gender>
+        <gender key="ab18WallGetAwardMessage">
+            <form>Dostałem ten wspaniały prezent, biorąc udział w wydarzeniu poświęconym urodzinom Awatarii. Ty też chcesz? Czekam na ciebie w grze!</form>
+            <form>Dostałam ten wspaniały prezent, biorąc udział w wydarzeniu poświęconym urodzinom Awatarii. Ty też chcesz? Czekam na ciebie w grze!</form>
+        </gender>gender>
+    </locale>
+</dictionary>

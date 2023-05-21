@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="pl">
+        <message key="st17PanLabel">Patelnia</message>
+        <message key="st17PanDescription">Patelnia, na której można smażyć naleśniki.</message>
+        <message key="st17ParticipationDialogTitle">Weź udział w święcie wiosny.</message>
+        <message key="st17PanCraftDialogDescription">Zrób patelnię, aby móc smażyć pyszne i aromatyczne naleśniki.</message>
+        <message key="st17ProducePancakeMenuTitle">zrób naleśnika</message>
+        <message key="st17ProgressDialogTitle">Święto wiosny!</message>
+        <message key="st17ProgressDialogDescription">Świętujemy nadejście wiosny! Zrób patelnię, aby móc smażyć pyszne i aromatyczne naleśniki. A czy poczęstujesz nimi znajomych, czy zjesz samotnie - decyzja należy do ciebie. Usmaż górę naleśników i zdobądź unikatowy prezent!</message>
+        <message key="st17DropPancakeMenuTitle">rzuć naleśnik</message>
+        <message key="st17TreatPancakeMenuTitle">poczęstuj naleśnikiem</message>
+        <message key="st17EmptyPancakeMessage">Nie masz naleśników.</message>
+        <message key="st17AwardDialogTitle">Gratulacje!</message>
+        <message key="st17AwardDialogMessage">W nagrodę za przygotowanie naleśników otrzymujesz odznakę „Święto wiosny”. Tylko tak dalej! Podziel się tą nowością ze znajomymi!</message>
+        <message key="st17WallGetTrophyMessage">Hura, udało mi się zdobyć odznakę „Święto wiosny”! Czekam na ciebie w grze! :link:</message>
+        <message key="st17DropPancakeNotificationMessage">:userName: :genderDrop: masz naleśnika.</message>
+    </locale>
+</dictionary>

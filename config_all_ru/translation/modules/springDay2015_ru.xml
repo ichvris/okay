@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="sd2015WelcomeDialogTitle">Święto wiosny i słońca</message>
+        <message key="sd2015WelcomeDialogMessage1">Zdobywaj puste kolby od sąsiadów, wykonując różne działania w grze. Im więcej masz sąsiadów i im większa twoja aktywność, tym więcej kolb możesz otrzymać.</message>
+        <message key="sd2015WelcomeDialogMessage2">Napełniaj puste kolby światłem słonecznym. Aby to zrobić, w lokacji „Ulica” umieściliśmy prawdziwy generator promieni słonecznych. Napełni on twoje puste kolby słońcem!</message>
+        <message key="sd2015WelcomeDialogMessage3">BEZPŁATNIE otrzymaj nowy pokój „Klatka dla ptaków”. Dbaj o ptaki za pomocą napełnionych kolb.</message>
+        <message key="sd15GotoSD15RoomButtonHint">Klatka dla ptaków</message>
+        <message key="sd15CreateHouseRoomDialogTitle">Nowa klatka dla ptaków</message>
+        <message key="sd15CreateHouseRoomDialogMessage">Chcesz BEZPŁATNIE otrzymać nowy pokój „Klatka dla ptaków”? Jest to możliwe tylko podczas trwania promocji!</message>
+        <message key="sd15CreateHouseRoomDialogFriendMessage">Twój znajomy nie ma jeszcze klatki dla ptaków? Zaprośmy go do gry i powiedzmy, jak tu jest fajnie i wesoło!</message>
+        <message key="sd2015ProgressDialogTitle">Moja klatka dla ptaków</message>
+        <message key="sd2015ProgressDialogMessage">Możesz tu sprawdzić, na jakim etapie rozwoju jest twoja klatka. Im więcej światła słonecznego pada na klatkę, tym piękniejsze ptaki w niej mieszkają.</message>
+        <message key="sd2015AwardDialogTitle">Gratulacje!</message>
+        <message key="sd2015AwardDialogMessage">Twoja klatka ciągle się rozwija, przyjmując ciepło zgromadzonego przez ciebie światła słonecznego. Teraz stała się jeszcze większa i ładniejsza. Tylko tak dalej, a wspaniałe ptaki będą cieszyć cię codziennie!</message>
+        <message key="sd2015AskEmptyFlacksDialogTitle">Potrzebuję pomocy!</message>
+        <message key="sd2015AskEmptyFlacksDialogMessage">Za mało kolb? Poproś znajomych o wejście do gry, aby zebrać więcej kolb i napełnić je światłem słonecznym.</message>
+        <message key="sd2015WallMessage1">Zobaczcie, jakie cudowne ptaki zamieszkały w mojej klatce! Też chcielibyście takie mieć? Z przyjemnością wam pomogę! :link:</message>
+        <message key="sd2015WallMessage2">Pomóżcie mi: w mojej klatce jest za mało słońca dla ptaków. Wejdźcie do gry i pomożemy sobie nawzajem! :link:</message>
+        <message key="sd15CantCollectEmptyFlacksLabel">Można zebrać za :time:</message>
+        <message key="sd15CollectEmptyFlacksDialogTitle">Otrzymaj kolby</message>
+        <message key="sd15CollectEmptyFlacksDialogDescription">Im więcej masz aktywnych sąsiadów, tym więcej kolb możesz codziennie otrzymać. Możesz też znaleźć kolby, wykonując różne działania w grze.</message>
+        <message key="sd15CollectRequestNotAllowedLabel">Ten znajomy od dawna nie wchodził do gry.</message>
+        <message key="sd2015NotEnoughEmptyFlacksDialogMessage">Masz za mało pustych kolb. Można je otrzymać od sąsiadów lub wykonując różne działania w grze. I tak masz za mało kolb?</message>
+        <message key="sd2015NotEnoughEmptyFlacksGotoStreetDialogMessage">Masz za mało napełnionych kolb. Można napełnić je na ulicy. Chcesz tam przejść?</message>
+    </locale>
+</dictionary>

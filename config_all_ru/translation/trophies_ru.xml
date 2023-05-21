@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<dictionary>
+    <locale name="pl">
+        <message key="yearAvatarTitle">Awatar roku</message>
+        <message key="yearAvatarDescription">Zwycięzca nagrody w kategorii „Awatar roku”</message>
+        <message key="activityPlace1Title">Top najaktywniejszych</message>
+        <message key="activityPlace1Description">Pierwsze miejsce wśród najaktywniejszych</message>
+        <message key="activityPlace2Title">Top najaktywniejszych</message>
+        <message key="activityPlace2Description">Drugie miejsce wśród najaktywniejszych</message>
+        <message key="activityPlace3Title">Top najaktywniejszych</message>
+        <message key="activityPlace3Description">Trzecie miejsce wśród najaktywniejszych</message>
+        <message key="firstApril16Place1Title">Zwycięzca epidemii</message>
+        <message key="firstApril16Place1Description">Pierwsze miejsce w epidemii maleństw</message>
+        <message key="firstApril16Place2Title">Zwycięzca epidemii</message>
+        <message key="firstApril16Place2Description">Drugie miejsce w epidemii maleństw</message>
+        <message key="firstApril16Place3Title">Zwycięzca epidemii</message>
+        <message key="firstApril16Place3Description">Trzecie miejsce w epidemii maleństw</message>
+        <message key="firstApril16Place4Title">Zwycięzca epidemii</message>
+        <message key="firstApril16Place4Description">Czwarte miejsce w epidemii maleństw</message>
+        <message key="firstApril16Place5Title">Zwycięzca epidemii</message>
+        <message key="firstApril16Place5Description">Piąte miejsce w epidemii maleństw</message>
+        <message key="avaBirthdayTrophy2016Title">Fan</message>
+        <message key="avaBirthdayTrophy2016Description">Całe życie gra w „Awatarię”</message>
+        <message key="familyDay2016Title">Dzień Rodziny</message>
+        <message key="familyDay2016Description">Chroni rodzinę, miłość i wierność</message>
+        <message key="halloween2016Title">Wielki czarodziej</message>
+        <message key="halloween2016Description">Czarował najwięcej ze wszystkich graczy</message>
+        <message key="newYear2017Title">Bohater 2017 roku</message>
+        <message key="newYear2017Description">Miał ogromny udział w uratowaniu choinki</message>
+
+        <message key="freelanceCupTitle">Tutaj mówią o tobie</message>
+        <message key="freelanceCupDescription">Edytorzy grupy TMOT</message>
+        <message key="freelanceExchangeTitle">Liga Sprawiedliwości</message>
+        <message key="freelanceExchangeDescription">Członek Ligi Sprawiedliwości, strażnicy uczciwej wymiany</message>
+        <message key="freelanceJournalTitle">Magazyn</message>
+        <message key="freelanceJournalDescription">Pracownik oficjalnego magazynu</message>
+        <message key="freelanceMicrophoneTitle">Radio</message>
+        <message key="freelanceMicrophoneDescription">Prowadzący oficjalnego radia</message>
+        <message key="freelanceModeratorTitle">Moderator/strażnik</message>
+        <message key="freelanceModeratorDescription">Stróż prawa w świecie gry</message>
+        <message key="freelanceSupportTitle">Wsparcie</message>
+        <message key="freelanceSupportDescription">Pracownik działu wsparcia użytkowników</message>
+        <message key="freelanceTwitterInstagramTitle">Instagram/Twitter</message>
+        <message key="freelanceTwitterInstagramDescription">Edytor strony na Twitterze lub Instagramie</message>
+        <message key="freelanceVideoTitle">YouTube</message>
+        <message key="freelanceVideoDescription">Twórca wideo lub vloger na kanale YouTube</message>
+        <message key="shrovetide2017Title">Święto wiosny</message>
+        <message key="shrovetide2017Description">Po mistrzowsku smażył naleśniki w święto wiosny</message>
+        <message key="springDay2017Title">Wiosna 2017</message>
+        <message key="springDay2017Description">Szczególne osiągnięcia w wiosennej akcji</message>
+
+        <message key="halloween2017Title">Łowca wilkołaków</message>
+        <message key="halloween2017Description">Szczególne osiągnięcia w polowaniu na wilkołaki</message>
+        <message key="newYear2018Title">Król góry</message>
+        <message key="newYear2018Description">Szczególne osiągnięcia w noworocznej akcji</message>
+        <message key="snowboardPlace1Title">Śnieżny top</message>
+        <message key="snowboardPlace1Description">Pierwsze miejsce w śnieżnym topie</message>
+        <message key="snowboardPlace2Title">Śnieżny top</message>
+        <message key="snowboardPlace2Description">Drugie miejsce w śnieżnym topie</message>
+        <message key="snowboardPlace3Title">Śnieżny top</message>
+        <message key="snowboardPlace3Description">Trzecie miejsce w śnieżnym topie</message>
+
+        <message key="stVal2018Title">Walentynka</message>
+        <message key="stVal2018Description">Mistrz okazywania uczuć</message>
+
+        <message key="springDay2018Title">Wiosna 2018</message>
+
+        <message key="firstApril2018Title">Żartowniś</message>
+        <message key="firstApril2018Description">Szczególne sukcesy w kwietniowej akcji</message>
+
+        <message key="avatarBirthdayTitle">Imieniny</message>
+        <message key="avatarBirthdayDescription">Dzisiaj są urodziny awatara!</message>
+        <message key="weddingDayTitle">Rocznica ślubu</message>
+        <message key="weddingDayDescription">Dzisiaj jest rocznica ślubu!</message>
+
+        <message key="halloween2018Title">Halloween</message>
+        <message key="halloween2018Description">Szczególne sukcesy w halloweenowej akcji</message>
+
+        <message key="newYear2019Title">Król „Igrzysk chłodu”</message>
+        <message key="newYear2019Description">Szczególne sukcesy w konkursach piękności</message>
+
+        <message key="dzo2019Title">Dzień Mężczyzn</message>
+        <message key="dzo2019Description">Szczególne sukcesy w akcji z okazji Dnia Mężczyzn w 2019 roku</message>
+
+        <message key="firstApril2019Title">Żartowniś</message>
+        <message key="firstApril2019Description">Szczególne sukcesy w kwietniowej akcji</message>
+
+        <message key="autumnEvent2019Title">Złota jesień</message>
+        <message key="autumnEvent2019Description">Za wyjątkowe sukcesy w akcji „Złota jesień”</message>
+
+        <message key="newYear2020heroTitle">Bohater 2020 roku</message>
+        <message key="newYear2021heroTitle">Bohater 2021 roku</message>
+
+        <message key="mittens2020Title">Bohater śnieżnej bitwy</message>
+        <message key="mittens2020Description">Rzucił najwięcej śnieżek</message>
+        <message key="stVal2020Title">Święto Miłości</message>
+        <message key="stVal2020Description">Za udział w akcji Dnia Świętego Walentego 2020</message>
+
+        <message key="dzo2020Title">Bohater 2020 roku</message>
+        <message key="dzo2020Description">Za udział w akcji z okazji święta 23 lutego 2020 roku</message>
+        <message key="clan1PlaceTitle">Top klubów</message>
+        <message key="clan1PlaceDescription">Pierwsze miejsce w rankingu klubów</message>
+        <message key="clan2PlaceTitle">Top klubów</message>
+        <message key="clan2PlaceDescription">Drugie miejsce w rankingu klubów</message>
+        <message key="clan3PlaceTitle">Top klubów</message>
+        <message key="clan3PlaceDescription">Trzecie miejsce w rankingu klubów</message>
+        <message key="clan4PlaceTitle">Top klubów</message>
+        <message key="clan4PlaceDescription">Medalowe miejsce w rankingu klubów</message>
+
+        <message key="firstApril2020Title">Żartowniś 2020</message>
+        <message key="firstApril2020Description">Za udział w akcji Dzień Śmiechu 2020</message>
+
+        <message key="testerTrophyTitle">Tester beta</message>
+        <message key="testerTrophyDescription">Tester Awatarii</message>
+        <message key="tiktokerTrophyTitle">TikToker</message>
+        <message key="tiktokerTrophyDescription">Pracownik oficjalnego kanału TikTok Awatarii</message>
+
+        <message key="treasureHunterTrophyTitle">Poszukiwacz skarbów</message>
+        <message key="treasureHunterTrophyDescription">Za udział w akcji z okazji urodzin Awatarii 2020</message>
+        <message key="tgcClientTrophyTitle">TGC</message>
+        <message key="tgcClientTrophyDescription">Gram poprzez „Tortuga Game Club” i zdobywam x2 pkt. aktywności.</message>
+
+        <message key="survived2020TrophyTitle">Przeżyliśmy 2020</message>
+        <message key="survived2020TrophyDescription">Za zwycięstwo w konkursach #Przeżyliśmy2020</message>
+
+        <message key="stVal2021TrophyTitle">Amor</message>
+        <message key="stVal2021TrophyDescription">Za udział w akcji Dnia Świętego Walentego 2021</message>
+
+        <message key="dzo2021Title">Bohater 2021 roku</message>
+        <message key="dzo2021Description">Za udział w akcji z okazji święta 23 lutego 2021 roku</message>
+
+        <message key="firstApril2021Title">Mistrz rozgrywek</message>
+        <message key="firstApril2021Description">Za udział w akcji „Dzień Śmiechu 2021”</message>
+
+        <message key="avatarLuckTitle">Szczęście w Awatarii</message>
+        <message key="avatarLuckDescription">Bierze udział w przygotowaniu piątkowego quizu</message>
+
+        <message key="birthday2021Title">Kolekcjoner</message>
+        <message key="birthday2021Description">Za udział w akcji z okazji urodzin Awatarii 2021</message>
+
+        <message key="halloween2021Title">Alchemik</message>
+        <message key="halloween2021Description">Za udział w akcji „Halloween 2021”</message>
+    </locale>
+</dictionary>

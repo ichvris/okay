@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <locale name="pl">
+        <message key="ab16RoomName">Na święto</message>
+        <message key="ab16GarlandLabel">Girlanda z chorągiewek</message>
+        <message key="ab16CapLabel">Świąteczna czapeczka</message>
+        <message key="ab16FifeLabel">Piszczałka</message>
+        <message key="ab16TicketLabel">Bilet</message>
+        <message key="ab16TinselLabel">Błyskotki</message>
+        <message key="ab16FlagRedLabel">Czerwona chorągiewka</message>
+        <message key="ab16FlagGrnLabel">Zielona chorągiewka</message>
+        <message key="ab16FlagBluLabel">Niebieska chorągiewka</message>
+        <message key="ab16FlagPrlLabel">Fioletowa chorągiewka</message>
+        <message key="ab16CapDescription">Świąteczną czapeczkę można zrobić w pracowni</message>
+        <message key="ab16GarlandDescription">Girlandę można zrobić w pracowni</message>
+        <message key="ab16TinselDescription">Można zdobyć, biorąc udział w grach</message>
+        <message key="ab16FlagRedDescription">Można zdobyć, udając się do kawiarni, parku lub na skwer</message>
+        <message key="ab16FlagGrnDescription">Można zdobyć, udając się na plażę, ulicę lub do projektantki</message>
+        <message key="ab16FlagBluDescription">Można zdobyć, udając się do kanionu, surykatek, sali balowej, na lodowisko lub do klubu</message>
+        <message key="ab16FlagPrlDescription">Można zdobyć, odwiedzając strefę VIP</message>
+        <message key="avaBirthdayTitle">Urodziny Awatarii</message>
+        <message key="avaBirthdayAlertLocationText">Aby trafić na mapę, trzeba zorganizować sobie bilet. Przejść do pracowni?</message>
+        <message key="avaBirthdayAwardDialogTitle">Awatario, wszystkiego najlepszego!</message>
+        <message key="avaBirthdayAwardDialogMessage">Odbierz nagrodę!</message>
+        <message key="avaBirthday2016WelcomeFriendHint">Zajrzyj do pracowni! Czekają na ciebie urodzinowe przepisy!</message>
+        <message key="avaBirthday2016TinselFriendHint">Graj w minigry, aby zdobyć błyskotki!</message>
+        <message key="avaBirthday2016AddFlagHint">Brawo, oto &quot;:flag:&quot;!</message>
+        <message key="avaBirthday2016ClickCakeHint">Odbierz nagrodę, klikając tort!</message>
+        <message key="avaBirthdayMenuItem">Zapiszcz</message>
+        <message key="avaBirthdayNotFifeMessage">Nie masz piszczałki? Chcesz ją zrobić?</message>
+    </locale>
+</dictionary>

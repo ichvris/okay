@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dictionary>
+	<locale name="pl">
+		
+		<!-- WELCOME -->
+		
+		<message key="welcomeTitle">Powitanie</message>
+		<message key="exclamationText">Cześć!</message>
+		<message key="welcomeText"><![CDATA[<p><span class="bold">Uwaga!</span> Niniejsza aplikacja jest opracowywana i ma do niej wgląd tylko autor aplikacji i jego przyjaciele. Niniejsza aplikacja jest opracowywana i ma do niej wgląd tylko autor aplikacji i jego przyjaciele.</p>]]></message>
+		<message key="welcomeLeftTabTitle">Co nowego</message>
+		<message key="welcomeRightTabTitle">Wkrótce</message>
+		
+		<!-- HELP -->
+       
+        <message key="helpTitle">pomoc</message>
+		<message key="helpTab1Title">FAQ</message>
+		<message key="helpTab2Title">Komentarz</message>
+		<message key="helpTab3Title">Gry</message>
+		<message key="helpTab4Title">Wydarzenia</message>
+		
+		<message key="supportButtonTitle">Napisz do działu pomocy</message>
+		
+		<message key="helpTab1Content"><![CDATA[
+            <p><span class="bold">Zepsułem przedmiot w mieszkaniu innego gracza i nie mogę go naprawić. Dlaczego?</span></p>
+<h5></h5>
+			<p>Przedmioty można naprawiać tylko w swoim mieszkaniu. Zepsuć zaś można tylko u innych graczy.</p>
+<h5></h5>
+			<p><span class="bold">Dlaczego nie mam już zadań pozwalających zdobyć doświadczenie?</span></p>
+<h5></h5>
+			<p>To oznacza, że wykonałeś wszystkie dostępne w tej chwili zadania pozwalające zdobyć doświadczenie. Wraz z wprowadzeniem nowych możliwości w grze będą dodawane nowe zadania.</p>
+<h5></h5>
+			<p><span class="bold">Proszę przyjaciół o przysłanie mi przedmiotu albo przechodzę przez ich zapytania, ale nic się nie dzieje.</span></p>
+<h5></h5>
+			<p>W związku z jednym zapytaniem może pomóc tylko 1 przyjaciel. Przy czym każdy przyjaciel może pomóc ci tylko 1 raz na 24 godziny . Jeśli okienko z prośbą o pomoc się nie pojawiło, oznacza to, że ktoś z przyjaciół już ci pomógł.</p>
+<h5></h5>
+			<p><span class="bold">Zawiesił mi się licznik zadań w ogrodzie i na podwórku (odwiedź N razy na dobę).</span></p>
+<h5></h5>
+			<p>Licznik się nie zawiesił. W zadaniu wszystko jest właściwie odzwierciedlone i liczone są tylko zmiany z ostatnich 24 godzin. Wraz z rozpoczęciem kolejnej zmiany (ogród, podwórko) informacja w zadaniu zostanie zaktualizowana, musisz po prostu w ciągu doby wejść wskazaną liczbę razy (rozpocząć zmianę).</p>
+<h5></h5>
+			<p><span class="bold">Gdzie wprowadzać kod na złoto? Czy istnieją kody do gry?</span></p>
+<h5></h5>
+			<p>W grze nie ma żadnych kodów. Jeśli ktoś proponuje ci kod w zamian za jakąś rzecz, jest to oszustwo. Możesz otrzymać złote monety tylko poprzez grę (dostać je w nagrodę za wykonanie zadania, wygrać w „Kole Fortuny”, w ramach codziennych prezentów lub kupić za €GB/głosy).</p>
+<h5></h5>
+			<p><span class="bold">Zostałem oszukany i odebrano mi rzeczy. Co robić?</span></p>
+<h5></h5>
+			<p>Niestety, nie zajmujemy się zwrotem rzeczy. Prosimy zachować ostrożność i nie przekazywać swoich cennych rzeczy obcym ludziom! Nie da się ich odzyskać.</p>
+<h5></h5>
+			<p><span class="bold">Nie dostaję codziennego prezentu. Dlaczego?</span></p>
+<h5></h5>
+			<p>Żeby otrzymać prezent, trzeba wchodzić do gry codziennie. Jeśli opuścisz dzień, odliczanie zacznie się od nowa, co oznacza, że prezent dostaniesz dopiero następnego dnia.</p>
+<h5></h5>
+			<p><span class="bold">Ciągle pojawia mi się napis: „Gra wstrzymana”. Dlaczego?</span></p>
+<h5></h5>
+			<p>Jeśli twój awatar nie porusza się w grze przez kilka minut (od 5 do 10, to zależy od lokalizacji), to gra zostaje wstrzymana. Działania takie jak rozmowa na czacie czy zakupy w sklepie, nie są uznawane za aktywność, dlatego mogą doprowadzić do pojawienia się takiej wiadomości. Za aktywność uznawane jest tylko przemieszczanie się awatara i wykonywanie różnych działań w grze.</p>
+<h5></h5>
+			<p><span class="bold">Zakup mebli i odzieży.</span></p>
+<h5></h5>
+			<p>Meble i odzież kupuje się w sklepie. Listę sklepów można znaleźć, naciskając na przycisk „Sklepy” w dolnej części ekranu.</p>
+<h5></h5>
+<!--
+			<p><span class="bold">Jak sprzedać niepotrzebną rzecz?</span></p>
+<h5></h5>
+			<p>Naciśnij przycisk „Inwentarz” w dolnej części ekranu. Pojawi się lista twoich rzeczy, na której pod każdą rzeczą będzie przycisk „Sprzedaj”. Nie zapomnij, że sprzedając odzież, stracisz punkty image'u.</p>
+<h5></h5>
+-->
+			<p><span class="bold">Jak się przebrać?</span></p>
+<h5></h5>
+			<p>Można się przebrać, klikając szafę w mieszkaniu lub przycisk „Przebierz się” w dolnej części ekranu.</p>
+<h5></h5>
+			<p><span class="bold">Jak zmienić wygląd zewnętrzny?</span></p>
+<h5></h5>
+			<p>Żeby zmienić wygląd zewnętrzny, naciśnij przycisk „Wygląd zewnętrzny” w dolnej części ekranu.</p>
+<h5></h5>
+			<p><span class="bold">Jak zmienić płeć?</span></p>
+<h5></h5>
+			<p>W chwili obecnej zmiana płci awatara nie jest przewidziana.</p>
+<h5></h5>
+			<p><span class="bold">Jak podwyższyć swój poziom?</span></p>
+<h5></h5>
+			<p>Poziom można podwyższyć, wykonując zadania i zdobywając doświadczenie. Listę zadań można obejrzeć, naciskając przycisk „Sklepy” po lewej stronie ekranu. Bieżące doświadczenie i poziom widoczne są w górnej części ekranu.</p>
+<h5></h5>
+			<p><span class="bold">Jak ustawić meble w mieszkaniu?</span></p>
+<h5></h5>
+			<p>Po zakupie meble trafiają do inwentarza gracza. Żeby wstawić zakupione meble (oraz tapety, linoleum itp.), należy nacisnąć przycisk „Edytor pokoju” i wstawić do pokoju wszystko, co trzeba. W ten sam sposób można usunąć niepotrzebne rzeczy z pokoju oraz je obracać.</p>
+<h5></h5>
+			<p><span class="bold">Jak zregenerować energię?</span></p>
+<h5></h5>
+			<p>Energia regeneruje się samoczynnie w tempie 1 jednostka na minutę, ale nie przekracza poziomu 100 jednostek. Zregenerować energię szybciej lub otrzymać dodatkowy zapas energii można w barze lub klubie. Energię można też kupić za złoto, naciskając przycisk „Dodaj” pod paskiem energii.</p>
+<h5></h5>
+			<p><span class="bold">Jak zarobić pieniądze?</span></p>
+<h5></h5>
+			<p>Srebrne monety można zarobić w pracy, oraz wykonując zadania i grając w gry. Wszystkie dostępne rodzaje prac można znaleźć, naciskając przycisk „Miejsca” i wybierając zakładkę „Praca”.</p>
+<h5></h5>
+			<p><span class="bold">Kim są sąsiedzi?</span></p>
+<h5></h5>
+			<p>Sąsiedzi to twoi przyjaciele na portalu społecznościowym, którzy zainstalowali aplikację „Avataria”. Możesz sprzątać w ich mieszkaniach i otrzymywać za to srebrne monety.</p>
+<h5></h5>
+			<p><span class="bold">Kim są znajomi?</span></p>
+<h5></h5>
+			<p>Znajomi to inni gracze, z którymi zaprzyjaźniłeś się w Avatarii. Możesz obejrzeć listę znajomych, klikając ikonkę „Znajomi” w dolnej części ekranu.</p>
+<h5></h5>
+			<p><span class="bold">Dlaczego nie mogę kupić kolejnego pokoju?</span></p>
+<h5></h5>
+			<p>Do zakupu kolejnego pokoju wymagany jest odpowiedni poziom. Możesz kupić kolejny pokój po osiągnięciu 3., 5., 7. i 9. poziomu. W ten sposób twoje mieszkanie może się składać z 5 pokoi.</p>
+<h5></h5>
+			<p><span class="bold">Posprzątałem wszystkie śmieci u sąsiadów. Kiedy znów się pojawią?</span></p>
+<h5></h5>
+			<p>Na drugi dzień.</p>
+<h5></h5>
+			<p><span class="bold">Dlaczego w mieszkaniu sąsiada nie ma wszystkich śmieci? Powinno być 5 papierków!</span></p>
+<h5></h5>
+			<p>Jeśli w mieszkaniu sąsiada jest kilka pokoi, śmieci mogą leżeć w innych pokojach, a nie tylko w jednym.</p>
+<h5></h5>
+			<p><span class="bold">Wykonałem wszystkie prace w ogrodzie. Kiedy będę mógł znów popracować?</span></p>
+<h5></h5>
+			<p>Za godzinę.</p>
+<h5></h5>
+			<p><span class="bold">Posprzątałem wszystkie śmieci na podwórku. Kiedy będę mógł znów tam popracować?</span></p>
+<h5></h5>
+			<p>Za pół godziny.</p>]]></message>
+		
+		<!-- REVIEW -->
+        <message key="reviewCategoryFormLabel">Kategoria:</message>
+		<message key="reviewCategory1">komentarz</message>
+		<message key="reviewCategory2">skarga</message>
+		<message key="reviewCategory3">propozycja</message>
+		<message key="reviewMessageFormLabel">Tekst:</message>
+		<message key="reviewMessageSendComplete">Wiadomość została wysłana.</message>
+		
+		<!-- ABUSE -->
+        <message key="abuseCategory">Przyczyna:</message>
+		<message key="abuseCategory1">przeklinanie na czacie</message>
+		<message key="abuseCategory2">nieodpowiednie zachowanie</message>
+		<message key="abuseCategory3">flood</message>
+		<message key="abuseCategory4">inne</message>
+		<message key="abuseCategory5">naruszenie umowy z użytkownikiem</message>
+		<message key="abuseMessage">Tekst:</message>
+		
+		<message key="abuseButtonTitle">złóż skargę</message>
+		<message key="abuseTitle">Skarga</message>
+		<message key="abuseSendComplete">Skarga została wysłana.</message>
+		
+		<!-- MODERATOR MESSAGE -->
+        <message key="messageCategory">Typ:</message>
+		<message key="messageCategory0">inne</message>
+		<message key="messageText0">inne...</message>
+		<message key="moderatorMessageFormLabel">Tekst:</message>
+
+		<message key="moderatorMessageComplete">Wiadomość została dostarczona do użytkownika.</message>
+		
+		<!-- EVENT COMPLAIN -->
+        <message key="eventComplainTitle">Złóż skargę na wydarzenie</message>
+		<message key="eventComplainComplete">Skarga została wysłana.</message>
+		
+		<!-- BAN -->
+        <message key="moderatorBanTitle">Zablokowanie użytkownika</message>
+		<message key="moderatorBanComplete">Użytkownik został zablokowany.</message>
+
+        <!-- SUPPORT -->
+        <message key="reviewTitleFormLabel">Temat:</message>
+        <message key="reviewUserEmail">E-mail</message>
+        <message key="reviewUnbanCategoryText">Odblokowanie konta</message>
+        <message key="moderatorBanRequestComplete">Twój ban oczekuje na potwierdzenie.</message>
+        <message key="ticketDialogTitle">Wiadomość</message>
+        <message key="supportModeratorName">Moderator</message>
+        <message key="createTicket">Tworzenie wiadomości</message>
+        <message key="createTicketComplete">Wiadomość została wysłana do serwisu pomocy. Zaczekaj na odpowiedź specjalisty.</message>
+        <message key="addTicketReply">Komentarz do wiadomości</message>
+        <message key="addTicketReplyComplete">Twój komentarz do wiadomości został wysłany. Specjalista z serwisu pomocy skontaktuje się z tobą w najbliższym czasie.</message>
+        <message key="cancelTicket">Wiadomość zamknięta</message>
+        <message key="cancelTicketComplete">Wiadomość zamknięta. Dziękujemy za kontakt z serwisem pomocy.</message>
+
+        <message key="moderatorMessageDialogTitle">Napisz ostrzeżenie od moderatora</message>
+
+        <message key="abuseChatTitle">Skarga na czat</message>
+        <message key="abuseNameTitle">Skarga na nazwę</message>
+        <message key="abuseEventTitle">Skarga na wydarzenie</message>
+        <message key="complaintSendTitle">Wysyłanie zakończone.</message>
+        <message key="complaintSendSuccess">Twoja skarga jest rozpatrywana.</message>
+        <message key="complaintSendFail">Ta skarga nie może zostać wysłana do rozpatrzenia.</message>
+        <message key="complaintNotChangeReputation">W przypadku odrzucenia tej skargi ranking nie spadnie.</message>
+
+		<message key="helpSocialChannelTitle">Grupy</message>
+		<message key="internalOfferTabTitle">Kod promocyjny</message>
+		<message key="internalOfferTabDescription">Szukaj kodów promocyjnych i wpisuj je, aby zdobyć miłe prezenty. Jednego kodu promocyjnego można użyć tylko raz. Termin ważności kodów promocyjnych może być ograniczony.</message>
+		<message key="internalOfferTabActivateButtonLabel">Aktywuj</message>
+
+		<message key="callModeratorsMessage">Potrzebna jest pilna pomoc moderatorów. Przenieść się do pokoju z intruzami?</message>
+	</locale>
+</dictionary>

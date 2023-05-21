@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dictionary>
+
+	<locale name="pl">
+
+		<!-- WALLS -->
+
+		<message key="wall1Title">Tapeta do malowania</message>
+		<message key="wall2Title">Tapeta tekstura</message>
+		<message key="wall3Title">Tapeta monochromatyczna</message>
+		<message key="wall4Title">Błękitna tapeta</message>
+		<message key="wall5Title">Błękitna tapeta</message>
+		<message key="wall7Title">Tapeta monochromatyczna</message>
+		<message key="wall8Title">Zielona tapeta</message>
+		<message key="wall9Title">Różowa tapeta</message>
+		<message key="wall10Title">Tapeta w paski</message>
+		<message key="wall11Title">Tapeta w paski</message>
+		<message key="wall12Title">Tapeta w paski</message>
+		<message key="wall13Title">Jasna tapeta</message>
+		<message key="wall14Title">Tapeta piracka</message>
+		<message key="wall15Title">Tapeta z makami</message>
+		<message key="wall16Title">Jedwabna tapeta</message>
+		<message key="wall17Title">Fioletowa tapeta</message>
+		<message key="wall18Title">Fototapeta</message>
+		<message key="wall19Title">Tapeta ceglana</message>
+		<message key="wall20Title">Fioletowa tapeta</message>
+		<message key="wall21Title">Tapeta tekstura</message>
+		<message key="wall22Title">Tapeta ceglana</message>
+		<message key="wall23Title">Tapeta z rysunkiem</message>
+
+		<message key="wall24Title">Tapeta Halloween</message>
+		<message key="wall25Title">Tapeta Halloween</message>
+
+		<message key="wallWedding1Title">Tapeta ślubna</message>
+
+		<message key="wallNY1Title">Tapeta „Castle wall”</message>
+		<message key="wallNY2Title">Tapeta „Zima”</message>
+
+		<message key="wallSchool1Title">Tapety „Szkoła”</message>
+
+		<!-- DOORS -->
+
+		<message key="door1Title">Drzwi</message>
+		<message key="door2Title">Drzwi</message>
+		<message key="door3Title">Drzwi pozłacane</message>
+		<message key="door4Title">Drzwi</message>
+		<message key="door5Title">Drzwi</message>
+		<message key="door6Title">Drzwi wewnętrzne</message>
+		<message key="door7Title">Drzwi na wysoki połysk</message>
+
+		<message key="door8Title">Drzwi Halloween</message>
+		<message key="door9Title">Drzwi Halloween</message>
+
+		<message key="door10Title">Drzwi „Kawaler”</message>
+
+		<message key="doorWedding1Title">Drzwi przystrojone na ślub</message>
+
+		<message key="doorVip1Title">Drzwi z łukiem</message>
+		<message key="doorVip2Title">Drzwi z kolumnami</message>
+
+		<message key="doorSchoolTitle">Drzwi klasy</message>
+
+
+		<!-- WINDOWS -->
+
+		<message key="window1Title">Okno z zasłonami</message>
+		<message key="window2Title">Półkoliste okno</message>
+		<message key="window3Title">Okno</message>
+		<message key="window4Title">Okno witrażowe</message>
+		<message key="window5Title">Okno z mozaiką</message>
+		<message key="window6Title">Białe żaluzje</message>
+		<message key="window7Title">Okno z portierą</message>
+		<message key="window8Title">Okno łukowe</message>
+		<message key="window9Title">Okno łukowe</message>
+		<message key="window10Title">Okrągłe okno</message>
+		<message key="window11Title">Okno z zasłoną</message>
+		<message key="window12Title">Okno z zasłonkami</message>
+		<message key="window13Title">Okno art déco</message>
+		<message key="window14Title">Okno w klasie</message>
+
+		<!-- FLOORS -->
+
+		<message key="floor1Title">Linoleum</message>
+		<message key="floor2Title">Szara wykładzina</message>
+		<message key="floor3Title">Dżinsowe linoleum</message>
+		<message key="floor4Title">Zielone linoleum</message>
+		<message key="floor5Title">Ciemnoszare linoleum</message>
+		<message key="floor6Title">Płytka podłogowa</message>
+		<message key="floor7Title">Błękitne linoleum</message>
+		<message key="floor8Title">Laminat</message>
+		<message key="floor9Title">Laminat</message>
+		<message key="floor10Title">Parkiet</message>
+		<message key="floor11Title">Parkiet</message>
+		<message key="floor12Title">Parkiet</message>
+		<message key="floor13Title">Parkiet</message>
+		<message key="floor14Title">Fioletowe linoleum</message>
+		<message key="floor15Title">Szara płytka</message>
+		<message key="floor16Title">Marmurowa płytka</message>
+		<message key="floor17Title">Błękitna płytka</message>
+		<message key="floor18Title">Błękitna płytka</message>
+		<message key="floor19Title">Szara płytka</message>
+
+		<message key="floor20Title">Fioletowa płytka</message>
+		<message key="floor21Title">Marmurowa płytka</message>
+		<message key="floor22Title">Parkiet</message>
+		<message key="floor23Title">Parkiet</message>
+
+		<message key="floor24Title">Podłoga Halloween</message>
+		<message key="floor25Title">Podłoga Halloween</message>
+
+		<message key="floorWedding1Title">Weselna wykładzina</message>
+		<message key="floorNY1Title">„Śnieżna” podłoga</message>
+
+		<!-- ROOMS -->
+
+		<message key="room1Title">Pokój. Duży i jasny.</message>
+
+		<!-- AMUSIMENT -->
+
+        <message key="doorPortalElfTitle">Portal „Elf”</message>
+        <message key="doorPortalDemonTitle">Portal „Inferno”</message>
+		<message key="doorAquarium1Title">Właz</message>
+		<message key="intFlr1Title">Inteligentna podłoga „Disco”</message>
+		<message key="intFlr2Title">Inteligentna podłoga „Łąka”</message>
+
+        <!-- NEW FURNITURE SETS:
+                COUNTRY, BEACH,
+                ALIEN, JAPAN,
+                ARTNOUVEAU -->
+
+		<message key="wallJapan1Title">Tapety „Japonia”</message>
+		<message key="wallAlien1Title">Tapety „Kosmici”</message>
+		<message key="wallBeach1Title">Tapety „Plaża”</message>
+		<message key="wallArtNouveau1Title">Tapety „Modern”</message>
+		<message key="wallPrincess1Title">Tapety „Księżniczka”</message>
+		<message key="wallCountry1Title">Tapety „Country”</message>
+		<message key="wallMayaLabel">Tapeta „Majowie”</message>
+
+		<message key="doorJapanTitle">Drzwi „Japonia”</message>
+		<message key="doorAlienTitle">Drzwi „Kosmici”</message>
+		<message key="doorArtNouveauTitle">Drzwi „Modern”</message>
+		<message key="doorPrincessTitle">Drzwi „Księżniczka”</message>
+		<message key="doorCountryTitle">Drzwi „Country”</message>
+		<message key="doorMayaLabel">Drzwi „Majowie”</message>
+
+		<message key="windowAlien1Title">Iluminator ciemny</message>
+		<message key="windowAlien2Title">Iluminator jasny</message>
+		<message key="windowArtNouveauTitle">Okno „Modern”</message>
+		<message key="windowPrincess1Title">Okno „Księżniczka”</message>
+		<message key="windowPrincess2Title">Okno „Księżniczka”</message>
+		<message key="windowCountryTitle">Okno „Country”</message>
+		<message key="windowMayaLabel">Okno „Majowie”</message>
+
+		<message key="floorJapan1Title">Parkiet „Japonia”</message>
+		<message key="floorAlien1Title">Podłoga „Kosmici”</message>
+		<message key="floorArtNouveau1Title">Podłoga „Modern”</message>
+		<message key="floorPrincessTitle">Parkiet „Księżniczka”</message>
+		<message key="floorCountryTitle">Podłoga „Country”</message>
+		<message key="floorBeachTitle">Podłoga „Wydmy”</message>
+		<message key="floorMayaLabel">Podłoga „Majowie”</message>
+
+		<!-- NY 2014 EVENT ITEMS -->
+
+		<message key="doorNY14BigTitle">Drzwi „Lodowy pałac”</message>
+		<message key="doorNY14SmallTitle">Drzwiczki „Lodowy pałac”</message>
+        <message key="floorNY14Title">Podłoga „Lodowy pałac”</message>
+		<message key="wallNY14Title">Tapety „Lodowy pałac”</message>
+		<message key="windowNY14IceTitle">Okno „Lodowy pałac”</message>
+
+		<!-- SV14 -->
+
+		<message key="wallSV14Title">Tapeta „Niebiosa”</message>
+		<message key="doorSV14SmallTitle">Brama raju</message>
+		<message key="floorSV14Title">Podłoga „Niebiosa”</message>
+
+		<!-- DZO14 -->
+
+		<message key="doorFebruary23Label">Drzwi do bunkra</message>
+		<message key="windowFebruary23Label">Okno bunkra</message>
+		<message key="floorFebruary23Label">Stalowa podłoga bunkra</message>
+		<message key="wallFebruary23Label">Ściana bunkra</message>
+
+		<!-- NYROOF -->
+
+		<message key="doorNYRoofLabel">Drzwi „Drapacz chmur”</message>
+		<message key="floorNYRoofLabel">Podloga „Drapacz chmur”</message>
+		<message key="wallNYRoofLabel">Tapeta „Drapacz chmur”</message>
+
+        <!-- SEA KITCHEN -->
+
+        <message key="doorSeaLabel">Drzwi „Morska bryza”</message>
+        <message key="floorSeaLabel">Podłoga „Morska bryza”</message>
+        <message key="wallSeaLabel">Tapety „Morska bryza”</message>
+
+		<!-- SP14 -->
+		<message key="spGeneratorWork">Praca generatora na dobę</message>
+
+		<!-- GARAGE ROOM -->
+		<message key="garageRetroDoor">Drzwi garażowe</message>
+		<message key="garageRetroWindow">Okno garażowe</message>
+		<message key="garageRetroFloor">Podłoga garażowa</message>
+		<message key="garageRetroWall">Ściany garażowe</message>
+
+		<message key="garageTechnoWindows">Okno garażowe „Techno”</message>
+		<message key="garageTechnoDoor">Drzwi garażowe „Techno”</message>
+		<message key="garageTechnoFloor">Podłoga garażowa „Techno”</message>
+		<message key="garageTechnoWall">Ściany garażowe „Techno”</message>
+
+        <!-- NY15 -->
+        <message key="wdwSantaLabel">Okno „Mikołaj”</message>
+        <message key="floorSantaHouseLabel">Podłoga „Mikołaj”</message>
+        <message key="wallSantaHouseLabel">Tapety „Mikołaj”</message>
+        <message key="doorSantaHouseLabel">Drzwi „Mikołaj”</message>
+
+        <!-- STVAL15 -->
+        <message key="wallSV15Label">Tapeta „Aleja miłości”</message>
+        <message key="doorSV15Label">Łuk „Aleja miłości”</message>
+        <message key="floorSV15Label">Kostka na alejki</message>
+
+        <!-- CONAN -->
+        <message key="wallConanLabel">Tapeta „Barbarzyńca”</message>
+        <message key="doorConanLabel">Drzwi „Barbarzyńca”</message>
+        <message key="floorConanLabel">Podłoga „Barbarzyńca”</message>
+
+        <message key="flrGrdGft">Podłoga „Ogrodnik”</message>
+        <message key="wllGrdGft">Tapeta „Ogrodnik”</message>
+        <message key="drGrdGft">Drzwi „Ogrodnik”</message>
+        <message key="wdwGrdGft">Okno „Ogrodnik”</message>
+
+        <message key="wllTrBthLabel">Ściana „Tropiki”</message>
+        <message key="drTrBthLabel">Drzwi „Tropiki”</message>
+        <message key="wdwTrBth">Okno „Tropiki”</message>
+        <message key="flrTrBthLabel">Podłoga „Tropiki”</message>
+
+        <message key="wdwBlkRsLabel">Okno „Czarna Rosa”</message>
+        <message key="wllBlkRsLabel">Tapeta „Czarna Rosa”</message>
+        <message key="flrBlkRsLabel">Podłoga „Czarna Rosa”</message>
+        <message key="drBlkRsLabel">Drzwi „Czarna Rosa”</message>
+
+		<message key="sd16WllLabel">Tapeta „Wiosenna promocja”</message>
+		<message key="sd16FlrLabel">Podłoga „Wiosenna promocja”</message>
+
+		<message key="floorDescription">Urządź w mieszkaniu prawdziwą dyskotekę, ozdabiając je animowaną podłogą. Twoi goście będą mile zaskoczeni. W końcu podłoga reaguje na ruchy awatarów!</message>
+
+        <message key="orclDrLabel">Drzwi „Jasnowidz”</message>
+        <message key="orclWllLabel">Tapeta „Jasnowidz”</message>
+        <message key="orclWdwLabel">Okno „Jasnowidz”</message>
+        <message key="orclFlrLabel">Podłoga „Jasnowidz”</message>
+
+		<message key="NY20DrLabel">Drzwi „Błękitny płomyk”</message>
+		<message key="NY20FlrLabel">Podłoga „Błękitny płomyk”</message>
+		<message key="NY20WllpprLabel">Ściany „Błękitny płomyk”</message>
+
+		<message key="wndrlndFlrLabel">Podłoga „Herbata”</message>
+		<message key="wndrlndWllLabel">Ściany „Herbata”</message>
+		<message key="wndrlndDrLabel">Drzwi „Herbata”</message>
+		<message key="wndrlndWndwLabel">Okno „Herbata”</message>
+		<message key="rstrnt2019FlrLabel">Podłoga „Restauracja”</message>
+		<message key="rstrnt2019WllLabel">Ściany „Restauracja”</message>
+		<message key="rstrnt2019DrLabel">Drzwi „Restauracja”</message>
+		<message key="rstrnt2019WndwLabel">Okno „Restauracja”</message>
+
+		<message key="rtstWrkshpWllLabel">Ściany „Artysta”</message>
+		<message key="rtstWrkshpLftLabel">Winda „Artysta”</message>
+		<message key="rtstWrkshpWndwLabel">Okno „Artysta”</message>
+		<message key="rtstWrkshpFlrLabel">Podłoga „Artysta”</message>
+
+		<message key="estr20WndLabel">Okno „Wielkanoc”</message>
+		<message key="estr20FlrLabel">Podłoga „Wielkanoc”</message>
+		<message key="estr20DrLabel">Drzwi „Wielkanoc”</message>
+		<message key="estr20WllLabel">Ściany „Wielkanoc”</message>
+		<message key="bath20DrLabel">Drzwi „Postmodern”</message>
+		<message key="bath20WllLabel">Ściany „Postmodern”</message>
+		<message key="bath20FlrLabel">Podłoga „Postmodern”</message>
+		<message key="9may20WllLabel">Ściany „Muzeum”</message>
+		<message key="9may20DrLabel">Drzwi „Muzeum”</message>
+		<message key="9may20FlrLabel">Podłoga „Muzeum”</message>
+
+		<message key="wllMdrnBdrmLabel">Ściany „Modern”</message>
+		<message key="flrMdrnBdrmLabel">Podłoga „Modern”</message>
+		<message key="drMdrnBdrmLabel">Drzwi „Modern”</message>
+		<message key="wdwMdrnBdrmLabel">Okno „Modern”</message>
+
+		<message key="floorBingo2021Label">Pole gry „Bingo”</message>
+		<message key="doorAnimeRoomLabel">Drzwi „Anime”</message>
+		<message key="floorAnimeRoomLabel">Podłoga „Anime”</message>
+		<message key="wallAnimeRoomLabel">Ściany „Anime”</message>
+
+		<message key="doorKdRm21Label">Drzwi „Pokój dziecięcy”</message>
+		<message key="floorKdRm21Label">Podłoga „Pokój dziecięcy”</message>
+		<message key="wallKdRm21Label">Ściany „Pokój dziecięcy”</message>
+		<message key="windowKdRm21Label">Okno „Pokój dziecięcy”</message>
+
+		<message key="window9May2021Label">Okno panoramiczne „Firework”</message>
+		<message key="doorCbr21Label">Drzwi „Cyberpunk”</message>
+		<message key="floorCbr21Label">Podłoga „Cyberpunk”</message>
+		<message key="wallCbr21Label">Ściany „Cyberpunk”</message>
+		<message key="windowCbr21Label">Okno „Cyberpunk”</message>
+		<message key="doorAB21Label">Drzwi „Underwater”</message>
+		<message key="floorAB21Label">Podłoga „Underwater”</message>
+		<message key="wallAB21Label">Okno „Underwater”</message>
+
+		<message key="doorBlk21Label">Drzwi „Black”</message>
+		<message key="floorBlk21Label">Podłoga „Black”</message>
+		<message key="wallBlk21Label">Ściany „Black”</message>
+		<message key="windowBlk21Label">Okno „Black”</message>
+		<message key="doorWtrpl21Label">Drzwi „Relax”</message>
+		<message key="floorWtrpl21Label">Podłoga „Relax”</message>
+		<message key="wallWtrpl21Label">Ściany „Relax”</message>
+		<message key="window1Wtrpl21Label">Okno „Relax”</message>
+		<message key="window2Wtrpl21Label">Okno panoramiczne „Relax”</message>
+		<message key="doorSciFi21Label">Drzwi „AVAEarth - 1”</message>
+		<message key="floorSciFi21Label">Podłoga „AVAEarth - 1”</message>
+		<message key="wallSciFi21Label">Ściany „AVAEarth - 1”</message>
+		<message key="windowSciFi21Label">Okno „AVAEarth - 1”</message>
+		<message key="doorSln21Label">Drzwi „Wild West”</message>
+		<message key="wallSln21Label">Ściana „Wild West”</message>
+		<message key="flrSln21Label">Podłoga „Wild West”</message>
+
+		<message key="windowHW21Label">Okno „Scream”</message>
+		<message key="doorHL21Label">Drzwi „Laboratorium naukowca”</message>
+		<message key="floorHL21Label">Podłoga „Laboratorium naukowca”</message>
+		<message key="wallHL21Label">Ściany „Laboratorium naukowca”</message>
+	</locale>
+
+</dictionary>

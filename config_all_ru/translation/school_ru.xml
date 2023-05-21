@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dictionary>
+
+    <locale name="pl">
+	
+		<!-- YANDEX -->
+		
+        <message key="dontShowToday">nie wyświetlaj dzisiaj</message>
+        <message key="continue">kontynuuj</message>
+        
+		<message key="mainOfferText">Status VIP za wiedzę!</message>
+        <message key="mainOfferDescription">Zdobądź status VIP bezpłatnie, wykonując pięć zadań! Yandex ci pomoże.</message>
+        
+		<message key="mainFirstOfferText">Status VIP dla najlepszych!</message>
+        <message key="mainFirstOfferDescription">Wykonaj pięć spośród siedmiu zadań i zdobądź zasłużoną nagrodę – status VIP na jeden dzień. Aby go przedłużyć, wracaj do szkoły – przy okazji dowiesz się wielu ciekawych rzeczy.</message>
+        
+		<message key="mainOfferAwardText">Udało się!</message>
+        <message key="mainOfferAwardText2">!</message>
+        <message key="mainOfferAwardDescription">Zadania wykonane. Yandex daje ci status VIP na jeden dzień. Za mało? Wpadnij do szkoły jutro – i potwierdź swój status!</message>
+        
+		<message key="mainOfferEndVipText">Koniec lekcji</message>
+        <message key="mainOfferEndVipDescription">Wszystkie zadania w szkole Yandex wykonane. Ciesz się statusem VIP i przyjdź jutro po kolejne zadania.</message>
+        
+		<message key="mainOfferContinueVipText">Status VIP czeka!</message>
+        <message key="mainOfferContinueVipDescription">Masz nieukończone zadania w szkole Yandex. Jeśli znajdziesz siły na rozwiązanie pięciu zadań - status VIP będzie twój na cały dzień!</message>
+       
+	    <message key="mainOfferContinueNotVipText">Jutro ci się uda!</message>
+        <message key="mainOfferContinueNotVipDescription">Dziś zrobiłeś trzy błędy w zadaniach. Wpadnij do szkoły jutro, aby zdobyć status VIP!</message>
+        
+		<message key="yandexBarLabel">Skorzystaj z pomocy Yandexu:</message>
+        <message key="yandexSearch">Znajdź</message>
+        
+		<message key="negativeAnswerTitle1">Błąd!</message>
+        <message key="negativeAnswerDescription1">To nic – spróbuj jeszcze raz.</message>
+        <message key="yandexHelpMessage">Yandex pomoże ci znaleźć prawidłową odpowiedź.</message>
+        
+		<!-- AVATARIA SCHOOL -->
+		
+		<message key="schoolOtherQuestionButtonLabel">inne pytanie</message>
+       
+		<message key="schoolBuyQuestionConfirmTitle">Kupno pytania</message>
+        <message key="schoolBuyQuestionConfirmDescription">Na pewno chcesz kupić odpowiedź na pytanie za :gold:?</message>
+        
+		<message key="mainSchoolOfferAwardText">Udało się!</message>
+        <message key="mainSchoolOfferAwardDescription">Zadania wykonane.</message>
+        
+		<message key="mainSchoolFirstOfferText">Nagrody za oceny!</message>
+        <message key="mainSchoolFirstOfferDescription">Wykonuj w szkole zadania codzienne i zdobywaj punkty. Im więcej punktów - tym wartościowsze nagrody! Przychodź do szkoły codziennie – przy okazji dowiesz się wielu ciekawych rzeczy.</message>
+        
+		<message key="mainSchoolOfferContinueVipText">To jeszcze nie wszystko!</message>
+        <message key="mainSchoolOfferContinueVipDescription">Masz jeszcze nieukończone zadania. Wykonaj wszystkie, a zdobędziesz bonus!</message>
+        
+		<message key="mainSchoolOfferContinueNotVipText">Jutro ci się uda!</message>
+        <message key="mainSchoolOfferContinueNotVipDescription">Dzisiaj udało ci się już wykonać wszystkie zadania. Przyjdź do szkoły jutro!</message>
+        
+		<message key="mainSchoolAllLevelsCompletedTitle">Brawo!</message>
+        <message key="mainSchoolAllLevelsCompletedDescription">Udało ci się wykonać wszystkie zadania i zdobyć nagrodę główną. Zacznij od nowa. Będą nowe nagrody.</message>
+        
+		<message key="schoolPointsButtonLabel">moje punkty</message>
+        <message key="schoolAwardDialogTitle">Nagroda</message>
+        <message key="schoolWorkPrizesLabel">Nagrody:</message>
+        <message key="schoolWorkPrizesRequrementsLabel">zarób :points: i zdobądź:</message>
+        <message key="schoolWorkNewLevelTitle">Gratulacje!</message>
+        <message key="schoolWorkNewLevelMessage">Udało ci się zdobyć odpowiednią liczbę punktów, aby otrzymać nagrodę!</message>
+        
+		<message key="schoolAnswerForGold">odpowiedz za :gold:</message>
+        
+		<message key="schoolBonusDescription">Tylko we wrześniu z każdą nagrodą otrzymasz złoto w prezencie!</message>
+		<!-- COMMON -->
+
+		<message key="selectCategoryText">Wybierz kategorię pytania</message>
+		<plural key="questionsText">
+            <form>pytanie</form>
+            <form>pytania</form>
+            <form>pytań</form>
+        </plural>
+        <message key="answerButton">odpowiedz</message>
+        <message key="otherQuestionButton">inne pytanie z :name:</message>
+        <message key="otherCategoryButton">inna kategoria</message>
+        <message key="yandexHelpButton">pomoże.</message>
+        <message key="questionLabel">Pytanie.</message>
+        <message key="answerLabel">Odpowiedź:</message>
+        <message key="positiveAnswerTitle">Gratulacje!</message>
+        <message key="positiveAnswerDescription">Udało ci się wykonać zadanie.</message>
+        <message key="positiveAnswerSchoolDescription">Udało ci się wykonać zadanie. Otrzymujesz + :points:</message>
+        <message key="positiveAnswerAction">kontynuuj</message>
+        <message key="negativeAnswerAction1">spróbuj jeszcze raz</message>
+        <message key="negativeAnswerTitle2">Znów błąd!</message>
+        <message key="negativeAnswerAction2">wybierz inne pytanie</message>
+        <message key="negativeAnswerDescription2">Zdarza się. Spróbuj wykonać inne zadanie — na pewno ci się uda!</message>
+        <message key="answersCountTitle">Twoje odpowiedzi</message>
+        <message key="answersPositiveCountTitle">prawidłowych</message>
+        <message key="answersNegativeCountTitle">błędnych</message>
+        <message key="answersLeftCountTitle">zostało</message>
+        
+		<!-- ERROR_MESSAGES -->
+		<message key="schoolAlreadyHaveVipTodayErrorMessage">Dziś udało ci się już zdobyć status VIP</message>
+        <message key="schoolHaveTwoStrikesErrorMessage">Dziś popełniono trzy błędy. Przyjdź jutro, aby zdobyć status VIP!</message>
+        
+		<message key="schoolDaiLyQuestionsLimitExeededErrorMessage">Dziś udzielono już odpowiedzi na maksymalną liczbę pytań</message>
+        <message key="schoolNoMoreCategoryQuestionsErrorMessage">W tej kategorii nie ma już dostępnych pytań</message>
+        <message key="schoolNoMoreCategoryDailyQuestionsErrorMessage">Dziś nie ma już w tej kategorii dostępnych pytań. Pozostała tylko kategoria :category:</message>
+        <message key="schoolNoSuchCategoryErrorMessage">Wybrano nieistniejącą kategorię</message>
+        <message key="schoolNoSuchQuestionErrorMessage">Wybrano nieistniejące pytanie</message>
+        <message key="schoolQuestionAlreadyAnsweredErrorMessage">Udzielono już odpowiedzi na to pytanie</message>
+        <message key="schoolQuestionWrongAnsweredErrorMessage">Udzielono nieprawidłowej odpowiedzi na to pytanie</message>
+		
+    </locale>
+	
+</dictionary>
