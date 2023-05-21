@@ -15,25 +15,25 @@
 					AvA-Tr
 				</span>
 
-				<div class="wrap-input100 validate-input m-b-20" data-validate="Kullanıcı ID Gir">
-					<input class="input100" type="text" name="login" placeholder="Kullanıcı ID">
+				<div class="wrap-input100 validate-input m-b-20" data-validate="Wprowadź ID użytkownika">
+					<input class="input100" type="text" name="login" placeholder="ID użytkownika">
 					<span class="focus-input100"></span>
 				</div>
 
-				<div class="wrap-input100 validate-input m-b-25" data-validate = "Şifreni Gir">
-					<input class="input100" type="password" name="password" placeholder="Şifre">
+				<div class="wrap-input100 validate-input m-b-25" data-validate = "Wprowadź hasło">
+					<input class="input100" type="password" name="password" placeholder="Hasło">
 					<span class="focus-input100"></span>
 				</div>
 
 				<div class="container-login100-form-btn">
 					<button class="login100-form-btn">
-						Giriş Yap
+						Zaloguj się
 					</button>
 				</div>
 				<br>
 				<div class="text-center">
 					<a href="/register" class="txt2 hov1">
-						Kayıt Ol
+						Zerejestruj się
 					</a>
 				</div>
 			</form>
@@ -41,11 +41,11 @@
 
 		</div>
 	</div>
-	{% else %}<input id="clickMe" type="button" value="Oyuna başla" onclick="start();"/>
-    <a style="display: none;" id="flash" href="https://get.adobe.com/flashplayer">Flash'ı etkinleştir.</a>
+	{% else %}<input id="clickMe" type="button" value="Uruchom grę" onclick="start();"/>
+    <a style="display: none;" id="flash" href="https://get.adobe.com/flashplayer">Włącz flasha.</a>
     <div id="flashContent"></div>
     <br>
-    <a href="/logout">Çıkış Yap</a>
+    <a href="/logout">Wyloguj się</a>
 	<script>
         function start(){
             document.getElementById('clickMe').style.display = "none";

@@ -71,10 +71,10 @@ async def logout(request):
 @routes.get("/register")
 async def register(request):
     if not registation:
-        return web.Response(text="Регистрация отключена")
+        return web.Response(text="Rejestracja jest wyłączona")
     uid, password = utils.bot_common.new_account(app["redis"])
-    return web.Response(text=f"Аккаунт создан, ваш логин - {uid}, "
-                             f"пароль - {password}")
+    return web.Response(text=f"Konto zostało utworzone, nazwa użytkownika - {uid}, "
+                             f"hasło - {password}")
 
 
 @routes.get("/prelogin")
@@ -133,7 +133,7 @@ async def main():
     aiohttp_jinja2.setup(app, loader=jinja2.FileSystemLoader("templates"))
     runner = web.AppRunner(app)
     await runner.setup()
-    site = web.TCPSite(runner, "0.0.0.0", int(config["webserver"]["web_port"]))
+    site = web.TCPSite(runner, "35.236.58.167", int(config["webserver"]["web_port"]))
     await site.start()
 
 

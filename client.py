@@ -50,7 +50,7 @@ class Client():
                     try:
                         self.server.process_data(final_data, self)
                     except Exception:
-                        logging.exception("Ошибка при обработке данных")
+                        logging.exception("Błąd w przetwarzaniu danych")
             if len(data) - data.pos > 0:
                 buffer = data.read(len(data) - data.pos)
         self._close_connection()

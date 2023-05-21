@@ -83,7 +83,7 @@ class Server():
         banned = self.redis.get(f"uid:{uid}:banned")
         if banned:
             ban_time = int(self.redis.get(f"uid:{uid}:ban_time"))
-            client.send([10, "User is banned",
+            client.send([10, "Użytkownik jest zablokowany",
                          {"duration": 999999, "banTime": ban_time,
                           "notes": "Опа бан", "reviewerId": banned,
                           "reasonId": 0, "unbanType": "none", "leftTime": 0,
@@ -203,7 +203,7 @@ class Server():
 
     def _background(self):
         while True:
-            logging.info(f"Players online: {len(self.online)}")
+            logging.info(f"Liczba graczy oline: {len(self.online)}")
             for uid in self.inv.copy():
                 inv = self.inv[uid]
                 if inv.expire and time.time() - inv.expire > 0:

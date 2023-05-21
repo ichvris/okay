@@ -32,10 +32,10 @@ async def main():
                                                         session)))
         await asyncio.wait(tasks)
     print("Processing config")
-    if "data/config_fb_tr.zip" not in versions:
-        print("Error - config_fb_tr.zip not found")
+    if "data/config_all_pl.zip" not in versions:
+        print("Error - config_all_pl.zip not found")
     else:
-        await process_config(versions["data/config_fb_tr.zip"])
+        await process_config(versions["data/config_all_pl.zip"])
     async with aiohttp.ClientSession() as session:
         for filename in ["pnz-city.swf", "pnz-city-container.swf"]:
             async with session.get(f"{download_url}app/{filename}") as resp:
@@ -67,11 +67,11 @@ async def main():
 
 
 async def process_config(version):
-    directory = "config_fb_tr"
+    directory = "config_all_pl"
     if os.path.exists(directory):
         shutil.rmtree(directory)
     os.makedirs(directory)
-    file = f"files/data/config_fb_tr_{version}.zip"
+    file = f"files/data/config_all_pl_{version}.zip"
     with zipfile.ZipFile(file, 'r') as zip_ref:
         zip_ref.extractall(directory)
     parser = etree.XMLParser(remove_comments=True)
@@ -139,19 +139,19 @@ async def process_config(version):
                                                                  session)))
             await asyncio.wait(tasks)
     shutil.copyfile("files/avacity_ru.xml",
-                    "config_fb_tr/translation/avacity_ru.xml")
-    z = zipfile.ZipFile("files/data/config_fb_tr.zip", mode="w")
+                    "config_all_pl/translation/avacity_ru.xml")
+    z = zipfile.ZipFile("files/data/config_all_pl.zip", mode="w")
     for root, dirs, files in os.walk(directory):
         for file in files:
             z.write(os.path.join(root, file),
                     arcname=os.path.join(root,
-                                         file).split("config_fb_tr/")[1])
+                                         file).split("config_all_pl/")[1])
     z.close()
-    with open("files/data/config_fb_tr.zip", mode="rb") as f:
+    with open("files/data/config_all_pl.zip", mode="rb") as f:
         hash_ = hashlib.md5(f.read()).hexdigest()
-    os.rename("files/data/config_fb_tr.zip",
-              f"files/data/config_fb_tr_{hash_}.zip")
-    versions["data/config_fb_tr.zip"] = hash_
+    os.rename("files/data/config_all_pl.zip",
+              f"files/data/config_all_pl_{hash_}.zip")
+    versions["data/config_all_pl.zip"] = hash_
     with open("files/versions.json", "w") as f:
         f.write(json.dumps(versions))
 

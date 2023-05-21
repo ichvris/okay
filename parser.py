@@ -14,7 +14,7 @@ class Parser():
                 gender = "boy"
             else:
                 gender = "girl"
-            doc = etree.parse("config_fb_tr/inventory/"+filename,
+            doc = etree.parse("config_all_pl/inventory/"+filename,
                               parser=self.parser)
             root = doc.getroot()
             for category in root.findall(".//category[@logCategory2]"):
@@ -38,7 +38,7 @@ class Parser():
         return tmp
 
     def parse_cloth_sets(self):
-        doc = etree.parse("config_fb_tr/inventory/extend/clothesSets.xml",
+        doc = etree.parse("config_all_pl/inventory/extend/clothesSets.xml",
                           parser=self.parser)
         root = doc.getroot()
         sets = {"boy": {}, "girl": {}}
@@ -54,7 +54,7 @@ class Parser():
         furniture = {}
         for filename in ["furniture.xml", "kitchen.xml", "bathroom.xml",
                          "decor.xml", "present.xml", "roomLayout.xml"]:
-            doc = etree.parse(f"config_fb_tr/inventory/{filename}",
+            doc = etree.parse(f"config_all_pl/inventory/{filename}",
                               parser=self.parser)
             root = doc.getroot()
             for item in root.findall(".//item"):
@@ -68,7 +68,7 @@ class Parser():
         return furniture
 
     def parse_conflicts(self):
-        doc = etree.parse("config_fb_tr/inventory/extend/clothesRules.xml",
+        doc = etree.parse("config_all_pl/inventory/extend/clothesRules.xml",
                           parser=self.parser)
         root = doc.getroot()
         conflicts = []
@@ -78,7 +78,7 @@ class Parser():
         return conflicts
 
     def parse_privileges(self):
-        doc = etree.parse("config_fb_tr/modules/acl.xml", parser=self.parser)
+        doc = etree.parse("config_all_pl/modules/acl.xml", parser=self.parser)
         root = doc.getroot()
         privileges = {}
         for item in root.findall(".//privilege"):
@@ -86,7 +86,7 @@ class Parser():
         return privileges
 
     def parse_game_items(self):
-        doc = etree.parse("config_fb_tr/inventory/game.xml",
+        doc = etree.parse("config_all_pl/inventory/game.xml",
                           parser=self.parser)
         root = doc.getroot()
         items = {}
@@ -106,7 +106,7 @@ class Parser():
         return items
 
     def parse_achievements(self):
-        doc = etree.parse("config_fb_tr/modules/achievements.xml",
+        doc = etree.parse("config_all_pl/modules/achievements.xml",
                           parser=self.parser)
         root = doc.getroot()
         ac = []
@@ -115,7 +115,7 @@ class Parser():
         return ac
 
     def parse_trophies(self):
-        doc = etree.parse("config_fb_tr/modules/trophies.xml",
+        doc = etree.parse("config_all_pl/modules/trophies.xml",
                           parser=self.parser)
         root = doc.getroot()
         tr = []
@@ -124,7 +124,7 @@ class Parser():
         return tr
 
     def parse_craft(self):
-        doc = etree.parse("config_fb_tr/modules/craft.xml",
+        doc = etree.parse("config_all_pl/modules/craft.xml",
                           parser=self.parser)
         root = doc.getroot()
         items = {}
@@ -141,7 +141,7 @@ class Parser():
         return items
 
     def parse_appearance(self):
-        doc = etree.parse("config_fb_tr/avatarAppearance/appearance.xml",
+        doc = etree.parse("config_all_pl/avatarAppearance/appearance.xml",
                           parser=self.parser)
         root = doc.getroot()
         apprnc = {"boy": {}, "girl": {}}
@@ -164,7 +164,7 @@ class Parser():
         return apprnc
 
     def parse_relations(self):
-        doc = etree.parse("config_fb_tr/modules/relations.xml",
+        doc = etree.parse("config_all_pl/modules/relations.xml",
                           parser=self.parser)
         root = doc.getroot()
         statuses = {}
@@ -182,7 +182,7 @@ class Parser():
         return statuses
 
     def parse_relation_progresses(self):
-        doc = etree.parse("config_fb_tr/modules/relations.xml")
+        doc = etree.parse("config_all_pl/modules/relations.xml")
         root = doc.getroot()
         progresses = {}
         tmp = root.find(".//progresses")
